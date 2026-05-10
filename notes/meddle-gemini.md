@@ -1,0 +1,1 @@
+Released in 1971, *Meddle* is the transitional masterpiece where Pink Floyd found their signature sound, anchored by the 23-minute epic "Echoes." It moves away from their psychedelic origins toward the structured, progressive brilliance that would define their 70s output.

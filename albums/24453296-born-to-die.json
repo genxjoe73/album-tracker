@@ -1,0 +1,338 @@
+{
+  "captured_at": "2026-05-10T20:02:25+00:00",
+  "schema_version": 3,
+  "artist": "Lana Del Rey",
+  "title": "Born To Die",
+  "original_release_year": 2012,
+  "pressing_year": 2012,
+  "upgrade_suggestion": "No audiophile pressing of Born to Die has been issued. The red opaque vinyl Masterdisk remaster you own is the only modern vinyl configuration. Original 2012 Interscope pressings exist but would predate any dedicated remastering effort.",
+  "commentary": "**Born to Die** is the debut album by Lana Del Rey, released in January 2012 on **Interscope Records**. It introduces her distinctive aesthetic: cinematic arrangements, sampled orchestral strings, nostalgic melodies, and lyrics preoccupied with Americana, romance, melancholy, and mortality. Songs like \"Video Games,\" \"National Anthem,\" and the title track became defining works of the 2010s, establishing her as a major voice in alternative pop. The album was initially released as a major-label debut under her stage name (she had recorded earlier material under other identities), and it went platinum in multiple territories, selling over 5 million copies worldwide.\n\nThis **red opaque vinyl reissue** was released by **Interscope / Polydor** on catalog **B0016425-01** (barcode **602577673771**). The pressing includes a **lyric sheet with photo** on the reverse. The exact year of this pressing is not specified on Discogs, though the catalog structure and pressing plant suggest a reissue from the 2010s rather than original 2012 material.\n\n**MRP2259** is the **mastering code** assigned by **Masterdisk** — the renowned New York mastering facility that has handled thousands of major-label releases across genres. The matrix **199787E1/A1** indicates a mid-series lacquer cut. **SH A18** and **SH B27** are additional stamper or QC designations.\n\n**About this red vinyl reissue (LP, red opaque vinyl):** Interscope / Polydor catalog **B0016425-01** (barcode **602577673771**), red opaque vinyl. Mastered by **Masterdisk** (code `MRP2259`). Deadwax: `199787E1/A1 MRP2259 / B001642501-A MASTERDISK` / `B0016425-01 A 602527950891 A SH A18`. Includes lyric sheet with photo.\n\n### Gemini Notes\n\nReleased in 2012, *Born to Die* introduced Lana Del Rey's cinematic, sad-core pop aesthetic to the mainstream. Blending sweeping orchestral arrangements with hip-hop beats and vintage Americana imagery, the album proved hugely influential on the decade's pop landscape.\n\n**About this pressing:**",
+  "discogs": {
+    "release_id": 24453296,
+    "master_id": null,
+    "uri": "https://www.discogs.com/release/24453296-Lana-Del-Rey-Born-To-Die",
+    "title": "Born To Die",
+    "artists": [
+      {
+        "name": "Lana Del Rey",
+        "id": 2445772,
+        "role": null
+      }
+    ],
+    "year": 0,
+    "released": null,
+    "country": "US",
+    "labels": [
+      {
+        "name": "Interscope Records",
+        "catno": "B0016425-01",
+        "id": 2311
+      },
+      {
+        "name": "Polydor",
+        "catno": "B0016425-01",
+        "id": 1610
+      }
+    ],
+    "formats": [
+      {
+        "name": "Vinyl",
+        "qty": "1",
+        "descriptions": [
+          "LP",
+          "Album",
+          "Reissue"
+        ],
+        "text": "Red Opaque Vinyl"
+      }
+    ],
+    "genres": [
+      "Rock",
+      "Pop"
+    ],
+    "styles": [
+      "Dream Pop",
+      "Indie Pop",
+      "Trip Hop"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Born To Die",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "A2",
+        "title": "Off To The Races",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "A3",
+        "title": "Blue Jeans",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "A4",
+        "title": "Video Games",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "A5",
+        "title": "Diet Mountain Dew",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "A6",
+        "title": "National Anthem",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B1",
+        "title": "Dark Paradise",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B2",
+        "title": "Radio",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B3",
+        "title": "Carmen",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B4",
+        "title": "Million Dollar Man",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B5",
+        "title": "Summertime Sadness",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B6",
+        "title": "This Is What Makes Us Girls",
+        "duration": "",
+        "type": "track"
+      }
+    ],
+    "extraartists": [
+      {
+        "name": "John Davis (4)",
+        "role": "Mastered By",
+        "id": 366507
+      },
+      {
+        "name": "Scott Hull (2)",
+        "role": "Mastered By",
+        "id": 360567
+      },
+      {
+        "name": "Emile Haynie",
+        "role": "Producer [Album]",
+        "id": 1135338
+      },
+      {
+        "name": "Lana Del Rey",
+        "role": "Vocals",
+        "id": 2445772
+      }
+    ],
+    "identifiers": [
+      {
+        "type": "Barcode",
+        "value": "6 02577 67377 1",
+        "description": "Text"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "199787E1/A1 MRP2259 / B001642501-A MASTERDISK",
+        "description": "Side A stamped"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "B0016425-01 A 602527950891 A SH A18",
+        "description": "Side A etched"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "199787E2/A1 MRP2259 / B001642501-B MASTERDISK ",
+        "description": "Side B stamped"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "B0016425-01 B 602527950891 B SH B27",
+        "description": "Side B etched"
+      }
+    ],
+    "notes": "Includes lyric sheet with photo on other side.",
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/sJvIDre96yh86-nejb6F6cSb76wEaEA5rvloV_QHifI/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDUz/Mjk2LTE2NjI2NTYz/MjktODY0Ni5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/Sm6KE94p6DzMwErPx-Zh6QEvyHavOBKnnwqs1IJuXZ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDUz/Mjk2LTE2NjI2NTYz/MjktODY0Ni5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/f5aWSiuSMkSFtBDi1ePrQMsV4t6YCUQ3ZQRpdlfSIKI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDUz/Mjk2LTE2NjI2NTYz/MjktMTQwOS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/ajlp0R8xtv4-iK0jhB9J3X_q2qppziGw8GRuecIpes8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDUz/Mjk2LTE2NjI2NTYz/MjktMTQwOS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/D67K-7Q840VqKywl9X2u3D7WtpBH3FSx2ChWLykuh8o/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDUz/Mjk2LTE2NjI2NTYz/MzMtODEwOS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/guo9yvRzb29bKSlYkJKuE9rpTEdjFM-S2qqS3ES9aPs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDUz/Mjk2LTE2NjI2NTYz/MzMtODEwOS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/LTkxIWbAlWWC2QfupbjYiOJnTq_pRq8ppE1IsCTKwxY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDUz/Mjk2LTE2NjI2NTYz/MzMtNDc2Mi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/MQTYSfCW6smf4gbFxn6wnF1X41yUVZ70GI5mYyXK8Ng/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDUz/Mjk2LTE2NjI2NTYz/MzMtNDc2Mi5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/mH9QsmlzKTfz27Cnk4XS3tzsL4-SeG1j9aCxOyyQf4I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDUz/Mjk2LTE2NjI2NTYz/MzEtODk4My5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/_Dyiw692LiFN7BU0eT_fQkAvtG1mIfWkgZdNqQmPV3c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDUz/Mjk2LTE2NjI2NTYz/MzEtODk4My5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/hq1DuAsgzJ_DlFcBlL_quKg-OsdM6sBuVXbdyUmRp6A/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDUz/Mjk2LTE2NjI2NTYz/MjgtNTgyMy5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/0Rixzdvl3WX5ODa5g45mBttW4dInNZ1ALLlciD5MxMA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDUz/Mjk2LTE2NjI2NTYz/MjgtNTgyMy5qcGVn.jpeg"
+      }
+    ],
+    "community": {
+      "rating": {
+        "count": 15,
+        "average": 4.6
+      },
+      "have": 947,
+      "want": 87
+    },
+    "master": null
+  },
+  "apple_music": {
+    "id": 1779781213,
+    "url": "https://music.apple.com/us/album/born-to-die/1779781213?uo=4",
+    "name": "Born To Die",
+    "artist": "Lana Del Rey",
+    "artist_id": 464296584,
+    "artwork_url_100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/59/10/66/591066ea-3c85-3dfe-ef82-ffdbbcdfc8b9/12UMGIM00033.rgb.jpg/100x100bb.jpg",
+    "artwork_url_600": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/59/10/66/591066ea-3c85-3dfe-ef82-ffdbbcdfc8b9/12UMGIM00033.rgb.jpg/600x600bb.jpg",
+    "release_date": "2012-01-27T08:00:00Z",
+    "track_count": 12,
+    "copyright": "℗ 2012 Lana Del Rey, under exclusive licence to Polydor Ltd. (UK). Under exclusive licence to Interscope Records in the USA",
+    "primary_genre": "Alternative",
+    "country": "USA",
+    "tracks": [
+      {
+        "track_number": 1,
+        "disc_number": 1,
+        "name": "Born To Die",
+        "duration_ms": 286254,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/86/d1/8b/86d18b90-1efa-2543-5b36-2958fc055d5f/mzaf_13389520815810612191.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/born-to-die/1779781213?i=1779781768&uo=4"
+      },
+      {
+        "track_number": 2,
+        "disc_number": 1,
+        "name": "Off To The Races",
+        "duration_ms": 299934,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/17/82/42/17824293-e652-be85-e0e5-2fad511d6957/mzaf_13609843145809502243.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/off-to-the-races/1779781213?i=1779781776&uo=4"
+      },
+      {
+        "track_number": 3,
+        "disc_number": 1,
+        "name": "Blue Jeans",
+        "duration_ms": 211187,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/5b/d6/e7/5bd6e7b1-77f1-189f-52d6-ff4fc4b52a56/mzaf_4532656931262352677.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/blue-jeans/1779781213?i=1779781781&uo=4"
+      },
+      {
+        "track_number": 4,
+        "disc_number": 1,
+        "name": "Video Games",
+        "duration_ms": 281947,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/47/26/17/472617f8-9b82-7cc8-8b52-fee8e767174d/mzaf_11594634014908206633.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/video-games/1779781213?i=1779781782&uo=4"
+      },
+      {
+        "track_number": 5,
+        "disc_number": 1,
+        "name": "Diet Mountain Dew",
+        "duration_ms": 222920,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/59/1e/c4/591ec4e7-b60f-9da0-18fe-0041871ead2a/mzaf_6890823786587328713.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/diet-mountain-dew/1779781213?i=1779781783&uo=4"
+      },
+      {
+        "track_number": 6,
+        "disc_number": 1,
+        "name": "National Anthem",
+        "duration_ms": 230534,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ea/d3/be/ead3bec3-904f-aa95-a96c-da21f691f6a9/mzaf_471108887692175262.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/national-anthem/1779781213?i=1779781785&uo=4"
+      },
+      {
+        "track_number": 7,
+        "disc_number": 1,
+        "name": "Dark Paradise",
+        "duration_ms": 243174,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d8/c1/53/d8c153cd-27ea-a5e0-61b7-a5841e43c763/mzaf_11824846900649342300.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/dark-paradise/1779781213?i=1779781788&uo=4"
+      },
+      {
+        "track_number": 8,
+        "disc_number": 1,
+        "name": "Radio",
+        "duration_ms": 214465,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/94/38/06/943806c8-9801-868a-5b8e-89cc7010d074/mzaf_15180951639967959828.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/radio/1779781213?i=1779782000&uo=4"
+      },
+      {
+        "track_number": 9,
+        "disc_number": 1,
+        "name": "Carmen",
+        "duration_ms": 248720,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/eb/eb/f0/ebebf07e-f05c-17d4-ed1f-0c5663ea4aec/mzaf_14430697596467792066.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/carmen/1779781213?i=1779782007&uo=4"
+      },
+      {
+        "track_number": 10,
+        "disc_number": 1,
+        "name": "Million Dollar Man",
+        "duration_ms": 231560,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/67/25/41/672541e0-7140-4298-da1e-8cb070289688/mzaf_14287096548842257282.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/million-dollar-man/1779781213?i=1779782013&uo=4"
+      },
+      {
+        "track_number": 11,
+        "disc_number": 1,
+        "name": "Summertime Sadness",
+        "duration_ms": 265427,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/3b/90/58/3b9058c1-f70e-3f4f-4323-cbddebd4edb1/mzaf_12686577714897634552.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/summertime-sadness/1779781213?i=1779782021&uo=4"
+      },
+      {
+        "track_number": 12,
+        "disc_number": 1,
+        "name": "This Is What Makes Us Girls",
+        "duration_ms": 240307,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c4/71/3c/c4713c7c-bfba-18bb-8879-456fd3628819/mzaf_3428149187177242469.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/this-is-what-makes-us-girls/1779781213?i=1779782025&uo=4"
+      }
+    ]
+  },
+  "discrepancies": [],
+  "local_cover": "images/24453296.jpg"
+}

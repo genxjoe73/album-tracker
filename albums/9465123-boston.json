@@ -1,0 +1,242 @@
+{
+  "captured_at": "2026-05-10T17:41:59+00:00",
+  "schema_version": 3,
+  "artist": "Boston",
+  "title": "Boston",
+  "original_release_year": 1976,
+  "pressing_year": 2016,
+  "upgrade_suggestion": "This is a picture disc, which carries inherent sonic limitations (higher surface noise, reduced dynamic range) relative to standard black vinyl. The standard black vinyl 40th Anniversary pressing shares the same catalog configuration. For best sonics, an original 1976 Epic pressing (r502621 or similar, CBS/Epic label) cut at CBS Studios is generally preferred by collectors — the original lacquers were cut close to the source tape.",
+  "commentary": "**Boston** is the debut album by the band of the same name, released on **Epic Records** in August 1976. It was recorded largely in guitarist and founder **Tom Scholz**'s basement studio in Watertown, Massachusetts, with Scholz engineering and producing most of the material himself before Epic financed formal sessions at Capitol Studios in Hollywood to satisfy label requirements. The album introduced a dense, layered guitar sound — multiple tracked guitar parts processed through Scholz's custom-built gear — and a glossy, highly produced rock aesthetic that was unusual for the mid-1970s. \"More Than a Feeling,\" \"Peace of Mind,\" \"Foreplay/Long Time,\" and \"Smokin'\" became AOR staples. *Boston* went on to sell over 17 million copies in the US alone, making it one of the best-selling debut albums in American recording history.\n\nThe **2016 pressing** was issued by **Legacy Recordings** — Columbia/Sony's catalog reissue division — to mark the album's **40th anniversary**. It was released as a **180-gram picture disc**, with the album artwork printed through the vinyl rather than applied as a paper label. Picture discs sacrifice some sonic performance relative to standard black vinyl: the absence of a uniform PVC compound and the presence of a printed layer between the two vinyl faces tends to produce higher surface noise and slightly reduced dynamic range. For a collector-oriented commemorative edition of a classic rock title, these trade-offs are generally accepted, and the visual presentation is the primary appeal.\n\nThe **`GA` plant code** in the deadwax identifies the **Carrollton, Georgia** pressing plant, which operated under various names and ownership structures — originally a Columbia facility, later associated with Sony and Universal Music's manufacturing network. Carrollton was a major domestic pressing operation for Legacy and Sony catalog titles during this period. The matrix **`26702.1(2)`** is the internal cutting number, with the `(2)` indicating Side 2. **`RE`** on the label is the standard reissue designation used by Legacy/Epic on commemorative pressings to distinguish them from original pressings.\n\n**About this 2016 US pressing (LP, 180g, picture disc):** Legacy / Epic catalog **5355471** (barcode **889853555471**), manufactured at **Carrollton, Georgia** (`GA` deadwax), matrix `26702.1`. **180-gram picture disc**, 40th Anniversary edition. `RE` reissue designation on label.\n\n### Gemini Notes\n\nReleased in 1976, Boston's self-titled debut is a masterclass in arena rock. Masterminded by Tom Scholz in his basement studio, the album's dense layers of overdubbed guitars and soaring vocals set a new standard for rock production.\n\n**About this pressing:**",
+  "discogs": {
+    "release_id": 9465123,
+    "master_id": 59355,
+    "uri": "https://www.discogs.com/release/9465123-Boston-Boston",
+    "title": "Boston",
+    "artists": [
+      {
+        "name": "Boston",
+        "id": 113020,
+        "role": null
+      }
+    ],
+    "year": 2016,
+    "released": "2016-12-02",
+    "country": "US",
+    "labels": [
+      {
+        "name": "Legacy",
+        "catno": "5355471",
+        "id": 15491
+      },
+      {
+        "name": "Epic",
+        "catno": "none",
+        "id": 1005
+      }
+    ],
+    "formats": [
+      {
+        "name": "Vinyl",
+        "qty": "1",
+        "descriptions": [
+          "LP",
+          "Album",
+          "Picture Disc",
+          "Reissue",
+          "Special Edition"
+        ],
+        "text": null
+      }
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Hard Rock",
+      "Pop Rock",
+      "Arena Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "More Than A Feeling",
+        "duration": "4:44",
+        "type": "track"
+      },
+      {
+        "position": "A2",
+        "title": "Peace Of Mind",
+        "duration": "4:55",
+        "type": "track"
+      },
+      {
+        "position": "A3",
+        "title": "Foreplay/Long Time",
+        "duration": "7:56",
+        "type": "track"
+      },
+      {
+        "position": "B1",
+        "title": "Rock & Roll Band",
+        "duration": "2:59",
+        "type": "track"
+      },
+      {
+        "position": "B2",
+        "title": "Smokin'",
+        "duration": "4:44",
+        "type": "track"
+      },
+      {
+        "position": "B3",
+        "title": "Hitch A Ride",
+        "duration": "3:18",
+        "type": "track"
+      },
+      {
+        "position": "B4",
+        "title": "Something About You",
+        "duration": "4:19",
+        "type": "track"
+      },
+      {
+        "position": "B5",
+        "title": "Let Me Take You Home Tonight",
+        "duration": "4:12",
+        "type": "track"
+      }
+    ],
+    "extraartists": [],
+    "identifiers": [
+      {
+        "type": "Barcode",
+        "value": "8 89853 55471 3",
+        "description": null
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": " 88985355471-A RE RS 26702.1 (2)...",
+        "description": "Side A runout"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "88985355471-B 26561.2 (2)...",
+        "description": "Side B runout"
+      }
+    ],
+    "notes": "Legacy Celebrates 40th Anniversary edition 180 gram picture disc",
+    "images": [
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/70SzLoiR18u1Fu7Mm7NnMwN0Pk7tMKaCQvdmtUds7Wg/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NjUx/MjMtMTQ4MTA0NTAw/MS05NzU0LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/vtnGuX30BWnCzdI5gAXCB7FIx3VkDqiZXyTpNbZKXR8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NjUx/MjMtMTQ4MTA0NTAw/MS05NzU0LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/kskvWIBl4P5vYaIi230GJwZ1e3YC507Z7MO8LZ6qJ78/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NjUx/MjMtMTQ4MTA0NTAw/Ni0xODgxLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/b54d7jDRjrB7DBGnvGQCRR0blw8cP21-b8B2DNcYpLY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NjUx/MjMtMTQ4MTA0NTAw/Ni0xODgxLmpwZWc.jpeg"
+      }
+    ],
+    "community": {
+      "rating": {
+        "count": 162,
+        "average": 4.62
+      },
+      "have": 2035,
+      "want": 362
+    },
+    "master": {
+      "id": 59355,
+      "title": "Boston",
+      "main_release": 13125386,
+      "year": 1976,
+      "uri": "https://www.discogs.com/master/59355-Boston-Boston",
+      "num_for_sale": 2496
+    }
+  },
+  "apple_music": {
+    "id": 913902091,
+    "url": "https://music.apple.com/us/album/boston/913902091?uo=4",
+    "name": "Boston",
+    "artist": "Boston",
+    "artist_id": 60960,
+    "artwork_url_100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e3/08/9a/e3089ac9-a820-5ee9-64be-39500ad8a5e2/886444824972.jpg/100x100bb.jpg",
+    "artwork_url_600": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e3/08/9a/e3089ac9-a820-5ee9-64be-39500ad8a5e2/886444824972.jpg/600x600bb.jpg",
+    "release_date": "1976-08-25T07:00:00Z",
+    "track_count": 8,
+    "copyright": "℗ 1976, 2006 Epic Records, a division of Sony Music Entertainment",
+    "primary_genre": "Rock",
+    "country": "USA",
+    "tracks": [
+      {
+        "track_number": 1,
+        "disc_number": 1,
+        "name": "More Than a Feeling",
+        "duration_ms": 285133,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/a9/8a/47/a98a4799-aab6-5c88-f7fe-16177ef1dbee/mzaf_17159634430799833374.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/more-than-a-feeling/913902091?i=913902137&uo=4"
+      },
+      {
+        "track_number": 2,
+        "disc_number": 1,
+        "name": "Peace of Mind",
+        "duration_ms": 303587,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/95/17/41/951741b0-8f86-0e43-f832-2e7bd05b9ec9/mzaf_1072555438857215849.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/peace-of-mind/913902091?i=913902141&uo=4"
+      },
+      {
+        "track_number": 3,
+        "disc_number": 1,
+        "name": "Foreplay / Long Time",
+        "duration_ms": 467640,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/a9/0e/5f/a90e5fc6-8e5b-ffd9-f690-e6a8cbb16f43/mzaf_17784998177790688989.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/foreplay-long-time/913902091?i=913902278&uo=4"
+      },
+      {
+        "track_number": 4,
+        "disc_number": 1,
+        "name": "Rock & Roll Band",
+        "duration_ms": 180347,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/a3/d2/b1/a3d2b113-df08-610a-ea89-b432c61d1d0c/mzaf_4290673632281794358.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/rock-roll-band/913902091?i=913902280&uo=4"
+      },
+      {
+        "track_number": 5,
+        "disc_number": 1,
+        "name": "Smokin'",
+        "duration_ms": 261387,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/93/66/2a/93662ae4-475a-eb3e-80dd-ecb2a9b3d2e2/mzaf_5331389247485614541.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/smokin/913902091?i=913902377&uo=4"
+      },
+      {
+        "track_number": 6,
+        "disc_number": 1,
+        "name": "Hitch a Ride",
+        "duration_ms": 251733,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/6b/af/19/6baf19b4-e6d6-f707-1b0d-56f70b38ddd9/mzaf_9427179844312065258.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/hitch-a-ride/913902091?i=913902458&uo=4"
+      },
+      {
+        "track_number": 7,
+        "disc_number": 1,
+        "name": "Something About You",
+        "duration_ms": 227907,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/f6/07/16/f6071609-75eb-e7f4-ba29-15baed61e3d2/mzaf_10343305077478051812.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/something-about-you/913902091?i=913902465&uo=4"
+      },
+      {
+        "track_number": 8,
+        "disc_number": 1,
+        "name": "Let Me Take You Home Tonight",
+        "duration_ms": 286680,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/23/ee/38/23ee38a1-be71-a9f7-dcd7-948c24bfa7a3/mzaf_14390695884524583140.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/let-me-take-you-home-tonight/913902091?i=913902467&uo=4"
+      }
+    ]
+  },
+  "discrepancies": [
+    "Total runtime differs by 33s (Discogs=2227s, Apple Music=2260s) — likely a different master/remaster.",
+    "Release year differs: your pressing=2016, Apple Music edition=1976. Apple Music typically streams the most recent remaster."
+  ],
+  "local_cover": "images/9465123.jpg"
+}

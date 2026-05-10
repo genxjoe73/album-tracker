@@ -1,0 +1,1 @@
+Released in 2015, *How Can It Be* is the debut studio album by contemporary Christian music artist Lauren Daigle. The album was a massive commercial and critical success, winning a Billboard Music Award and earning a Grammy nomination. Its soulful pop sensibilities and Daigle's powerful, smoky vocals drew comparisons to Adele, bridging the gap between CCM and mainstream pop.

@@ -1,0 +1,4 @@
+Released in September 1975, *Wish You Were Here* is Pink Floyd’s elegiac tribute to their absent founder, Syd Barrett, and a biting critique of the music industry. The album is framed by the epic nine-part suite "Shine On You Crazy Diamond," which bookends three shorter tracks. It features some of David Gilmour’s most emotive guitar work and Richard Wright’s most prominent synthesizer contributions. 
+
+**About this pressing:**
+This is the 2016 Pink Floyd Records reissue, pressed on 180-gram heavyweight vinyl. Remastered from the original analogue tapes by James Guthrie, Joel Plante, and Bernie Grundman, it is widely considered one of the best-sounding modern accessible pressings of this legendary album.

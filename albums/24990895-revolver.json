@@ -1,0 +1,390 @@
+{
+  "captured_at": "2026-05-10T16:40:22+00:00",
+  "schema_version": 3,
+  "artist": "The Beatles",
+  "title": "Revolver ",
+  "original_release_year": 1966,
+  "pressing_year": 2022,
+  "upgrade_suggestion": "Your 2022 half-speed pressing by Miles Showell is already the definitive vinyl configuration for Revolver — mastered from the Giles Martin / Sam Okell 2022 remix at Abbey Road. No superior pressing exists.",
+  "commentary": "Revolver was recorded between April and June 1966 at Abbey Road Studios, with George Martin producing and Geoff Emerick — then just nineteen years old — serving as chief engineer. The album represents the sharpest single-album leap in the Beatles' catalog: where Beatles For Sale and Help! had still drawn heavily on touring-band energy and American R&B influences, Revolver was almost entirely a studio artifact, conceived and realized in ways that could not be reproduced on a stage. The Beatles had announced their retirement from live performance mid-production, and the freedom that came with that decision is audible throughout. **Automatic Double Tracking (ADT)**, invented by Emerick and technical engineer Ken Townsend specifically for this project, allowed Lennon to double his vocals without singing twice — the slight phase drift between the two tape passes creates the blurred, slightly uneasy quality that runs through \"Tomorrow Never Knows\" and \"I'm Only Sleeping.\" That closing track also features tape loops assembled by the band members at home and played back simultaneously on multiple machines in the studio, giving the track its smeared, cyclical texture. Backwards guitar appears on \"I'm Only Sleeping,\" and Harrison's immersion in Indian classical music surfaces throughout \"Love You To\" with sitar and tabla integrated structurally rather than decoratively. \"Eleanor Rigby\" dispensed with the band almost entirely, built around a George Martin double-string-quartet arrangement. By the time the album was finished, the Beatles had effectively made live performance obsolete as a creative constraint, and everything that followed — Sgt. Pepper's, the White Album, Abbey Road — flows directly from what was worked out here.\n\nThe 2022 reissue is built around a new stereo remix produced by **Giles Martin**, son of George Martin, in collaboration with Sam Okell. The remix draws on the original four-track and eight-track session tapes, but its most significant technical development is the use of **MAL (Machine Auditory Learning)**, a stem-separation tool developed by WingNut Films' audio team for Peter Jackson's Get Back documentary. MAL uses machine-learning analysis to isolate individual instruments and voices from combined recordings that were never intended to be separated — a necessary approach given that Revolver was tracked in an era when instruments were routinely bounced together to a single track to free up tape channels. The remix clarifies the low end of \"Got to Get You into My Life,\" gives \"Here, There and Everywhere\" a more intimate vocal presence, and opens up the stereo field of \"Eleanor Rigby\" in ways the original narrow-spread 1966 stereo could not accommodate. Collectors have responded with genuine division. Those who regard the original mono mix — overseen by the Beatles themselves and George Martin — as the definitive text find the new version too clean and too spatially resolved. Others note that the remix reveals detail in the ensemble performances that the dense original bounces had buried. Both positions have merit. The 2022 remix is best understood as a distinct creative document rather than a correction of the original.\n\n**Half-speed mastering** is a lacquer-cutting technique in which the record lathe runs at exactly half of its playback speed — 16⅔ RPM for a standard 33⅓ RPM LP — while the source audio plays back at that same reduced speed. Because the cutting stylus is traveling through the lacquer at half pace, it has twice as much time to trace high-frequency information into the groove wall. This matters because HF content is where conventional mastering most often loses resolution: the cutting stylus physically cannot respond quickly enough to reproduce very high frequencies at full cutting speed without distortion or attenuation. Running the lathe at half speed effectively doubles the stylus's available response time, yielding better HF definition, tighter transient reproduction, and a wider and more stable stereo image. **Miles Showell** has been Abbey Road's primary half-speed practitioner for over a decade and is among the most experienced cutters working in this format. His approach tends toward accuracy and restraint — not a heavy EQ cutter — and his half-speed work on Abbey Road's catalogue reissues has a consistent quality of openness in the high midrange and a well-controlled low end. The deadwax inscriptions on this pressing — `Miles. ABBEY ROAD 1/2 SPEED. ROOM 30` on both sides — confirm that Showell cut these lacquers himself in Room 30, Abbey Road's dedicated mastering suite.\n\n**About this 2022 USA & Canada pressing (LP):** Apple Records / Parlophone catalog **4559969**, USA & Canada market. Shares lacquers with the worldwide release (r24974356, catno 0602445599691) — the distinction is a market and distribution designation rather than a mastering one. Both are sourced from the same Miles Showell half-speed cuts with identical deadwax matrix codes: Side A `247583E1`, Side B `245165E2`, both inscribed `Miles. ABBEY ROAD 1/2 SPEED. ROOM 30`. Standard black vinyl.\n\n### Gemini Notes\n\nReleased in August 1966, *Revolver* marks a monumental turning point in The Beatles' evolution, as they fully abandoned their mop-top pop origins in favor of studio experimentation and psychedelic rock. Working heavily with producer George Martin and engineer Geoff Emerick at Abbey Road, the band pioneered techniques like tape loops, reversed instrumentation, and artificial double-tracking. Tracks like \"Tomorrow Never Knows\" and \"Eleanor Rigby\" expanded the boundaries of what popular music could be.\n\n**About this pressing:**\n*Deadwax TBD — check runouts for mastering engineers or pressing plant symbols. Update this section once details are logged.*",
+  "discogs": {
+    "release_id": 24990895,
+    "master_id": 45284,
+    "uri": "https://www.discogs.com/release/24990895-The-Beatles-Revolver-",
+    "title": "Revolver ",
+    "artists": [
+      {
+        "name": "The Beatles",
+        "id": 82730,
+        "role": null
+      }
+    ],
+    "year": 2022,
+    "released": "2022-10-28",
+    "country": "USA & Canada",
+    "labels": [
+      {
+        "name": "Apple Records",
+        "catno": "4559969",
+        "id": 25693
+      },
+      {
+        "name": "Parlophone",
+        "catno": "PCS 7009",
+        "id": 2294
+      },
+      {
+        "name": "Capitol Records",
+        "catno": "4559969",
+        "id": 654
+      },
+      {
+        "name": "UMe",
+        "catno": "4559969",
+        "id": 68029
+      }
+    ],
+    "formats": [
+      {
+        "name": "Vinyl",
+        "qty": "1",
+        "descriptions": [
+          "LP",
+          "Album",
+          "Reissue",
+          "Stereo"
+        ],
+        "text": "Remixed"
+      }
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Pop Rock",
+      "Experimental",
+      "Psychedelic Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Taxman",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "A2",
+        "title": "Eleanor Rigby",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "A3",
+        "title": "I’m Only Sleeping",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "A4",
+        "title": "Love You To ",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "A5",
+        "title": "Here, There And Everywhere",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "A6",
+        "title": "Yellow Submarine",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "A7",
+        "title": "She Said She Said",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B1",
+        "title": "Good Day Sunshine",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B2",
+        "title": "And Your Bird Can Sing",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B3",
+        "title": "For No One ",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B4",
+        "title": "Doctor Robert",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B5",
+        "title": "I Want To Tell You",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B6",
+        "title": "Got To Get You Into My Life ",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B7",
+        "title": "Tomorrow Never Knows",
+        "duration": "",
+        "type": "track"
+      }
+    ],
+    "extraartists": [
+      {
+        "name": "Klaus Voormann",
+        "role": "Cover",
+        "id": 114969
+      },
+      {
+        "name": "Giles Martin",
+        "role": "Mixed By [New Stereo Mix]",
+        "id": 375987
+      },
+      {
+        "name": "Sam OKell",
+        "role": "Mixed By [New Stereo Mix]",
+        "id": 682308
+      },
+      {
+        "name": "Robert Whitaker",
+        "role": "Photography By",
+        "id": 1835985
+      }
+    ],
+    "identifiers": [
+      {
+        "type": "Barcode",
+        "value": "6 0244559969 1",
+        "description": "Printed on hype sticker"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "247583E1 1349773 0602445599530•A MILES. ABBEY ROAD 1/2 SPEED. ROOM 30",
+        "description": "Side 1 Variant 1"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "245165E2 1346698 0602445599530-B MILES. ABBEY ROAD 1/2 SPEED. ROOM 30",
+        "description": "Side 2 Variant 1"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "247583E1 1323525 0602445599530•A MILES. ABBEY ROAD 1/2 SPEED. ROOM 30",
+        "description": "Side 1 Variant 2"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "245165E2 1320264 0602445599530-B MILES. ABBEY ROAD 1/2 SPEED. ROOM 30",
+        "description": "Side 2 Variant 2"
+      }
+    ],
+    "notes": "A Capitol Records release; Originally released in 1966 on Capitol Records.\n© 2022 Calderstone Productions Limited (a division of Universal Music\nGroup) / Apple Corps Limited. Distributed by Capitol Records. 1750 N.\nVine Street, Hollywood, CA 90028 - U.S.A. All rights reserved. 4559969\nArtwork © Apple Corps Limited. 'Beatles' is a trademark of Apple Corps\nLimited. 'Apple' and the Apple logo are exclusively licensed to\nApple Corps Limited.\n\n“MADE IN CANADA” printed on shrink wrap on back cover.\n\nMatrix Info Numbers are Stamped, MILES. ABBEY ROAD 1/2 SPEED. ROOM 30 is Etched\n",
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/QIhyphCTJL0GUwKqrs8pblGpSNYQ4RF9ODCNHmxTjBQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTkw/ODk1LTE3NTY5OTY1/MTEtNTY5Ni5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/GFBf5rOZqcrZwYdsEvwGhFWuOyAFB7dEyHbstBidskg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTkw/ODk1LTE3NTY5OTY1/MTEtNTY5Ni5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/cSQMontIe5v9uVYDjGq7OcQ4DPW9ZaQ9UjeAZ0i7cc8/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTkw/ODk1LTE2NjcwOTc2/NjAtMjMzMS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/TnZ8HJ-be9UW7sjJy4aQ2GoZuwGQY94ezzMQV2PuCUk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTkw/ODk1LTE2NjcwOTc2/NjAtMjMzMS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/IJqNrdgfbO24TKepETwMkyBKeqDln7nUf94E8Lm4cDk/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTkw/ODk1LTE2NjcwOTc2/NjAtNDQ1NS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/lsgYkYppxeAE1ZFZx7PDw5Du9WubD10KhpIz59O2vCY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTkw/ODk1LTE2NjcwOTc2/NjAtNDQ1NS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/CNedENIrpe3pw2qA5DaW8pfFOQFq_bWV6-WPnojIq7M/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTkw/ODk1LTE2NjcwOTc2/NjItNDQ3NC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/BpdXhLH5QfXNLF7qcTX2Vm0JPfT6ovsub9XdK18SZew/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTkw/ODk1LTE2NjcwOTc2/NjItNDQ3NC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/TlIIYUBEo-NdaPjdikrBebydwuhkG_obCoVcteMlIT0/rs:fit/g:sm/q:90/h:600/w:479/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTkw/ODk1LTE2NjcwOTc2/NjItMjU0NC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/xE9iAW26t6CW1E7Yq6KkEl9zoDoXB4XGTnsTaY0rtn0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTkw/ODk1LTE2NjcwOTc2/NjItMjU0NC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/V2e_pFxuuq3vH1y1C8t1BInykiv1E9R4LTuhp2YnEFU/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTkw/ODk1LTE2NjczNDQ4/NTEtMzA0NC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/xsaw4U1FkAf0MZ2P4X_HQ6TbGXN21s9dYoEoPMjnuAs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTkw/ODk1LTE2NjczNDQ4/NTEtMzA0NC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/9dzbEoxiKN3kFHRanjhvS8EaXcWc9GGBhfO-raKxnzQ/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTkw/ODk1LTE2NjczNDQ4/ODEtNTUyMy5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/L3-YdqREsLfUCCSuP2DCQ3XqfzCiu_gIby6m87zwJAI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTkw/ODk1LTE2NjczNDQ4/ODEtNTUyMy5qcGVn.jpeg"
+      }
+    ],
+    "community": {
+      "rating": {
+        "count": 197,
+        "average": 4.71
+      },
+      "have": 2433,
+      "want": 495
+    },
+    "master": {
+      "id": 45284,
+      "title": "Revolver",
+      "main_release": 2318045,
+      "year": 1966,
+      "uri": "https://www.discogs.com/master/45284-The-Beatles-Revolver",
+      "num_for_sale": 5746
+    }
+  },
+  "apple_music": {
+    "id": 1642995371,
+    "url": "https://music.apple.com/us/album/revolver-2022-mix/1642995371?uo=4",
+    "name": "Revolver (2022 Mix)",
+    "artist": "The Beatles",
+    "artist_id": 136975,
+    "artwork_url_100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/97/f4/3a/97f43ab4-9fdf-7a41-e430-7c6c313f3883/13UMGIM63887.rgb.jpg/100x100bb.jpg",
+    "artwork_url_600": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/97/f4/3a/97f43ab4-9fdf-7a41-e430-7c6c313f3883/13UMGIM63887.rgb.jpg/600x600bb.jpg",
+    "release_date": "1966-08-05T07:00:00Z",
+    "track_count": 14,
+    "copyright": "This Compilation ℗ 2022 Calderstone Productions Limited (a division of Universal Music Group)",
+    "primary_genre": "Rock",
+    "country": "USA",
+    "tracks": [
+      {
+        "track_number": 1,
+        "disc_number": 1,
+        "name": "Taxman (2022 Mix)",
+        "duration_ms": 158267,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/44/a6/30/44a630cc-68c1-1871-8c9a-c4becd9bb0d8/mzaf_13831622876155433311.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/taxman-2022-mix/1642995371?i=1642995451&uo=4"
+      },
+      {
+        "track_number": 2,
+        "disc_number": 1,
+        "name": "Eleanor Rigby (2022 Mix)",
+        "duration_ms": 126467,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/07/e2/2d/07e22d32-93c3-2b6a-4871-1c21ec1dab5c/mzaf_17065636272169121257.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/eleanor-rigby-2022-mix/1642995371?i=1642995456&uo=4"
+      },
+      {
+        "track_number": 3,
+        "disc_number": 1,
+        "name": "I'm Only Sleeping (2022 Mix)",
+        "duration_ms": 180320,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/4e/34/16/4e341697-f0a5-1d0d-1fe9-0c4205f214ff/mzaf_3217207883441759348.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/im-only-sleeping-2022-mix/1642995371?i=1642995459&uo=4"
+      },
+      {
+        "track_number": 4,
+        "disc_number": 1,
+        "name": "Love You To (2022 Mix)",
+        "duration_ms": 179867,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b9/6f/3d/b96f3d21-8e96-d1fa-ddfa-cd43e5ca5e7a/mzaf_2332080901342130394.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/love-you-to-2022-mix/1642995371?i=1642995462&uo=4"
+      },
+      {
+        "track_number": 5,
+        "disc_number": 1,
+        "name": "Here, There and Everywhere (2022 Mix)",
+        "duration_ms": 144907,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0e/14/cd/0e14cdd1-d7f1-b23d-a0cf-7fa54c0a7642/mzaf_12663478304709936641.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/here-there-and-everywhere-2022-mix/1642995371?i=1642995766&uo=4"
+      },
+      {
+        "track_number": 6,
+        "disc_number": 1,
+        "name": "Yellow Submarine (2022 Mix)",
+        "duration_ms": 158827,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/bd/6d/6b/bd6d6bcc-0c7d-a9ac-2610-58d3f786da66/mzaf_921237369278469695.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/yellow-submarine-2022-mix/1642995371?i=1642995767&uo=4"
+      },
+      {
+        "track_number": 7,
+        "disc_number": 1,
+        "name": "She Said She Said (2022 Mix)",
+        "duration_ms": 156093,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/9b/05/e4/9b05e49a-20f0-5d81-e447-162483230726/mzaf_1794310093292629191.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/she-said-she-said-2022-mix/1642995371?i=1642995770&uo=4"
+      },
+      {
+        "track_number": 8,
+        "disc_number": 1,
+        "name": "Good Day Sunshine (2022 Mix)",
+        "duration_ms": 129213,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/32/93/84/3293847f-dff8-ff8a-2cbb-6fea385a6dd4/mzaf_6733346100028296476.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/good-day-sunshine-2022-mix/1642995371?i=1642995773&uo=4"
+      },
+      {
+        "track_number": 9,
+        "disc_number": 1,
+        "name": "And Your Bird Can Sing (2022 Mix)",
+        "duration_ms": 120533,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/61/6d/95/616d95ba-4550-6f00-21e0-4b0f181fa041/mzaf_3517190448378037796.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/and-your-bird-can-sing-2022-mix/1642995371?i=1642995780&uo=4"
+      },
+      {
+        "track_number": 10,
+        "disc_number": 1,
+        "name": "For No One (2022 Mix)",
+        "duration_ms": 119800,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/31/cc/39/31cc39cd-294a-e412-d654-826d350c289e/mzaf_13179069231389975532.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/for-no-one-2022-mix/1642995371?i=1642995782&uo=4"
+      },
+      {
+        "track_number": 11,
+        "disc_number": 1,
+        "name": "Doctor Robert (2022 Mix)",
+        "duration_ms": 134413,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e8/2f/ca/e82fca98-3eb0-871f-85da-c9133826288c/mzaf_3926785592886763160.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/doctor-robert-2022-mix/1642995371?i=1642995793&uo=4"
+      },
+      {
+        "track_number": 12,
+        "disc_number": 1,
+        "name": "I Want to Tell You (2022 Mix)",
+        "duration_ms": 147813,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/31/87/37/318737d4-ff74-1ba1-ccc5-84f9e6cd2d78/mzaf_15551777842712155215.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/i-want-to-tell-you-2022-mix/1642995371?i=1642995794&uo=4"
+      },
+      {
+        "track_number": 13,
+        "disc_number": 1,
+        "name": "Got to Get You Into My Life (2022 Mix)",
+        "duration_ms": 149480,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b3/cd/6d/b3cd6d2e-0b30-0d6e-3010-330ed535768f/mzaf_10231531818293370964.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/got-to-get-you-into-my-life-2022-mix/1642995371?i=1642996129&uo=4"
+      },
+      {
+        "track_number": 14,
+        "disc_number": 1,
+        "name": "Tomorrow Never Knows (2022 Mix)",
+        "duration_ms": 177613,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/81/81/04/818104c3-0950-f677-bfa7-b9089e95b483/mzaf_323108277152122128.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/tomorrow-never-knows-2022-mix/1642995371?i=1642996135&uo=4"
+      }
+    ]
+  },
+  "discrepancies": [
+    "Release year differs: your pressing=2022, Apple Music edition=1966. Apple Music typically streams the most recent remaster."
+  ],
+  "local_cover": "images/24990895.jpg"
+}

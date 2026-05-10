@@ -1,0 +1,789 @@
+{
+  "captured_at": "2026-05-10T17:39:37+00:00",
+  "schema_version": 3,
+  "artist": "The Beatles",
+  "title": "1",
+  "original_release_year": 2000,
+  "pressing_year": 2015,
+  "upgrade_suggestion": "Your 2015 pressing is already the definitive vinyl configuration for this title — half-speed mastered by Miles Showell at Abbey Road from the 2015 Giles Martin stereo remixes. No superior pressing has been issued.",
+  "commentary": "**1** is the Beatles' best-selling compilation, released in November 2000 on Apple Records. The title refers to the criterion for inclusion: every track on the record reached number one on the UK Singles Chart, the US Billboard Hot 100, or both. Twenty-seven songs appear, spanning \"Love Me Do\" (1962) through \"The Ballad of John and Yoko\" (1969), making it a near-complete survey of the band's dominance of the singles charts across their active decade. It was the best-selling album worldwide in 2000 and has remained one of the top-selling compilations in the history of recorded music.\n\nThe **2015 reissue** was prompted by the preparation of new stereo remixes produced by **Giles Martin** — son of the Beatles' original producer George Martin — in collaboration with Sam Okell at Abbey Road. These remixes used the original multitrack session tapes and represent a thorough reworking of the stereo field for the pre-*Rubber Soul* material in particular, much of which existed only in primitive two-channel form on the original releases. Tracks A1 through A3 (\"Love Me Do,\" \"From Me To You,\" \"She Loves You\") retain the original mono mixes, as the stereo sources for those recordings were not considered viable for the remix treatment. Everything from \"I Want To Hold Your Hand\" onward is a 2015 Giles Martin stereo remix. The reissue was also issued in a companion 2×Blu-ray edition pairing audio with promotional films, directed by Apple Corps.\n\n**Miles Showell** mastered this pressing at **Abbey Road Studios** using **half-speed mastering** — the lathe runs at half the standard 33⅓ RPM (i.e., 16⅔ RPM), which doubles the time the cutting stylus spends tracing each groove cycle. This extended contact time significantly improves the stylus's ability to reproduce high-frequency content, resulting in finer groove geometry, better transient definition, and a quieter noise floor compared to real-time cuts from the same source. Half-speed mastering has been Showell's signature method at Abbey Road and is widely regarded among audiophile collectors as producing the most faithful vinyl transfers of digital sources. His initials `Mile` appear in the deadwax alongside the `Abbey Road 1/2 Speed` inscription.\n\n**Optimal Media GmbH** is a German pressing plant based in Röbel/Müritz and is one of the most respected large-scale vinyl manufacturers currently operating in Europe. Its plant code `BF06330` appears in the deadwax of this pressing — the `BF` prefix is an Optimal Media identifier. Optimal presses for major labels and audiophile imprints alike and is consistently regarded as producing quiet, well-centered pressings with good vinyl compound quality. A German Optimal pressing is a favorable configuration for a 2015 mainstream reissue.\n\n**About this 2015 pressing (2×LP, 180g, gatefold):** Apple Records / Universal Music Group International catalog **0602547567901**, manufactured by **Optimal Media GmbH**, Germany (deadwax: `BF06330`). Mastered by **Miles Showell** at **Abbey Road Studios** using **half-speed mastering** (deadwax: `Mile Abbey Road 1/2 Speed`). 2×LP 180g gatefold with picture inner sleeves, 22\"×33\" poster, and four 8\"×11\" art prints. Tracks A1–A3 are original mono mixes; A4 onward are **2015 Giles Martin stereo remixes**. Made in Germany.\n\n### Gemini Notes\n\nReleased in November 2000, *1* is a compilation album by The Beatles featuring every number-one single achieved by the band in the United Kingdom and the United States from 1962 to 1970. Issued on the 30th anniversary of the band's dissolution, it became the fastest-selling album in history, moving over 31 million copies worldwide. It successfully introduced The Beatles to a new generation and cemented their legacy as the most commercially successful band of all time.\n\n**About this pressing:**\n*Deadwax TBD — check runouts for mastering engineers or pressing plant symbols. Update this section once details are logged.*",
+  "discogs": {
+    "release_id": 7790160,
+    "master_id": 447254,
+    "uri": "https://www.discogs.com/release/7790160-The-Beatles-1",
+    "title": "1",
+    "artists": [
+      {
+        "name": "The Beatles",
+        "id": 82730,
+        "role": null
+      }
+    ],
+    "year": 2015,
+    "released": "2015-12-04",
+    "country": "USA, Canada & Europe",
+    "labels": [
+      {
+        "name": "Apple Records",
+        "catno": "0602547567901",
+        "id": 25693
+      },
+      {
+        "name": "Universal Music Group International",
+        "catno": "0602547567901",
+        "id": 138199
+      }
+    ],
+    "formats": [
+      {
+        "name": "Vinyl",
+        "qty": "2",
+        "descriptions": [
+          "LP",
+          "Compilation",
+          "Reissue"
+        ],
+        "text": "180 Gram, Gatefold"
+      }
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Pop Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Love Me Do",
+        "duration": "2:20",
+        "type": "track"
+      },
+      {
+        "position": "A2",
+        "title": "From Me To You",
+        "duration": "1:56",
+        "type": "track"
+      },
+      {
+        "position": "A3",
+        "title": "She Loves You",
+        "duration": "2:21",
+        "type": "track"
+      },
+      {
+        "position": "A4",
+        "title": "I Want To Hold Your Hand",
+        "duration": "2:26",
+        "type": "track"
+      },
+      {
+        "position": "A5",
+        "title": "Can't Buy Me Love",
+        "duration": "2:11",
+        "type": "track"
+      },
+      {
+        "position": "A6",
+        "title": "A Hard Day's Night",
+        "duration": "2:33",
+        "type": "track"
+      },
+      {
+        "position": "A7",
+        "title": "I Feel Fine",
+        "duration": "2:19",
+        "type": "track"
+      },
+      {
+        "position": "A8",
+        "title": "Eight Days A Week",
+        "duration": "2:43",
+        "type": "track"
+      },
+      {
+        "position": "B1",
+        "title": "Ticket To Ride",
+        "duration": "3:10",
+        "type": "track"
+      },
+      {
+        "position": "B2",
+        "title": "Help!",
+        "duration": "2:19",
+        "type": "track"
+      },
+      {
+        "position": "B3",
+        "title": "Yesterday",
+        "duration": "2:05",
+        "type": "track"
+      },
+      {
+        "position": "B4",
+        "title": "Day Tripper",
+        "duration": "2:49",
+        "type": "track"
+      },
+      {
+        "position": "B5",
+        "title": "We Can Work It Out",
+        "duration": "2:16",
+        "type": "track"
+      },
+      {
+        "position": "B6",
+        "title": "Paperback Writer",
+        "duration": "2:18",
+        "type": "track"
+      },
+      {
+        "position": "B7",
+        "title": "Yellow Submarine",
+        "duration": "2:39",
+        "type": "track"
+      },
+      {
+        "position": "B8",
+        "title": "Eleanor Rigby",
+        "duration": "2:05",
+        "type": "track"
+      },
+      {
+        "position": "C1",
+        "title": "Penny Lane",
+        "duration": "3:01",
+        "type": "track"
+      },
+      {
+        "position": "C2",
+        "title": "All You Need Is Love",
+        "duration": "3:48",
+        "type": "track"
+      },
+      {
+        "position": "C3",
+        "title": "Hello, Goodbye",
+        "duration": "3:28",
+        "type": "track"
+      },
+      {
+        "position": "C4",
+        "title": "Lady Madonna",
+        "duration": "2:17",
+        "type": "track"
+      },
+      {
+        "position": "C5",
+        "title": "Hey Jude",
+        "duration": "7:04",
+        "type": "track"
+      },
+      {
+        "position": "D1",
+        "title": "Get Back",
+        "duration": "3:12",
+        "type": "track"
+      },
+      {
+        "position": "D2",
+        "title": "The Ballad Of John And Yoko",
+        "duration": "2:59",
+        "type": "track"
+      },
+      {
+        "position": "D3",
+        "title": "Something",
+        "duration": "3:01",
+        "type": "track"
+      },
+      {
+        "position": "D4",
+        "title": "Come Together",
+        "duration": "4:19",
+        "type": "track"
+      },
+      {
+        "position": "D5",
+        "title": "Let It Be",
+        "duration": "3:50",
+        "type": "track"
+      },
+      {
+        "position": "D6",
+        "title": "The Long And Winding Road",
+        "duration": "3:35",
+        "type": "track"
+      }
+    ],
+    "extraartists": [
+      {
+        "name": "George Harrison",
+        "role": "Composed By",
+        "id": 243955
+      },
+      {
+        "name": "Lennon-McCartney",
+        "role": "Composed By",
+        "id": 779927
+      },
+      {
+        "name": "Allan Rouse",
+        "role": "Coordinator [Project Co-ordinator]",
+        "id": 262648
+      },
+      {
+        "name": "Richard Ward",
+        "role": "Cover [Cover Art]",
+        "id": 189770
+      },
+      {
+        "name": "The Team (7)",
+        "role": "Design",
+        "id": 1846627
+      },
+      {
+        "name": "Barry Sheffield",
+        "role": "Engineer",
+        "id": 324379
+      },
+      {
+        "name": "Eddie Kramer",
+        "role": "Engineer",
+        "id": 253216
+      },
+      {
+        "name": "Geoff Emerick",
+        "role": "Engineer",
+        "id": 264184
+      },
+      {
+        "name": "Glyn Johns",
+        "role": "Engineer",
+        "id": 52230
+      },
+      {
+        "name": "Jeff Jarratt",
+        "role": "Engineer",
+        "id": 160113
+      },
+      {
+        "name": "Ken Scott",
+        "role": "Engineer",
+        "id": 103969
+      },
+      {
+        "name": "Norman Smith",
+        "role": "Engineer",
+        "id": 252775
+      },
+      {
+        "name": "Peter Bown",
+        "role": "Engineer",
+        "id": 256111
+      },
+      {
+        "name": "Phil McDonald",
+        "role": "Engineer",
+        "id": 298540
+      },
+      {
+        "name": "Miles Showell",
+        "role": "Lacquer Cut By [1/2 Speed Mastering]",
+        "id": 383408
+      },
+      {
+        "name": "George Martin",
+        "role": "Liner Notes [Introduction]",
+        "id": 259769
+      },
+      {
+        "name": "Mark Lewisohn",
+        "role": "Liner Notes [Track Details]",
+        "id": 806573
+      },
+      {
+        "name": "Richard Avedon",
+        "role": "Photography By",
+        "id": 955472
+      },
+      {
+        "name": "George Martin",
+        "role": "Producer",
+        "id": 259769
+      },
+      {
+        "name": "Phil Spector",
+        "role": "Producer [Reproduced For Disc By]",
+        "id": 190767
+      },
+      {
+        "name": "Peter Mew",
+        "role": "Remastered By [Digital Re-mastering]",
+        "id": 263514
+      }
+    ],
+    "identifiers": [
+      {
+        "type": "Barcode",
+        "value": "6 02547 56790 1",
+        "description": "Text"
+      },
+      {
+        "type": "Barcode",
+        "value": "0602547567901",
+        "description": "Scanned"
+      },
+      {
+        "type": "Other",
+        "value": "0602547567949",
+        "description": "Inner sleeve, record 1"
+      },
+      {
+        "type": "Other",
+        "value": "0602547567956",
+        "description": "Inner sleeve, record 2"
+      },
+      {
+        "type": "Rights Society",
+        "value": "SDRM/BIEM",
+        "description": null
+      },
+      {
+        "type": "Label Code",
+        "value": "LC01846",
+        "description": null
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "0602547567949",
+        "description": "Labels, sides 1 & 2"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "0602547567956",
+        "description": "Labels, sides 3 & 4"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "47567956  MILES ABBEY ROAD ½ SPEED  BF06330-01 A2",
+        "description": "Side 1 Runout, Etched (Variant 1)"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "47567949  BF06330-01 B1  MILES ABBEY ROAD 1/2 SPEED",
+        "description": "Side 2 Runout, Etched (Variant 1)"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "47567956  BF06330-02 C1  MILES ABBEY ROAD ½ SPEED",
+        "description": "Side 3 Runout, Etched (Variant 1)"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "47567956 MILES AR ½ SPEED  BF06330-02 D1  STAN RICKER  R.I.P. & THANK YOU.",
+        "description": "Side 4 Runout, Etched (Variant 1)"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "47567949  BF06330-01 A2  MILES ABBEY ROAD 1/2 SPEED",
+        "description": "Side 1 Runout, Etched (Variant 2)"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "47567949  BG20209-01 B1  MILES ABBEY ROAD ½ SPEED",
+        "description": "Side 2 Runout, Etched (Variant 2)"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "47567949  BF06330-01 C1  MILES ABBEY ROAD 1/2 SPEED",
+        "description": "Side 3 Runout, Etched (Variant 2)"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "47567949  BF06330-01 D1  MILES ABBEY ROAD 1/2 SPEED",
+        "description": "Side 4 Runout, Etched (Variant 2)"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "47567949 MILES. ABBY ROAD 1/2 SPEED. BF06330-01 A2",
+        "description": "Side 1 Runout, Etched (Variant 3)"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "47567949 BG20209-01 B1 MILES ABBY ROAD 1/2 SPEED..",
+        "description": "Side 2 Runout, Etched (Variant 3)"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "47567956 VO=- BF96330-02 C1 MILES. ABBEY ROAD 1/2 SPEED.",
+        "description": "Side 3 Runout, Etched (Variant 3)"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "47567956 MILES. AR 1/2 SPEED. BF06330-02 D1 STAN RICKER R.I.P. & THANK-YOU. J⋀T ",
+        "description": "Side 4 Runout, Etched (Variant 3)"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "47567956 BF06330-01 A2  MILES ABBEY ROAD 1/2 SPEED",
+        "description": "Side 1 Runout, Etched (Variant 4)"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "47567949  BG20209-01 B1  MILES ABBEY ROAD ½ SPEED",
+        "description": "Side 2 Runout, Etched (Variant 4)"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "47567956 BF96330-02 C1 MILES. ABBEY ROAD 1/2 SPEED.",
+        "description": "Side 3 Runout, Etched (Variant 4)"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "47567956 MILES. AR 1/2 SPEED. BF06330-02 D1 STAN RICKER R.I.P. & THANK-YOU",
+        "description": "Side 4 Runout, Etched (Variant 4)"
+      }
+    ],
+    "notes": "New 2015 stereo mixes.\n\nGatefold sleeve with a light gloss finish.\nPicture inner sleeves of top opening thick card.\nPicture labels.\nIncludes a 22\" x 33\" poster which shows a mosaic of worldwide 7\" picture sleeves, broadly in chronological order.\nIncludes four 8\" x 11\" portrait art prints.\nPackage came shrink-wrapped.\n\nMade in Germany.",
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/5pcwoAIrxBdEDWA8SZ6bHvkQVKE0rnimSnlCS4D_34Y/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3OTAx/NjAtMTczODQxNTI5/Ny05NTgyLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/tK-PzfXs17ZfVzsp00bIleG8Za0SRAbaI4dbUjhn_t0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3OTAx/NjAtMTczODQxNTI5/Ny05NTgyLmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/LNFMd81lfZujIeP_oUMpvvBCYJ78l3Q6_SyGt1UzzCo/rs:fit/g:sm/q:90/h:280/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3OTAx/NjAtMTczODQxNTI5/OC02NTc1LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/OX7LovMqW1rNAWmc499tCtd9905-lt6W0serMyJSk_A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3OTAx/NjAtMTczODQxNTI5/OC02NTc1LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/ooq87Br_2a5q3Xbzzx6fJCc4LwuEmHXajHRT5QQchq0/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3OTAx/NjAtMTczODQxNTMw/My03MjQ1LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/Ih4qI_rI4oD13pzYng6fJZ3PlOXB-bw1G-G2-9iUQdU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3OTAx/NjAtMTczODQxNTMw/My03MjQ1LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/LpofRTqGTm7Py_IS5uKeb53OcZ_zUlJiO7MbC8v_lC8/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3OTAx/NjAtMTczODQxNTMw/My0xOTE1LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/OmB1FJSFKv1k2wjWuB7i6BikGM7ggbyAw0q4AmcEsFs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3OTAx/NjAtMTczODQxNTMw/My0xOTE1LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/NZpBDt95xLD5D5D6jJpgcRWY-OXBrj6DcnNmOpCKzSk/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3OTAx/NjAtMTczODQxNTMw/NS04ODg0LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/H-DjBAOUomZC8lE2jc1DKjA8u-48l7x0kulWt-pzCBA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3OTAx/NjAtMTczODQxNTMw/NS04ODg0LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/wbwSEYDW6wayqCK1h4Av03NbQtfsreUBOp1s-XpD4mA/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3OTAx/NjAtMTczODQxNTMw/NS05MTIxLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/cTJFRHIYprAF247ER998Jl_IOMyJqXuHgT3tXNdgkug/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3OTAx/NjAtMTczODQxNTMw/NS05MTIxLmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/4gCgZs3BzR2xWOb-Xz3Tx0NxncB-yVqFnPhGEXF2y_w/rs:fit/g:sm/q:90/h:582/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3OTAx/NjAtMTczODQxNTMw/Ni04NjU4LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/ez5CLKAsjHWkbXURBKdWxMRGtEghhf8A1LfV0kdfS1A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3OTAx/NjAtMTczODQxNTMw/Ni04NjU4LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/hiUB2QRsaGG3k4GdLpN2fmMxGIPmrrUo9tGsjS6egWY/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3OTAx/NjAtMTUwMDU1NjM5/Mi02MDM1LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/It1475IeR9Y08gVtkN2H11WklTJCs8aRZRpgkpgVIrs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3OTAx/NjAtMTUwMDU1NjM5/Mi02MDM1LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/ctWt31ST2CR3NT4SD-Ibte9EGlH3jVQGaihbwCD5tNQ/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3OTAx/NjAtMTUwMDU1NjQx/MS01MjY2LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/x2lHG41qpFz9kxOUL-Sh3_zgD7z5EIpGGz9v7efKj0g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3OTAx/NjAtMTUwMDU1NjQx/MS01MjY2LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/sRymJVJLqW-mdqR_OXKFp569knZYn2hLkWP7p0KkeZs/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3OTAx/NjAtMTUwMDU1NjQz/NC00NDQwLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/OKSwVAStkbqaxrsZjHhE_v9D_4nNYRzy0_NX3Q-lV6w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3OTAx/NjAtMTUwMDU1NjQz/NC00NDQwLmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/GoNNuiW3Ehf3tJ3uGfT47J-RojJp_vv7f4qxeKAOZXk/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3OTAx/NjAtMTUwMDU1NjQw/Ni00NDMxLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/xjnUxz7MCjs1Fe5_Hi6r7vGs7MGRhdtBcWeeZSAhfSA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3OTAx/NjAtMTUwMDU1NjQw/Ni00NDMxLmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/d_M7WE8XSFpTl_KMZQG630BJnanL7R8W2QJYlABAnBc/rs:fit/g:sm/q:90/h:600/w:444/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3OTAx/NjAtMTQ1MjQ0NTAw/MC0yMjQwLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/nEDTteK0C61Ty06f9ziuEtzLb1hoSAMzTeQ42PePFH4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3OTAx/NjAtMTQ1MjQ0NTAw/MC0yMjQwLmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/O_H2ormX_AGXSfZNZBCsSXY2vEQ2pD4Hg7XU5Y_y2QA/rs:fit/g:sm/q:90/h:600/w:446/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3OTAx/NjAtMTQ1MjQ0NDk5/Ni02NjA2LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/3WVG08ky6bQkc0AcfaotjhQOkMf5br3OyVYZr4YnsX4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3OTAx/NjAtMTQ1MjQ0NDk5/Ni02NjA2LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/n1hkvGRfnWpdmhIxOzbi4tA7LGFazAV8dHr39WpFlb0/rs:fit/g:sm/q:90/h:600/w:444/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3OTAx/NjAtMTQ1MjQ0NDk5/OC0yMjAzLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/XJna9BtbEBQEJTVzGZA10P84Zclt-5Lpd-iPcIQ8yvI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3OTAx/NjAtMTQ1MjQ0NDk5/OC0yMjAzLmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/2g4iNX2z4RPpyL6mf1bUpIFgcqVUVaRXcpN8lv2cHAc/rs:fit/g:sm/q:90/h:600/w:444/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3OTAx/NjAtMTQ1MjQ0NDk5/OC02NjA2LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/Y_rchejgsM5tMXJi0FNT2fhcGqYR-2iOJihkmPekBRA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3OTAx/NjAtMTQ1MjQ0NDk5/OC02NjA2LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/Z2_ppNuejiAt82UBHyOTG2JyNn1RTadCuXTszw-JtZw/rs:fit/g:sm/q:90/h:600/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3OTAx/NjAtMTUwMDU1NjQ0/Ni03ODc2LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/alr3xllRlQ9NO-AHPEFrWW68b8BqFdj4ETdztnVlyCc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3OTAx/NjAtMTUwMDU1NjQ0/Ni03ODc2LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/lrSm5QxyY7EQBlisnyZguYWc1zagtQCXw4ah8f9l2Tg/rs:fit/g:sm/q:90/h:600/w:439/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3OTAx/NjAtMTczODQxNTMw/My01Nzg4LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/7Vdpjc2k5l3Wxfv147uCucOlV-xjWbz3fHrbo0HF4CQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3OTAx/NjAtMTczODQxNTMw/My01Nzg4LmpwZWc.jpeg"
+      }
+    ],
+    "community": {
+      "rating": {
+        "count": 1393,
+        "average": 4.72
+      },
+      "have": 17261,
+      "want": 1121
+    },
+    "master": {
+      "id": 447254,
+      "title": "1",
+      "main_release": 1638442,
+      "year": 2000,
+      "uri": "https://www.discogs.com/master/447254-The-Beatles-1",
+      "num_for_sale": 2719
+    }
+  },
+  "apple_music": {
+    "id": 1440833098,
+    "url": "https://music.apple.com/us/album/1/1440833098?uo=4",
+    "name": "1",
+    "artist": "The Beatles",
+    "artist_id": 136975,
+    "artwork_url_100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f2/98/fb/f298fb48-1e0e-6ad4-4cff-fb824b77f02e/15UMGIM59587.rgb.jpg/100x100bb.jpg",
+    "artwork_url_600": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f2/98/fb/f298fb48-1e0e-6ad4-4cff-fb824b77f02e/15UMGIM59587.rgb.jpg/600x600bb.jpg",
+    "release_date": "2000-11-13T08:00:00Z",
+    "track_count": 27,
+    "copyright": "This Compilation ℗ 2015 Calderstone Productions Limited (a division of Universal Music Group) / Apple Corps Ltd.",
+    "primary_genre": "Rock",
+    "country": "USA",
+    "tracks": [
+      {
+        "track_number": 1,
+        "disc_number": 1,
+        "name": "Love Me Do",
+        "duration_ms": 140173,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d4/a8/89/d4a889e9-39df-cc1c-2386-4bc00670b2f1/mzaf_17078299930052458204.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/love-me-do/1440833098?i=1440833334&uo=4"
+      },
+      {
+        "track_number": 2,
+        "disc_number": 1,
+        "name": "From Me to You",
+        "duration_ms": 116160,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/84/f2/cc/84f2ccc1-6d5e-66ae-fe5e-f8c7b1060469/mzaf_10442862047390250779.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/from-me-to-you/1440833098?i=1440833534&uo=4"
+      },
+      {
+        "track_number": 3,
+        "disc_number": 1,
+        "name": "She Loves You",
+        "duration_ms": 140920,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b0/00/12/b0001223-6811-a3e6-821b-fde710e23567/mzaf_8004256470886717691.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/she-loves-you/1440833098?i=1440833539&uo=4"
+      },
+      {
+        "track_number": 4,
+        "disc_number": 1,
+        "name": "I Want to Hold Your Hand",
+        "duration_ms": 145747,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/89/a0/73/89a0730d-8459-21c7-2e20-1aee9daa4416/mzaf_1463288099602398264.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/i-want-to-hold-your-hand/1440833098?i=1440833542&uo=4"
+      },
+      {
+        "track_number": 5,
+        "disc_number": 1,
+        "name": "Can't Buy Me Love",
+        "duration_ms": 131213,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/09/4d/3a/094d3a23-b1b0-6e5b-1d26-52d84206bf09/mzaf_11776190903459074582.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/cant-buy-me-love/1440833098?i=1440833543&uo=4"
+      },
+      {
+        "track_number": 6,
+        "disc_number": 1,
+        "name": "A Hard Day's Night",
+        "duration_ms": 152920,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c2/d4/a4/c2d4a40b-6a1f-b482-d461-ceb15ff8371e/mzaf_14557763854549669480.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/a-hard-days-night/1440833098?i=1440833544&uo=4"
+      },
+      {
+        "track_number": 7,
+        "disc_number": 1,
+        "name": "I Feel Fine",
+        "duration_ms": 139347,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/22/1d/9d/221d9d23-8896-9fdb-8019-d536c5ee0178/mzaf_9657841651720437219.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/i-feel-fine/1440833098?i=1440833545&uo=4"
+      },
+      {
+        "track_number": 8,
+        "disc_number": 1,
+        "name": "Eight Days a Week",
+        "duration_ms": 163320,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7b/77/ef/7b77eff6-109a-4103-08ea-a9384d025c9a/mzaf_4471164157037803827.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/eight-days-a-week/1440833098?i=1440833549&uo=4"
+      },
+      {
+        "track_number": 9,
+        "disc_number": 1,
+        "name": "Ticket to Ride",
+        "duration_ms": 190120,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/7a/63/39/7a63395e-fc89-4167-005c-d7e086a6df27/mzaf_8321015583959292626.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/ticket-to-ride/1440833098?i=1440833554&uo=4"
+      },
+      {
+        "track_number": 10,
+        "disc_number": 1,
+        "name": "Help!",
+        "duration_ms": 139240,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/27/33/05/273305ca-15ff-be2c-091f-54da6c33c7f4/mzaf_8961670725076409893.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/help/1440833098?i=1440833560&uo=4"
+      },
+      {
+        "track_number": 11,
+        "disc_number": 1,
+        "name": "Yesterday",
+        "duration_ms": 125320,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b0/fa/c9/b0fac9c6-2dc8-cfd8-cc49-a3fea7033f77/mzaf_12445742056192329951.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/yesterday/1440833098?i=1440833891&uo=4"
+      },
+      {
+        "track_number": 12,
+        "disc_number": 1,
+        "name": "Day Tripper",
+        "duration_ms": 169000,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/bb/4f/5a/bb4f5a46-65b5-2329-1213-a7b5cbac9450/mzaf_2843821779454626069.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/day-tripper/1440833098?i=1440833893&uo=4"
+      },
+      {
+        "track_number": 13,
+        "disc_number": 1,
+        "name": "We Can Work It Out",
+        "duration_ms": 135693,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/4e/23/03/4e230379-6105-d342-80c8-0de67119b215/mzaf_14830325198803430322.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/we-can-work-it-out/1440833098?i=1440833897&uo=4"
+      },
+      {
+        "track_number": 14,
+        "disc_number": 1,
+        "name": "Paperback Writer",
+        "duration_ms": 138200,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/73/1d/f5/731df558-d1f2-c485-3ed8-15ddfb1d1a9b/mzaf_8642015485535046456.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/paperback-writer/1440833098?i=1440833899&uo=4"
+      },
+      {
+        "track_number": 15,
+        "disc_number": 1,
+        "name": "Yellow Submarine",
+        "duration_ms": 158800,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b0/61/64/b06164e5-8c49-a3b1-baad-1b5bc01a6a12/mzaf_14601267078193780261.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/yellow-submarine/1440833098?i=1440833902&uo=4"
+      },
+      {
+        "track_number": 16,
+        "disc_number": 1,
+        "name": "Eleanor Rigby",
+        "duration_ms": 125867,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/25/e3/b8/25e3b84a-4983-6f62-8281-d2c4c710545e/mzaf_16736877393789701682.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/eleanor-rigby/1440833098?i=1440833905&uo=4"
+      },
+      {
+        "track_number": 17,
+        "disc_number": 1,
+        "name": "Penny Lane",
+        "duration_ms": 180520,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/46/d2/5f/46d25f99-11e5-cc6d-0dd4-82a918f7d3df/mzaf_17323257762435396352.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/penny-lane/1440833098?i=1440833911&uo=4"
+      },
+      {
+        "track_number": 18,
+        "disc_number": 1,
+        "name": "All You Need Is Love",
+        "duration_ms": 227760,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/94/45/04/944504ba-eed3-bbe4-7e68-ee1a1d39432e/mzaf_11925951248517697969.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/all-you-need-is-love/1440833098?i=1440833920&uo=4"
+      },
+      {
+        "track_number": 19,
+        "disc_number": 1,
+        "name": "Hello, Goodbye",
+        "duration_ms": 207787,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f6/23/5b/f6235bfb-d88b-1b06-613a-cdbc28b5a8a6/mzaf_15287665445306655583.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/hello-goodbye/1440833098?i=1440834221&uo=4"
+      },
+      {
+        "track_number": 20,
+        "disc_number": 1,
+        "name": "Lady Madonna",
+        "duration_ms": 136827,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/47/44/71/474471e6-8d1b-f47e-9b53-d7bdb5a2671d/mzaf_14391232815173722284.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/lady-madonna/1440833098?i=1440834222&uo=4"
+      },
+      {
+        "track_number": 21,
+        "disc_number": 1,
+        "name": "Hey Jude",
+        "duration_ms": 425653,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/11/a9/7a/11a97ad1-5281-41b5-bef5-94c93a0083e4/mzaf_216068609330958223.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/hey-jude/1440833098?i=1440834224&uo=4"
+      },
+      {
+        "track_number": 22,
+        "disc_number": 1,
+        "name": "Get Back",
+        "duration_ms": 191773,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/9d/57/08/9d5708fb-949d-0f15-f095-27dc185b9ee1/mzaf_6664722596026803419.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/get-back/1440833098?i=1440834225&uo=4"
+      },
+      {
+        "track_number": 23,
+        "disc_number": 1,
+        "name": "The Ballad of John and Yoko",
+        "duration_ms": 179480,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b4/56/b9/b456b923-e527-b334-9b90-0269f3293225/mzaf_2400807970413807917.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/the-ballad-of-john-and-yoko/1440833098?i=1440834231&uo=4"
+      },
+      {
+        "track_number": 24,
+        "disc_number": 1,
+        "name": "Something",
+        "duration_ms": 181413,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/33/27/71/3327719e-3dec-437e-ff9a-ac81866230ed/mzaf_12736520678398629111.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/something/1440833098?i=1440834236&uo=4"
+      },
+      {
+        "track_number": 25,
+        "disc_number": 1,
+        "name": "Come Together",
+        "duration_ms": 258693,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/27/42/d0/2742d0e1-8b0d-4362-2734-e15cd478c5ce/mzaf_18040906317832969687.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/come-together/1440833098?i=1440834242&uo=4"
+      },
+      {
+        "track_number": 26,
+        "disc_number": 1,
+        "name": "Let It Be",
+        "duration_ms": 230440,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f4/1c/0e/f41c0ede-4c9b-de2c-48e3-124321ac3ba5/mzaf_17382115283222536557.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/let-it-be/1440833098?i=1440834249&uo=4"
+      },
+      {
+        "track_number": 27,
+        "disc_number": 1,
+        "name": "The Long and Winding Road",
+        "duration_ms": 219427,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/23/88/8f/23888fa6-02f8-8ba9-76e2-afe427463375/mzaf_6139463745418654338.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/the-long-and-winding-road/1440833098?i=1440834467&uo=4"
+      }
+    ]
+  },
+  "discrepancies": [
+    "Release year differs: your pressing=2015, Apple Music edition=2000. Apple Music typically streams the most recent remaster."
+  ],
+  "local_cover": "images/7790160.jpg"
+}

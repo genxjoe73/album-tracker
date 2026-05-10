@@ -1,0 +1,1 @@
+Kacey Musgraves consistently pushes the boundaries of modern country. *Middle Of Nowhere* captures her signature blend of traditional songwriting and progressive themes.

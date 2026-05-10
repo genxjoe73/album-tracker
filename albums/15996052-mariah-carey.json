@@ -1,0 +1,386 @@
+{
+  "captured_at": "2026-05-10T19:50:43+00:00",
+  "schema_version": 3,
+  "artist": "Mariah Carey",
+  "title": "Mariah Carey",
+  "original_release_year": 1990,
+  "pressing_year": 2020,
+  "upgrade_suggestion": "No audiophile pressing of the 1990 Mariah Carey debut has been issued. The 2020 GZ Media remaster you own, mastered at 24-bit Hi-Res for vinyl, is the current reference configuration for this title. Original 1990 Columbia pressings exist but offer no documented mastering advantage.",
+  "commentary": "**Mariah Carey** is the debut album by singer and songwriter Mariah Carey, released in June 1990 on Columbia Records. Produced primarily by Mariah Carey herself, Walter Afanasieff, and Brenda K. Starr, the album introduced her five-octave vocal range and whistle register to mainstream audiences. \"Vision of Love\" became her signature song and a defining moment in 1990s R&B and pop — the production, vocal arrangement, and the now-iconic music video established her as a major commercial force. The album went multiplatinum in multiple countries and won two Grammy Awards, including Best New Artist. It remains one of the best-selling debut albums by a female artist.\n\nThe **2020 reissue** was undertaken as part of a broader reissue campaign by **Columbia/Sony** and **Legacy Recordings**. It was **remastered at 24-bit Hi-Res Audio for vinyl**, indicating a new transfer chain from high-resolution sources (likely the original mixdown masters or a 24/96 or 24/192 derivate) to the cutting lathe, in contrast to the standard 16-bit CD masters used for the original 1990 pressing. This represents a deliberate upgrade in fidelity for a contemporary collector-oriented edition.\n\n**GZ Media** mastered this pressing (indicated by the `MRP2793` cutting code, GZ's internal identifier). GZ Media is a Czech-based mastering and pressing facility that serves major labels and is widely regarded as producing consistently high-quality vinyl. **Memphis Record Pressing** manufactured the physical record — a domestic US plant that has handled work for major labels and specialty labels alike.\n\n**About this 2020 US pressing (LP, black vinyl):** Columbia / Legacy catalog **19439776361**, remastered at **24-bit Hi-Res Audio for vinyl**, mastered by **GZ Media** (code `MRP2793`), pressed by **Memphis Record Pressing**. Deadwax: `211088E1 / MRP2793 / 19439776361`.\n\n### Gemini Notes\n\nReleased in 1990, Mariah Carey's self-titled debut album instantly established her as a vocal powerhouse. Featuring hits like \"Vision of Love,\" it ushered in a new era of melismatic R&B and pop dominance.\n\n**About this pressing:**",
+  "discogs": {
+    "release_id": 15996052,
+    "master_id": 78748,
+    "uri": "https://www.discogs.com/release/15996052-Mariah-Carey-Mariah-Carey",
+    "title": "Mariah Carey",
+    "artists": [
+      {
+        "name": "Mariah Carey",
+        "id": 33534,
+        "role": null
+      }
+    ],
+    "year": 2020,
+    "released": "2020-10-02",
+    "country": "US",
+    "labels": [
+      {
+        "name": "Columbia",
+        "catno": "19439776361",
+        "id": 1866
+      },
+      {
+        "name": "Legacy",
+        "catno": "19439776361",
+        "id": 15491
+      }
+    ],
+    "formats": [
+      {
+        "name": "Vinyl",
+        "qty": "1",
+        "descriptions": [
+          "LP",
+          "Album",
+          "Reissue",
+          "Remastered"
+        ],
+        "text": null
+      }
+    ],
+    "genres": [
+      "Funk / Soul",
+      "Pop"
+    ],
+    "styles": [
+      "Contemporary R&B",
+      "Soul",
+      "Ballad",
+      "New Jack Swing",
+      "Vocal"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Vision Of Love",
+        "duration": "3:28",
+        "type": "track"
+      },
+      {
+        "position": "A2",
+        "title": "There's Got To Be A Way",
+        "duration": "4:53",
+        "type": "track"
+      },
+      {
+        "position": "A3",
+        "title": "I Don't Wanna Cry",
+        "duration": "4:47",
+        "type": "track"
+      },
+      {
+        "position": "A4",
+        "title": "Someday",
+        "duration": "4:06",
+        "type": "track"
+      },
+      {
+        "position": "A5",
+        "title": "Vanishing",
+        "duration": "4:11",
+        "type": "track"
+      },
+      {
+        "position": "B1",
+        "title": "All In Your Mind",
+        "duration": "4:43",
+        "type": "track"
+      },
+      {
+        "position": "B2",
+        "title": "Alone In Love",
+        "duration": "4:11",
+        "type": "track"
+      },
+      {
+        "position": "B3",
+        "title": "You Need Me",
+        "duration": "3:51",
+        "type": "track"
+      },
+      {
+        "position": "B4",
+        "title": "Sent From Up Above",
+        "duration": "4:05",
+        "type": "track"
+      },
+      {
+        "position": "B5",
+        "title": "Prisoner",
+        "duration": "4:22",
+        "type": "track"
+      },
+      {
+        "position": "B6",
+        "title": "Love Takes Time",
+        "duration": "3:48",
+        "type": "track"
+      }
+    ],
+    "extraartists": [
+      {
+        "name": "Tommy Mottola",
+        "role": "Executive-Producer",
+        "id": 1012741
+      },
+      {
+        "name": "Bob Ludwig",
+        "role": "Mastered By",
+        "id": 271098
+      },
+      {
+        "name": "Howie Weinberg",
+        "role": "Mastered By",
+        "id": 254262
+      },
+      {
+        "name": "Ben Margulies",
+        "role": "Written-By",
+        "id": 303372
+      },
+      {
+        "name": "Mariah Carey",
+        "role": "Written-By",
+        "id": 33534
+      },
+      {
+        "name": "Narada Michael Walden",
+        "role": "Written-By",
+        "id": 49530
+      },
+      {
+        "name": "Rhett Lawrence",
+        "role": "Written-By",
+        "id": 129238
+      },
+      {
+        "name": "Ric Wake",
+        "role": "Written-By",
+        "id": 41104
+      }
+    ],
+    "identifiers": [
+      {
+        "type": "Barcode",
+        "value": "194397763614",
+        "description": null
+      },
+      {
+        "type": "Barcode",
+        "value": "1 9439-77636-1 4",
+        "description": "Printed"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "211088E1 >A MRP2793 / 19439776361 - A",
+        "description": "Side A - Variant 1"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "211088E1 Iꓭ MRP2793 / 19439776361 - B",
+        "description": "Side B - Variant 1"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "211088E1/A 8A MRP2793 / 19439776361 - A",
+        "description": "Side A - Variant 2"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "211088E2/A >ꓭ MRP2793 / 19439776361 - B",
+        "description": "Side B - Variant 2"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "211088E1/A 9# MRP2793 / 19439776361 - A ",
+        "description": "Side A - Variant 3"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "211088E2/A 11# MRP2793 / 19439776361 - B ",
+        "description": "Side B - Variant 3"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "211088E1/A 21# MRP2793 / 19439776361 - A",
+        "description": "Side A - Variant 4"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "211088E2/A 6ꓭ MRP2793 / 19439776361 - B",
+        "description": "Side B - Variant 4"
+      }
+    ],
+    "notes": "Standard black vinyl reissue.\n\nRemastered at 24bit Hi-Res Audio for vinyl.\n",
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/ih86KOcaUvW2m_m0CIAGs_5T2OBI0K0z84P92NnYhE0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTk2/MDUyLTE2MDk3NzE5/MDYtODY3My5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/bhNDcb1uToSTMU3i9VJ8GHp2G9bne9eQWa31Cc5zays/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTk2/MDUyLTE2MDk3NzE5/MDYtODY3My5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/Bg8EELEcM5v_M5tLgbn_b7MhITNdP2LziakOPo5C31Y/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTk2/MDUyLTE2MDk3NzE5/MDYtMTE1NS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/OKwv_x539ASNyyvuUqXDqR0etThE2FotCJ4fVormeME/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTk2/MDUyLTE2MDk3NzE5/MDYtMTE1NS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/IzeYU2yuRkfmV7OrY2eDXZI-VcsKvvXE_8D878AnoLI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTk2/MDUyLTE2MDk3NzE5/MDYtOTczMi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/WPCgmctLPcNKQUh74aTrdZUSJL-DE0mR-GQDHAvPQXY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTk2/MDUyLTE2MDk3NzE5/MDYtOTczMi5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/eImKAz0clo6nF0czBQ7kalmIlnwvIXfcnxVWpng6LM8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTk2/MDUyLTE2MDk3NzE5/MDYtNDEzOS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/HKspJB5hF4y0dydajlxALXLVsValXHyVOFmWlzLkP2k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTk2/MDUyLTE2MDk3NzE5/MDYtNDEzOS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/olBljCGBLvyKlnvew-fDq6RGQM-gQ5mtVb4PTRIv7w0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTk2/MDUyLTE2MDk3NzE5/MDctNTkxNi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/wNOYzKC_3JY3kex7U2fdGL7RR2ZlYoMBBxT0J0TGres/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTk2/MDUyLTE2MDk3NzE5/MDctNTkxNi5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/peBYlSJxA1NQFgIBNGGOyiH3SmzSXKnHMfGwEAhcCEo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTk2/MDUyLTE2MDk3NzE5/MDYtNDAzOC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/T9IXYxeQkE-Kt0XabHU1PGxe-eqxP3emAtCW814-508/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTk2/MDUyLTE2MDk3NzE5/MDYtNDAzOC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/oHh9cjTueRRqtnU0xGtx8q0R5BSQ2IaWm868CSMe16g/rs:fit/g:sm/q:90/h:600/w:429/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTk2/MDUyLTE2MDE1Nzc1/NzctMTU4My5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/k6keRNlSLQt1xsROVXFXZi_OPjL3mR2hALoqPy6hQv0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTk2/MDUyLTE2MDE1Nzc1/NzctMTU4My5qcGVn.jpeg"
+      }
+    ],
+    "community": {
+      "rating": {
+        "count": 100,
+        "average": 4.77
+      },
+      "have": 1479,
+      "want": 235
+    },
+    "master": {
+      "id": 78748,
+      "title": "Mariah Carey",
+      "main_release": 7019419,
+      "year": 1990,
+      "uri": "https://www.discogs.com/master/78748-Mariah-Carey-Mariah-Carey",
+      "num_for_sale": 1663
+    }
+  },
+  "apple_music": {
+    "id": 169605890,
+    "url": "https://music.apple.com/us/album/mariah-carey/169605890?uo=4",
+    "name": "Mariah Carey",
+    "artist": "Mariah Carey",
+    "artist_id": 91853,
+    "artwork_url_100": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/58/5c/bc/585cbcc5-efca-dd51-c8dc-69e44f01b27f/mzi.xgrszxsu.jpg/100x100bb.jpg",
+    "artwork_url_600": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/58/5c/bc/585cbcc5-efca-dd51-c8dc-69e44f01b27f/mzi.xgrszxsu.jpg/600x600bb.jpg",
+    "release_date": "1990-06-12T07:00:00Z",
+    "track_count": 11,
+    "copyright": "℗ 1990 Columbia Records,  a division of Sony Music Entertainment",
+    "primary_genre": "R&B/Soul",
+    "country": "USA",
+    "tracks": [
+      {
+        "track_number": 1,
+        "disc_number": 1,
+        "name": "Vision of Love",
+        "duration_ms": 208553,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/ac/f0/07/acf007a1-4570-d3b2-7224-434920c28cc2/mzaf_1100260830721768296.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/vision-of-love/169605890?i=169605940&uo=4"
+      },
+      {
+        "track_number": 2,
+        "disc_number": 1,
+        "name": "There's Got to Be a Way",
+        "duration_ms": 292077,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/7c/08/61/7c08611b-c5c0-9fa8-723d-0b1ce9d707cd/mzaf_4337802114499213505.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/theres-got-to-be-a-way/169605890?i=169606156&uo=4"
+      },
+      {
+        "track_number": 3,
+        "disc_number": 1,
+        "name": "I Don't Wanna Cry",
+        "duration_ms": 287468,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/0c/ba/85/0cba850f-1aba-0219-e7ab-e465cc650917/mzaf_11972909021919384926.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/i-dont-wanna-cry/169605890?i=169606234&uo=4"
+      },
+      {
+        "track_number": 4,
+        "disc_number": 1,
+        "name": "Someday",
+        "duration_ms": 245101,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/39/2f/cb/392fcbdb-f72b-cd8b-8660-5b985525be24/mzaf_10062999496601235501.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/someday/169605890?i=169606370&uo=4"
+      },
+      {
+        "track_number": 5,
+        "disc_number": 1,
+        "name": "Vanishing",
+        "duration_ms": 251580,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/64/9b/36/649b36b4-8d9e-eee8-c2a2-43231760092b/mzaf_5791253407236023409.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/vanishing/169605890?i=169606444&uo=4"
+      },
+      {
+        "track_number": 6,
+        "disc_number": 1,
+        "name": "All In Your Mind",
+        "duration_ms": 282935,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/33/4b/59/334b5912-dafa-5c2d-ebc5-7243e1d0c259/mzaf_18286099283646674280.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/all-in-your-mind/169605890?i=169606519&uo=4"
+      },
+      {
+        "track_number": 7,
+        "disc_number": 1,
+        "name": "Alone In Love",
+        "duration_ms": 250229,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/a3/73/f3/a373f30c-6a33-3467-7465-b03273485b94/mzaf_4920643769742423334.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/alone-in-love/169605890?i=169606546&uo=4"
+      },
+      {
+        "track_number": 8,
+        "disc_number": 1,
+        "name": "You Need Me",
+        "duration_ms": 230468,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/7a/28/b1/7a28b1cf-730d-3935-c0f6-6f25822e6e0d/mzaf_2130668351873726792.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/you-need-me/169605890?i=169606587&uo=4"
+      },
+      {
+        "track_number": 9,
+        "disc_number": 1,
+        "name": "Sent from Up Above",
+        "duration_ms": 243651,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/9e/28/fc/9e28fc19-21af-57b6-11d2-26f63c6e8838/mzaf_18278208851743955671.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/sent-from-up-above/169605890?i=169606667&uo=4"
+      },
+      {
+        "track_number": 10,
+        "disc_number": 1,
+        "name": "Prisoner",
+        "duration_ms": 262120,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/85/62/60/8562603e-3a57-6c65-17dd-715cf522bdb8/mzaf_13083788990280198063.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/prisoner/169605890?i=169606673&uo=4"
+      },
+      {
+        "track_number": 11,
+        "disc_number": 1,
+        "name": "Love Takes Time",
+        "duration_ms": 228542,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/6b/56/20/6b5620cb-e1da-014a-2d6b-2069631cbc3c/mzaf_6765913137980895134.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/love-takes-time/169605890?i=169606806&uo=4"
+      }
+    ]
+  },
+  "discrepancies": [
+    "Release year differs: your pressing=2020, Apple Music edition=1990. Apple Music typically streams the most recent remaster."
+  ],
+  "local_cover": "images/15996052.jpg"
+}

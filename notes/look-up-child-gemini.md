@@ -1,0 +1,1 @@
+Released in 2018, *Look Up Child* is the Grammy-winning sophomore album by Lauren Daigle. With its reggae-tinged pop and soulful ballads like the crossover smash "You Say," the album dominated both the Christian and mainstream Billboard charts.

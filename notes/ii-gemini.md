@@ -1,0 +1,1 @@
+Released in 1994, *II* is the monumental sophomore album from R&B legends Boyz II Men. Featuring production from Babyface and Jimmy Jam & Terry Lewis, the album spawned massive hits like "I'll Make Love to You" and "On Bended Knee," defining the sound of 90s R&B.

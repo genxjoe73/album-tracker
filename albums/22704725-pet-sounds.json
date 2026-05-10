@@ -1,0 +1,426 @@
+{
+  "captured_at": "2026-05-10T16:30:57+00:00",
+  "schema_version": 3,
+  "artist": "The Beach Boys",
+  "title": "Pet Sounds",
+  "original_release_year": 1966,
+  "pressing_year": 2016,
+  "upgrade_suggestion": "The 2016 50th Anniversary mono pressing (r8613025, Analogue Productions / UMe, 200g, Bernie Grundman cut) is the definitive audiophile upgrade for Pet Sounds stereo listeners who want the mono mix. For stereo specifically, the 2016 Abbey Road half-speed by Miles Showell (r8613024) is the reference. Your 50th Anniversary stereo pressing is already from that Miles Showell session, making it the top of the stereo lineage.",
+  "commentary": "**Pet Sounds** stands as one of the most studied and debated albums in the popular music canon, and the particulars of its recording, mixing, and mastering history are unusually relevant to any discussion of a specific pressing.\n\n**Brian Wilson** conceived and produced Pet Sounds during late 1965 and into early 1966 as a direct response to the Beatles' Rubber Soul, recording at a rotating set of Los Angeles studios — **Western Recorders**, **Gold Star Studios**, **Columbia Recording Studios**, and **Sunset Sound** — chosen session by session for their distinct acoustic properties and equipment. Rather than record the band playing together, Wilson built tracks in layers: he first cut the instrumental beds with a core group of elite LA session players known collectively as the **Wrecking Crew**, then overdubbed vocals and additional parts separately. The Wrecking Crew sessions deployed an extraordinary range of instruments alongside conventional rock and orchestral arrangements — **theremin**, bicycle bells, Coca-Cola cans struck as percussion, dog whistles, and various horns and strings — all run through Wilson's increasingly elaborate **multi-microphone tracking** setups. Capitol's technical staff found the sessions unconventional enough that Wilson frequently had to negotiate simply to use the facilities his way.\n\nThe album was released in May 1966 to a reception that disappointed Capitol commercially, particularly against the concurrent dominance of the British Invasion. The retrospective reappraisal began in earnest in the 1970s and accelerated through the 1980s and 1990s as rock criticism formalized Pet Sounds as a foundational artifact of the **studio-as-instrument** approach — influential on Sgt. Pepper, on orchestral pop broadly, and on virtually every subsequent discussion of what a pop record could structurally be. Standout tracks — \"Wouldn't It Be Nice,\" \"God Only Knows,\" \"Caroline, No,\" \"I Just Wasn't Made for These Times\" — are regularly cited in that critical literature, though the album's reputation rests substantially on its coherence as a sequence rather than individual peak moments.\n\nThe question of mono versus stereo is central to any serious engagement with this album. Wilson mixed Pet Sounds in **mono** — catalog **T 2458** — and that mix represents his intentional creative statement. The **stereo mix** — catalog **ST 2458** — was assembled by Capitol as a commercial requirement of the era, a fold-down process that Wilson did not closely supervise. The stereo version separates elements in ways that can feel arbitrary because they largely are: the stereo field was constructed after the fact from a mix philosophy that was inherently monaural. The mono collapses Wilson's stacked orchestration into a dense, unified wall of sound that he shaped deliberately; the stereo spreads those same elements into a presentation that loses some of the deliberate compression and punch Wilson built into the record. Most collectors and critical listeners consider the mono the definitive document. The stereo is a legitimate historical artifact and is the version many listeners grew up with, but it reflects Capitol's needs rather than Wilson's intentions.\n\nThe **original 1966 Capitol pressings** were cut from the session masters and represent the earliest generation of lacquers. The album has been remastered numerous times over the subsequent decades. The **2016 50th Anniversary reissue program** under **UMe** (Universal Music Enterprises, Capitol's current parent organization) produced new remastered editions for multiple formats, drawing renewed attention to the album and its production history. The remastering work involved revisiting the original analog tapes; the stereo LP pressing was intended as an audiophile-tier reissue rather than a catalog reprint. The **Capitol Mastering** credit in the deadwax places this pressing within UMe's in-house mastering infrastructure, as distinct from third-party mastering facilities sometimes contracted for premium reissues.\n\n**About this US pressing (LP, stereo):** Capitol Records / UMe catalog **B0024729-01**, with deadwax inscription consistent with a **Capitol Mastering** origin. This is a stereo pressing of an album whose canonical mix is mono — the stereo configuration reflects Capitol's historical secondary mix rather than Wilson's supervised work. Collectors who prioritize Wilson's intended listening experience will generally seek out T 2458 mono pressings; this pressing is best understood as a well-made modern stereo reissue with access to the original tape generation. For a listener whose reference is the stereo version, this is likely among the better available stereo LP options. For a listener coming to the album primarily, the mono remains the authoritative text.\n\n### Gemini Notes\n\nReleased in 1966, *Pet Sounds* is Brian Wilson's pocket symphony and one of the most influential albums ever recorded. Abandoning surf rock for complex vocal harmonies and unconventional instruments, it elevated pop music to high art.\n\n**About this pressing:**",
+  "discogs": {
+    "release_id": 22704725,
+    "master_id": 17217,
+    "uri": "https://www.discogs.com/release/22704725-The-Beach-Boys-Pet-Sounds",
+    "title": "Pet Sounds",
+    "artists": [
+      {
+        "name": "The Beach Boys",
+        "id": 70829,
+        "role": null
+      }
+    ],
+    "year": 0,
+    "released": null,
+    "country": "US",
+    "labels": [
+      {
+        "name": "UMe",
+        "catno": "B0024729-01",
+        "id": 68029
+      },
+      {
+        "name": "Capitol Records",
+        "catno": "ST 2458",
+        "id": 654
+      }
+    ],
+    "formats": [
+      {
+        "name": "Vinyl",
+        "qty": "1",
+        "descriptions": [
+          "LP",
+          "Album",
+          "Reissue",
+          "Stereo"
+        ],
+        "text": null
+      }
+    ],
+    "genres": [
+      "Rock",
+      "Pop"
+    ],
+    "styles": [
+      "Psychedelic Rock",
+      "Pop Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Wouldn't It Be Nice",
+        "duration": "2:22",
+        "type": "track"
+      },
+      {
+        "position": "A2",
+        "title": "You Still Believe In Me",
+        "duration": "2:33",
+        "type": "track"
+      },
+      {
+        "position": "A3",
+        "title": "That's Not Me",
+        "duration": "2:27",
+        "type": "track"
+      },
+      {
+        "position": "A4",
+        "title": "Don't Talk (Put Your Head On My Shoulder)",
+        "duration": "2:52",
+        "type": "track"
+      },
+      {
+        "position": "A5",
+        "title": "I'm Waiting For The Day",
+        "duration": "3:01",
+        "type": "track"
+      },
+      {
+        "position": "A6",
+        "title": "Let's Go Away For Awhile",
+        "duration": "2:18",
+        "type": "track"
+      },
+      {
+        "position": "A7",
+        "title": "Sloop John B",
+        "duration": "2:57",
+        "type": "track"
+      },
+      {
+        "position": "B1",
+        "title": "God Only Knows",
+        "duration": "2:46",
+        "type": "track"
+      },
+      {
+        "position": "B2",
+        "title": "I Know There's An Answer",
+        "duration": "3:10",
+        "type": "track"
+      },
+      {
+        "position": "B3",
+        "title": "Here Today",
+        "duration": "2:38",
+        "type": "track"
+      },
+      {
+        "position": "B4",
+        "title": "I Just Wasn't Made For These Times",
+        "duration": "3:21",
+        "type": "track"
+      },
+      {
+        "position": "B5",
+        "title": "Pet Sounds",
+        "duration": "2:20",
+        "type": "track"
+      },
+      {
+        "position": "B6",
+        "title": "Caroline, No",
+        "duration": "2:16",
+        "type": "track"
+      }
+    ],
+    "extraartists": [
+      {
+        "name": "George Jerman",
+        "role": "Photography By [Cover Photo]",
+        "id": 2068078
+      },
+      {
+        "name": "Dave Jampel",
+        "role": "Photography By [Liner Photos]",
+        "id": 2235472
+      },
+      {
+        "name": "George Jerman",
+        "role": "Photography By [San Diego Zoo]",
+        "id": 2068078
+      },
+      {
+        "name": "Brian Wilson",
+        "role": "Producer",
+        "id": 189718
+      },
+      {
+        "name": "Brian Wilson",
+        "role": "Written-By",
+        "id": 189718
+      },
+      {
+        "name": "Mike Love",
+        "role": "Written-By",
+        "id": 372789
+      },
+      {
+        "name": "Terry Sachen",
+        "role": "Written-By",
+        "id": 669349
+      },
+      {
+        "name": "Tony Asher (2)",
+        "role": "Written-By",
+        "id": 647152
+      }
+    ],
+    "identifiers": [
+      {
+        "type": "Barcode",
+        "value": "6 02547 82229 1",
+        "description": "Printed"
+      },
+      {
+        "type": "Barcode",
+        "value": "0602547822291",
+        "description": "EAN-code, scanned"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "0957139-A-1",
+        "description": "Runout Side A, variant 1"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "0957139-B-1",
+        "description": "Runout Side B, variant 1"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "0957139-A-1 17 1",
+        "description": "Runout Side A, variant 2"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "0957139-B-1 15 1",
+        "description": "Runout Side B, variant 2"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "0957139-A-1 33 1",
+        "description": "Runout Side A, variant 3"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "0957139-B-1 23 1",
+        "description": "Runout Side B, variant 3"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "0957139-A-1 21 1",
+        "description": "Runout Side A, variant 4"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "0957139-B-1 5 1",
+        "description": "Runout Side B, variant 4"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "0957139-A-1 8 1",
+        "description": "Runout Side A, variant 5"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "0957139-B-1 1 1",
+        "description": "Runout Side B, variant 5"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "0957139-A-1 48 1",
+        "description": "Runout Side A, variant 6"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "0957139-B-1 35 1",
+        "description": "Runout Side B, variant 6"
+      }
+    ],
+    "notes": "May have \"MANUFACTURED in POLAND\" sticker or \"Made in Poland\" printed on the shrink wrap or cover,\nsome versions have it beside the The in The Beach Boys at top right corner and not at bottom cover.\n\n[Runouts]\nRunouts are etched. 5 is backwards on Side B variant 4. \n\n[Catalog Numbers]\nFirst catalog number (legacy) on jacket top spine, back.\nSecond catalog number (legacy) on labels.\nThird catalog number on jacket spine, back, in label matrices.\n\n[Labels]\nCapitol logo appears on jacket front, spine, back, labels.\nEMI logo appears on jacket back.\nUMe logo appears on jacket back.\n\nTrack A7 as \"Sloop John B.\" on jacket front.\nTrack B6 as \"Caroline No\" on jacket front and back.",
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/nkurgE57OWl6Hohlfg1M_KMNVNg-CabA0P6D1mMifsc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzA0/NzI1LTE2NDg2ODgx/NjEtODk1OS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/fLrimalvGaYIDi4e81mNJl0uTgGj7Ur0aJynaydA6bw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzA0/NzI1LTE2NDg2ODgx/NjEtODk1OS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/v01N2TVs3IiLaa2qhaU67VBI8lxnFs22xBMeJVoSGp4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzA0/NzI1LTE2NDg2ODgx/NjYtMTcwOS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/HJqNh6JQoNYK2elOILXTZCrUNswq6COUwdKiOr5AEBo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzA0/NzI1LTE2NDg2ODgx/NjYtMTcwOS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/o_IAdhggh1BM9BSeB4sro5UKlOdXzEhVmJQ7K2cjAJo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzA0/NzI1LTE2NDg2ODgx/NzAtNjk5MC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/SywMw8lPok0HwkEWampqTfN1IS209c5osaiQeiVMH7Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzA0/NzI1LTE2NDg2ODgx/NzAtNjk5MC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/2jyW3MJK_PMRKH1YZ-8TxvWgqtsu75paJoYtctv57xE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzA0/NzI1LTE2NDg2ODgx/NzAtMjkxMi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/N1VHUOsP4XjpVnZVcxQPsn8VTKUFEXVz23P6OQ9-gXU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzA0/NzI1LTE2NDg2ODgx/NzAtMjkxMi5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/WPy0T0Ytdr9fSr5SUlLgixAYNK8nSmvGFG7vP-ZVoSg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzA0/NzI1LTE2NDg2ODgx/NzAtODI1NC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/SdSAQp8PB3pztjJ95K5UyOu6yuW63LZUJkOVw4eazlg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzA0/NzI1LTE2NDg2ODgx/NzAtODI1NC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/MaG2fnzzYAYJcPCEe4NBm3MEU9zfEeOOkZI-rSmwJbQ/rs:fit/g:sm/q:90/h:454/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzA0/NzI1LTE2NzU5OTE3/MzctMzc1NS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/XXCI8wkvsDwKDjPpE5r1V8eMRwzKvh5x22DgY0I_4-s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzA0/NzI1LTE2NzU5OTE3/MzctMzc1NS5qcGVn.jpeg"
+      }
+    ],
+    "community": {
+      "rating": {
+        "count": 194,
+        "average": 4.58
+      },
+      "have": 3238,
+      "want": 454
+    },
+    "master": {
+      "id": 17217,
+      "title": "Pet Sounds",
+      "main_release": 1354479,
+      "year": 1966,
+      "uri": "https://www.discogs.com/master/17217-The-Beach-Boys-Pet-Sounds",
+      "num_for_sale": 2427
+    }
+  },
+  "apple_music": {
+    "id": 1440841241,
+    "url": "https://music.apple.com/us/album/pet-sounds/1440841241?uo=4",
+    "name": "Pet Sounds",
+    "artist": "The Beach Boys",
+    "artist_id": 562555,
+    "artwork_url_100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/35/bb/c4/35bbc4eb-9387-97b0-b138-64b7a949ea43/13UABIM03512.rgb.jpg/100x100bb.jpg",
+    "artwork_url_600": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/35/bb/c4/35bbc4eb-9387-97b0-b138-64b7a949ea43/13UABIM03512.rgb.jpg/600x600bb.jpg",
+    "release_date": "1966-05-16T07:00:00Z",
+    "track_count": 13,
+    "copyright": "℗ 2012 Capitol Records, LLC",
+    "primary_genre": "Rock",
+    "country": "USA",
+    "tracks": [
+      {
+        "track_number": 1,
+        "disc_number": 1,
+        "name": "Wouldn't It Be Nice",
+        "duration_ms": 154773,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d0/fb/61/d0fb618b-d390-e28d-73f6-473fdc789e46/mzaf_17739354464510580563.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/wouldnt-it-be-nice/1440841241?i=1440841243&uo=4"
+      },
+      {
+        "track_number": 2,
+        "disc_number": 1,
+        "name": "You Still Believe In Me",
+        "duration_ms": 156267,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0c/c0/34/0cc03420-1fb2-4bb2-5c95-eaa343832534/mzaf_75511873141925839.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/you-still-believe-in-me/1440841241?i=1440841248&uo=4"
+      },
+      {
+        "track_number": 3,
+        "disc_number": 1,
+        "name": "That's Not Me",
+        "duration_ms": 150960,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/40/c9/a0/40c9a079-6896-28c9-f7d2-0c2d7534f439/mzaf_6397751673709992738.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/thats-not-me/1440841241?i=1440841249&uo=4"
+      },
+      {
+        "track_number": 4,
+        "disc_number": 1,
+        "name": "Don't Talk (Put Your Head On My Shoulder)",
+        "duration_ms": 178400,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/97/62/3d/97623dd7-641c-75ab-2fac-bcdc9beea796/mzaf_13761161729685960981.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/dont-talk-put-your-head-on-my-shoulder/1440841241?i=1440841251&uo=4"
+      },
+      {
+        "track_number": 5,
+        "disc_number": 1,
+        "name": "I'm Waiting for the Day",
+        "duration_ms": 187107,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/44/a1/bb/44a1bbc1-a675-6b17-42d6-0af92a280e2d/mzaf_3283715025060539626.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/im-waiting-for-the-day/1440841241?i=1440841253&uo=4"
+      },
+      {
+        "track_number": 6,
+        "disc_number": 1,
+        "name": "Let's Go Away for Awhile",
+        "duration_ms": 145733,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/9e/ef/bc/9eefbc5a-f16a-fff3-95de-2e6f08d15e4a/mzaf_9418671882882503589.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/lets-go-away-for-awhile/1440841241?i=1440841254&uo=4"
+      },
+      {
+        "track_number": 7,
+        "disc_number": 1,
+        "name": "Sloop John B",
+        "duration_ms": 181333,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/bf/8d/8e/bf8d8e20-6dca-f85f-0608-b15977c14f22/mzaf_1282090885908820983.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/sloop-john-b/1440841241?i=1440841256&uo=4"
+      },
+      {
+        "track_number": 8,
+        "disc_number": 1,
+        "name": "God Only Knows",
+        "duration_ms": 175667,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a6/d0/40/a6d040a3-40f1-c2cf-c6c1-3e9fd3f484aa/mzaf_11838690916794001351.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/god-only-knows/1440841241?i=1440841258&uo=4"
+      },
+      {
+        "track_number": 9,
+        "disc_number": 1,
+        "name": "I Know There's an Answer",
+        "duration_ms": 199320,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/80/4d/4f/804d4fdd-c8f1-00f6-9ce8-377ee8916071/mzaf_2394611753176732413.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/i-know-theres-an-answer/1440841241?i=1440841260&uo=4"
+      },
+      {
+        "track_number": 10,
+        "disc_number": 1,
+        "name": "Here Today",
+        "duration_ms": 189427,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/66/eb/8b/66eb8b30-18c8-d3ec-4ad5-d32afc8d98a6/mzaf_3927492961714077726.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/here-today/1440841241?i=1440841261&uo=4"
+      },
+      {
+        "track_number": 11,
+        "disc_number": 1,
+        "name": "I Just Wasn't Made for These Times",
+        "duration_ms": 201813,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/57/38/87/57388707-a15e-55b3-9e8b-e4433d3734c1/mzaf_2346608151229543943.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/i-just-wasnt-made-for-these-times/1440841241?i=1440841263&uo=4"
+      },
+      {
+        "track_number": 12,
+        "disc_number": 1,
+        "name": "Pet Sounds",
+        "duration_ms": 156640,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f3/d7/d5/f3d7d5e2-59c2-bd4b-cc99-ed74e72b05db/mzaf_2857811241605849903.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/pet-sounds/1440841241?i=1440841265&uo=4"
+      },
+      {
+        "track_number": 13,
+        "disc_number": 1,
+        "name": "Caroline, No",
+        "duration_ms": 173587,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/25/4d/11/254d1136-b29a-f13e-c51b-79460fc83fe6/mzaf_17412643148449415986.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/caroline-no/1440841241?i=1440841269&uo=4"
+      }
+    ]
+  },
+  "discrepancies": [
+    "Total runtime differs by 143s (Discogs=2101s, Apple Music=2244s) — likely a different master/remaster."
+  ],
+  "local_cover": "images/22704725.jpg"
+}

@@ -1,0 +1,565 @@
+{
+  "captured_at": "2026-05-04T13:55:02+00:00",
+  "schema_version": 3,
+  "artist": "Pink Floyd",
+  "title": "The Dark Side Of The Moon",
+  "original_release_year": 1973,
+  "pressing_year": 2023,
+  "upgrade_suggestion": "Your 50th Anniversary stereo LP is already the current James Guthrie / Joel Plante mix and mastering, with lacquer cut by Bernie Grundman (the BG stamp in the runout). The meaningful sideways upgrade is the 2023 Dolby Atmos mix on Blu-ray (release 28541818) or the full 50th Anniversary box (26538182) for the Wembley live + 5.1 + quad mixes.",
+  "discogs": {
+    "release_id": 28580086,
+    "master_id": 10362,
+    "uri": "https://www.discogs.com/release/28580086-Pink-Floyd-The-Dark-Side-Of-The-Moon",
+    "title": "The Dark Side Of The Moon",
+    "artists": [
+      {
+        "name": "Pink Floyd",
+        "id": 45467,
+        "role": null
+      }
+    ],
+    "year": 2023,
+    "released": "2023-10-13",
+    "country": "Europe",
+    "labels": [
+      {
+        "name": "Pink Floyd Records",
+        "catno": "PFR50LP1",
+        "id": 983890
+      },
+      {
+        "name": "Pink Floyd Records",
+        "catno": "5054197141478",
+        "id": 983890
+      }
+    ],
+    "formats": [
+      {
+        "name": "Vinyl",
+        "qty": "1",
+        "descriptions": [
+          "LP",
+          "Album",
+          "Reissue",
+          "Remastered",
+          "Stereo"
+        ],
+        "text": "50th Anniversary, 180 Gram"
+      }
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Prog Rock",
+      "Art Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "A1a",
+        "title": "Speak To Me",
+        "duration": "1:30",
+        "type": "track"
+      },
+      {
+        "position": "A1b",
+        "title": "Breathe (In The Air)",
+        "duration": "2:43",
+        "type": "track"
+      },
+      {
+        "position": "A2",
+        "title": "On The Run",
+        "duration": "3:30",
+        "type": "track"
+      },
+      {
+        "position": "A3",
+        "title": "Time",
+        "duration": "6:53",
+        "type": "track"
+      },
+      {
+        "position": "A4",
+        "title": "The Great Gig In The Sky",
+        "duration": "4:15",
+        "type": "track"
+      },
+      {
+        "position": "B1",
+        "title": "Money",
+        "duration": "6:30",
+        "type": "track"
+      },
+      {
+        "position": "B2",
+        "title": "Us And Them",
+        "duration": "7:51",
+        "type": "track"
+      },
+      {
+        "position": "B3",
+        "title": "Any Colour You Like",
+        "duration": "3:24",
+        "type": "track"
+      },
+      {
+        "position": "B4",
+        "title": "Brain Damage",
+        "duration": "3:50",
+        "type": "track"
+      },
+      {
+        "position": "B5",
+        "title": "Eclipse",
+        "duration": "1:45",
+        "type": "track"
+      }
+    ],
+    "extraartists": [
+      {
+        "name": "George Hardie",
+        "role": "Artwork [Sleeve Art], Artwork [Stickers Art]",
+        "id": 1826981
+      },
+      {
+        "name": "Barry St. John",
+        "role": "Backing Vocals",
+        "id": 340639
+      },
+      {
+        "name": "Doris Troy",
+        "role": "Backing Vocals",
+        "id": 251578
+      },
+      {
+        "name": "Lesley Duncan",
+        "role": "Backing Vocals",
+        "id": 246096
+      },
+      {
+        "name": "Liza Strike",
+        "role": "Backing Vocals",
+        "id": 251579
+      },
+      {
+        "name": "Roger Waters",
+        "role": "Bass Guitar, Vocals, Synthesizer [VCS3], Tape [Effects], Lyrics By [All]",
+        "id": 110862
+      },
+      {
+        "name": "Hipgnosis (2)",
+        "role": "Design [Sleeve], Photography By",
+        "id": 1826972
+      },
+      {
+        "name": "Alan Parsons",
+        "role": "Engineer",
+        "id": 157075
+      },
+      {
+        "name": "Peter James",
+        "role": "Engineer [Assistant]",
+        "id": 277864
+      },
+      {
+        "name": "Richard Wright",
+        "role": "Keyboards, Vocals, Synthesizer [VCS3]",
+        "id": 110861
+      },
+      {
+        "name": "Bernie Grundman",
+        "role": "Lacquer Cut By",
+        "id": 307942
+      },
+      {
+        "name": "Nick Mason",
+        "role": "Percussion, Tape [Effects]",
+        "id": 246097
+      },
+      {
+        "name": "Pink Floyd",
+        "role": "Producer, Music By",
+        "id": 45467
+      },
+      {
+        "name": "Bernie Grundman",
+        "role": "Remastered By",
+        "id": 307942
+      },
+      {
+        "name": "James Guthrie",
+        "role": "Remastered By",
+        "id": 171450
+      },
+      {
+        "name": "Joel Plante",
+        "role": "Remastered By",
+        "id": 409280
+      },
+      {
+        "name": "Dick Parry",
+        "role": "Saxophone",
+        "id": 251575
+      },
+      {
+        "name": "Chris Thomas",
+        "role": "Supervised By [Mixing]",
+        "id": 31213
+      },
+      {
+        "name": "Clare Torry",
+        "role": "Vocals, Composed By [Vocal]",
+        "id": 251574
+      },
+      {
+        "name": "David Gilmour",
+        "role": "Vocals, Guitar, Synthesizer [VCS3]",
+        "id": 110863
+      },
+      {
+        "name": "David Gilmour",
+        "role": "Written-By",
+        "id": 110863
+      },
+      {
+        "name": "Nick Mason",
+        "role": "Written-By",
+        "id": 246097
+      },
+      {
+        "name": "Richard Wright",
+        "role": "Written-By",
+        "id": 110861
+      },
+      {
+        "name": "Roger Waters",
+        "role": "Written-By",
+        "id": 110862
+      }
+    ],
+    "identifiers": [
+      {
+        "type": "Barcode",
+        "value": "5 054197 141478",
+        "description": "Text On Sticker"
+      },
+      {
+        "type": "Barcode",
+        "value": "5054197141478",
+        "description": "Scanned On Sticker"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "5054197141478-A 50TH 37307 3A BG ▽",
+        "description": "Runout side A, variant 1"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "5054197141478-B B 50TH 37307 4B BG ▽",
+        "description": "Runout side B, variant 1"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "5054197141478-A 50TH 37307 3A BG ▽  ",
+        "description": "Runout side A, variant 2"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "5054197141478-B 50TH 37307-5B BG ▽ 4̶0̶0̶1̶7̶2̶ 1̶",
+        "description": "Runout side B, variant 2"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "5054197141478-A 50TH 37307 3A B BG ▽",
+        "description": "Runout side A, variant 3"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "5054197141478-B 50TH 37307 4B BG ▽",
+        "description": "Runout side B, variant 3"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "5054197141478-A 50TH 37307 3A B BG ▽",
+        "description": "Runout side A, variant 4"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "5054197141478-B B 50TH 37307 4B BG ▽",
+        "description": "Runout side B, variant 4"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "5054197141478-A  50TH  37307 3A  BG   ▽",
+        "description": "Runout side A, variant 5"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "5054197141478-B  50TH  37307 4B  BG   ▽",
+        "description": "Runout side B, variant 5"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "5054197141478-A 50TH 37307 6A BG ▽",
+        "description": "Runout side A, variant 6"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "5054197141478-B 50TH 37307 7B BG ▽",
+        "description": "Runout side B, variant 6"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "5054197141478-A B 50TH 37307 14A BG LI",
+        "description": "Runout side A, variant 7"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "5054197141478-B 50TH 37307 18B BG LI ▽ B",
+        "description": "Runout side B, variant 7"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "5054197141478-A 50TH 37307 14A BG LI",
+        "description": "Runout side A, variant 8"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "5054197141478-B 50TH 37307 18 18B BG LI ▽ B",
+        "description": "Runout side B, variant 8"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "5054197141478-A 50TH 37307 4A 4̶0̶0̶1̶7̶2̶ 1̶A  BG  ⛛ C",
+        "description": "Runout Side A, variant 9"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "5054197141478-B 50TH 37307 7B BG ⛛  ",
+        "description": "Runout Side B, variant 9"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "5054197141478-A  D  50TH 37307 14A BG LI",
+        "description": "Runout Side A, variant 10"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "5054197141478-B 50TH 37307 8 18B BG LI ⛛C",
+        "description": "Runout Side B, variant 10"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "5054197141478-A 50TH C 37307 14A BG LI",
+        "description": "Runout Side A, variant 11"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "5054197141478-B D 50TH 37307 8 18B BG LI ⛛",
+        "description": "Runout Side B, variant 11"
+      }
+    ],
+    "notes": "Gatefold cover issued with two posters and two stickers.  Different UPC and [l267164] code than [r=28614196].\n\nHype Sticker:\n\"Pink Floyd\n50\nThe Dark Side\nOf The Moon\n\nRemastered\nFor The\n50th Anniversary\nOn Heavyweight 180g Vinyl\"\n\nMade in The Netherlands\n\nRunouts description: all runouts are etched, except \"37307 3A\" and \"37307 4B (or variants of)\" that are stamped. The variant 2 B side contains \"400172 1\" which has been crossed out.\nVariant 8, side B, the first 18 is actually a 1 with an 8 stamped directly on top of it.  Also the etched LI on both sides is in an etched box.\nVariant 11, side B, the 8 is crossed out. LI is also boxed on both sides.",
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/NJEN75m6ca2KpkQlk0Kr-HN9DDyYMY1nyyhMGjOTAGw/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTgw/MDg2LTE3MDMzNDIy/MDYtNTgwMC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/pIBbzqkf6QwmAGkPjzlq4KrqfOS9e1qKblSr5475Fi8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTgw/MDg2LTE3MDMzNDIy/MDYtNTgwMC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/AnDv-ngoEAXVdurpxzPqaTR9Jw9_jMDmJSyAoB0506w/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTgw/MDg2LTE3MDMzNDIy/MzMtNzkyMC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/qBGKNWr0oGrZEIVof1gMl10hkHp7-AwpGeO0vbTfiww/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTgw/MDg2LTE3MDMzNDIy/MzMtNzkyMC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/TDBakW9tHMtkKpxfvszDfAlQ36hyoxE6BnPZoKLsthk/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTgw/MDg2LTE3NDg1MTEw/MzctNDU3Mi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/PjMgc7CuCTW8XPYgCg2MLxyydCR_SzSoL4sWxFjO6L8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTgw/MDg2LTE3NDg1MTEw/MzctNDU3Mi5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/Cg3E8ri6g59THLWdr2hPqEx9Ki8ScQan1uzMQCgwOrg/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTgw/MDg2LTE3NDg1MTEw/MzctODQ5Ny5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/OtkHDmzkgKwh_TepKj8N8xFd22U3i_X8N9Q3rxaDXkM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTgw/MDg2LTE3NDg1MTEw/MzctODQ5Ny5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/3_Hh2UmIMBW-paqcH9FpraUBL2GXzS_L_h556cNzo7U/rs:fit/g:sm/q:90/h:412/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTgw/MDg2LTE3NDg1MTEw/MzctMTg4OS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/z7VkE0bsiAmEHnAKcA-izTh_-UQaG5VDYHY6M6uSDfQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTgw/MDg2LTE3NDg1MTEw/MzctMTg4OS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/yxzP4ktrZVooOxv8G4fggKgXCOC5M6yfGVxRx5LQ6Vg/rs:fit/g:sm/q:90/h:293/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTgw/MDg2LTE3MDMzNDI0/ODEtNTcyOC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/8aRrygnIubYJKLY0Eykac7t-g-rfw52jCYeyupct99o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTgw/MDg2LTE3MDMzNDI0/ODEtNTcyOC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/ByF3D-jBN4n9W8RXyo0etd2_Pocjr_neNLY22wdx-l4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTgw/MDg2LTE2OTc5Nzk1/MjUtNjkyNC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/DcJAWb7Vnf_ooMz5g6Yp9UJdO8AmtUXDrbz3eUSGrEU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTgw/MDg2LTE2OTc5Nzk1/MjUtNjkyNC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/rMEltiAnerQtdi485VbbkiDZPXXXhmoNIgH3WXsGHX8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTgw/MDg2LTE2OTc5Nzk1/NDctNzg3NC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/akumu3xD20NbgW47Qn6aDt31bZwBO65fxPzIuY0OpLk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTgw/MDg2LTE2OTc5Nzk1/NDctNzg3NC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/f8mweUOH7mqnYqMDikno710oYJbK7JIh-3HbAUxdm3k/rs:fit/g:sm/q:90/h:397/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTgw/MDg2LTE3NDg1MTEw/MzctMTMzOS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/vrfVH1gpSpKRmt8_Ew2Has7xkHrUYwk7-W18Bt0oOrU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTgw/MDg2LTE3NDg1MTEw/MzctMTMzOS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/IXuZHlJuE5DFKJSFPRLgvE_RVEDkvHeq8krxnkYtce4/rs:fit/g:sm/q:90/h:400/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTgw/MDg2LTE3NDg1MTEw/MzYtNDk2NS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/N5jlM_d3lJFcybs2H9QeqeMI0kBEAjJIfZLac4p-mOk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTgw/MDg2LTE3NDg1MTEw/MzYtNDk2NS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/XLXwcPF5SokoxQOpUe7iBkpyDlziKW8OTnS-iE4KEvQ/rs:fit/g:sm/q:90/h:395/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTgw/MDg2LTE3NDg1MTEw/MzYtODc5MS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/aZzvnK0woTPxzN5j5Coib14u8cuBAyuiwmLd7NeRmEE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTgw/MDg2LTE3NDg1MTEw/MzYtODc5MS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/PiQH0hK4TIrYXRjBftTEvrdfHMpdEGt6GkxJJT4v0Y0/rs:fit/g:sm/q:90/h:394/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTgw/MDg2LTE3NDg1MTEw/MzctNjQwNC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/zgPyO2Is30AUBgMDEL9VYWMxd5T5tHq9-_IU4vOCKEE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTgw/MDg2LTE3NDg1MTEw/MzctNjQwNC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/bsqS75rp1PwZrrCVXdc4Wls_F0zjgIuH1wcZlaeYNso/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTgw/MDg2LTE2OTc4OTM4/NDAtNjE4OC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/rKp2APvOqmA3KmRBTMSIW-WUkLcx9sxehy-opSZZWCA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTgw/MDg2LTE2OTc4OTM4/NDAtNjE4OC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/FBvBlXXaFDXSvVv56E7BNuBh2i_zsjXOz7G4geU09fo/rs:fit/g:sm/q:90/h:600/w:187/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTgw/MDg2LTE3NDg1MTEw/MzYtNTQ4NS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/5hX4H3G2rjA2WxW-KwwLoeVrJ1YXCV9-iBGcEN7kC4w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTgw/MDg2LTE3NDg1MTEw/MzYtNTQ4NS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/8chVgt-UvBQNBElLQ7fLENKMXIzyfx9IlgEayAI3SY4/rs:fit/g:sm/q:90/h:415/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTgw/MDg2LTE3NDg1MTEw/MzYtNDYyNi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/OKRcKwFqLQfA49l_RWyQ5f_3keyX3iJwC24CpVVuq-o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTgw/MDg2LTE3NDg1MTEw/MzYtNDYyNi5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/hHatbYc3H552rFfiSJ1Mc2uwiQMgSKfTkKPO2dz6Hnc/rs:fit/g:sm/q:90/h:425/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTgw/MDg2LTE3NDg1MTEw/MzUtMTY3MC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/FjXauA8XJuZQ8Eqb5RREtTYGO2jh3Ljr9sPY8eZ0zmQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTgw/MDg2LTE3NDg1MTEw/MzUtMTY3MC5qcGVn.jpeg"
+      }
+    ],
+    "community": {
+      "rating": {
+        "count": 1617,
+        "average": 4.81
+      },
+      "have": 15318,
+      "want": 1705
+    },
+    "master": {
+      "id": 10362,
+      "title": "The Dark Side Of The Moon",
+      "main_release": 1873013,
+      "year": 1973,
+      "uri": "https://www.discogs.com/master/10362-Pink-Floyd-The-Dark-Side-Of-The-Moon",
+      "num_for_sale": 8830
+    }
+  },
+  "apple_music": {
+    "id": 1665303755,
+    "url": "https://music.apple.com/us/album/the-dark-side-of-the-moon-50th-anniversary-remastered/1665303755?uo=4",
+    "name": "The Dark Side of the Moon (50th Anniversary) [Remastered]",
+    "artist": "Pink Floyd",
+    "artist_id": 487143,
+    "artwork_url_100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/49/86/18/49861852-877b-0992-fa27-58b25fa032b5/196589805232.jpg/100x100bb.jpg",
+    "artwork_url_600": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/49/86/18/49861852-877b-0992-fa27-58b25fa032b5/196589805232.jpg/600x600bb.jpg",
+    "release_date": "1973-03-01T08:00:00Z",
+    "track_count": 10,
+    "copyright": "℗ 2023 Pink Floyd Music Ltd., marketed and distributed by Sony Music Entertainment",
+    "primary_genre": "Rock",
+    "country": "USA",
+    "tracks": [
+      {
+        "track_number": 1,
+        "disc_number": 1,
+        "name": "Speak to Me",
+        "duration_ms": 71000,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ca/97/39/ca97398f-475b-ed9c-87b4-71dd4703c7eb/mzaf_3135516895718116723.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/speak-to-me/1665303755?i=1665303757&uo=4"
+      },
+      {
+        "track_number": 2,
+        "disc_number": 1,
+        "name": "Breathe (In the Air)",
+        "duration_ms": 165907,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/75/f9/4e/75f94e95-7365-f1e6-d7b1-78ee62683c44/mzaf_10360407645036919199.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/breathe-in-the-air/1665303755?i=1665303759&uo=4"
+      },
+      {
+        "track_number": 3,
+        "disc_number": 1,
+        "name": "On the Run",
+        "duration_ms": 213533,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/80/e2/b0/80e2b08e-c940-45f5-00a0-dcd431cd3450/mzaf_14576433245229727141.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/on-the-run/1665303755?i=1665303761&uo=4"
+      },
+      {
+        "track_number": 4,
+        "disc_number": 1,
+        "name": "Time",
+        "duration_ms": 425880,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/fe/90/7b/fe907b46-cd21-26a6-ab4b-8c2a4b0feae2/mzaf_9363878734800986622.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/time/1665303755?i=1665303762&uo=4"
+      },
+      {
+        "track_number": 5,
+        "disc_number": 1,
+        "name": "The Great Gig In the Sky",
+        "duration_ms": 283987,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a9/9c/b1/a99cb17f-e54d-7625-1761-e524de8eb950/mzaf_6696711327149108305.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/the-great-gig-in-the-sky/1665303755?i=1665303763&uo=4"
+      },
+      {
+        "track_number": 6,
+        "disc_number": 1,
+        "name": "Money",
+        "duration_ms": 382200,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a4/c2/0a/a4c20a23-7459-787a-3ab5-20ff1dac1249/mzaf_9883150736120302811.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/money/1665303755?i=1665303764&uo=4"
+      },
+      {
+        "track_number": 7,
+        "disc_number": 1,
+        "name": "Us and Them",
+        "duration_ms": 470333,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b1/19/9e/b1199e80-3e9d-568c-729d-2a0b4397f06d/mzaf_18155350597863255212.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/us-and-them/1665303755?i=1665304036&uo=4"
+      },
+      {
+        "track_number": 8,
+        "disc_number": 1,
+        "name": "Any Colour You Like",
+        "duration_ms": 205707,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/3c/8b/dd/3c8bddf3-9304-2cf2-e503-60f87d374b22/mzaf_7793604634249663699.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/any-colour-you-like/1665303755?i=1665304038&uo=4"
+      },
+      {
+        "track_number": 9,
+        "disc_number": 1,
+        "name": "Brain Damage",
+        "duration_ms": 230453,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/6b/36/24/6b3624e9-7558-5249-5801-ddc3cfbb03a5/mzaf_9936484867476900623.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/brain-damage/1665303755?i=1665304040&uo=4"
+      },
+      {
+        "track_number": 10,
+        "disc_number": 1,
+        "name": "Eclipse",
+        "duration_ms": 126827,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1b/41/34/1b413447-7138-c72a-b976-9accfa4f4eb9/mzaf_1833793050917318954.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/eclipse/1665303755?i=1665304041&uo=4"
+      }
+    ]
+  },
+  "discrepancies": [
+    "Total runtime differs by 39s (Discogs=2531s, Apple Music=2570s) — likely a different master/remaster.",
+    "Release year differs: your pressing=2023, Apple Music edition=1973. Apple Music typically streams the most recent remaster."
+  ],
+  "local_cover": "images/28580086.jpg",
+  "commentary": "Released in March 1973, *The Dark Side of the Moon* is Pink Floyd's commercial breakthrough and arguably the defining album of the progressive rock era. Recorded at Abbey Road Studios with engineer Alan Parsons, the album explores themes of time, greed, conflict, and mental illness, partly inspired by the departure of founding member Syd Barrett. Its seamless transitions, use of musique concrète, philosophical lyrics, and groundbreaking synthesizer work created a cohesive auditory journey that changed how concept albums were made.\n\nThe album's legendary status is matched by its astonishing chart performance, remaining on the Billboard 200 for over 700 consecutive weeks. Iconic elements—such as the cash register loop in \"Money,\" Clare Torry's wordless vocal improvisation on \"The Great Gig in the Sky,\" and the heartbeat that frames the record—have embedded themselves into modern cultural consciousness. \n\n**About this pressing:**\n*Deadwax TBD — check runouts for mastering engineers or pressing plant symbols. Update this section once details are logged.*\n\n### Gemini Notes\n\nReleased in March 1973, *The Dark Side of the Moon* is Pink Floyd's commercial breakthrough and the defining album of the progressive rock era. Its themes of time, greed, and mental illness resonated globally, making it one of the best-selling records in history.\n\n**About this pressing:**"
+}

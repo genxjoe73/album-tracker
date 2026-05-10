@@ -1,0 +1,1 @@
+Released in 1976, *Chronicle: The 20 Greatest Hits* is the definitive compilation of Creedence Clearwater Revival's unmatched run of late-60s and early-70s singles. Featuring John Fogerty's swamp-rock songwriting mastery, it remains one of the best-selling greatest hits albums in music history.

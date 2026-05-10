@@ -1,0 +1,518 @@
+{
+  "captured_at": "2026-05-10T14:37:46+00:00",
+  "schema_version": 3,
+  "artist": "Rush",
+  "title": "Exit...Stage Left",
+  "original_release_year": 1981,
+  "pressing_year": 1981,
+  "upgrade_suggestion": "Upgrade to an original retail HRM/Hauppauge first pressing (r741607, Mercury SRM-2-7001) — the most-collected US variant with first-generation stampers and a clean mastering chain from Bob Ludwig. Avoid other CRC copies; seek a retail copy with no club sticker.",
+  "commentary": "**Exit...Stage Left** is Rush's second official live album and the document of the band at their commercial zenith. Recorded during the **Moving Pictures tour** in 1981 — the same cycle that had just produced the band's breakthrough album and the era-defining \"Tom Sawyer\" — the recording captures a band operating at maximum density: Geddy Lee's bass-and-Moog juggling act, Alex Lifeson's layered electric-and-synthesizer approach, and Neil Peart's percussion infrastructure were all at their most technically demanding. The setlist spans five albums: the three-part survey of Side A (\"Spirit of Radio,\" \"Red Barchetta,\" \"YYZ\") opens with Moving Pictures' top to bottom, the gatefold's middle sides pull from Hemispheres, Permanent Waves, and the older catalog (\"A Passage to Bangkok,\" \"Jacob's Ladder,\" \"Xanadu\"), and the closer Side D reprises Permanent Waves and Moving Pictures material before ending on the extended instrumental \"La Villa Strangiato.\" The result is not a greatest-hits survey but a coherent live argument for the band's progressive ambitions, with the 1977–1981 catalog functioning as a unified body of work. Notably, the brief acoustic piece **\"Broon's Bane\"** — Terry Brown's nickname, rendered here by Lifeson — serves as a palette cleanser before \"The Trees\" and the sprawling \"Xanadu,\" a structurally smart move that gives Side C its own internal narrative arc.\n\nThe recording was a multi-unit operation. **Terry Brown** — who had produced Rush continuously since *Fly by Night* (1975) and co-produced the Moving Pictures sessions — served as engineer alongside **Paul Northfield**, who handled the mix. Sides A, C, and D were tracked in Canada using **Le Mobile** (Guy Charbonneau's remote unit, also used on Permanent Waves) and the **Record Plant Mobile**, while Side B was tracked in the UK using **Mobile One**. The logistical split across two continents accounts for the hybrid metal-parts situation visible in the deadwax. Mastering was handled by **Bob Ludwig**, one of the most respected mastering engineers in North America during this period, through his work at Masterdisk.\n\nOn the pressing side: Mercury Records issued the album under catalog number **SRM-2-7001**, where **SRM-2** designates a double-LP in Mercury's standard US vinyl catalog series. For the US market, distribution of Mercury titles ran through Columbia's pressing infrastructure. **Columbia Records operated multiple pressing plants** in the early 1980s — most commonly **Hauppauge (HRM)** in New York for initial pressings, and **Terre Haute** in Indiana and **Carrollton, GA** for continued stock. The Hauppauge/HRM plant is where most collectors expect a first pressing of this title; Carrollton is a repress variant reflecting Columbia's regional distribution.\n\nThe **deadwax** on this copy tells a specific story. The plant identifier **G1** — present on Sides A, C, and D — is Columbia's code for the **Carrollton, Georgia plant**, confirming the physical pressing on three of four sides. Side B is the anomaly: the **T1** marker in the runout (`SRM2-7001B-1A XG T1 R6`) indicates that the **metal parts** originated at **Terre Haute**, Columbia's Indiana plant. The groove was pressed at Carrollton from a stamper shipped from Terre Haute — a **hybrid pressing** not uncommon when Columbia routed metal parts between facilities. The **XG** initials on Sides B and C represent an unidentified cutter, consistent with a Masterdisk-affiliated individual active in the early 1980s, though not definitively named in the collector literature.\n\n**About this 1981 US pressing (2×LP, gatefold):** Mercury Records catalog **SRM-2-7001**, pressed at the **Columbia Carrollton, GA plant** (G1), with Side B using **Terre Haute (T1) metal parts**. Deadwax: Side A — `G1 SRM-2-7001A-1C C 9`; Side B — `SRM2-7001B-1A XG T1 R6`; Side C — `G1 SRM-2-7001C-1B XG1 D2G`; Side D — `G1 SRM-2-7001D-1B A 19`. Mastered by Bob Ludwig. Standard gatefold jacket with Deborah Samuel photography and Hugh Syme art direction. This copy carries a **white CRC sticker** on the back cover — **CRC** (Columbia Record Club) indicates distribution through Columbia's mail-order club rather than retail, which is consistent with the Carrollton plant and the hybrid Terre Haute metal parts: Columbia House club pressings routinely drew from Carrollton stock using parts shipped from other facilities. The audio is identical to the retail pressing; the CRC designation is a distribution-channel distinction, not a sonic one.\n\n### Gemini Notes\n\nReleased in 1981, *Exit...Stage Left* is a definitive live album from Rush, capturing performances from their Permanent Waves and Moving Pictures tours. It perfectly balances the band's virtuosic complexity with their sheer power as a live trio.\n\n**About this pressing:**",
+  "discogs": {
+    "release_id": 15382309,
+    "master_id": 7461,
+    "uri": "https://www.discogs.com/release/15382309-Rush-ExitStage-Left",
+    "title": "Exit...Stage Left",
+    "artists": [
+      {
+        "name": "Rush",
+        "id": 61800,
+        "role": null
+      }
+    ],
+    "year": 1981,
+    "released": "1981",
+    "country": "US",
+    "labels": [
+      {
+        "name": "Mercury",
+        "catno": "SRM-2-7001",
+        "id": 39357
+      }
+    ],
+    "formats": [
+      {
+        "name": "Vinyl",
+        "qty": "2",
+        "descriptions": [
+          "LP",
+          "Album",
+          "Repress",
+          "Stereo"
+        ],
+        "text": "Carrollton Pressing"
+      }
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Hard Rock",
+      "Prog Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "The Spirit Of Radio",
+        "duration": "5:15",
+        "type": "track"
+      },
+      {
+        "position": "A2",
+        "title": "Red Barchetta",
+        "duration": "6:45",
+        "type": "track"
+      },
+      {
+        "position": "A3",
+        "title": "YYZ",
+        "duration": "7:44",
+        "type": "track"
+      },
+      {
+        "position": "B1",
+        "title": "A Passage To Bangkok",
+        "duration": "3:43",
+        "type": "track"
+      },
+      {
+        "position": "B2",
+        "title": "Closer To The Heart",
+        "duration": "3:06",
+        "type": "track"
+      },
+      {
+        "position": "B3",
+        "title": "Beneath, Between & Behind",
+        "duration": "2:31",
+        "type": "track"
+      },
+      {
+        "position": "B4",
+        "title": "Jacob's Ladder",
+        "duration": "8:39",
+        "type": "track"
+      },
+      {
+        "position": "C1",
+        "title": "Broon's Bane",
+        "duration": "1:35",
+        "type": "track"
+      },
+      {
+        "position": "C2",
+        "title": "The Trees",
+        "duration": "4:30",
+        "type": "track"
+      },
+      {
+        "position": "C3",
+        "title": "Xanadu",
+        "duration": "12:33",
+        "type": "track"
+      },
+      {
+        "position": "D1",
+        "title": "Freewill",
+        "duration": "5:31",
+        "type": "track"
+      },
+      {
+        "position": "D2",
+        "title": "Tom Sawyer",
+        "duration": "4:58",
+        "type": "track"
+      },
+      {
+        "position": "D3",
+        "title": "La Villa Strangiato",
+        "duration": "9:37",
+        "type": "track"
+      }
+    ],
+    "extraartists": [
+      {
+        "name": "Hugh Syme",
+        "role": "Art Direction, Graphics, Cover",
+        "id": 278961
+      },
+      {
+        "name": "Geddy Lee",
+        "role": "Bass Guitar, Vocals, Synthesizer, Synthesizer [Bass Pedal], Rhythm Guitar [Occasional]",
+        "id": 349487
+      },
+      {
+        "name": "Neil Peart",
+        "role": "Drums, Percussion",
+        "id": 398982
+      },
+      {
+        "name": "Alex Lifeson",
+        "role": "Electric Guitar, Acoustic Guitar, Synthesizer [Bass Pedal]",
+        "id": 368450
+      },
+      {
+        "name": "Jon Erickson (2)",
+        "role": "Engineer [Concert Sound]",
+        "id": 894818
+      },
+      {
+        "name": "Terry Brown",
+        "role": "Engineer [Le Studio, Record Plant Mobile]",
+        "id": 276854
+      },
+      {
+        "name": "Paul Northfield",
+        "role": "Engineer [Mix]",
+        "id": 252389
+      },
+      {
+        "name": "Andy Rose (2)",
+        "role": "Engineer [Mobile One]",
+        "id": 256471
+      },
+      {
+        "name": "Moon Records",
+        "role": "Executive-Producer",
+        "id": 2711421
+      },
+      {
+        "name": "Neil Peart",
+        "role": "Lyrics By",
+        "id": 398982
+      },
+      {
+        "name": "Peter Talbot",
+        "role": "Lyrics By",
+        "id": 626446
+      },
+      {
+        "name": "Pye Dubois",
+        "role": "Lyrics By",
+        "id": 578466
+      },
+      {
+        "name": "Ray Danniels",
+        "role": "Management",
+        "id": 1644517
+      },
+      {
+        "name": "Bob Ludwig",
+        "role": "Mastered By [Album Credit]",
+        "id": 271098
+      },
+      {
+        "name": "Alex Lifeson",
+        "role": "Music By",
+        "id": 368450
+      },
+      {
+        "name": "Geddy Lee",
+        "role": "Music By",
+        "id": 349487
+      },
+      {
+        "name": "Neil Peart",
+        "role": "Music By",
+        "id": 398982
+      },
+      {
+        "name": "Deborah Samuel",
+        "role": "Photography By",
+        "id": 2170347
+      },
+      {
+        "name": "Terry Brown",
+        "role": "Producer",
+        "id": 276854
+      },
+      {
+        "name": "Guy Charbonneau",
+        "role": "Technician [Tech-Man, Le Mobile]",
+        "id": 300186
+      },
+      {
+        "name": "Barry Ainsworth",
+        "role": "Technician [Tech-Man, Mobile One]",
+        "id": 274346
+      },
+      {
+        "name": "Jack Crymes",
+        "role": "Technician [Tech-Man, Record Plant Mobile]",
+        "id": 372189
+      }
+    ],
+    "identifiers": [
+      {
+        "type": "Rights Society",
+        "value": "ASCAP",
+        "description": null
+      },
+      {
+        "type": "Other",
+        "value": "6619 053",
+        "description": "Right side of label, Sides A/B/C/D, and bottom left of back cover"
+      },
+      {
+        "type": "Other",
+        "value": "6337 194",
+        "description": "Right side of label, Sides A and B, and bottom right of back cover"
+      },
+      {
+        "type": "Other",
+        "value": "6337 195",
+        "description": "Right side of label, Sides C and D, and bottom right of back cover"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "G1 SRM-2-7001A-1C C 9",
+        "description": "Variant 1, Side A etched"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "SRM2-7001B-1A XG T1 R6",
+        "description": "Variant 1, Side B etched"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "P SRM-2-7001C-1B XG1 D2G",
+        "description": "Variant 1, Side C etched exc P stamped"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "G1 SRM-2-7001D-1B A 19",
+        "description": "Variant 1, Side D etched"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "G1 SRM-2-7001A-1C C3",
+        "description": "Variant 2, Side A etched"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "G1 SRM-2-7001B-1B B 13",
+        "description": "Variant 2, Side B etched"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "SRM2-7001C-1A T1 A17",
+        "description": "Variant 2, Side C etched"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "G1 SRM-2-7001D-1B A 10",
+        "description": "Variant 2, Side D etched"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "G1 SRM-2-7001A-1C A",
+        "description": "Variant 3, Side A etched"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "G1 SRM-2-7001B-1B A 2",
+        "description": "Variant 3, Side B etched"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "SRM2-7001C-1A XG T1",
+        "description": "Variant 3, Side C etched"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "G1 SRM-2-7001D-1B A 6",
+        "description": "Variant 3, Side D etched"
+      },
+      {
+        "type": "Other",
+        "value": "18",
+        "description": "Printed on labels"
+      },
+      {
+        "type": "Pressing Plant ID",
+        "value": "G1",
+        "description": null
+      }
+    ],
+    "notes": "Gatefold cover pressed at Columbia Carrollton pressing plant (identified by G1 in runouts). One side appears to use metal parts sourced from Columbia Terre Haute (T1 in runout). Labels printed with \"18\" which would normally indicate a Presswell pressing, but Columbia House typically used labels sourced from other pressing plants.\n\nSome copies have a white CRC sticker on back cover.\n\nAll tracks recorded live during Rush's 1981 world tour.\nSides A, C, and D were recorded in Canada by Le Mobile and the Record Plant Mobile.\nSide B was recorded in the UK by Mobile One.\n\n\n",
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/qhf-98fAQKDMvoO1Ggktx-X-n0pzo-Spcul1XGA0jno/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mzgy/MzA5LTE1OTA3NzQ2/NTktMTQyNS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/JppeDHkmvkox3Dz97F-9mIG88GATPlOJny-jxJvVvj4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mzgy/MzA5LTE1OTA3NzQ2/NTktMTQyNS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/pMFgslldnKdi13IN2D5XRZ0qFKmn7xD2kx5P3bgSols/rs:fit/g:sm/q:90/h:571/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mzgy/MzA5LTE1OTA3NzUy/NzgtNDczMi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/cqJ-4Ef4kHeitrM5yz2EXZc1ME2ewsFyzFTE-W2Mun4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mzgy/MzA5LTE1OTA3NzUy/NzgtNDczMi5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/LekdhauptiO3MX4dpzZp4WNZHCXhFmsevYvPPz3_RAc/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mzgy/MzA5LTE1OTA3NzUz/MTAtNzAwNy5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/f3BqMx6taPGBiHFE7YdZkiZkHF1CnOy3wJdSOgxbZZk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mzgy/MzA5LTE1OTA3NzUz/MTAtNzAwNy5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/IcSk5MRaxecuuzYACcUoTi8nEekjGYNxBgIxALTl9lU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mzgy/MzA5LTE3MTMyMDcx/MjAtOTcxNS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/J5NiX9xxxsNyDoYDLbG-qBHtilbgtaaN1szkTrFPfNg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mzgy/MzA5LTE3MTMyMDcx/MjAtOTcxNS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/-j6hjHdTjz3MznqKccKv9k5uWCwIt4Mr60BekYOJuLE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mzgy/MzA5LTE1OTA3NzUz/MTUtOTk4NS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/HwsYpFTUJBsV7rl979fYaKspqfeGsyekHeHB6PnDU5c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mzgy/MzA5LTE1OTA3NzUz/MTUtOTk4NS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/03J8YCEwde9GF41w55tDmH6klvugVegbMrLc2qtEeSc/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mzgy/MzA5LTE1OTA3NzUz/MTUtMjI4OS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/9KdyeDWQys3GwWp54utx61xlH6Bev9Y1yGm4o057CYk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mzgy/MzA5LTE1OTA3NzUz/MTUtMjI4OS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/pFcsGdfedJ4RUVmmRzsCekzi_cwaGqL_y1WNaW6UGjc/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mzgy/MzA5LTE1OTA3NzUz/MTItMTMxNS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/BIVCVBChwLlhGlHa9D-VmN74uID5By0J2h0vuTCX_Fw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mzgy/MzA5LTE1OTA3NzUz/MTItMTMxNS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/ivYT8SHCpDqqnRcNK-kG6B3lKphPU8LEcrxzt2BgF0c/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mzgy/MzA5LTE1OTA3NzUz/MTUtMjI2OS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/lBrX2oJ7pEdJhKul20ykYczeYP5fGJYl1OJOrXp3bJg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mzgy/MzA5LTE1OTA3NzUz/MTUtMjI2OS5qcGVn.jpeg"
+      }
+    ],
+    "community": {
+      "rating": {
+        "count": 11,
+        "average": 3.82
+      },
+      "have": 283,
+      "want": 115
+    },
+    "master": {
+      "id": 7461,
+      "title": "Exit...Stage Left",
+      "main_release": 1618436,
+      "year": 1981,
+      "uri": "https://www.discogs.com/master/7461-Rush-ExitStage-Left",
+      "num_for_sale": 826
+    }
+  },
+  "apple_music": {
+    "id": 1440798159,
+    "url": "https://music.apple.com/us/album/exit-stage-left-live-remastered/1440798159?uo=4",
+    "name": "Exit... Stage Left (Live) [Remastered]",
+    "artist": "Rush",
+    "artist_id": 50526,
+    "artwork_url_100": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/3b/9f/19/3b9f1978-32c1-e966-438e-36625a8f789b/00602527893488.rgb.jpg/100x100bb.jpg",
+    "artwork_url_600": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/3b/9f/19/3b9f1978-32c1-e966-438e-36625a8f789b/00602527893488.rgb.jpg/600x600bb.jpg",
+    "release_date": "1981-10-29T08:00:00Z",
+    "track_count": 13,
+    "copyright": "℗ 2013 The Island Def Jam Music Group",
+    "primary_genre": "Hard Rock",
+    "country": "USA",
+    "tracks": [
+      {
+        "track_number": 1,
+        "disc_number": 1,
+        "name": "The Spirit of Radio (Live)",
+        "duration_ms": 312840,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/6f/85/d5/6f85d537-ee11-874e-a553-3226d4a9f3cf/mzaf_9939637518259376083.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/the-spirit-of-radio-live/1440798159?i=1440798254&uo=4"
+      },
+      {
+        "track_number": 2,
+        "disc_number": 1,
+        "name": "Red Barchetta (Live)",
+        "duration_ms": 409027,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/17/e3/95/17e39589-f766-1059-2965-a8cd258ae807/mzaf_10937329468015647292.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/red-barchetta-live/1440798159?i=1440798258&uo=4"
+      },
+      {
+        "track_number": 3,
+        "disc_number": 1,
+        "name": "YYZ (Live)",
+        "duration_ms": 465093,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/fd/85/9f/fd859f92-789b-f944-b042-adee491bfaf1/mzaf_13280718314943916238.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/yyz-live/1440798159?i=1440798261&uo=4"
+      },
+      {
+        "track_number": 4,
+        "disc_number": 1,
+        "name": "A Passage to Bangkok (Live)",
+        "duration_ms": 226236,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/90/e0/28/90e028c6-ac32-59ba-8f14-897c1105843e/mzaf_17156474537282280520.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/a-passage-to-bangkok-live/1440798159?i=1440798262&uo=4"
+      },
+      {
+        "track_number": 5,
+        "disc_number": 1,
+        "name": "Closer to the Heart (Live)",
+        "duration_ms": 188507,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/7b/c8/e7/7bc8e709-132f-e9a4-d0ec-eae5a13a611e/mzaf_10987706219052412006.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/closer-to-the-heart-live/1440798159?i=1440798265&uo=4"
+      },
+      {
+        "track_number": 6,
+        "disc_number": 1,
+        "name": "Beneath, Between & Behind (Live)",
+        "duration_ms": 155347,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/3e/5b/64/3e5b640b-bea9-eab1-76eb-4578fe73de21/mzaf_7897440533480345657.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/beneath-between-behind-live/1440798159?i=1440798267&uo=4"
+      },
+      {
+        "track_number": 7,
+        "disc_number": 1,
+        "name": "Jacob's Ladder (Live)",
+        "duration_ms": 527530,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/16/85/02/168502bd-318f-96b4-06aa-9b82c218ab30/mzaf_799953391050302448.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/jacobs-ladder-live/1440798159?i=1440798271&uo=4"
+      },
+      {
+        "track_number": 8,
+        "disc_number": 1,
+        "name": "Broon's Bane (Live)",
+        "duration_ms": 96688,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/4b/65/13/4b65135d-eac0-ce9e-1fae-11523848057d/mzaf_18069096638322614930.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/broons-bane-live/1440798159?i=1440798274&uo=4"
+      },
+      {
+        "track_number": 9,
+        "disc_number": 1,
+        "name": "The Trees (Live)",
+        "duration_ms": 289976,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/55/e1/95/55e195f0-016b-fac4-26f1-5abb2889f29b/mzaf_4163464457606861612.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/the-trees-live/1440798159?i=1440798275&uo=4"
+      },
+      {
+        "track_number": 10,
+        "disc_number": 1,
+        "name": "Xanadu (Live)",
+        "duration_ms": 730162,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/7b/80/1e/7b801e10-4c9f-9392-c5b3-ba01aa100da2/mzaf_11557552242520822844.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/xanadu-live/1440798159?i=1440798278&uo=4"
+      },
+      {
+        "track_number": 11,
+        "disc_number": 1,
+        "name": "Freewill (Live)",
+        "duration_ms": 332947,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/0f/97/0d/0f970de8-69e9-8018-2d14-86f86adb18e7/mzaf_3657200949234675324.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/freewill-live/1440798159?i=1440798403&uo=4"
+      },
+      {
+        "track_number": 12,
+        "disc_number": 1,
+        "name": "Tom Sawyer (Live)",
+        "duration_ms": 300707,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/89/8f/87/898f87ba-8da1-16c2-c7bd-0adcb8fbb4a7/mzaf_2867622868279478249.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/tom-sawyer-live/1440798159?i=1440798405&uo=4"
+      },
+      {
+        "track_number": 13,
+        "disc_number": 1,
+        "name": "La Villa Strangiato (Live)",
+        "duration_ms": 576741,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/70/6d/67/706d67e2-1920-be4b-57b5-c34af5e4bc08/mzaf_15663981732913469526.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/la-villa-strangiato-live/1440798159?i=1440798409&uo=4"
+      }
+    ]
+  },
+  "discrepancies": [],
+  "local_cover": "images/15382309.jpg"
+}

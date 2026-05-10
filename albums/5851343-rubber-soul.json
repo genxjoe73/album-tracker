@@ -1,0 +1,388 @@
+{
+  "captured_at": "2026-05-10T16:43:40+00:00",
+  "schema_version": 3,
+  "artist": "The Beatles",
+  "title": "Rubber Soul",
+  "original_release_year": 1965,
+  "pressing_year": 1972,
+  "upgrade_suggestion": "The 2012 mono remaster pressing (r3527183, Apple Records, 180g) and the 2014 Analogue Productions 200g mono (Bernie Grundman) are the audiophile references. For stereo, the 2015 Abbey Road remaster LP included in the Capitol Albums box is the strongest configuration. Your 1972 German Odeon pressing is a collectible original but predates modern remastering.",
+  "commentary": "Rubber Soul arrived in December 1965 as something of a quiet revolution. Recorded across June and October of that year at Abbey Road Studios, it was produced by **George Martin** in sessions that coincided with the Beatles' decision to stop touring — or at least to begin mentally stepping away from the road. The album doesn't announce that shift loudly; it enacts it. Where A Hard Day's Night and Help! were records made by a band still oriented toward performance and velocity, Rubber Soul is inward-facing. The acoustic guitar is suddenly central rather than decorative, the lyrics are observational and sometimes unsettling, and the whole thing has a warmth and grain that the earlier albums' brighter surfaces don't share. Dylan's influence is real and often noted, but the more important thing is what the Beatles did with it — they absorbed the idea that a pop song could be about ambivalence, about watching yourself, about not quite meaning what you say, and then made it sound effortless. \"Norwegian Wood,\" \"In My Life,\" \"The Word,\" \"Girl,\" \"I'm Looking Through You\" — these aren't songs reaching toward something; they're songs that already know where they are. Rubber Soul is the record that made Revolver possible, and by extension everything after it.\n\nThe original **UK Parlophone pressing** (PMC 1267 mono, PCS 3075 stereo) contained fourteen tracks. When **Capitol Records** released the album in North America in December 1965, they trimmed it to twelve, dropping \"Nowhere Man,\" \"What Goes On,\" \"Drive My Car,\" and \"If I Needed Someone.\" The Capitol version has its own reputation among collectors in the US, but the fourteen-track UK sequence is the album as the Beatles and George Martin sequenced it, and that is the version this pressing follows. Worth noting on the stereo question: like Pet Sounds, Rubber Soul's **mono mix** was the version the artists worked over most closely — the Beatles and Martin were fundamentally mono thinkers in this period, and the stereo mix was largely a secondary product aimed at the hi-fi market. The stereo is not a later audiophile remix; it is a period mix made alongside the mono, and it has its own character, but listeners who want the version closest to what the band heard in the control room should seek the mono.\n\n**EMI Electrola GmbH** was EMI's German manufacturing and distribution subsidiary, headquartered in **Köln (Cologne)**. Through the late 1960s and into the 1970s, EMI Electrola issued Beatles and other EMI catalog titles on the **Odeon** label in Germany, using a catalog numbering scheme built around the **1C 062-XXXXX** prefix — \"1C\" denoting the country code for Germany within EMI's internal international numbering system, and \"062\" the Odeon series identifier. The base number 04 115 corresponds to Rubber Soul in this scheme. **Sleeve printing** was contracted to **4P Nicolaus GmbH, Köln**, one of the standard commercial printers serving the German record industry at the time — a detail useful for dating and authenticating pressings when other markings are ambiguous.\n\nThe **matrix stamps** on this pressing — `04 115 A-3` on Side A and `04 115 B-2` on Side B — follow EMI Electrola's standard lacquer identification convention. The base number ties to the catalog, and the trailing digit indicates the **stamper generation** for that side. The A-3 / B-2 pairing on a 1972 pressing is consistent with a catalog title in active print — earlier generations having been cut in the late 1960s and subsequent generations produced as demand continued into the early 1970s.\n\n**German EMI Electrola pressings** from this era — roughly 1968 through the mid-1970s — carry a solid reputation in the collector community, particularly for the quality of the **vinyl compound** used. German pressings from this period are frequently cited for low surface noise relative to equivalent UK or US pressings from the same years, a function of both the vinyl formulation and EMI Electrola's pressing plant quality controls. They are not as aggressively sought as original UK Parlophone first pressings, but among collectors who actually play their records, the German Electrola issues are considered serious listening copies — honest pressings made carefully, from sources close to the original masters, on quiet vinyl.\n\n**About this 1972 German pressing (LP, stereo):** EMI Electrola / Odeon catalog **1C 062-04 115**, pressed by **EMI Electrola GmbH** in Köln, sleeved by **4P Nicolaus GmbH, Köln**. Fourteen-track UK sequence. Matrix stamps `04 115 A-3` (Side A) and `04 115 B-2` (Side B) — third- and second-generation lacquers respectively. Front cover carries the red \"Rubber Soul\" title lettering characteristic of the period German issues. Stereo pressing; the mono mix remains the primary historical document, but this is a clean and musically satisfying mid-period reissue — the kind of copy that rewards a careful listen without demanding original-pressing prices.\n\n### Gemini Notes\n\nReleased in December 1965, *Rubber Soul* is widely recognized as the moment The Beatles transitioned from a live touring rock-and-roll act into serious, introspective studio artists. Heavily influenced by Bob Dylan and folk-rock, the lyrics became more sophisticated, while the instrumentation expanded to include sitar (on \"Norwegian Wood\") and fuzz bass. The album's cohesive, artistic approach paved the way for the conceptual masterpieces that would follow.\n\n**About this pressing:**\n*Deadwax TBD — check runouts for mastering engineers or pressing plant symbols. Update this section once details are logged.*",
+  "discogs": {
+    "release_id": 5851343,
+    "master_id": 45526,
+    "uri": "https://www.discogs.com/release/5851343-The-Beatles-Rubber-Soul",
+    "title": "Rubber Soul",
+    "artists": [
+      {
+        "name": "The Beatles",
+        "id": 82730,
+        "role": null
+      }
+    ],
+    "year": 1972,
+    "released": "1972-04-00",
+    "country": "Germany",
+    "labels": [
+      {
+        "name": "Odeon",
+        "catno": "1C 062-04 115",
+        "id": 33930
+      },
+      {
+        "name": "EMI Electrola",
+        "catno": "1C 062-04 115",
+        "id": 917
+      }
+    ],
+    "formats": [
+      {
+        "name": "Vinyl",
+        "qty": "1",
+        "descriptions": [
+          "LP",
+          "Album",
+          "Reissue",
+          "Stereo"
+        ],
+        "text": "Circle On Spine/Label; Red Title"
+      }
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Pop Rock",
+      "Beat"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Drive My Car",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "A2",
+        "title": "Norwegian Wood (This Bird Has Flown)",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "A3",
+        "title": "You Won't See Me",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "A4",
+        "title": "Nowhere Man",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "A5",
+        "title": "Think For Yourself",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "A6",
+        "title": "The Word",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "A7",
+        "title": "Michelle",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B1",
+        "title": "What Goes On",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B2",
+        "title": "Girl",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B3",
+        "title": "I'm Looking Through You",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B4",
+        "title": "In My Life",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B5",
+        "title": "Wait",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B6",
+        "title": "If I Needed Someone",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B7",
+        "title": "Run For Your Life",
+        "duration": "",
+        "type": "track"
+      }
+    ],
+    "extraartists": [
+      {
+        "name": "Robert Freeman (4)",
+        "role": "Photography By",
+        "id": 2235469
+      },
+      {
+        "name": "George Martin",
+        "role": "Producer",
+        "id": 259769
+      },
+      {
+        "name": "George Harrison",
+        "role": "Written-By",
+        "id": 243955
+      },
+      {
+        "name": "Lennon-McCartney",
+        "role": "Written-By",
+        "id": 779927
+      },
+      {
+        "name": "Richard Starkey",
+        "role": "Written-By",
+        "id": 298525
+      }
+    ],
+    "identifiers": [
+      {
+        "type": "Matrix / Runout",
+        "value": "04 115 A-3",
+        "description": "Runout side A, stamped"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "04 115 B-2",
+        "description": "Runout side B, stamped"
+      },
+      {
+        "type": "Rights Society",
+        "value": "GEMA",
+        "description": null
+      }
+    ],
+    "notes": "Version with circle above \"ST33\" and on the Cover. There are three Versions:\n\nTHIS one:\n- Odeon EMI Logo on bottom left corner on cover backside with textblock on its right.\n- On the spine of the cover: catalog number, than circle, than Rubber Soul - The Beatles\n- Album title in RED on front\n\nSECOND one [url=https://www.discogs.com/release/19642210]here[/url]\n- Odeon EMI Logo on bottom left corner on cover backside with textblock on its right.\n- On the spine of the cover: catalog number, than circle, than Rubber Soul - The Beatles\n- Album title in ORANGE on front\n\nTHIRD one [url=http://www.discogs.com/Beatles-Rubber-Soul/release/2482568]here[/url] (OTHER one on image)\n- EMI Electrola Logo on the bottom on cover backside with text underneath. \n- On the spine of the cover: Rubber Soul - The Beatles, than circle, than Catalognumber on the right.\n\nALL THREE Versions:\n- ST33 in circles and not in ellipses\n- Small black circle over ST33 on both sides;\n- No Labelcode\n- Both are rare issues, which was exclusively released in a two-record set [r2525029]. \n\nEMI Electrola GMBH. All rights reserved. Printed in Germany by 4P NICOLAUS GMBH, Köln.",
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/bc4JCKyi4A0M4oSm5Ozp2oKBattG-D2SjuRHF1ilEQ4/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NTEz/NDMtMTcwMTgwNTY2/Ni05OTYyLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/SqtZdlZ-L_nqVATkKc5uD5Ai0VBnKgnbjgqI-KFj0nU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NTEz/NDMtMTcwMTgwNTY2/Ni05OTYyLmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/5B1-nIFaipvpaErq4-LY36vrPPld0sMiytgegVoFnh0/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NTEz/NDMtMTcwMTgwNTY2/My01Nzk1LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/oAzKEWYj4SOPt4JXyYRPuO1x_OhYzYs9wq5dkLUBpK8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NTEz/NDMtMTcwMTgwNTY2/My01Nzk1LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/cqNx8OhSRyZO6TJDq5GKSzZSi1GUl2gJgFZu07mbuzQ/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NTEz/NDMtMTcwMTgwNTY0/Ni0yODIyLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/A0FZq9TgwJkWNxTL1Oqmi89_kfdtqiuoJTLYohbd32Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NTEz/NDMtMTcwMTgwNTY0/Ni0yODIyLmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/JdgQNFNrICLq-NXe0O3cXBy4fvMvXcvZeBNqyb_NeOA/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NTEz/NDMtMTcwMTgwNTY0/My01NzQ1LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/RdrdWbeo1_Sg91EqpVKpUgYDMlUq_KYTpU5NyNDQfnQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NTEz/NDMtMTcwMTgwNTY0/My01NzQ1LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/4vu_HWyv_0G6bnYARI7aQ1aKUdaN-PinEOL11wmwNbU/rs:fit/g:sm/q:90/h:359/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NTEz/NDMtMTQwNDQ2MTI5/Ny04MjIxLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/H5pOKRooPBXbVOHPCmnJ-hP3zHomUKbUVTP9YyatPks/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NTEz/NDMtMTQwNDQ2MTI5/Ny04MjIxLmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/JpSXP_UPRNcHpkeKmKRlxlR1dY2H81_fTO9TKIcevfI/rs:fit/g:sm/q:90/h:241/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NTEz/NDMtMTQwNDQ2MTI5/OC00NjI2LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/7vD2ixmx6GGTrpA4fkELnxrrukRv33cyXTkQrTCpwkc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NTEz/NDMtMTQwNDQ2MTI5/OC00NjI2LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/5qfcJp5S3ntDI1GSSi8nInXPlYqsz8TG9uUu-vRIaLA/rs:fit/g:sm/q:90/h:418/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NTEz/NDMtMTQwNDQ2MTMz/OC01Njk2LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/WKOTLCtlp-cE2XdHgykdxWlO_VJ_csNSmQWy2z-FHAg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NTEz/NDMtMTQwNDQ2MTMz/OC01Njk2LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/IaiDUUvwNcy7goVH47WYDxPuFjXfqFrozPsLu-sritc/rs:fit/g:sm/q:90/h:518/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NTEz/NDMtMTQwNDQ2MTMz/OS0yNTI1LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/s2_J5sv9pDN2KQBhqCTRxwMV29_sVv9j_v9n-SZbKqA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NTEz/NDMtMTQwNDQ2MTMz/OS0yNTI1LmpwZWc.jpeg"
+      }
+    ],
+    "community": {
+      "rating": {
+        "count": 57,
+        "average": 4.68
+      },
+      "have": 388,
+      "want": 734
+    },
+    "master": {
+      "id": 45526,
+      "title": "Rubber Soul",
+      "main_release": 5501695,
+      "year": 1965,
+      "uri": "https://www.discogs.com/master/45526-The-Beatles-Rubber-Soul",
+      "num_for_sale": 5332
+    }
+  },
+  "apple_music": {
+    "id": 1441164359,
+    "url": "https://music.apple.com/us/album/rubber-soul/1441164359?uo=4",
+    "name": "Rubber Soul",
+    "artist": "The Beatles",
+    "artist_id": 136975,
+    "artwork_url_100": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/af/20/aa/af20aa89-4002-11fb-25d8-ff544af67eb4/00602567725404.rgb.jpg/100x100bb.jpg",
+    "artwork_url_600": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/af/20/aa/af20aa89-4002-11fb-25d8-ff544af67eb4/00602567725404.rgb.jpg/600x600bb.jpg",
+    "release_date": "1965-12-03T08:00:00Z",
+    "track_count": 16,
+    "copyright": "℗ 2009 Calderstone Productions Limited (a division of Universal Music Group)",
+    "primary_genre": "Rock",
+    "country": "USA",
+    "tracks": [
+      {
+        "track_number": 1,
+        "disc_number": 1,
+        "name": "Drive My Car",
+        "duration_ms": 147893,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/3c/b7/c1/3cb7c1a2-7f4e-ad8f-b23d-5b6bedfd0775/mzaf_9066230033491029470.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/drive-my-car/1441164359?i=1441164364&uo=4"
+      },
+      {
+        "track_number": 2,
+        "disc_number": 1,
+        "name": "Norwegian Wood (This Bird Has Flown)",
+        "duration_ms": 124693,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/26/00/39/260039f3-51bb-c479-16b7-8412199ccbc2/mzaf_2459513772630634554.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/norwegian-wood-this-bird-has-flown/1441164359?i=1441164370&uo=4"
+      },
+      {
+        "track_number": 3,
+        "disc_number": 1,
+        "name": "You Won't See Me",
+        "duration_ms": 199960,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/65/e0/64/65e064b9-2c09-da79-7da4-1cfc36ded8a9/mzaf_2229902226615433776.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/you-wont-see-me/1441164359?i=1441164612&uo=4"
+      },
+      {
+        "track_number": 4,
+        "disc_number": 1,
+        "name": "Nowhere Man",
+        "duration_ms": 163693,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0b/3b/24/0b3b24f9-6c39-ef8d-8b2d-3de64be9865f/mzaf_15660729644377938542.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/nowhere-man/1441164359?i=1441164614&uo=4"
+      },
+      {
+        "track_number": 5,
+        "disc_number": 1,
+        "name": "Think For Yourself",
+        "duration_ms": 138520,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c1/b5/35/c1b5356d-6763-7cb2-10fb-4d7107a475f0/mzaf_7457204240332846258.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/think-for-yourself/1441164359?i=1441164623&uo=4"
+      },
+      {
+        "track_number": 6,
+        "disc_number": 1,
+        "name": "The Word",
+        "duration_ms": 163107,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/bf/b3/2c/bfb32c3d-c9b7-fa7c-65dc-f2147199bcf5/mzaf_15127226496382999625.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/the-word/1441164359?i=1441164626&uo=4"
+      },
+      {
+        "track_number": 7,
+        "disc_number": 1,
+        "name": "Michelle",
+        "duration_ms": 162373,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/bb/9a/bb/bb9abb8e-c4f5-c360-3ccb-fa45cb1c40db/mzaf_593181071671393657.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/michelle/1441164359?i=1441164629&uo=4"
+      },
+      {
+        "track_number": 8,
+        "disc_number": 1,
+        "name": "What Goes On",
+        "duration_ms": 168573,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d2/75/34/d2753429-ad8b-1c20-8628-6395142cd478/mzaf_1407248892959466499.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/what-goes-on/1441164359?i=1441164631&uo=4"
+      },
+      {
+        "track_number": 9,
+        "disc_number": 1,
+        "name": "Girl",
+        "duration_ms": 151720,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/86/74/87/86748748-45ed-c469-15d6-f1974d0d0a3f/mzaf_4365918680896498790.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/girl/1441164359?i=1441164634&uo=4"
+      },
+      {
+        "track_number": 10,
+        "disc_number": 1,
+        "name": "I'm Looking Through You",
+        "duration_ms": 146387,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/22/83/37/228337a8-e875-21eb-c103-73bfa69af70d/mzaf_7025592749482114953.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/im-looking-through-you/1441164359?i=1441164821&uo=4"
+      },
+      {
+        "track_number": 11,
+        "disc_number": 1,
+        "name": "In My Life",
+        "duration_ms": 146333,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/40/8b/3a/408b3a27-2877-7767-59bd-1c5fa07f13b1/mzaf_2433710953888327417.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/in-my-life/1441164359?i=1441164829&uo=4"
+      },
+      {
+        "track_number": 12,
+        "disc_number": 1,
+        "name": "Wait",
+        "duration_ms": 134720,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/5e/78/83/5e7883ae-6640-d9b7-9d54-9a23c4554752/mzaf_9882869401050425783.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/wait/1441164359?i=1441164831&uo=4"
+      },
+      {
+        "track_number": 13,
+        "disc_number": 1,
+        "name": "If I Needed Someone",
+        "duration_ms": 142267,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/11/b8/22/11b82280-0c41-7638-64ab-b48e62c18d21/mzaf_1814835782454274739.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/if-i-needed-someone/1441164359?i=1441164833&uo=4"
+      },
+      {
+        "track_number": 14,
+        "disc_number": 1,
+        "name": "Run For Your Life",
+        "duration_ms": 139086,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7f/c7/90/7fc790aa-8113-f9fa-2ee8-5611eed394e8/mzaf_12747150449754220163.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/run-for-your-life/1441164359?i=1441164846&uo=4"
+      },
+      {
+        "track_number": 15,
+        "disc_number": 1,
+        "name": "Rubber Soul",
+        "duration_ms": 198000,
+        "preview_url": "https://video-ssl.itunes.apple.com/itunes-assets/Video128/v4/0d/16/37/0d163730-016b-d688-c8d7-dce416677dac/mzvf_49732681106238244.640x480.h264lc.U.p.m4v",
+        "track_view_url": "https://music.apple.com/us/music-video/rubber-soul-documentary/1441164850?uo=4"
+      }
+    ]
+  },
+  "discrepancies": [
+    "Track count differs: Discogs=14, Apple Music=15",
+    "Release year differs: your pressing=1972, Apple Music edition=1965. Apple Music typically streams the most recent remaster."
+  ],
+  "local_cover": "images/5851343.jpg"
+}

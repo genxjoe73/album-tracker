@@ -1,0 +1,1 @@
+Released in 2015, *Honeymoon* is Lana Del Rey's fourth studio album. It marked a return to the cinematic, baroque pop of her debut, featuring lush string arrangements, jazzy undertones, and themes of doomed romance and Californian melancholy.

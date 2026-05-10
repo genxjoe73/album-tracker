@@ -1,0 +1,1 @@
+Released in 1986, Beastie Boys' debut *Licensed to Ill* was the first rap album to top the Billboard 200. Produced by Rick Rubin, its collision of heavy metal riffs and frat-boy rap completely shifted the cultural landscape of the 1980s.

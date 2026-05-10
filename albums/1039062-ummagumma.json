@@ -1,0 +1,469 @@
+{
+  "captured_at": "2026-05-10T01:45:28+00:00",
+  "schema_version": 3,
+  "artist": "Pink Floyd",
+  "title": "Ummagumma",
+  "original_release_year": 1969,
+  "pressing_year": 1970,
+  "upgrade_suggestion": "1970s US Capitol recut is the workable mass-market option for this title; the audiophile alternative is the original 1969 UK Harvest first press (SHVL 760/761) — meaningfully better but expensive and harder to find. The 2011 EMI remaster on CD/digital is the cleanest digital source.",
+  "commentary": "Released October 1969, *Ummagumma* is a deliberate experiment: a double album split into one live LP and one studio LP, with the studio LP further split into four solo segments — one per band member, each writing and recording their own material independently. The live half was assembled from two performances at Mothers Club in Birmingham (April 1969) and the College of Commerce in Manchester (May 1969), edited together to present the band's pre-*Atom Heart Mother* live repertoire.\n\nThe studio half was the band's answer to a question they were posing to themselves: what does each of us actually contribute? Each member got a side-quarter to produce alone. Richard Wright wrote *Sysyphus* (a four-part keyboard piece). Roger Waters did *Grantchester Meadows* (acoustic, pastoral) and the famously strange *Several Species of Small Furry Animals Gathered Together in a Cave and Grooving with a Pict* — a tape collage of Waters making animal sounds and crawling around the studio, manipulated through varispeed. David Gilmour contributed the three-part *The Narrow Way*. Nick Mason — who doesn't write — assembled *The Grand Vizier's Garden Party* with help from his then-wife Lindy on flute.\n\nThe verdict on the studio half varies. Gilmour has called it \"appalling.\" Waters has been kinder. Most listeners agree it's an interesting document of where each member's instincts pointed before the band converged on the *Meddle* / *Dark Side* sound.\n\n**About this US Capitol pressing:** the original 1969 US issue was on Harvest with catno `STBB-388`. Capitol re-cut the lacquers some time in the early 1970s and the catno prefix changed from `STBB` to `SKBB-388` on the recut sleeves and labels — the runouts on those recuts often show `SKBB / STBB̶` overstrikes (the cutter scribed the new prefix over the old) and a `MASTERED BY CAPITOL` stamp with a small triangle (`–◁`). The `G/H + number` codes in the runouts are Capitol cutting-engineer initials and cut numbers.\n\n*Catno on sleeve TBD — `STBB-388` would be the early 1973 STBB repress (Discogs r444459); `SKBB-388` would be the SKBB recut (Discogs r1039062, currently captured). Re-point if the sleeve says STBB.*\n\n### Gemini Notes\n\nReleased in 1969, *Ummagumma* is a double album that captures Pink Floyd at their most experimental. The first disc features incendiary live performances from Mother's Club and the College of Commerce, while the second disc allocates a quarter of the record to each band member for avant-garde solo compositions.\n\n**About this pressing:**",
+  "discogs": {
+    "release_id": 1039062,
+    "master_id": 20692,
+    "uri": "https://www.discogs.com/release/1039062-Pink-Floyd-Ummagumma",
+    "title": "Ummagumma",
+    "artists": [
+      {
+        "name": "Pink Floyd",
+        "id": 45467,
+        "role": null
+      }
+    ],
+    "year": 0,
+    "released": null,
+    "country": "US",
+    "labels": [
+      {
+        "name": "Harvest",
+        "catno": "SKBB-388",
+        "id": 2564
+      }
+    ],
+    "formats": [
+      {
+        "name": "Vinyl",
+        "qty": "2",
+        "descriptions": [
+          "LP",
+          "Album",
+          "Reissue",
+          "Stereo"
+        ],
+        "text": "Gatefold"
+      }
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Psychedelic Rock",
+      "Avantgarde",
+      "Experimental"
+    ],
+    "tracklist": [
+      {
+        "position": "",
+        "title": "Live Album",
+        "duration": "",
+        "type": "heading"
+      },
+      {
+        "position": "A1",
+        "title": "Astronomy Domine",
+        "duration": "8:25",
+        "type": "track"
+      },
+      {
+        "position": "A2",
+        "title": "Careful With That Axe Eugene",
+        "duration": "8:47",
+        "type": "track"
+      },
+      {
+        "position": "B1",
+        "title": "Set The Controls For The Heart Of The Sun",
+        "duration": "9:21",
+        "type": "track"
+      },
+      {
+        "position": "",
+        "title": "A Saucerful Of Secrets",
+        "duration": "12:51",
+        "type": "index"
+      },
+      {
+        "position": "",
+        "title": "Studio Album",
+        "duration": "",
+        "type": "heading"
+      },
+      {
+        "position": "",
+        "title": "Sysyphus",
+        "duration": "",
+        "type": "index"
+      },
+      {
+        "position": "C5",
+        "title": "Grantchester Meadows",
+        "duration": "7:23",
+        "type": "track"
+      },
+      {
+        "position": "C6",
+        "title": "Several Species Of Small Furry Animals Gathered Together In A Cave And Grooving With A Pict",
+        "duration": "4:47",
+        "type": "track"
+      },
+      {
+        "position": "",
+        "title": "The Narrow Way",
+        "duration": "12:14",
+        "type": "index"
+      },
+      {
+        "position": "",
+        "title": "The Grand Vizier's Garden Party",
+        "duration": "8:55",
+        "type": "index"
+      }
+    ],
+    "extraartists": [
+      {
+        "name": "Brian Humphries",
+        "role": "Engineer",
+        "id": 258792
+      },
+      {
+        "name": "Peter Mew",
+        "role": "Engineer",
+        "id": 263514
+      },
+      {
+        "name": "Brian Humphries",
+        "role": "Mixed By",
+        "id": 258792
+      },
+      {
+        "name": "Peter Mew",
+        "role": "Mixed By",
+        "id": 263514
+      },
+      {
+        "name": "Norman Smith",
+        "role": "Producer",
+        "id": 252775
+      },
+      {
+        "name": "Pink Floyd",
+        "role": "Producer",
+        "id": 45467
+      },
+      {
+        "name": "Hipgnosis (2)",
+        "role": "Sleeve, Design Concept, Photography By",
+        "id": 1826972
+      },
+      {
+        "name": "Roger Waters",
+        "role": "Written-By, Bass Guitar, Vocals",
+        "id": 110862
+      },
+      {
+        "name": "David Gilmour",
+        "role": "Written-By, Lead Guitar, Lead Vocals",
+        "id": 110863
+      },
+      {
+        "name": "Richard Wright",
+        "role": "Written-By, Organ, Keyboards, Vocals",
+        "id": 110861
+      },
+      {
+        "name": "Nick Mason",
+        "role": "Written-By, Percussion",
+        "id": 246097
+      }
+    ],
+    "identifiers": [
+      {
+        "type": "Matrix / Runout",
+        "value": "SKBB-1-388-G27 –◁ MASTERED BY CAPITOL",
+        "description": "Side A runout, variant 1"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "SKBB-2-388-G36 –◁ MASTERED BY CAPITOL",
+        "description": "Side B runout, variant 1"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "S(T over K)BB-3-388-H21 #7 –◁ MASTERED BY CAPITOL",
+        "description": "Side C runout, variant 1"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "STBB-4-388 G12 #4 –◁ MASTERED BY CAPITOL",
+        "description": "Side D runout, variant 1"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "STBB-1-388-F14 #6 . –◁ MASTERED BY CAPITOL",
+        "description": "Side A runout, variant 2"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "S(T over K)BB-2-388-G26 #5 . –◁ MASTERED BY CAPITOL",
+        "description": "Side B runout, variant 2"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "STBB-3-388-H21 #3 . –◁ MASTERED BY CAPITOL",
+        "description": "Side C runout, variant 2"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "S(T over K)BB-4-388-G18 #2 . –◁ MASTERED BY CAPITOL",
+        "description": "Side D runout, variant 2"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "SKBB-1-388 F30 #5 .–◁ MASTERED BY CAPITOL",
+        "description": "Side A runout, variant 3"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "SKBB-2-388-H31 ML #3 .–◁ MASTERED BY CAPITOL",
+        "description": "Side B runout, variant 3"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "SKBB-3-388-G32 .–◁ gene ⊗ MASTERED BY CAPITOL",
+        "description": "Side C runout, variant 3"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "STBB-4-388 G18 #5 .–◁ MASTERED BY CAPITOL",
+        "description": "Side D runout, variant 3"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "SKBB-1-388 F30 #4 .–◁ MASTERED BY CAPITOL",
+        "description": "Side A runout, variant 4"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "SKBB-2-388-G36 ⊗ #2 –◁ MASTERED BY CAPITOL Ed",
+        "description": "Side B runout, variant 4"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "SKBB-2-388 G29 #5  .–◁ MASTERED BY CAPITOL J. LEMAY",
+        "description": "Side C runout, variant 4"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "STBB-4-388 G18 #4  .–◁ MASTERED BY CAPITOL",
+        "description": "Side D runout, variant 4"
+      }
+    ],
+    "notes": "Likely issued from 1970-1973 as front cover has \"Special Buy!\"\n\nLive Album recorded at Mothers Birmingham & Manchester College of Commerce, June 1969\nSecond studio album LP features multi-part experimental pieces each written by an individual band member.\n\n6th pressing with SKBB-388 on both sleeve and Harvest label;\nFront sleeve: \"Gigi\" album cover leaning against wall is whited out;\nText around bottom half edge of label starts at 10:00 position and states:\n\"Mfd. by Capitol Records, Inc., a subsidiary of Capitol Industries-EMI, Inc., U.S.A. - Capitol Marca Reg. - All rights reserved. Unauthorized duplication is a violation of applicable laws.\"\nNext issue (7th pressing) split this text onto top and bottom half of label.\n\nMatrix inscriptions are etched, except for \"MASTERED BY CAPITOL\" which is stamped.\nSome parts of STBB in matrix inscriptions have T and K superimposed.",
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/M9kmbiPWcd-mmo23cscANqwUIxTtAw-3cPcMvi34SSs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzkw/NjItMTM3NjI1ODIz/NC0xNTQ0LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/iNjOo7pwFi0RShzkS_Nv7cIjses_8OLzv9v1vH1xqFc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzkw/NjItMTM3NjI1ODIz/NC0xNTQ0LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/vtgQN5MgXzB4RVqpFU_VGX9EB3v3dUn8Iu6AdHSJIns/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzkw/NjItMTM3NjI1ODI0/Mi00NTMyLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/wIevCHYgD9nt8gJVSnlGBqsyVB2_NCy-tn7XbA1dVas/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzkw/NjItMTM3NjI1ODI0/Mi00NTMyLmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/3KSbSeiVTw9rHyQPfN8LiAGa6QuaZLz2TgetXj8HZMc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzkw/NjItMTM3NjI1ODI0/OS00MjM2LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/_p8XU6kc9MNYa7oeiPA1grmw39ax8K6g3orzX22PSTQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzkw/NjItMTM3NjI1ODI0/OS00MjM2LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/HbsTnpGyG1bbQKhqFOgMEfrWV97rxUo56h1z7kjUp8g/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzkw/NjItMTM3NjI1ODI1/OC03OTQzLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/9CNTm1Ho1p-pNSDJxBke270fJsX2R6hjBZdV7sqBBdE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzkw/NjItMTM3NjI1ODI1/OC03OTQzLmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/4gX_N5UHBC3b1Oj57dgARDqqyJnnNwVmkCjlzQaEtuk/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzkw/NjItMTM3NjI1ODI2/OC0zODA0LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/9jeuNuVLQBAcf8UOiM_wPXS7LGBnzGCV-z0DjkOY_5A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzkw/NjItMTM3NjI1ODI2/OC0zODA0LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/vfCFuW44QnBX7CtInverstgD_BdHpX4gb4BibSZ7Z_E/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzkw/NjItMTM3NjI1ODI3/OC04NTY2LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/WVWFxj_y2jmCz9qBXiAtXKe3jLFvaZwqWYUk9tZCs94/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzkw/NjItMTM3NjI1ODI3/OC04NTY2LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/gY4vvD-mKscQx8U4TH-stX7PXMtvAVZrapTw1iI_tCc/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzkw/NjItMTM3NjI1ODI4/Ni0zMDAwLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/nbl_JlHn6JETwvX3-j9pxQ7bY6n8qL2wB31QR7RQXkA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzkw/NjItMTM3NjI1ODI4/Ni0zMDAwLmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/QE1D12KHyVIx5hRKWm8pnkKsT-bjyAAntbQInu_A0eQ/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzkw/NjItMTM3NjI1ODI5/NC01MDcyLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/NZ1Tf0maDtZQNhMCA8EhOVn9sOJFvZ_4KiL9cf7cyDI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzkw/NjItMTM3NjI1ODI5/NC01MDcyLmpwZWc.jpeg"
+      }
+    ],
+    "community": {
+      "rating": {
+        "count": 271,
+        "average": 4.01
+      },
+      "have": 3260,
+      "want": 533
+    },
+    "master": {
+      "id": 20692,
+      "title": " Ummagumma Vol. 2",
+      "main_release": 37263915,
+      "year": 1974,
+      "uri": "https://www.discogs.com/master/20692-Pink-Floyd-Ummagumma-Vol-2",
+      "num_for_sale": 4061
+    }
+  },
+  "apple_music": {
+    "id": 1065978159,
+    "url": "https://music.apple.com/us/album/ummagumma/1065978159?uo=4",
+    "name": "Ummagumma",
+    "artist": "Pink Floyd",
+    "artist_id": 487143,
+    "artwork_url_100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9d/47/c3/9d47c312-947c-c361-173e-cb41ce3748fc/886445635812.jpg/100x100bb.jpg",
+    "artwork_url_600": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9d/47/c3/9d47c312-947c-c361-173e-cb41ce3748fc/886445635812.jpg/600x600bb.jpg",
+    "release_date": "1969-10-25T07:00:00Z",
+    "track_count": 17,
+    "copyright": "℗ 2016 The copyright in this sound recording is owned by Pink Floyd Music Ltd., marketed and distributed by Sony Music Entertainment",
+    "primary_genre": "Rock",
+    "country": "USA",
+    "tracks": [
+      {
+        "track_number": 1,
+        "disc_number": 1,
+        "name": "Astronomy Domine (Live)",
+        "duration_ms": 510387,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/74/61/80/746180d4-5142-4e48-db69-ad1908a0037c/mzaf_7880482409583436911.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/astronomy-domine-live/1065978159?i=1065978623&uo=4"
+      },
+      {
+        "track_number": 2,
+        "disc_number": 1,
+        "name": "Careful with That Axe, Eugene (Live)",
+        "duration_ms": 530547,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/cc/36/f9/cc36f9f9-db23-c96e-fdeb-b6a6099d0ea7/mzaf_2783916127396019286.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/careful-with-that-axe-eugene-live/1065978159?i=1065978627&uo=4"
+      },
+      {
+        "track_number": 3,
+        "disc_number": 1,
+        "name": "Set the Controls for the Heart of the Sun (Live)",
+        "duration_ms": 566613,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/03/0a/b6/030ab63a-367d-1bdd-3f6d-bbbe7381838c/mzaf_11084936019667270200.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/set-the-controls-for-the-heart-of-the-sun-live/1065978159?i=1065979012&uo=4"
+      },
+      {
+        "track_number": 4,
+        "disc_number": 1,
+        "name": "A Saucerful of Secrets (Live)",
+        "duration_ms": 769880,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/f7/3c/a9/f73ca923-d59c-5ed3-3c6f-2ac0c8f72168/mzaf_15230784769910649733.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/a-saucerful-of-secrets-live/1065978159?i=1065979015&uo=4"
+      },
+      {
+        "track_number": 1,
+        "disc_number": 2,
+        "name": "Sysyphus, Pt. 1",
+        "duration_ms": 67907,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/66/f9/e5/66f9e5af-dc8b-8100-3e90-c57e7e82ac37/mzaf_10160633528191446957.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/sysyphus-pt-1/1065978159?i=1065979016&uo=4"
+      },
+      {
+        "track_number": 2,
+        "disc_number": 2,
+        "name": "Sysyphus, Pt. 2",
+        "duration_ms": 210507,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/06/0e/ef/060eef1a-3b1e-4ae5-cc40-3fcb6db99239/mzaf_6561927707083519683.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/sysyphus-pt-2/1065978159?i=1065979020&uo=4"
+      },
+      {
+        "track_number": 3,
+        "disc_number": 2,
+        "name": "Sysyphus, Pt. 3",
+        "duration_ms": 109480,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/49/dc/20/49dc208d-98a5-ca49-dbdf-036e7664360a/mzaf_15458295768773167878.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/sysyphus-pt-3/1065978159?i=1065979021&uo=4"
+      },
+      {
+        "track_number": 4,
+        "disc_number": 2,
+        "name": "Sysyphus, Pt. 4",
+        "duration_ms": 419907,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/77/06/b5/7706b596-437c-9989-585e-0ebe15b822d5/mzaf_15169429259763839324.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/sysyphus-pt-4/1065978159?i=1065979022&uo=4"
+      },
+      {
+        "track_number": 5,
+        "disc_number": 2,
+        "name": "Grantchester Meadows",
+        "duration_ms": 447480,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/88/a5/4e/88a54e47-a14b-e64e-6914-51e35373e085/mzaf_9482971790669804971.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/grantchester-meadows/1065978159?i=1065979025&uo=4"
+      },
+      {
+        "track_number": 6,
+        "disc_number": 2,
+        "name": "Several Species of Small Furry Animals Gathered Together In a Cave and Grooving with a Pict",
+        "duration_ms": 298427,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/5b/e5/c7/5be5c750-6909-998e-850c-cf657525c201/mzaf_18296722003606263807.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/several-species-of-small-furry-animals-gathered/1065978159?i=1065979026&uo=4"
+      },
+      {
+        "track_number": 7,
+        "disc_number": 2,
+        "name": "The Narrow Way, Pt. 1",
+        "duration_ms": 208787,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/16/57/79/16577924-9d50-dbfa-c08d-82ea32bc5f59/mzaf_10146643788299263851.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/the-narrow-way-pt-1/1065978159?i=1065979027&uo=4"
+      },
+      {
+        "track_number": 8,
+        "disc_number": 2,
+        "name": "The Narrow Way, Pt. 2",
+        "duration_ms": 173680,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/0d/33/86/0d338695-00a2-5d6f-46d8-bbe2ae6f9a2c/mzaf_7486892256120974184.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/the-narrow-way-pt-2/1065978159?i=1065979029&uo=4"
+      },
+      {
+        "track_number": 9,
+        "disc_number": 2,
+        "name": "The Narrow Way, Pt. 3",
+        "duration_ms": 357453,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/94/1b/2a/941b2a9a-0a59-a1d2-8def-2ed08ff37208/mzaf_17593234569375906670.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/the-narrow-way-pt-3/1065978159?i=1065979643&uo=4"
+      },
+      {
+        "track_number": 10,
+        "disc_number": 2,
+        "name": "The Grand Vizier's Garden Party, Pt. 1: Entrance",
+        "duration_ms": 59427,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/3d/25/87/3d2587a5-6d40-52d0-f7bd-ba28d0c236ae/mzaf_13166969875713305696.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/the-grand-viziers-garden-party-pt-1-entrance/1065978159?i=1065979644&uo=4"
+      },
+      {
+        "track_number": 11,
+        "disc_number": 2,
+        "name": "The Grand Vizier's Garden Party, Pt. 2: Entertainment",
+        "duration_ms": 425907,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/84/1f/b3/841fb3c7-a3b1-fd37-9f45-3ccc519f7fb1/mzaf_1788706024485663627.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/the-grand-viziers-garden-party-pt-2-entertainment/1065978159?i=1065979648&uo=4"
+      },
+      {
+        "track_number": 12,
+        "disc_number": 2,
+        "name": "The Grand Vizier's Garden Party, Pt. 3: Exit",
+        "duration_ms": 40640,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/4f/73/4f/4f734fa3-e075-d425-dc58-521cd0cdb89f/mzaf_16507501806676172124.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/the-grand-viziers-garden-party-pt-3-exit/1065978159?i=1065979651&uo=4"
+      }
+    ]
+  },
+  "discrepancies": [
+    "Track count differs: Discogs=5, Apple Music=16",
+    "Total runtime differs by 824s (Discogs=4363s, Apple Music=5187s) — likely a different master/remaster."
+  ],
+  "local_cover": "images/1039062.jpg"
+}

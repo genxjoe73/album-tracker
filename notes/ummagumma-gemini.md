@@ -1,0 +1,1 @@
+Released in 1969, *Ummagumma* is a double album that captures Pink Floyd at their most experimental. The first disc features incendiary live performances from Mother's Club and the College of Commerce, while the second disc allocates a quarter of the record to each band member for avant-garde solo compositions.

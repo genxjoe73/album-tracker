@@ -1,0 +1,525 @@
+{
+  "captured_at": "2026-05-10T02:50:42+00:00",
+  "schema_version": 3,
+  "artist": "Pink Floyd",
+  "title": "Wish You Were Here",
+  "original_release_year": 1975,
+  "pressing_year": 2016,
+  "upgrade_suggestion": "This is already the definitive modern remaster (2016 Guthrie/Plante, BG24222 cut, Optimal Media pressing). For a vintage alternative, seek an original 1975 UK Harvest first press (SHVL 814) — the historical document of the album, cut at EMI Mastering. The US HRM/Hauppauge first pressing (r9981969) is a solid domestic option but not a sonic step up over this remaster.",
+  "commentary": "Released in September 1975, *Wish You Were Here* is Pink Floyd’s elegiac tribute to their absent founder, Syd Barrett, and a biting critique of the music industry. The album is framed by the epic nine-part suite \"Shine On You Crazy Diamond,\" which bookends three shorter tracks. It features some of David Gilmour’s most emotive guitar work and Richard Wright’s most prominent synthesizer contributions. \n\n**About this pressing:**\nThis is the 2016 Pink Floyd Records reissue, pressed on 180-gram heavyweight vinyl. Remastered from the original analogue tapes by James Guthrie, Joel Plante, and Bernie Grundman, it is widely considered one of the best-sounding modern accessible pressings of this legendary album.\n\n### Gemini Notes\n\nReleased in 1975, *Wish You Were Here* is Pink Floyd's elegiac tribute to their absent founder, Syd Barrett. This pressing is the 2016 Pink Floyd Records reissue, widely considered one of the best-sounding modern pressings.\n\n**About this pressing:**",
+  "discogs": {
+    "release_id": 25885156,
+    "master_id": 11703,
+    "uri": "https://www.discogs.com/release/25885156-Pink-Floyd-Wish-You-Were-Here",
+    "title": "Wish You Were Here",
+    "artists": [
+      {
+        "name": "Pink Floyd",
+        "id": 45467,
+        "role": null
+      }
+    ],
+    "year": 2016,
+    "released": "2016",
+    "country": "Europe",
+    "labels": [
+      {
+        "name": "Pink Floyd Records",
+        "catno": "PFRLP9",
+        "id": 983890
+      },
+      {
+        "name": "Pink Floyd Records",
+        "catno": "5099902988016",
+        "id": 983890
+      }
+    ],
+    "formats": [
+      {
+        "name": "Vinyl",
+        "qty": "1",
+        "descriptions": [
+          "LP",
+          "Album",
+          "Reissue",
+          "Remastered",
+          "Stereo"
+        ],
+        "text": "180 Gram"
+      }
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Art Rock",
+      "Prog Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "",
+        "title": "Shine On You Crazy Diamond (1 - 5)",
+        "duration": "",
+        "type": "index"
+      },
+      {
+        "position": "A2",
+        "title": "Welcome To The Machine",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B1",
+        "title": "Have A Cigar",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B2",
+        "title": "Wish You Were Here",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "",
+        "title": "Shine On You Crazy Diamond (6 - 9)",
+        "duration": "",
+        "type": "index"
+      }
+    ],
+    "extraartists": [
+      {
+        "name": "Carlena Williams",
+        "role": "Backing Vocals",
+        "id": 260448
+      },
+      {
+        "name": "Venetta Fields",
+        "role": "Backing Vocals",
+        "id": 258113
+      },
+      {
+        "name": "Howard Bartrop",
+        "role": "Design",
+        "id": 1832642
+      },
+      {
+        "name": "Jeff Smith (17)",
+        "role": "Design",
+        "id": 1832640
+      },
+      {
+        "name": "Peter Christopherson",
+        "role": "Design",
+        "id": 34069
+      },
+      {
+        "name": "Richard Manning (3)",
+        "role": "Design",
+        "id": 1832641
+      },
+      {
+        "name": "Hipgnosis (2)",
+        "role": "Design, Sleeve, Photography By",
+        "id": 1826972
+      },
+      {
+        "name": "Brian Humphries",
+        "role": "Engineer",
+        "id": 258792
+      },
+      {
+        "name": "Peter James",
+        "role": "Engineer [Assisted By]",
+        "id": 277864
+      },
+      {
+        "name": "George Hardie",
+        "role": "Graphics",
+        "id": 1826981
+      },
+      {
+        "name": "Bernie Grundman",
+        "role": "Lacquer Cut By",
+        "id": 307942
+      },
+      {
+        "name": "Roger Waters",
+        "role": "Lyrics By",
+        "id": 110862
+      },
+      {
+        "name": "Pink Floyd",
+        "role": "Producer",
+        "id": 45467
+      },
+      {
+        "name": "Bernie Grundman",
+        "role": "Remastered By",
+        "id": 307942
+      },
+      {
+        "name": "James Guthrie",
+        "role": "Remastered By",
+        "id": 171450
+      },
+      {
+        "name": "Joel Plante",
+        "role": "Remastered By",
+        "id": 409280
+      }
+    ],
+    "identifiers": [
+      {
+        "type": "Barcode",
+        "value": "5099902988016",
+        "description": "Scanned"
+      },
+      {
+        "type": "Barcode",
+        "value": "5 099902 988016",
+        "description": "Text"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "PFRLP9-A",
+        "description": "Side A Label"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "PFRLP9-B",
+        "description": "Side B Label"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "5099902988016A",
+        "description": "Side A Label"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "5099902988016B",
+        "description": "Side B Label"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "5099902987613-A II8r BG24222-01 A1 BG",
+        "description": "Runout side A, variant 1"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "5099902987613-B BG24222-01 B1 BG",
+        "description": "Runout side B, variant 1"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "5099902987613-A BG24222-01 A1 BG 18Λ",
+        "description": "Runout side A, variant 2"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "5099902987613-B 1LI II/F BG24222-01 B1 BG",
+        "description": "Runout side B, variant 2"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "5099902987613-A BG24222-01 A1 15=Λ BG",
+        "description": "Runout side A, variant 3"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "5099902987613-B BG24222-01 B1 7I+ BG",
+        "description": "Runout side B, variant 3"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "5099902987613-A BG24222-01 A1 BG 17T",
+        "description": "Runout side A, variant 4"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "5099902987613-B 11X BG24222-01 B1 BG",
+        "description": "Runout side B, variant 4"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "5099902987613-A 5 X + BG24222-01 A1 BG",
+        "description": "Runout side A, variant 5"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "5099902987613-B =5 BG24222-01 B1 BG",
+        "description": "Runout side B, variant 5"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "5099902987613-A BG24222-07 A7 Λ=8Λ BG",
+        "description": "Runout side A, variant 6"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "5099902987613-B BG24222-07 B7 Λ=8Λ BG",
+        "description": "Runout side B, variant 6"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "5099902987613-A 5Λ BG24222-07 A7 BG",
+        "description": "Runout side A, variant 7"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "5099902987613-B =4 BG24222-01 B7 BG",
+        "description": "Runout side B, variant 7"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "5099902987613-A BG24222-01 A1 BG 18=T",
+        "description": "Runout side A, variant 8"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "5099902987613-B BG24222-01 B1 BG 15IX",
+        "description": "Runout side B, variant 8"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "5099902987613-A BG24222-07 A> 17Λ∆ BG",
+        "description": "Runout side A, variant 9"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "5099902987613-B BG24222-07 B> 14II BG",
+        "description": "Runout side B, variant 9"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "5099902987613-A BG24222-01 A1 BG 8+x",
+        "description": "Runout side A, variant 10"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "5099902987613-B Λ5+Λ BG24222-01 B1 BG",
+        "description": "Runout side B, variant 10"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "5099902987613-A V8+Λ BG24222-01 A1 BG",
+        "description": "Runout side A, variant 11"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "5099902987613-B ∆=51 BG24222-01 B1 BG",
+        "description": "Runout side B, variant 11"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "5099902987613-A BG24222-01 A1 BG = T31  (probably =T31 mirrored & upside down)",
+        "description": "Runout side A, variant 12"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "5099902987613-B BG24222-01 B1 BG",
+        "description": "Runout side B, variant 12"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "5099902987613-A 17== BG24222-01 A1 BG",
+        "description": "Runout side A, variant 13"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "5099902987613-B 12- BG24222-01 B1 BG",
+        "description": "Runout side B, variant 13"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "5099902987613-A BG24222-07 A7 VVX BG",
+        "description": "Runout side A, variant 14"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "5099902987613-B BG24222-07 B7 VVI BG ",
+        "description": "Runout side B, variant 14"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "5099902987613-A BG24222-01 A1 BG IΛFΛ",
+        "description": "Runout side A, variant 15"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "5099902987613-B ΛNΛ BG24222-01 B1 BG",
+        "description": "Runout side B, variant 15"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "5099902987613-A BG24222-01 A1 BG I181",
+        "description": "Runout side A, variant 16"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "5099902987613-B BG24222-01 B1 BG Λ5+Λ",
+        "description": "Runout side B, variant 16"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BG 5099902987613-A h1+ BG24222-01 A1",
+        "description": "Runout side A, variant 17"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BG 5099902987613-B BG24222-01 B1 51⟘",
+        "description": "Runout side B, variant 17"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "5099902987613-A BG24222-01 A1 BG 17I-",
+        "description": "Runout side A, variant 18"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "5099902987613-B BG24222-01 B1 BG 12I=",
+        "description": "Runout side B, variant 18"
+      }
+    ],
+    "notes": "The stereo remastered album on Heavyweight 180 Vinyl\nRemastered from the original analogue tapes by JAMES GUTHRIE, JOEL PLANTE and BERNIE GRUNDMAN\nOriginal UK release date: September 1975\nwww.pinkfloyd.com\n\nComes with printed inner sleeve, post card and the album is concealed in a black-coloured shrink-wrap (making the album art \"absent\"). On the front of the shrinkwrap is a George Hardie designed sticker containing the album's logo of two mechanical hands engaged in a handshake.\n\n℗ & © 2016 Pink Floyd Music Ltd.\n\nAlmost identical to [r=9180570], but this release shows the cat# number low on the right side of the inner sleeve (image 8).\n\nAll elements of the runouts are etched on both sides and any [url=https://www.discogs.com/label/313190]Optimal Media GmbH[/url]  geometric marks are mirrored\nIn the Runout side B, variant 11: \"51\" is mirrored\nIn the Runout side A, variant 18: \"17I-\" is mirrored\nIn the Runout side B, variant 18: \"12I=\" is mirrored",
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/QN7zMICI1i2TlBQaM3kCsN0f5ypqlynI3Y9gC97dhTM/rs:fit/g:sm/q:90/h:582/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODg1/MTU2LTE2OTUyMDA1/ODgtMTk1NS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/kUKgGXNqkWRUaKbEcRFaqxrc07_uC9iNpiYhOEKwz8c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODg1/MTU2LTE2OTUyMDA1/ODgtMTk1NS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/rVeAVyTwyeDK3W-Cf6iZKgGj_hjHnF2o7C-dngCc3Vs/rs:fit/g:sm/q:90/h:600/w:567/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODg1/MTU2LTE2NzQ2ODA3/MjUtMTQ5OC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/yqp3zQidqp5_RIkTNRArN5xftjEMzNgVC6sFIk8UfOQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODg1/MTU2LTE2NzQ2ODA3/MjUtMTQ5OC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/xU0S5Wf5y_hLZQpVlK6BsDv_LJJXP-qtoq1TBUECLyM/rs:fit/g:sm/q:90/h:591/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODg1/MTU2LTE2NzQ2ODA1/OTUtNjQ4MS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/48oLZlNBZg7d3yDAG0zVuXkgnwYk09EimqU-32zeT_k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODg1/MTU2LTE2NzQ2ODA1/OTUtNjQ4MS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/LdVbJ6mnS5inWGpXXuRqGvdoN3Ato4yt-hCnF5Vplf4/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODg1/MTU2LTE3MDA1Njg2/OTgtNjY2Mi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/cY7Vvirvi4QnpA8hgTBIUsmnXl9IgJGc_mbPEPwYRi8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODg1/MTU2LTE3MDA1Njg2/OTgtNjY2Mi5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/6RuX5TFMWQkC3ev5IuTihrUA7LxqsPrwYQ3YatDKuLA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODg1/MTU2LTE3MDA1Njg0/MzctMzY5Ni5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/yPXfixabLBRECVcEpE8JzhXe0Ke9DCHyXdbJ-h6D2Mw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODg1/MTU2LTE3MDA1Njg0/MzctMzY5Ni5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/BSa_Vs1wC4xLJMeEk_p2OKL_kIPRfROIGB47abAPuqc/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODg1/MTU2LTE3MDA1Njg0/MzktNDI0Mi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/mKtpmWzmHEuR1O5Z4cn8Ui3zI2UCw_i_shRnT3g3xfA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODg1/MTU2LTE3MDA1Njg0/MzktNDI0Mi5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/oV2ch5vE7E-Abz691P7Td1Wl3-S4xCl3-WtrkP-Q3sk/rs:fit/g:sm/q:90/h:599/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODg1/MTU2LTE2NzQ2ODA1/OTUtMTUzMC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/LMys0Q4Oa1DpNt_br2P99_4LgrcVsjwHC2rUnBTZ5ng/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODg1/MTU2LTE2NzQ2ODA1/OTUtMTUzMC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/Lx5KzwsihEvuRDEk6nprDCOnPOsBI8m4EPfrmbRbhWM/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODg1/MTU2LTE3MDA1Njg4/NTgtOTE0MC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/ag91xWs-D_33KtK_Y-2H5yPTwhlzisibemniHgqAquM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODg1/MTU2LTE3MDA1Njg4/NTgtOTE0MC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/9sCMkqTsPQst3QjknwF7-lFUsMMB0DQ8M4szKkYS80M/rs:fit/g:sm/q:90/h:600/w:481/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODg1/MTU2LTE2NzQ3MTQ2/NDgtMzkxOC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/yKXBJiC3GGuhvjno5JvQklkREUrWXOxZq7OOBraUqeE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODg1/MTU2LTE2NzQ3MTQ2/NDgtMzkxOC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/dtJ2eC9J8CrsLBU9s2u6X55GarGINwlcAsDw-eoPrMg/rs:fit/g:sm/q:90/h:398/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODg1/MTU2LTE3MDA1Njg0/NDItMzU3NS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/Ye_YmPTysqttp1z4G8b84CHiw0Hfh5DcnbOSJdAPqzQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODg1/MTU2LTE3MDA1Njg0/NDItMzU3NS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/FDX1mPwJd5RY3lA5zvQdv5LWhu8u4Ighn77GSqSBYgs/rs:fit/g:sm/q:90/h:401/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODg1/MTU2LTE3NDU0MDQy/MzktMjgzMi5wbmc.jpeg",
+        "uri150": "https://i.discogs.com/O_QdIQwNNtUngT7JEzntS8TaBMbZdcforKh89q03P2Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODg1/MTU2LTE3NDU0MDQy/MzktMjgzMi5wbmc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/qZ5z3xm4eBfZmgBpO9lPEJFObUXcy0-nYna8CQ755Fo/rs:fit/g:sm/q:90/h:600/w:304/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODg1/MTU2LTE3MDA1Njg0/NDMtNTE5NC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/rAYAcikmEES_QxeCMaGl6WNjjYVdCOFbd2330X5ihxA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODg1/MTU2LTE3MDA1Njg0/NDMtNTE5NC5qcGVn.jpeg"
+      }
+    ],
+    "community": {
+      "rating": {
+        "count": 514,
+        "average": 4.85
+      },
+      "have": 5590,
+      "want": 583
+    },
+    "master": {
+      "id": 11703,
+      "title": "Wish You Were Here",
+      "main_release": 463597,
+      "year": 1975,
+      "uri": "https://www.discogs.com/master/11703-Pink-Floyd-Wish-You-Were-Here",
+      "num_for_sale": 6475
+    }
+  },
+  "apple_music": {
+    "id": 1065973975,
+    "url": "https://music.apple.com/us/album/wish-you-were-here/1065973975?uo=4",
+    "name": "Wish You Were Here",
+    "artist": "Pink Floyd",
+    "artist_id": 487143,
+    "artwork_url_100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/aa/e0/ab/aae0ab6a-d906-a189-81bf-70b56aa43f7a/886445635843.jpg/100x100bb.jpg",
+    "artwork_url_600": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/aa/e0/ab/aae0ab6a-d906-a189-81bf-70b56aa43f7a/886445635843.jpg/600x600bb.jpg",
+    "release_date": "1975-09-12T07:00:00Z",
+    "track_count": 6,
+    "copyright": "℗ 2016 The copyright in this sound recording is owned by Pink Floyd Music Ltd., marketed and distributed by Sony Music Entertainment",
+    "primary_genre": "Rock",
+    "country": "USA",
+    "tracks": [
+      {
+        "track_number": 1,
+        "disc_number": 1,
+        "name": "Shine On You Crazy Diamond, Pts. 1-5",
+        "duration_ms": 814800,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/6f/c7/bc/6fc7bcef-3c82-e53b-5402-8e0316ac5f23/mzaf_18220615966453940006.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/shine-on-you-crazy-diamond-pts-1-5/1065973975?i=1065973977&uo=4"
+      },
+      {
+        "track_number": 2,
+        "disc_number": 1,
+        "name": "Welcome to the Machine",
+        "duration_ms": 450707,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/fd/49/95/fd49955d-7269-4084-b073-3e8313839087/mzaf_7321575167949722134.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/welcome-to-the-machine/1065973975?i=1065973978&uo=4"
+      },
+      {
+        "track_number": 3,
+        "disc_number": 1,
+        "name": "Have a Cigar",
+        "duration_ms": 307400,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/72/0f/01/720f0147-f864-fad9-a158-42cfc8d0e518/mzaf_11355316395977863089.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/have-a-cigar/1065973975?i=1065973979&uo=4"
+      },
+      {
+        "track_number": 4,
+        "disc_number": 1,
+        "name": "Wish You Were Here",
+        "duration_ms": 338467,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/5e/4b/35/5e4b3554-282d-12dd-e420-728287a1d3b1/mzaf_14938061551507100947.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/wish-you-were-here/1065973975?i=1065973980&uo=4"
+      },
+      {
+        "track_number": 5,
+        "disc_number": 1,
+        "name": "Shine On You Crazy Diamond, Pts. 6-9",
+        "duration_ms": 745080,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f9/a5/ac/f9a5ac33-4f94-9a25-8405-ff1695c4a866/mzaf_1082447733339151151.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/shine-on-you-crazy-diamond-pts-6-9/1065973975?i=1065973981&uo=4"
+      }
+    ]
+  },
+  "discrepancies": [
+    "Track count differs: Discogs=3, Apple Music=5",
+    "Release year differs: your pressing=2016, Apple Music edition=1975. Apple Music typically streams the most recent remaster."
+  ],
+  "local_cover": "images/25885156.jpg"
+}

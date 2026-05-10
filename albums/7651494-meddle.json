@@ -1,0 +1,267 @@
+{
+  "captured_at": "2026-05-10T01:50:30+00:00",
+  "schema_version": 3,
+  "artist": "Pink Floyd",
+  "title": "Meddle",
+  "original_release_year": 1971,
+  "pressing_year": 1975,
+  "upgrade_suggestion": "1975 US Capitol reissue is a workable mid-period pressing; the audiophile alternative is the original 1971 UK Harvest (SHVL 795) — meaningfully better sound but expensive. The 2016 James Guthrie remaster is the cleanest digital source.",
+  "commentary": "Released October/November 1971, *Meddle* is the album where Pink Floyd figured out their next decade. Coming off *Ummagumma*'s solo-segment experiments and *Atom Heart Mother*'s orchestral-suite ambitions, the band needed to consolidate — and *Meddle* is the document of that consolidation.\n\nThe breakthrough is *Echoes*, the 23-minute side-2 piece that became the prototype for everything from *Dark Side of the Moon* through *Wish You Were Here*. The band built it from a year of recorded fragments labeled \"Nothing, Pts. 1-24\" — keyboard sketches, guitar phrases, sound effects — that they assembled at Abbey Road, AIR Studios, and Morgan Sound through early 1971. Richard Wright's submarine-ping piano (the famous opening note, processed through a Leslie cabinet) was an accident: he hit a single note while testing the equipment and the band kept it. *Echoes* is the first time Floyd's signature dynamic-and-spatial language fully cohered.\n\nSide 1 is openly transitional. *One of These Days* (Roger Waters' twin-bass instrumental with Nick Mason's vocoder-spoken \"I am about to cut you into little pieces\") points forward; *San Tropez* and *Fearless* are pleasant but conventional rock songs the band was unsure about; *Seamus* features David Gilmour's actual dog Seamus howling along to a 12-bar blues — recorded for real, the dog was at the studio with Steve Marriott (who was minding him for a tour), and Gilmour played him an open tuning until he started singing. The band has since called *Seamus* a mistake; Roger Waters said in 1972 that they thought it was funny at the time.\n\n**About this US Capitol pressing:** Capitol issued *Meddle* as `SMAS-832` from late 1971 onward. Multiple plants pressed it across the early-to-mid 1970s — your \"early/mid-1970s\" frame matches a 1974 repress or a 1975 reissue depending on the deadwax stamps. The captured ID (r7651494) is the 1975 reissue with documented etched runouts (`Smas-1-832 H-35 Jay ─◁` / `SMAS-2-832 G44#2 ─◁`); the `─◁` triangle is Capitol's mastering mark and the letter-number combos identify the cutting engineer and cut number.\n\n*Deadwax TBD — `H-35 Jay` would confirm r7651494 (1975 Reissue); absence of those etched marks would point to the 1974 Repress (r27609675) or another variant. Re-point if needed once the runouts are read.*\n\n### Gemini Notes\n\nReleased in 1971, *Meddle* is the transitional masterpiece where Pink Floyd found their signature sound, anchored by the 23-minute epic \"Echoes.\" It moves away from their psychedelic origins toward the structured, progressive brilliance that would define their 70s output.\n\n**About this pressing:**",
+  "discogs": {
+    "release_id": 7651494,
+    "master_id": 20649,
+    "uri": "https://www.discogs.com/release/7651494-Pink-Floyd-Meddle",
+    "title": "Meddle",
+    "artists": [
+      {
+        "name": "Pink Floyd",
+        "id": 45467,
+        "role": null
+      }
+    ],
+    "year": 1975,
+    "released": "1975",
+    "country": "US",
+    "labels": [
+      {
+        "name": "Harvest",
+        "catno": "SMAS-832",
+        "id": 2564
+      }
+    ],
+    "formats": [
+      {
+        "name": "Vinyl",
+        "qty": "1",
+        "descriptions": [
+          "LP",
+          "Album",
+          "Reissue",
+          "Stereo"
+        ],
+        "text": "Gatefold"
+      }
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Prog Rock",
+      "Psychedelic Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "One Of These Days",
+        "duration": "5:50",
+        "type": "track"
+      },
+      {
+        "position": "A2",
+        "title": "A Pillow Of Winds",
+        "duration": "5:10",
+        "type": "track"
+      },
+      {
+        "position": "A3",
+        "title": "Fearless",
+        "duration": "6:03",
+        "type": "track"
+      },
+      {
+        "position": "A4",
+        "title": "San Tropez",
+        "duration": "3:42",
+        "type": "track"
+      },
+      {
+        "position": "A5",
+        "title": "Seamus",
+        "duration": "2:09",
+        "type": "track"
+      },
+      {
+        "position": "B",
+        "title": "Echoes",
+        "duration": "23:31",
+        "type": "track"
+      }
+    ],
+    "extraartists": [
+      {
+        "name": "Jay Maynard",
+        "role": "Mastered By",
+        "id": 618936
+      }
+    ],
+    "identifiers": [
+      {
+        "type": "Matrix / Runout",
+        "value": "Smas-1-832 H-35 Jay ─◁",
+        "description": "Side A Runout Etched (Variant 1)"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "SMAS-2-832 G44#2 ─◁",
+        "description": "Side B Runout Etched (Variant 1)"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "SMAS-1-832-G28  ─◁",
+        "description": "Side A Runout Etched (Variant 2)"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "SMAS-2-832-H31  ─◁",
+        "description": "Side B Runout Etched (Variant 2)"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "MASTERED BY CAPITOL",
+        "description": "Side A and B Runout Stamped"
+      },
+      {
+        "type": "Rights Society",
+        "value": "ASCAP",
+        "description": null
+      }
+    ],
+    "notes": "1975 reissue with \"ALL RIGHTS RESERVED\" on the labels.\nWinchester pressing.",
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/GflW4hI8YKhypFukOMkiWkUAe-jdUVOFLN6F_iLKicY/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2NTE0/OTQtMTQ0NTk2NjYy/Ni01MjYyLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/f2O-I_UQPe-DHLtIpGj5uFzS8kONxQI1JTWpV5Iy8d8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2NTE0/OTQtMTQ0NTk2NjYy/Ni01MjYyLmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/LndtA7BQGm8a5ch9WcTHfX17c3UTk0qorVev8QYdK7A/rs:fit/g:sm/q:90/h:297/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2NTE0/OTQtMTQ0NTk2NjYy/NS03NDYwLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/qELqiFvFLPOrB51FHZM3tU7KaIbp0HyIuWMRTq-sWRI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2NTE0/OTQtMTQ0NTk2NjYy/NS03NDYwLmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/jV0XTEOJKs_eRquduaKlaIDFTn5ZBPpaU62GxbD7RPM/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2NTE0/OTQtMTQ0NTk2NjYy/OS03Njc4LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/gTJ3yZG1yA8NIXUjusFcFYvMJBZTRL0AlwVFPYgZAi8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2NTE0/OTQtMTQ0NTk2NjYy/OS03Njc4LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/UoBjWhLCuNaTdrW3LCorTMI7weQnlLzCFSkIcdKYejw/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2NTE0/OTQtMTQ0NTk2NjYz/MC00OTk4LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/-riS4TqOdRSYcs-4-eTnq-VVpMk3F4QB-_Z--9gpReI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2NTE0/OTQtMTQ0NTk2NjYz/MC00OTk4LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/-ff7cZXrFr69QAl32nzoITskAYxetdF55Gyo7LoMGBg/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2NTE0/OTQtMTQ0NTk2NjYy/OS01NjAzLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/9C3rSdt1exqE4dudElgzJ_fTqG5EEwwkDEkVcCgHv_k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2NTE0/OTQtMTQ0NTk2NjYy/OS01NjAzLmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/Zlwvr1vUHEt2cap8CQHQNlMLQLdTsP6jkTOG_OeQ6dY/rs:fit/g:sm/q:90/h:501/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2NTE0/OTQtMTQ0NTk2NjYy/OC02MjIyLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/3EjCYIGz-G3ehOywfK-sL5ADm5GbcTZMYL9sUQDeRiA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2NTE0/OTQtMTQ0NTk2NjYy/OC02MjIyLmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/pCwoEd1nJdGmEPOuS55wMtw3oFJbn1zE5Ga5GXa_EPs/rs:fit/g:sm/q:90/h:321/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2NTE0/OTQtMTQ0NTk2NjYy/Ni0xNDEyLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/449k3B_SFa6LVXezffjcflurS1de5-Pwau0wjNRynYw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2NTE0/OTQtMTQ0NTk2NjYy/Ni0xNDEyLmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/hu0klWKn0QRkxfh64TKuZIMrFqzqyr7gYdYm4Vx6aQ8/rs:fit/g:sm/q:90/h:294/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2NTE0/OTQtMTQ0NTk2NjYy/OS00MjMwLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/V08IDouWrUJ_0xcld_UHjmv5Fd08MLS8QG3btkG3cHg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2NTE0/OTQtMTQ0NTk2NjYy/OS00MjMwLmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/dXszblB52KgB3eNhdknM7bVe4IlXfICUlOZ8qnbh2hY/rs:fit/g:sm/q:90/h:600/w:576/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2NTE0/OTQtMTQ0NTk2NjYy/OS03MDY3LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/eafGpJS7n2FlURcp1VJpFc9Yi_dUSz2GZfdc58xtYQE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2NTE0/OTQtMTQ0NTk2NjYy/OS03MDY3LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/VtvLIREDPgFu2ewYsc95JcNTXMRSQvUsGsOqyP7WGCc/rs:fit/g:sm/q:90/h:359/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2NTE0/OTQtMTQ0NTk2NjYy/Ny03Nzk2LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/ZTJK9fen-wqi5uwxFv0kITKqXk6LnNycnj3fBXZi2qs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2NTE0/OTQtMTQ0NTk2NjYy/Ny03Nzk2LmpwZWc.jpeg"
+      }
+    ],
+    "community": {
+      "rating": {
+        "count": 63,
+        "average": 4.71
+      },
+      "have": 648,
+      "want": 731
+    },
+    "master": {
+      "id": 20649,
+      "title": "Meddle",
+      "main_release": 4137493,
+      "year": 1971,
+      "uri": "https://www.discogs.com/master/20649-Pink-Floyd-Meddle",
+      "num_for_sale": 4463
+    }
+  },
+  "apple_music": {
+    "id": 1065973614,
+    "url": "https://music.apple.com/us/album/meddle-2016-remaster/1065973614?uo=4",
+    "name": "Meddle (2016 Remaster)",
+    "artist": "Pink Floyd",
+    "artist_id": 487143,
+    "artwork_url_100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/18/a8/b7/18a8b7ed-365d-ef37-d724-88ce764c3ee7/886445635911.jpg/100x100bb.jpg",
+    "artwork_url_600": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/18/a8/b7/18a8b7ed-365d-ef37-d724-88ce764c3ee7/886445635911.jpg/600x600bb.jpg",
+    "release_date": "1971-10-30T07:00:00Z",
+    "track_count": 7,
+    "copyright": "℗ 2016 The copyright in this sound recording is owned by Pink Floyd Music Ltd., marketed and distributed by Sony Music Entertainment",
+    "primary_genre": "Rock",
+    "country": "USA",
+    "tracks": [
+      {
+        "track_number": 1,
+        "disc_number": 1,
+        "name": "One of These Days",
+        "duration_ms": 355400,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/69/c4/25/69c425f3-837a-e31f-c0b0-bc4f8ec93ac2/mzaf_3509608723544448540.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/one-of-these-days/1065973614?i=1065973615&uo=4"
+      },
+      {
+        "track_number": 2,
+        "disc_number": 1,
+        "name": "A Pillow of Winds",
+        "duration_ms": 313160,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/c9/a3/a4/c9a3a4d8-3a5e-2ad2-3341-45ea38dd9abb/mzaf_4589204101270425076.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/a-pillow-of-winds/1065973614?i=1065973616&uo=4"
+      },
+      {
+        "track_number": 3,
+        "disc_number": 1,
+        "name": "Fearless",
+        "duration_ms": 367880,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/a0/58/b7/a058b70a-7a01-b723-298c-141acbf92389/mzaf_3927709694380156733.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/fearless/1065973614?i=1065973617&uo=4"
+      },
+      {
+        "track_number": 4,
+        "disc_number": 1,
+        "name": "San Tropez",
+        "duration_ms": 222853,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/24/99/7b/24997b2c-3785-0051-a74f-182e8a62a7b2/mzaf_1067655796028364278.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/san-tropez/1065973614?i=1065973618&uo=4"
+      },
+      {
+        "track_number": 5,
+        "disc_number": 1,
+        "name": "Seamus",
+        "duration_ms": 134493,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/4e/83/64/4e836475-04d4-e295-c839-d796ad333572/mzaf_370889559742485095.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/seamus/1065973614?i=1065973619&uo=4"
+      },
+      {
+        "track_number": 6,
+        "disc_number": 1,
+        "name": "Echoes",
+        "duration_ms": 1413307,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/6f/18/87/6f1887b4-f0b8-107e-9732-2e6a780fb526/mzaf_1229599755829787570.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/echoes/1065973614?i=1065973623&uo=4"
+      }
+    ]
+  },
+  "discrepancies": [
+    "Release year differs: your pressing=1975, Apple Music edition=1971. Apple Music typically streams the most recent remaster."
+  ],
+  "local_cover": "images/7651494.jpg"
+}

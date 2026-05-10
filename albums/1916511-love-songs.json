@@ -1,0 +1,547 @@
+{
+  "captured_at": "2026-05-10T17:07:23+00:00",
+  "schema_version": 3,
+  "artist": "The Beatles",
+  "title": "Love Songs",
+  "original_release_year": 1977,
+  "pressing_year": 1977,
+  "upgrade_suggestion": "No modern remaster or audiophile pressing of Love Songs has been issued. The 1977 Winchester pressing you own — with KP (Ken Perry) mastering and F4 lacquer designation — is the best commonly available configuration. Earlier-series lacquer copies (F1–F3) are theoretically superior but rarely documented as distinct variants.",
+  "commentary": "**Love Songs** arrived in November 1977 as Capitol Records' follow-up to the blockbuster Red and Blue albums — the twin compilations released in 1973 that had re-established the Beatles catalog as a commercial force years after the band's dissolution. By the mid-1970s Capitol had settled into a steady rhythm of mining that catalog, and *Love Songs* represented one of the more considered entries in that ongoing project. Rather than a straightforward greatest-hits sweep, the 25-track collection was shaped around a theme: ballads and tender material spanning the full arc of the group's recording career from 1962 to 1970. \"P.S. I Love You\" and \"Misery\" appear alongside \"Something,\" \"Here, There and Everywhere,\" and \"The Long and Winding Road,\" tracing a continuous thread through the Beatles' romantic catalog. The packaging matched the intent. Where most Capitol Beatles compilations arrived in functional sleeves, *Love Songs* came in a **leatherette-effect gatefold**, deep burgundy with **gold-embossed** lettering and a debossed border pattern — widely regarded as one of the more elegant presentation packages in the entire Capitol Beatles discography.\n\n**Ken Perry** is among the most respected mastering engineers associated with Capitol Records during the 1970s, and his initials `KP` appear in the deadwax of numerous Capitol and EMI-licensed titles from the era. His work spans Beatles reissues, film soundtracks, and major label releases across the decade, and collectors have long treated a confirmed KP credit as a meaningful signal of quality. Perry's involvement typically indicates attentive, high-fidelity lacquer work — not a mastering chain compressed for radio simulation or for extracting maximum volume from a record store display. On a compilation like *Love Songs*, which draws from sessions recorded across nearly a decade, consistent tonal balance across source material is especially important, and Perry's reputation is built precisely on that kind of care.\n\nThe **Winchester plant** — Capitol Records' pressing facility in Winchester, Virginia — is identified in deadwax by the distinctive **arrow symbol** `· ──◁`, a house mark that appears consistently on pressings cut at that location. Winchester pressings are the dominant US variant of *Love Songs* and are generally regarded as the standard by which other copies are measured. The plant had a reliable reputation for consistent vinyl quality during this period, and Winchester copies of the Capitol Beatles catalog turn up in collector discussions as baseline references — not exotic, but dependably well-executed.\n\nThe **F-series lacquer designator** refers to Capitol's internal lacquer numbering system, where the letter prefix tracks how far a given lacquer cut is from the original production run. **F4** indicates an early-run cut — close to the initial lacquers pulled from the master — rather than a later-generation replacement cut made after earlier stampers wore down. Early-series designators are associated with better groove definition and transient detail, because the stamper family has not yet accumulated the generational loss that comes with extended production runs. An F4 across all four sides of a two-disc set is a favorable configuration.\n\n**About this 1977 US pressing (2×LP, Winchester):** Capitol Records catalog **SKBL-11711**, manufactured at the **Capitol Records Pressing Plant, Winchester, Virginia**, identified by the `· ──◁` arrow symbol in the deadwax. All four sides carry the matrix `SKBL-1-11711 F4 MASTERED BY CAPITOL KP`, confirming **Ken Perry** as the mastering engineer and placing the lacquers in the early-run F4 series. Leatherette-effect gatefold sleeve with gold embossing. Winchester pressings of *Love Songs* are the most commonly encountered US variant and the reference configuration for this title.\n\n### Gemini Notes\n\nReleased in 1977, *Love Songs* is a double-LP compilation issued by Capitol Records. Packaged in a lavish faux-leather textured gatefold, it collected the band's most famous romantic ballads and pop tunes into one cohesive package.\n\n**About this pressing:**",
+  "discogs": {
+    "release_id": 1916511,
+    "master_id": 54819,
+    "uri": "https://www.discogs.com/release/1916511-The-Beatles-Love-Songs",
+    "title": "Love Songs",
+    "artists": [
+      {
+        "name": "The Beatles",
+        "id": 82730,
+        "role": null
+      }
+    ],
+    "year": 1977,
+    "released": "1977-10-21",
+    "country": "US",
+    "labels": [
+      {
+        "name": "Capitol Records",
+        "catno": "SKBL-11711",
+        "id": 654
+      }
+    ],
+    "formats": [
+      {
+        "name": "Vinyl",
+        "qty": "2",
+        "descriptions": [
+          "LP",
+          "Compilation",
+          "Stereo"
+        ],
+        "text": "Winchester Press"
+      }
+    ],
+    "genres": [
+      "Rock",
+      "Pop"
+    ],
+    "styles": [
+      "Pop Rock",
+      "Acoustic",
+      "Ballad",
+      "Beat",
+      "Vocal"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Yesterday",
+        "duration": "2:04",
+        "type": "track"
+      },
+      {
+        "position": "A2",
+        "title": "I'll Follow The Sun",
+        "duration": "1:48",
+        "type": "track"
+      },
+      {
+        "position": "A3",
+        "title": "I Need You",
+        "duration": "2:28",
+        "type": "track"
+      },
+      {
+        "position": "A4",
+        "title": "Girl",
+        "duration": "2:26",
+        "type": "track"
+      },
+      {
+        "position": "A5",
+        "title": "In My Life",
+        "duration": "2:23",
+        "type": "track"
+      },
+      {
+        "position": "A6",
+        "title": "Words Of Love",
+        "duration": "2:10",
+        "type": "track"
+      },
+      {
+        "position": "A7",
+        "title": "Here, There And Everywhere",
+        "duration": "2:26",
+        "type": "track"
+      },
+      {
+        "position": "B1",
+        "title": "Something",
+        "duration": "3:03",
+        "type": "track"
+      },
+      {
+        "position": "B2",
+        "title": "And I Love Her",
+        "duration": "2:28",
+        "type": "track"
+      },
+      {
+        "position": "B3",
+        "title": "If I Fell",
+        "duration": "2:19",
+        "type": "track"
+      },
+      {
+        "position": "B4",
+        "title": "I'll Be Back",
+        "duration": "2:22",
+        "type": "track"
+      },
+      {
+        "position": "B5",
+        "title": "Tell Me What You See",
+        "duration": "2:35",
+        "type": "track"
+      },
+      {
+        "position": "B6",
+        "title": "Yes It Is",
+        "duration": "2:40",
+        "type": "track"
+      },
+      {
+        "position": "C1",
+        "title": "Michelle",
+        "duration": "2:42",
+        "type": "track"
+      },
+      {
+        "position": "C2",
+        "title": "It's Only Love",
+        "duration": "1:53",
+        "type": "track"
+      },
+      {
+        "position": "C3",
+        "title": "You're Going To Lose That Girl",
+        "duration": "2:18",
+        "type": "track"
+      },
+      {
+        "position": "C4",
+        "title": "Every Little Thing",
+        "duration": "2:01",
+        "type": "track"
+      },
+      {
+        "position": "C5",
+        "title": "For No One",
+        "duration": "2:00",
+        "type": "track"
+      },
+      {
+        "position": "C6",
+        "title": "She's Leaving Home",
+        "duration": "3:36",
+        "type": "track"
+      },
+      {
+        "position": "D1",
+        "title": "The Long And Winding Road",
+        "duration": "3:40",
+        "type": "track"
+      },
+      {
+        "position": "D2",
+        "title": "This Boy",
+        "duration": "2:11",
+        "type": "track"
+      },
+      {
+        "position": "D3",
+        "title": "Norwegian Wood (This Bird Has Flown)",
+        "duration": "2:00",
+        "type": "track"
+      },
+      {
+        "position": "D4",
+        "title": "You've Got To Hide Your Love Away",
+        "duration": "2:08",
+        "type": "track"
+      },
+      {
+        "position": "D5",
+        "title": "I Will",
+        "duration": "1:53",
+        "type": "track"
+      },
+      {
+        "position": "D6",
+        "title": "P.S. I Love You",
+        "duration": "2:02",
+        "type": "track"
+      }
+    ],
+    "extraartists": [
+      {
+        "name": "Roy Kohara",
+        "role": "Art Direction",
+        "id": 1314794
+      },
+      {
+        "name": "Michael Manoogian",
+        "role": "Calligraphy",
+        "id": 1211702
+      },
+      {
+        "name": "Ken Anderson (4)",
+        "role": "Design",
+        "id": 1859884
+      },
+      {
+        "name": "Ken Perry",
+        "role": "Lacquer Cut By",
+        "id": 368321
+      },
+      {
+        "name": "Richard Avedon",
+        "role": "Photography By",
+        "id": 955472
+      },
+      {
+        "name": "George Martin",
+        "role": "Producer [Produced By]",
+        "id": 259769
+      },
+      {
+        "name": "Phil Spector",
+        "role": "Producer [Produced By]",
+        "id": 190767
+      },
+      {
+        "name": "Lennon-McCartney",
+        "role": "Written-By",
+        "id": 779927
+      }
+    ],
+    "identifiers": [
+      {
+        "type": "Rights Society",
+        "value": "BMI",
+        "description": null
+      },
+      {
+        "type": "Pressing Plant ID",
+        "value": ".─◁",
+        "description": "In runouts "
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "SKBL 1-11711",
+        "description": "Label side A"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "SKBL 2-11711",
+        "description": "Label side B"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "SKBL 3-11711",
+        "description": "Label side C"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "SKBL 4-11711",
+        "description": "Label side D"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "SKBL-1-11711 F4 MASTERED BY CAPITOL KP",
+        "description": "Side A runout, variant 1"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "SKBL-2-11711 F4 MASTERED BY CAPITOL KP",
+        "description": "Side B runout, variant 1"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "SKBL-3-11711 F4 MASTERED BY CAPITOL KP",
+        "description": "Side C runout, variant 1"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "SKBL-4-11711 F4 MASTERED BY CAPITOL KP",
+        "description": "Side D runout, variant 1"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "SKBL-1-11711 F2 #5 .─◁ MASTERED BY CAPITOL KP",
+        "description": "Side A runout, variant 2"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "SKBL-2-11711 F2 #5 .─◁ MASTERED BY CAPITOL KP",
+        "description": "Side B runout, variant 2"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "SKBL-3-11711 F2 .─◁ MASTERED BY CAPITOL KP",
+        "description": "Side C runout, variant 2"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "SKBL-4-11711 F2 .─◁ MASTERED BY CAPITOL KP",
+        "description": "Side D runout, variant 2"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "SKBL-1-11711 F2 #5 .─◁ MASTERED BY CAPITOL KP",
+        "description": "Side A runout, variant 3"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "SKBL-2-11711 F2 #9 .─◁ MASTERED BY CAPITOL KP",
+        "description": "Side B runout, variant 3"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "SKBL-3-11711 F2 .─◁ MASTERED BY CAPITOL KP",
+        "description": "Side C runout, variant 3"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "SKBL-4-11711 F2 #8 .─◁ MASTERED BY CAPITOL KP",
+        "description": "Side D runout, variant 3"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "SKBL-1-11711 F2 #8 ─◁ MASTERED BY CAPITOL KP ",
+        "description": "Side A runout, variant 4"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "SKBL-2-11711 F2 ─◁ MASTERED BY CAPITOL KP",
+        "description": "Side B runout, variant 4"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "SKBL-3-11711 F2 ─◁ MASTERED BY CAPITOL KP",
+        "description": "Side C runout, variant 4"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "SKBL-4-11711 F2 #2 ─◁ MASTERED BY CAPITOL KP",
+        "description": "Side D runout, variant 4"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "SKBL-1-11711 F2 #3 .─◁ MASTERED BY CAPITOL KP",
+        "description": "Side A runout, variant 5"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "SKBL-2-11711 F2 #5 .─◁ MASTERED BY CAPITOL KP",
+        "description": "Side B runout, variant 5"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "SKBL-3-11711 F2 I-S #3 .─◁ MASTERED BY CAPITOL KP",
+        "description": "Side C runout, variant 5"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "SKBL-4-11711 F2 .─◁ MASTERED BY CAPITOL KP",
+        "description": "Side D runout, variant 5"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "SKBL-1-11711 F2 #8 MASTERED BY CAPITOL ‧ ─◁ KP",
+        "description": "Side A runout, variant 6"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "SKBL-2-11711 F2 #2 MASTERED BY CAPITOL ‧ ─◁ KP",
+        "description": "Side B runout, variant 6"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "SKBL-3-11711 F2 MASTERED BY CAPITOL ‧ ─◁ KP",
+        "description": "Side C runout, variant 6"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "SKBL-4-11711 F2 MASTERED BY CAPITOL ‧ ─◁ KP",
+        "description": "Side D runout, variant 6"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "SKBL-1-11711 F2 #4  .─◁ MASTERED BY CAPITOL KP",
+        "description": "Side A runout, variant 7"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "SKBL-2-11711 F2 #9 .─◁ MASTERED BY CAPITOL KP",
+        "description": "Side B runout, variant 7"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "SKBL-3-11711 F2 #3 .─◁ MASTERED BY CAPITOL KP",
+        "description": "Side C runout, variant 7"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "SKBL-4-11711 F2 .─◁ MASTERED BY CAPITOL KP",
+        "description": "Side D runout, variant 7"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "SKBL-1-11711 F2 #4  .─◁ MASTERED BY CAPITOL KP",
+        "description": "Side A runout, variant 8"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "SKBL-2-11711 F2 #5  .─◁ MASTERED BY CAPITOL KP",
+        "description": "Side B runout, variant 8"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "SKBL-3-11711 F2 #2 .─◁ MASTERED BY CAPITOL KP",
+        "description": "Side C runout, variant 8"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "SKBL-4-11711 F2 .─◁ MASTERED BY CAPITOL KP",
+        "description": "Side D runout, variant 8"
+      }
+    ],
+    "notes": "© 1977 Capitol Records, Inc.   \n℗ 1977 EMI Records Limited\n\n[l313656] - “Winchester” rifle: .─◁  \n\nJacket is an embossed, leather-like album cover; gatefold format. Comes with lyrics booklet.\n\nSides are organized for use with an autochanging player.\nRecord One = Side One and Side Four.\nRecord Two = Side Two and Side Three.\nAll tracks published by BMI. Recorded in England. Mastered by Capitol.\n\nTracks A1, A5, B5 to C3, D3, D4 Copyright © 1965 by Northern Songs Limited. All rights for the United States of America, Canada, Mexico and the Philippines controlled by Maclen Music, Inc. c/o ATV Music Corp. International copyright secured.\nTracks A2, B2 to B4, C4 Copyright © 1964 by Northern Songs Limited. All rights for the United States of America, Canada, Mexico and the Philippines controlled by Maclen Music, Inc. c/o ATV Music Corp. International copyright secured.\nTrack A3 Copyright © 1965 & 1967 by Northern Songs Limited. All rights for the United States of America, Canada, Mexico and the Philippines controlled by Maclen Music, Inc. c/o ATV Music Corp. International copyright secured.\nTrack A4 Copyright © 1965 & 1966 by Northern Songs Limited. All rights for the United States of America, Canada, Mexico and the Philippines controlled by Maclen Music, Inc. c/o ATV Music Corp. International copyright secured.\nTrack A6 Copyright © 1957 by MPL Communications, Inc. International copyright secured.\nTrack A7, C5 Copyright © 1966 by Northern Songs Limited. All rights for the United States of America, Canada, Mexico and the Philippines controlled by Maclen Music, Inc. c/o ATV Music Corp. International copyright secured.\nTrack B1 Copyright © 1969 by Harrisongs Ltd. International copyright secured.\nTrack C6 Copyright © 1967 by Northern Songs Limited. All rights for the United States of America, Canada, Mexico and the Philippines controlled by Maclen Music, Inc. c/o ATV Music Corp. International copyright secured.\nTrack D1 Copyright © 1970 by Northern Songs Limited. All rights for the United States of America, Canada, Mexico and the Philippines controlled by Maclen Music, Inc. c/o ATV Music Corp. International copyright secured.\nTrack D2 Copyright © 1963 by Northern Songs Limited. All rights for the United States of America, Canada, Mexico and the Philippines controlled by Maclen Music, Inc. c/o ATV Music Corp. This arrangement Copyright © 1965 by Northern Songs, Ltd. International copyright secured.\nTrack D5 Copyright © 1968 by Northern Songs Limited. All rights for the United States of America, Canada, Mexico and the Philippines controlled by Maclen Music, Inc. c/o ATV Music Corp. International copyright secured.\nTrack D6 Copyright © 1962 by Ardmore and Beechwood Ltd., England. Assigned to Beechwood Music Corp. for the U.S.A. and Canada. International copyright secured.\n\nMASTERED BY CAPITOL is stamped in the runouts, all other data is etched.\n",
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/RewWf10eXI4xrRKyEtWS3RwMcjyyCmej-WylHqbTP3w/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTY1/MTEtMTM2NzA3MDEz/Mi01MzI4LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/L30qT-n9uwYs5TTn6gwtsk2MPuh3H9aKtI2ONJ46sWU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTY1/MTEtMTM2NzA3MDEz/Mi01MzI4LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/pQpJ4KafD9iZexOPkGGr6r_-AncNQV9tiFCxzE0Ne08/rs:fit/g:sm/q:90/h:298/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTY1/MTEtMTM2NzA3MDE3/NS01MTA0LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/BmeMr9e2nN-fW_tC66U5oHJAEGFKvMd0R_gMKwxe_34/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTY1/MTEtMTM2NzA3MDE3/NS01MTA0LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/g5VzdeCw-hQqOVuS6JtfehrvmU-FEYdrPhZIW5gjP_0/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTY1/MTEtMTM2NzA3MDE0/OC00NjYzLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/BomLOcSR7YmCrIsLxFgdiS52KE9-DqxzactaBsadEOQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTY1/MTEtMTM2NzA3MDE0/OC00NjYzLmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/jCUPY22FKIIZ3zvLnJvZUyxjm3ZHVpM8hQJUP35Ixk8/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTY1/MTEtMTMyOTM1Njk3/OC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/h07OXamPczwJVfFDhGitqLuptsq33Alj0MCYacgw2F0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTY1/MTEtMTMyOTM1Njk3/OC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/2TTQZKbgRaIxpRXNnK0jeOXRVrL-TxHa3wljhZk4jqM/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTY1/MTEtMTMyOTM1Njk5/MS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/pQdglwlgs9CqSbFN-MhQh95v_h9Gu5PkJHnSHURqBhY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTY1/MTEtMTMyOTM1Njk5/MS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/FIrx1bSWwSePed4IJDJOEnxQlRS0bmThSESmG_WH-7A/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTY1/MTEtMTMyOTM1Njk5/OC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/ubqfUg_Zau7hkDOb1xTpb5rHHzzjWJi4xSyDyH6p3qk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTY1/MTEtMTMyOTM1Njk5/OC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/1AHOHhjGIV4oxWrBGEqxcoJ40RzsKG2oGB2BwYIrFKw/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTY1/MTEtMTMyOTM1NzAx/Mi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/ZAeC-ufFaDaZZJjrq4S_b_9we45_STb12XNkNrDYBrQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTY1/MTEtMTMyOTM1NzAx/Mi5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/hQL-ZzjDgMrftEsSPjD0MYZ7zYRlhK6S_0KfM3N59Mw/rs:fit/g:sm/q:90/h:579/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTY1/MTEtMTM2NzA3MDE1/Ni0yMDc3LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/WvL79ei_LcQYFx4HFyZJEvQcOZKGr_3evOvvkOio3HU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTY1/MTEtMTM2NzA3MDE1/Ni0yMDc3LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/9QghxgDAZegL2U-m7mA513l160xUpoTJhE0xnLNNZn4/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTY1/MTEtMTM2NzA3MDE2/My00ODc4LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/X6C4LRd4yt35W099_EFOrxTDSUcAgp1faQjH6Bw0jk8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTY1/MTEtMTM2NzA3MDE2/My00ODc4LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/eRmEiDFRRbaaTt-V4vNhMIChjxVoBdDjGe7zSGCcHck/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTY1/MTEtMTM2NzA3MDE2/OS02ODY4LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/S_kEPiSUsmH1TbNQVqhTT8etl1nwtoYXQMQkAuDIHJ0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTY1/MTEtMTM2NzA3MDE2/OS02ODY4LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/Xz8sa7X8gipAXzkMS4ByYtAQ9DeLGrt_i9lvH5p3tcc/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTY1/MTEtMTM2NzA3MDI1/NC01MjE2LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/OoD5Y5VBn-8OZp_gf1nOGyryV5XZ9dtzc6KP8TvhtmQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTY1/MTEtMTM2NzA3MDI1/NC01MjE2LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/aYdVyOkgMDWVVg_qCSfp1UuOVpMHm2Qu_BwJH6M_bIE/rs:fit/g:sm/q:90/h:301/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTY1/MTEtMTM2NzA3MDE4/Mi02NDgxLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/ke6NGWIQrMp67wmDJXyjDyO32JcVQ9FQmq-GrYXto5g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTY1/MTEtMTM2NzA3MDE4/Mi02NDgxLmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/MCK0HfcbgsA0ivHjmpdsIDGUhuAnjKkP1D6uZWGwLYo/rs:fit/g:sm/q:90/h:296/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTY1/MTEtMTM2NzA3MDM3/MC0zNzExLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/HdMNEElizrsRjtiqKi1hnGitCulpwgppR3jXfsuD5og/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTY1/MTEtMTM2NzA3MDM3/MC0zNzExLmpwZWc.jpeg"
+      }
+    ],
+    "community": {
+      "rating": {
+        "count": 559,
+        "average": 4.28
+      },
+      "have": 8903,
+      "want": 204
+    },
+    "master": {
+      "id": 54819,
+      "title": "Love Songs",
+      "main_release": 7964234,
+      "year": 1977,
+      "uri": "https://www.discogs.com/master/54819-The-Beatles-Love-Songs",
+      "num_for_sale": 1390
+    }
+  },
+  "apple_music": {
+    "id": 41864520,
+    "url": "https://music.apple.com/us/album/love-songs/41864520?uo=4",
+    "name": "Love Songs",
+    "artist": "Chicago",
+    "artist_id": 197043,
+    "artwork_url_100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ea/1e/7a/ea1e7af9-2d16-eac5-0390-433b89c00beb/081227845124.jpg/100x100bb.jpg",
+    "artwork_url_600": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ea/1e/7a/ea1e7af9-2d16-eac5-0390-433b89c00beb/081227845124.jpg/600x600bb.jpg",
+    "release_date": "2005-01-25T08:00:00Z",
+    "track_count": 18,
+    "copyright": "℗ 2005 Warner Strategic Marketing",
+    "primary_genre": "Rock",
+    "country": "USA",
+    "tracks": []
+  },
+  "discrepancies": [
+    "Track count differs: Discogs=25, Apple Music=0",
+    "Release year differs: your pressing=1977, Apple Music edition=2005. Apple Music typically streams the most recent remaster."
+  ],
+  "local_cover": "images/1916511.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Love_Songs_(Beatles_album)"
+}

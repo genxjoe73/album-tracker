@@ -1,0 +1,547 @@
+{
+  "captured_at": "2026-05-10T16:47:17+00:00",
+  "schema_version": 3,
+  "artist": "The Beatles",
+  "title": "Sgt. Pepper's Lonely Hearts Club Band",
+  "original_release_year": 1967,
+  "pressing_year": 2012,
+  "upgrade_suggestion": "The 2017 anniversary pressing cut by Miles Showell at Abbey Road (half-speed, r11281495 stereo / r11281442 Europe) sourced from the Giles Martin remix is the definitive modern upgrade. The 2014 Analogue Productions 200g mono pressing (Bernie Grundman) is the audiophile reference for the original mono mix. Your 2012 Allan Rouse remaster pressing is a solid mid-tier configuration.",
+  "commentary": "Sgt. Pepper's Lonely Hearts Club Band was recorded between November 1966 and April 1967 at **Abbey Road Studios**, following the Beatles' retirement from live performance and arriving in the immediate wake of Revolver. Producer **George Martin** and engineer **Geoff Emerick** treated the studio itself as a compositional instrument, pushing four-track tape technology through elaborate bouncing, signal processing, and overdubbing chains that compressed months of sessions into a dense sonic architecture. The album's conceit — that the Beatles were presenting a performance by the fictional **Sgt. Pepper's Lonely Hearts Club Band** — gave the record a theatrical distance that freed the group from pop convention entirely. **Automatic Double Tracking (ADT)** was deployed extensively across vocals and instruments to thicken the sound without manual doubling. Orchestral arrangements — most famously the 41-piece orchestra glissando on \"A Day in the Life\" — were scored by Martin and recorded with deliberate instructions to improvise upward from the lowest note to the highest. Backwards tape loops, varispeed recording, and the calliope-adjacent sound of the **Mellotron** and harmonium thread through the record's two sides. Released in June 1967 into the Summer of Love, Sgt. Pepper arrived as both catalyst and artifact of a cultural moment it did not entirely cause but definitively shaped.\n\nThe mastering lineage for Sgt. Pepper is entangled from the beginning in the mono/stereo divide. The **original 1967 mono mix**, produced under direct supervision of the band and George Martin, was the version the group considered authoritative; the **original 1967 stereo mix** was largely prepared without the band's hands-on involvement. Both were cut at Abbey Road for the original UK Parlophone release under catalog **PCS 7027** (stereo) and **PMC 7027** (mono). The first CD issue in 1987 drew criticism for a bright, harsh transfer that many listeners found fatiguing and dynamically compressed. In 2009, Abbey Road undertook a comprehensive remaster of the entire Beatles catalog. **Allan Rouse** served as primary producer, working with a team examining the original multitracks and analog sources with modern transfer equipment. The **2009 Allan Rouse remaster** was widely received as a significant improvement — warmer in the low midrange, more spatially coherent, with better preservation of the original dynamic envelope. It became the source for the 2009 CD box set and for subsequent vinyl reissues including this 2012 pressing. In 2017, **Giles Martin** produced a separate new stereo remix using **MAL (Machine Audio Learning)** upmixing technology — a reconstituted stereo field built from the multitracks, distinct from and unrelated to the Rouse remaster lineage. This 2012 pressing predates the 2017 remix entirely.\n\nThe specific configuration of this pressing reflects common manufacturing practice for large-run North American releases. The **matrix inscription** on Side A reads `T S-74011`, with the `T` prefix indicating the **Capitol Records Terre Haute, Indiana plant**. Side B reads `N S-74012`, with `N` indicating the **Capitol Records North Hollywood, California plant**. This **mixed-plant configuration** — two sides pressed at geographically separate facilities — was routine for high-volume Capitol titles. **Rainbo Records**, a contract pressing plant in Canoga Park, California, handled some copies of this title, though the T/N matrix stamps on this copy point to Capitol's own plants. The **180-gram** weight positions this as a collector-oriented reissue providing a heavier substrate associated with quieter surfaces and more stable playback.\n\n**About this 2012 North America pressing (LP, 180g, stereo):** EMI / Capitol / Parlophone catalog **5099969942617**, 180g stereo LP cut from the **2009 Allan Rouse remaster** at Abbey Road. Matrix stamps `T S-74011` (Side A, Capitol Terre Haute) and `N S-74012` (Side B, Capitol North Hollywood) — a standard mixed-plant configuration for this title. Original UK Parlophone catalog number **PCS 7027** appears on the back cover as a heritage reference. This pressing is distinct from and predates the 2017 Giles Martin stereo remix; it is a faithful high-resolution transfer of the original 1967 stereo mix rather than a reconstituted stereo field from the multitracks.\n\n### Gemini Notes\n\nReleased in 1967, *Sgt. Pepper's Lonely Hearts Club Band* is the defining cultural artifact of the Summer of Love. The Beatles' alter-ego concept allowed them to push the limits of the recording studio, changing the trajectory of popular music forever.\n\n**About this pressing:**",
+  "discogs": {
+    "release_id": 4037826,
+    "master_id": 23934,
+    "uri": "https://www.discogs.com/release/4037826-The-Beatles-Sgt-Peppers-Lonely-Hearts-Club-Band",
+    "title": "Sgt. Pepper's Lonely Hearts Club Band",
+    "artists": [
+      {
+        "name": "The Beatles",
+        "id": 82730,
+        "role": null
+      }
+    ],
+    "year": 2012,
+    "released": "2012-11-13",
+    "country": "North America (inc Mexico)",
+    "labels": [
+      {
+        "name": "Parlophone",
+        "catno": "5099969942617",
+        "id": 2294
+      },
+      {
+        "name": "Parlophone",
+        "catno": "PCS 7027",
+        "id": 2294
+      }
+    ],
+    "formats": [
+      {
+        "name": "Vinyl",
+        "qty": "1",
+        "descriptions": [
+          "LP",
+          "Album",
+          "Reissue",
+          "Remastered",
+          "Stereo"
+        ],
+        "text": "180 Gram"
+      }
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Pop Rock",
+      "Psychedelic Rock",
+      "Rock & Roll"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Sgt. Pepper's Lonely Hearts Club Band",
+        "duration": "2:02",
+        "type": "track"
+      },
+      {
+        "position": "A2",
+        "title": "With A Little Help From My Friends",
+        "duration": "2:44",
+        "type": "track"
+      },
+      {
+        "position": "A3",
+        "title": "Lucy In The Sky With Diamonds",
+        "duration": "3:28",
+        "type": "track"
+      },
+      {
+        "position": "A4",
+        "title": "Getting Better",
+        "duration": "2:47",
+        "type": "track"
+      },
+      {
+        "position": "A5",
+        "title": "Fixing A Hole",
+        "duration": "2:36",
+        "type": "track"
+      },
+      {
+        "position": "A6",
+        "title": "She's Leaving Home",
+        "duration": "3:35",
+        "type": "track"
+      },
+      {
+        "position": "A7",
+        "title": "Being For The Benefit Of Mr. Kite",
+        "duration": "2:37",
+        "type": "track"
+      },
+      {
+        "position": "B1",
+        "title": "Within You Without You",
+        "duration": "5:05",
+        "type": "track"
+      },
+      {
+        "position": "B2",
+        "title": "When I'm Sixty-Four",
+        "duration": "2:37",
+        "type": "track"
+      },
+      {
+        "position": "B3",
+        "title": "Lovely Rita",
+        "duration": "2:42",
+        "type": "track"
+      },
+      {
+        "position": "B4",
+        "title": "Good Morning Good Morning",
+        "duration": "2:41",
+        "type": "track"
+      },
+      {
+        "position": "B5",
+        "title": "Sgt. Pepper's Lonely Hearts Club Band (Reprise)",
+        "duration": "1:18",
+        "type": "track"
+      },
+      {
+        "position": "B6",
+        "title": "A Day In The Life",
+        "duration": "5:33",
+        "type": "track"
+      }
+    ],
+    "extraartists": [
+      {
+        "name": "Madame Tussauds",
+        "role": "Artwork [Wax Figures]",
+        "id": 1201006
+      },
+      {
+        "name": "M C Productions",
+        "role": "Cover",
+        "id": 1850219
+      },
+      {
+        "name": "Jann Haworth",
+        "role": "Cover [Staged By]",
+        "id": 1850222
+      },
+      {
+        "name": "Peter Blake (4)",
+        "role": "Cover [Staged By]",
+        "id": 1336027
+      },
+      {
+        "name": "Adrian Ibbetson",
+        "role": "Engineer",
+        "id": 482346
+      },
+      {
+        "name": "Geoff Emerick",
+        "role": "Engineer",
+        "id": 264184
+      },
+      {
+        "name": "Graham Kirkby",
+        "role": "Engineer",
+        "id": 482348
+      },
+      {
+        "name": "Ken Scott",
+        "role": "Engineer",
+        "id": 103969
+      },
+      {
+        "name": "Ken Townsend",
+        "role": "Engineer",
+        "id": 298541
+      },
+      {
+        "name": "Malcolm Addey",
+        "role": "Engineer",
+        "id": 386428
+      },
+      {
+        "name": "Peter Vince",
+        "role": "Engineer",
+        "id": 405434
+      },
+      {
+        "name": "Phil McDonald",
+        "role": "Engineer",
+        "id": 298540
+      },
+      {
+        "name": "Richard Lush",
+        "role": "Engineer",
+        "id": 353778
+      },
+      {
+        "name": "Sean Magee",
+        "role": "Lacquer Cut By [Runout Etching i...i]",
+        "id": 276851
+      },
+      {
+        "name": "George Martin",
+        "role": "Liner Notes",
+        "id": 259769
+      },
+      {
+        "name": "Mark Lewisohn",
+        "role": "Liner Notes",
+        "id": 806573
+      },
+      {
+        "name": "Paul McCartney",
+        "role": "Liner Notes",
+        "id": 35301
+      },
+      {
+        "name": "Peter Blake (4)",
+        "role": "Liner Notes",
+        "id": 1336027
+      },
+      {
+        "name": "George Martin",
+        "role": "Orchestrated By",
+        "id": 259769
+      },
+      {
+        "name": "Mike Leander",
+        "role": "Orchestrated By",
+        "id": 224754
+      },
+      {
+        "name": "Michael Cooper (8)",
+        "role": "Photography By",
+        "id": 1995933
+      },
+      {
+        "name": "George Martin",
+        "role": "Producer",
+        "id": 259769
+      },
+      {
+        "name": "George Harrison",
+        "role": "Written-By",
+        "id": 243955
+      },
+      {
+        "name": "Lennon-McCartney",
+        "role": "Written-By",
+        "id": 779927
+      }
+    ],
+    "identifiers": [
+      {
+        "type": "Barcode",
+        "value": "5 099969 942617",
+        "description": "Text on sticker"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "T S-74011 M2S5",
+        "description": "Runout side A, variant 1"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "N S-74012 M1S3",
+        "description": "Runout side B, variant 1"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "T  S-74011 M2S1",
+        "description": "Runout side A, variant 2"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "i...i N, S-74012 M1S3",
+        "description": "Runout side B, variant 2"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "T  S-74011M4",
+        "description": "Runout side A, variant 3"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "i...i N, S-74012",
+        "description": "Runout side B, variant 3"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "T S-74011 M1S3",
+        "description": "Runout side A, variant 4"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "N S-74012M1S4 i...i",
+        "description": "Runout side B, variant 4"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "T S-74011 M1S3",
+        "description": "Runout side A, variant 5"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "i...i N, S-74012 M1S1",
+        "description": "Runout side B, variant 5"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "T S-74011 M3S8",
+        "description": "Runout side A, variant 6"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "i...i N, S-74012 M3",
+        "description": "Runout side B, variant 6"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "T S-74011 M4",
+        "description": "Runout side A, variant 7"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "i...i N, S-74012 M1S23 ",
+        "description": "Runout side B, variant 7"
+      }
+    ],
+    "notes": "Release on 180G vinyl. Taken from 2009 EMI digital remaster.\r\n℗2009",
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/B3P7JLCMZMNjH2Jcvao9HA3cdEbfGPmfpb4QFk8baLs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMzc4/MjYtMTM1MzIyNTEx/Mi0yMzc5LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/mVwS9-K_MNEdT-8XaDJz1Q2vz6BgyB_xh7tYYKMIy8M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMzc4/MjYtMTM1MzIyNTEx/Mi0yMzc5LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/_Mv5dJ05rHWpjlHXVne4vPXT-F0ZevwQ4M6Z2SIBhDc/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMzc4/MjYtMTM1NDc4NDkw/MC0xMzQ5LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/fnz74TScv5-oZDVBeURDSajTQ7qNDar7xqJevna87Zg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMzc4/MjYtMTM1NDc4NDkw/MC0xMzQ5LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/YG5Chq3tKEQjrCSMPgIVUc17wQtOmLPMl-gL9wFtOfA/rs:fit/g:sm/q:90/h:293/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMzc4/MjYtMTM1MzIyNTE0/Ni03NDUxLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/4WtIefdtQ06cjTQjPeqj8LDfvzM_Fn-9zl4VHaQaLNc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMzc4/MjYtMTM1MzIyNTE0/Ni03NDUxLmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/LuUfo4c1ij4M5zduCb_xClkDX1fGK9CwRoknKATH3cs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMzc4/MjYtMTM1MzIyNTEy/OS0zNTc2LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/lcl4wZWy6mLLPdROvkLEvZ0cnACc8Q8-l7Im0jkrtfQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMzc4/MjYtMTM1MzIyNTEy/OS0zNTc2LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/LamPDD8mWQccPyOn70HIfSxZvPa6aQPz-EXjWo3ZTCE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMzc4/MjYtMTM1MzIyNTIy/Ni00MDI5LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/bU5saNCD5llASkB7kavYUCjcGBVH9a9H7Qq5IrEnaUE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMzc4/MjYtMTM1MzIyNTIy/Ni00MDI5LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/Q_pEcoi-7VlFm2UX6qXopOZdMoFkSAPIR_TMde0HNJg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMzc4/MjYtMTM1MzIyNTI0/My03MDUxLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/R8-yEuRPH5xsZAngOe6R6o758mTKhVpHyByAi1UMq8w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMzc4/MjYtMTM1MzIyNTI0/My03MDUxLmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/syy4f5IOoxONIhpYTN9gen6JMkyX48apY_vgF0ze9mI/rs:fit/g:sm/q:90/h:292/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMzc4/MjYtMTM1NDc4NDky/MS0zODMzLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/XC0CWXRuq5A8SG_N9uRlHHhVWL7B1O-I8KLqav-nBmk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMzc4/MjYtMTM1NDc4NDky/MS0zODMzLmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/zu6IjdHOfpE-oz61T5RmK8YCOM_1e8hR4qV4f21VL_Y/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMzc4/MjYtMTM1MzIyNTE2/My00OTg3LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/rUdpKHy8ZWPPWSh97PNHC07e7Qv3ujkEJBHDQOQsICE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMzc4/MjYtMTM1MzIyNTE2/My00OTg3LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/bUXV8koKbofJRi52r6tl2_xcXX9GVrG7-amYrmEftv8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMzc4/MjYtMTM1MzIyNTE3/NC03ODkyLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/79d1Qi93Y1dyqcd3mPjVWqlJuGa0YOTcIfE0Gxkuc_M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMzc4/MjYtMTM1MzIyNTE3/NC03ODkyLmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/77KfxJQrO4UMehognw1ss6KdgH9z_Uo6HZlJW57JqLw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMzc4/MjYtMTM1MzIyNTE4/NC0xODAxLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/KW62kjQ56GUtH1-zdoiQ1Ayu-EGiy1OOPJMJqVDcsHI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMzc4/MjYtMTM1MzIyNTE4/NC0xODAxLmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/irFa_B7mPAlPr5NyQmLl6KDcmNoI0p03jt5Cl_X653w/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMzc4/MjYtMTM1MzIyNTE5/NS0zMjcwLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/qlx25wilexyfCNBH64jNPfPcrAWSv-0hKAbF_xkClos/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMzc4/MjYtMTM1MzIyNTE5/NS0zMjcwLmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/vPLuv45QKK31SRrAkUMsP1FCnczZ16gBQyZGbJ4L0JM/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMzc4/MjYtMTM1MzIyNTIx/Mi02MzI2LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/ow169V3owZ1t-KGy5cUJL1EMQdDxSRQbyvoika-Noqw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMzc4/MjYtMTM1MzIyNTIx/Mi02MzI2LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/TrES4Q4d5T426i2-5WZbKJ1lww4iv99BvL6BLnifq58/rs:fit/g:sm/q:90/h:600/w:316/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMzc4/MjYtMTM1NDc4NDk0/OC03ODIzLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/mKvtFISjIfyL6-RNqEXVCDjqrIn08WGXOu5ITT1mqek/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMzc4/MjYtMTM1NDc4NDk0/OC03ODIzLmpwZWc.jpeg"
+      }
+    ],
+    "community": {
+      "rating": {
+        "count": 666,
+        "average": 4.76
+      },
+      "have": 6218,
+      "want": 1223
+    },
+    "master": {
+      "id": 23934,
+      "title": "Sgt. Pepper's Lonely Hearts Club Band",
+      "main_release": 499497,
+      "year": 1967,
+      "uri": "https://www.discogs.com/master/23934-The-Beatles-Sgt-Peppers-Lonely-Hearts-Club-Band",
+      "num_for_sale": 9739
+    }
+  },
+  "apple_music": {
+    "id": 1573250333,
+    "url": "https://music.apple.com/us/album/sgt-peppers-lonely-hearts-club-band-2017-mix/1573250333?uo=4",
+    "name": "Sgt. Pepper's Lonely Hearts Club Band (2017 Mix)",
+    "artist": "The Beatles",
+    "artist_id": 136975,
+    "artwork_url_100": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/64/85/d2/6485d219-91ac-5481-2668-7eab1320436d/21UMGIM57007.rgb.jpg/100x100bb.jpg",
+    "artwork_url_600": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/64/85/d2/6485d219-91ac-5481-2668-7eab1320436d/21UMGIM57007.rgb.jpg/600x600bb.jpg",
+    "release_date": "1967-05-26T07:00:00Z",
+    "track_count": 13,
+    "copyright": "℗ 2021 Calderstone Productions Limited (a Division of Universal Music Group) / Apple Corps Limited",
+    "primary_genre": "Rock",
+    "country": "USA",
+    "tracks": [
+      {
+        "track_number": 1,
+        "disc_number": 1,
+        "name": "Sgt. Pepper's Lonely Hearts Club Band (2017 Mix)",
+        "duration_ms": 122133,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a6/91/d7/a691d7a7-61cb-c299-efd9-9a7eb0669523/mzaf_747994897546992804.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/sgt-peppers-lonely-hearts-club-band-2017-mix/1573250333?i=1573250534&uo=4"
+      },
+      {
+        "track_number": 2,
+        "disc_number": 1,
+        "name": "With A Little Help From My Friends (2017 Mix)",
+        "duration_ms": 165293,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/4e/17/8c/4e178c0d-7a51-b072-e9f9-7b4a45bdaf9b/mzaf_4943777718630420606.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/with-a-little-help-from-my-friends-2017-mix/1573250333?i=1573250550&uo=4"
+      },
+      {
+        "track_number": 3,
+        "disc_number": 1,
+        "name": "Lucy In The Sky With Diamonds (2017 Mix)",
+        "duration_ms": 207680,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ca/ef/7b/caef7bac-54dc-63e5-1955-5464d8c27785/mzaf_496446535650691254.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/lucy-in-the-sky-with-diamonds-2017-mix/1573250333?i=1573250861&uo=4"
+      },
+      {
+        "track_number": 4,
+        "disc_number": 1,
+        "name": "Getting Better (2017 Mix)",
+        "duration_ms": 167013,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2b/ef/ee/2befeeee-49e0-085b-4425-c6d179f2fabc/mzaf_15041833499413677355.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/getting-better-2017-mix/1573250333?i=1573250871&uo=4"
+      },
+      {
+        "track_number": 5,
+        "disc_number": 1,
+        "name": "Fixing A Hole (2017 Mix)",
+        "duration_ms": 157960,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/98/b0/97/98b097f7-428e-a47b-df5c-93fc4edea595/mzaf_13775006876681245279.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/fixing-a-hole-2017-mix/1573250333?i=1573250884&uo=4"
+      },
+      {
+        "track_number": 6,
+        "disc_number": 1,
+        "name": "She's Leaving Home (2017 Mix)",
+        "duration_ms": 205840,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/30/08/ba/3008ba96-368a-379d-5dd1-cad39da7ca75/mzaf_13261344279972028434.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/shes-leaving-home-2017-mix/1573250333?i=1573251220&uo=4"
+      },
+      {
+        "track_number": 7,
+        "disc_number": 1,
+        "name": "Being For The Benefit Of Mr. Kite! (2017 Mix)",
+        "duration_ms": 159200,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/69/30/45/6930453f-33b3-aca8-85fa-5ae40e52c317/mzaf_6768487648254260727.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/being-for-the-benefit-of-mr-kite-2017-mix/1573250333?i=1573251235&uo=4"
+      },
+      {
+        "track_number": 8,
+        "disc_number": 1,
+        "name": "Within You Without You (2017 Mix)",
+        "duration_ms": 307587,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/10/62/7b/10627b41-b7c3-fb7e-8a01-426bf7e4e837/mzaf_12426584698686250647.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/within-you-without-you-2017-mix/1573250333?i=1573251475&uo=4"
+      },
+      {
+        "track_number": 9,
+        "disc_number": 1,
+        "name": "When I'm Sixty-Four (2017 Mix)",
+        "duration_ms": 160013,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/4c/8c/27/4c8c27f8-3781-c09b-8257-f8a3fb27f5f3/mzaf_5771080090564747435.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/when-im-sixty-four-2017-mix/1573250333?i=1573251670&uo=4"
+      },
+      {
+        "track_number": 10,
+        "disc_number": 1,
+        "name": "Lovely Rita (2017 Mix)",
+        "duration_ms": 165800,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7b/fd/ff/7bfdff89-e748-cabd-a046-4422d457bdef/mzaf_17621237240630027435.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/lovely-rita-2017-mix/1573250333?i=1573251677&uo=4"
+      },
+      {
+        "track_number": 11,
+        "disc_number": 1,
+        "name": "Good Morning Good Morning (2017 Mix)",
+        "duration_ms": 154467,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d1/f0/73/d1f07327-e813-d70e-977a-3c551fd4a615/mzaf_2575377616192179937.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/good-morning-good-morning-2017-mix/1573250333?i=1573251683&uo=4"
+      },
+      {
+        "track_number": 12,
+        "disc_number": 1,
+        "name": "Sgt. Pepper's Lonely Hearts Club Band (Reprise) [2017 Mix]",
+        "duration_ms": 80600,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/92/e4/68/92e4687d-8285-4838-47e9-b181fc230553/mzaf_9852596433989416106.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/sgt-peppers-lonely-hearts-club-band-reprise-2017-mix/1573250333?i=1573252088&uo=4"
+      },
+      {
+        "track_number": 13,
+        "disc_number": 1,
+        "name": "A Day In The Life (2017 Mix)",
+        "duration_ms": 330893,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/75/00/7a/75007a0c-9498-d62b-fba1-5644f4ec1b01/mzaf_13168075680193383374.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/a-day-in-the-life-2017-mix/1573250333?i=1573252107&uo=4"
+      }
+    ]
+  },
+  "discrepancies": [
+    "Release year differs: your pressing=2012, Apple Music edition=1967. Apple Music typically streams the most recent remaster."
+  ],
+  "local_cover": "images/4037826.jpg"
+}

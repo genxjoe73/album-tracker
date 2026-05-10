@@ -1,0 +1,470 @@
+{
+  "captured_at": "2026-05-10T20:05:52+00:00",
+  "schema_version": 3,
+  "artist": "Eagles",
+  "title": "Hotel California",
+  "original_release_year": 1976,
+  "pressing_year": 2017,
+  "upgrade_suggestion": "The 2014 Bernie Grundman remaster (r6623165, 180g, Europe) is a notable alternative to your 2017 Chris Bellman cut — both are contemporary 180g reissues from the same remaster campaign, differing only in the mastering engineer and pressing plant. For the definitive Grundman-cut Hotel California, the 2008 Analogue Productions pressing (200g, if you can find it) is considered the audiophile reference. Your 2017 Bellman cutting is at the top tier of modern domestic configurations.",
+  "commentary": "**Hotel California** is the fourth studio album by the Eagles, released in December 1976 on **Elektra/Asylum Records**. It stands as one of the defining rock albums of the 1970s — produced by Bill Szymczyk (who also helmed the band's previous multiplatinum *One of These Nights*), engineered by Glyn Johns, and recorded at Criteria Studios in Miami and The Record Plant in Los Angeles over a nine-month period. The title track, written by Don Felder, Don Henley, and Glenn Frey, became an iconic anthem with its haunting guitar intro (played by Felder on a 12-string acoustic) and ominous narrative. Joe Walsh's lead guitar work on multiple tracks added textural complexity. The album spent a record-breaking 27 weeks at number one on the Billboard 200 and became one of the best-selling albums in American history — over 42 million copies worldwide, with 16 million in the US alone. It remains a cultural touchstone.\n\nThe **2017 reissue** was part of a broader remaster campaign by **Warner Music / Asylum Records**, issued on **180-gram vinyl** and marketed internationally. The pressing was **made in the Netherlands** (as stated on the back cover), and it includes a **replica of the original Norman Seeff band photography poster** from the 1976 debut. The catalog number **RRM1-1084** is the remaster identifier (with the `-A` and `-B` designations indicating Side A and Side B). The barcode **081227961619** is the international EAN code.\n\n**Chris Bellman** cut the lacquers for this pressing at **The Mastering Lab** in Los Angeles — evident from the matrix inscriptions. Bellman is one of the most acclaimed mastering engineers of the modern era, known for his meticulous approach to analog-to-digital and digital-to-analog transfers. His signature appears alongside the studio codes `1785902` and `956086a`, which are internal production identifiers at The Mastering Lab. The `SB` etch is an individual engineer or quality-control mark. This pressing differs from the 2014 European variant (r6623165), which was cut by **Bernie Grundman**.\n\n**About this 2017 Europe pressing (LP, 180g):** Asylum Records catalog **RRM1-1084** (barcode **081227961619**), manufactured in **the Netherlands**. Lacquers cut by **Chris Bellman** at **The Mastering Lab**, Los Angeles (codes `1785902` / `956086a`). Deadwax: `RRM1-1084-A 081227961619 CB 96608 5A` / `RRM1-1084-B 081227961619 CB 96608 4E` (with variations across stamper iterations, marked `SB`). 180-gram vinyl, includes replica Norman Seeff poster.\n\n### Gemini Notes\n\nReleased in 1976, the Eagles' *Hotel California* is a cornerstone of the 1970s Southern California rock sound. Featuring the twin-guitar attack of Don Felder and Joe Walsh, the album explores themes of excess, disillusionment, and the dark underbelly of the American Dream.\n\n**About this pressing:**",
+  "discogs": {
+    "release_id": 17536279,
+    "master_id": 59501,
+    "uri": "https://www.discogs.com/release/17536279-Eagles-Hotel-California",
+    "title": "Hotel California",
+    "artists": [
+      {
+        "name": "Eagles",
+        "id": 255680,
+        "role": null
+      }
+    ],
+    "year": 2017,
+    "released": "2017",
+    "country": "Europe",
+    "labels": [
+      {
+        "name": "Asylum Records",
+        "catno": "RRM1-1084",
+        "id": 33574
+      },
+      {
+        "name": "Asylum Records",
+        "catno": "8122796161",
+        "id": 33574
+      }
+    ],
+    "formats": [
+      {
+        "name": "Vinyl",
+        "qty": "1",
+        "descriptions": [
+          "LP",
+          "Album",
+          "Reissue",
+          "Stereo"
+        ],
+        "text": "Gatefold, 180 Gram"
+      }
+    ],
+    "genres": [
+      "Rock",
+      "Pop"
+    ],
+    "styles": [
+      "Country Rock",
+      "Folk Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Hotel California",
+        "duration": "6:30",
+        "type": "track"
+      },
+      {
+        "position": "A2",
+        "title": "New Kid In Town",
+        "duration": "5:04",
+        "type": "track"
+      },
+      {
+        "position": "A3",
+        "title": "Life In The Fast Lane",
+        "duration": "4:46",
+        "type": "track"
+      },
+      {
+        "position": "A4",
+        "title": "Wasted Time",
+        "duration": "4:55",
+        "type": "track"
+      },
+      {
+        "position": "B1",
+        "title": "Wasted Time (Reprise)",
+        "duration": "1:22",
+        "type": "track"
+      },
+      {
+        "position": "B2",
+        "title": "Victim Of Love",
+        "duration": "4:11",
+        "type": "track"
+      },
+      {
+        "position": "B3",
+        "title": "Pretty Maids All In A Row",
+        "duration": "4:05",
+        "type": "track"
+      },
+      {
+        "position": "B4",
+        "title": "Try And Love Again",
+        "duration": "5:10",
+        "type": "track"
+      },
+      {
+        "position": "B5",
+        "title": "The Last Resort",
+        "duration": "7:25",
+        "type": "track"
+      }
+    ],
+    "extraartists": [
+      {
+        "name": "Jim Ed Norman",
+        "role": "Arranged By [Strings], Conductor [Strings Conducted By]",
+        "id": 309296
+      },
+      {
+        "name": "Don Henley",
+        "role": "Art Direction",
+        "id": 249597
+      },
+      {
+        "name": "John Kosh",
+        "role": "Art Direction",
+        "id": 1827035
+      },
+      {
+        "name": "John Kosh",
+        "role": "Artwork [Graphics]",
+        "id": 1827035
+      },
+      {
+        "name": "Norman Seeff",
+        "role": "Artwork [Poster]",
+        "id": 1170513
+      },
+      {
+        "name": "Sidney Sharp",
+        "role": "Concertmaster",
+        "id": 362932
+      },
+      {
+        "name": "Allan Blazek",
+        "role": "Engineer",
+        "id": 125441
+      },
+      {
+        "name": "Bill Szymczyk",
+        "role": "Engineer",
+        "id": 255681
+      },
+      {
+        "name": "Bruce Hensal",
+        "role": "Engineer",
+        "id": 404209
+      },
+      {
+        "name": "Ed Mashal",
+        "role": "Engineer",
+        "id": 447063
+      },
+      {
+        "name": "Chris Bellman",
+        "role": "Lacquer Cut By",
+        "id": 359447
+      },
+      {
+        "name": "Don Felder",
+        "role": "Performer [The Eagles]",
+        "id": 311300
+      },
+      {
+        "name": "Don Henley",
+        "role": "Performer [The Eagles]",
+        "id": 249597
+      },
+      {
+        "name": "Glenn Frey",
+        "role": "Performer [The Eagles]",
+        "id": 102333
+      },
+      {
+        "name": "Joe Walsh",
+        "role": "Performer [The Eagles]",
+        "id": 162617
+      },
+      {
+        "name": "Randy Meisner",
+        "role": "Performer [The Eagles]",
+        "id": 350510
+      },
+      {
+        "name": "David Alexander (5)",
+        "role": "Photography By [Cover]",
+        "id": 2237292
+      },
+      {
+        "name": "Bill Szymczyk",
+        "role": "Producer, Mixed By",
+        "id": 255681
+      },
+      {
+        "name": "Randy Meisner",
+        "role": "Vocals, Bass, Guitarrón [Guitarone]",
+        "id": 350510
+      },
+      {
+        "name": "Don Henley",
+        "role": "Vocals, Drums, Percussion",
+        "id": 249597
+      },
+      {
+        "name": "Glenn Frey",
+        "role": "Vocals, Guitar, Keyboards",
+        "id": 102333
+      },
+      {
+        "name": "Joe Walsh",
+        "role": "Vocals, Guitar, Keyboards",
+        "id": 162617
+      },
+      {
+        "name": "Don Felder",
+        "role": "Vocals, Guitar, Slide Guitar",
+        "id": 311300
+      }
+    ],
+    "identifiers": [
+      {
+        "type": "Barcode",
+        "value": "0 81227 96161 9",
+        "description": "Text, sticker"
+      },
+      {
+        "type": "Barcode",
+        "value": "081227961619",
+        "description": "Scanned, sticker"
+      },
+      {
+        "type": "Label Code",
+        "value": "LC 02982",
+        "description": null
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "RRM1-1084-A 081227961619 CB 96608 5A",
+        "description": "Side A runout, variant 1"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "RRM1-1084-B 081227961619 CB 96608 4E",
+        "description": "Side B runout, variant 1"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "RRM1-1084-A 081227961619 CB 96608 6A 081227961619 (EU)",
+        "description": "Side A runout, variant 2"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "RRM1-1084-B 081227961619 CB B 96608 4B",
+        "description": "Side B runout, variant 2"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "RRM1-1084-A 081227961619 CB B 96608 5B 081227961619 (EU)",
+        "description": "Side A runout, variant 3"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "RRM1-1084-B 081227961619 B CB 9660 8 6A 081227961619 (EU)",
+        "description": "Side B runout, variant 3"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "RRM1-1084-A 081227961619 CB D 96608 5A",
+        "description": "Side A runout, variant 4"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "RRM1-1084-B 081227961619 CB 96608 4B",
+        "description": "Side B runout, variant 4"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "RRM1-1084-A 081227961619 CB 96608 7A",
+        "description": "Side A runout, variant 5"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "RRM1-1084-B 081227961619 CB 96608 6B",
+        "description": "Side B runout, variant 5"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "RRM1-1084-A 081227961619 CB 96608 9ØA",
+        "description": "Side A runout, variant 6"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "RRM1-1084-B 081227961619 CB 96608 7B",
+        "description": "Side B runout, variant 6"
+      }
+    ],
+    "notes": "LP is pressed on 180 gram vinyl. Includes a replica of the full color poster of the band, by Norman Seeff, from the original album.\n\n[Back cover]\n℗ & © 1976 Elektra/Asylum Records for the U.S. and WEA International Inc. for the world outside of the U.S.  All Rights Reserved.\nMarketed by Warner Strategic Marketing, a Warner Music Group Company. Made in the Netherlands. LC02982 \n\n[Record labels]\n℗ © 1976 Elektra/Asylum Records for the U.S. and WEA International Inc. for the world outside of the U.S. ... Marketed by Warner Strategic Marketing, a Warner Music Group Company. Made in EU. LC02982 \n\n[Cat #s]\nRRM1-1084 - on spine, on inner sleeve top left, record labels\n8122796161 - on bottom of post production barcode sticker \n\n[Differentiation and identification]\nMost obvious differences from [r6623165] are (i) the \"Made in the Netherlands\" at the bottom of the rear cover of this release vs. \"Made in the EU\" on the other, and (ii) the matrix information is different, indicating a different pressing, cut by Chris Bellman rather than Bernie Grundman.\nTracks A3 and B2 Joe Walsh's Guitar credits are misspelt as \"Guiter\" on the inner sleeve song credits.\n\nRunouts are partially etched/stamped.",
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/MwDo4jxnqX7fug9d7zaghXpsRXIYpLcuYohItSyov_w/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTM2/Mjc5LTE2OTU2Mjk4/OTEtODE5MS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/GjSmB8xY7K3HuUVb_Y9CC5K5qk7Xbft0p1DzgwwyWm0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTM2/Mjc5LTE2OTU2Mjk4/OTEtODE5MS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/w8k94yZbKbh2IS_8rZexNVg1Ru6aFsBtEbdfsXOJTpY/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTM2/Mjc5LTE2OTU2Mjk4/OTEtNDIzNC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/0G3e9WlrY4RuM0azpXvdQwjfk7GtaVMbYkWHahQhu5w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTM2/Mjc5LTE2OTU2Mjk4/OTEtNDIzNC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/BfAoz-JG33Z0r_LnpzMeY1Ejegc8rC_SDTaO6IX7x4A/rs:fit/g:sm/q:90/h:291/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTM2/Mjc5LTE2OTU2Mjk4/OTEtNzMxNC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/iSPdj-NFFLeAMazy6putFNNiBZRtu05og30dvONMX20/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTM2/Mjc5LTE2OTU2Mjk4/OTEtNzMxNC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/kEbsmiEhmefrlBVW5GSZw1mIpc1MWRsiKNLfsulnL9w/rs:fit/g:sm/q:90/h:575/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTM2/Mjc5LTE2OTQ4NTI2/NjUtNDIzNi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/npRaKSceRLcoLfVRgAW3Pahnk-6vrmaU2M2lGgLBXLc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTM2/Mjc5LTE2OTQ4NTI2/NjUtNDIzNi5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/XUcbl-IIi2Pgv7REc55CWXQnUEXTuwPZgKqwJAMdeDA/rs:fit/g:sm/q:90/h:578/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTM2/Mjc5LTE2OTQ4NTI2/NjUtNzU2Ni5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/R4vexoipogXzzdPLx-Z74vbj0InVlTyEaEDISE45VCc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTM2/Mjc5LTE2OTQ4NTI2/NjUtNzU2Ni5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/ZICpuchnqYxcjcw9s11j8AynPL47KaepHC-JjskzDkc/rs:fit/g:sm/q:90/h:579/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTM2/Mjc5LTE2OTQ4NTI2/NjMtODg1OC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/0_yARCmo13CkLS9dxEaXd_brBC7geHfVCR8G1O0ppis/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTM2/Mjc5LTE2OTQ4NTI2/NjMtODg1OC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/cGYKDWGwEY-3nVJXSCyH9GJcVrpJUpo3mtlkx2I9xnk/rs:fit/g:sm/q:90/h:550/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTM2/Mjc5LTE2OTQ4NTI2/NjUtNjc3Ny5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/mGxv5rqP66bMwisbnjwEH4wvWpuJ-2YSYRYowziwLes/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTM2/Mjc5LTE2OTQ4NTI2/NjUtNjc3Ny5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/G65MzTyabEmk2_RXPb1ZJnhwTQfGOWoBQyi1rhBowPM/rs:fit/g:sm/q:90/h:242/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTM2/Mjc5LTE2OTQ4NTI2/NjUtMTc5Ni5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/283mharyQuBuEu4Gd9mcLnb50ZBQiUg9WqUw-WyMAcU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTM2/Mjc5LTE2OTQ4NTI2/NjUtMTc5Ni5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/EbCMz5qX3tmge7p80leD5fGwLgxBfcZ610gbNF6HecU/rs:fit/g:sm/q:90/h:580/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTM2/Mjc5LTE2OTQ4NTI2/NjQtNDA2MS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/X9TnBinO7_kdBeNoqimCRbSFcI407vOyW_9HggGWDjY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTM2/Mjc5LTE2OTQ4NTI2/NjQtNDA2MS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/VFLBHAxJY7Mm65BILHYV8zFWuEVDDY3kplxG5FXwjbU/rs:fit/g:sm/q:90/h:207/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTM2/Mjc5LTE3NzMzNDY0/MzYtMjQzNC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/oUAjBgtFFjdA3n94vbyxOzr6dl-6c1o0J9wR1ebuhVM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTM2/Mjc5LTE3NzMzNDY0/MzYtMjQzNC5qcGVn.jpeg"
+      }
+    ],
+    "community": {
+      "rating": {
+        "count": 656,
+        "average": 4.62
+      },
+      "have": 9063,
+      "want": 575
+    },
+    "master": {
+      "id": 59501,
+      "title": "Hotel California",
+      "main_release": 37047876,
+      "year": 0,
+      "uri": "https://www.discogs.com/master/59501-Eagles-Hotel-California",
+      "num_for_sale": 5072
+    }
+  },
+  "apple_music": {
+    "id": 635770200,
+    "url": "https://music.apple.com/us/album/hotel-california/635770200?uo=4",
+    "name": "Hotel California",
+    "artist": "Eagles",
+    "artist_id": 1053549,
+    "artwork_url_100": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/88/16/2c/88162c3d-46db-8321-61f3-3a47404cfe76/075596050920.jpg/100x100bb.jpg",
+    "artwork_url_600": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/88/16/2c/88162c3d-46db-8321-61f3-3a47404cfe76/075596050920.jpg/600x600bb.jpg",
+    "release_date": "1976-12-08T08:00:00Z",
+    "track_count": 9,
+    "copyright": "℗ 1976 Asylum Records. Marketed by Rhino Entertainment Company, a Warner Music Group Company.",
+    "primary_genre": "Rock",
+    "country": "USA",
+    "tracks": [
+      {
+        "track_number": 1,
+        "disc_number": 1,
+        "name": "Hotel California",
+        "duration_ms": 391357,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/a7/1b/f0/a71bf07d-f498-05c9-2c8a-d12af7d019d8/mzaf_11402952498213508559.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/hotel-california/635770200?i=635770202&uo=4"
+      },
+      {
+        "track_number": 2,
+        "disc_number": 1,
+        "name": "New Kid In Town",
+        "duration_ms": 304933,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/76/e7/f7/76e7f730-2491-aebb-1691-1e491854b7bc/mzaf_18049453947349229801.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/new-kid-in-town/635770200?i=635770203&uo=4"
+      },
+      {
+        "track_number": 3,
+        "disc_number": 1,
+        "name": "Life In the Fast Lane",
+        "duration_ms": 286218,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/e8/6e/73/e86e739e-b20c-baa3-df6d-72ecb8e5d367/mzaf_8311802482521518965.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/life-in-the-fast-lane/635770200?i=635770204&uo=4"
+      },
+      {
+        "track_number": 4,
+        "disc_number": 1,
+        "name": "Wasted Time",
+        "duration_ms": 296165,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/f2/b0/c8/f2b0c8fb-34c1-b20e-e98e-9cb0e87223f4/mzaf_6262560789166842781.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/wasted-time/635770200?i=635770205&uo=4"
+      },
+      {
+        "track_number": 5,
+        "disc_number": 1,
+        "name": "Wasted Time (Reprise)",
+        "duration_ms": 83386,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/d2/da/0f/d2da0f6b-2f2e-5502-af08-9e05133349fb/mzaf_86574285382560462.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/wasted-time-reprise/635770200?i=635770206&uo=4"
+      },
+      {
+        "track_number": 6,
+        "disc_number": 1,
+        "name": "Victim of Love",
+        "duration_ms": 250071,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/be/59/e5/be59e504-f16d-4b55-bdd6-8270a3aaef9d/mzaf_13506045710589382776.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/victim-of-love/635770200?i=635770207&uo=4"
+      },
+      {
+        "track_number": 7,
+        "disc_number": 1,
+        "name": "Pretty Maids All In a Row",
+        "duration_ms": 239328,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/91/c0/20/91c02070-829f-8a62-817b-ddac633f60a2/mzaf_4403263446863897603.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/pretty-maids-all-in-a-row/635770200?i=635770208&uo=4"
+      },
+      {
+        "track_number": 8,
+        "disc_number": 1,
+        "name": "Try and Love Again",
+        "duration_ms": 311058,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/ba/71/70/ba71708d-0a6b-280d-0732-a2d2241c99f0/mzaf_17274731752379177557.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/try-and-love-again/635770200?i=635770369&uo=4"
+      },
+      {
+        "track_number": 9,
+        "disc_number": 1,
+        "name": "The Last Resort",
+        "duration_ms": 444366,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/77/89/6c/77896cf9-594f-9ead-5677-589ef8035a52/mzaf_8646068590864250732.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/the-last-resort/635770200?i=635770370&uo=4"
+      }
+    ]
+  },
+  "discrepancies": [
+    "Release year differs: your pressing=2017, Apple Music edition=1976. Apple Music typically streams the most recent remaster."
+  ],
+  "local_cover": "images/17536279.jpg"
+}

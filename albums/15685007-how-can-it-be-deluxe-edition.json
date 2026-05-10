@@ -1,0 +1,401 @@
+{
+  "captured_at": "2026-05-10T02:17:51+00:00",
+  "schema_version": 3,
+  "artist": "Lauren Daigle",
+  "title": "How Can It Be (Deluxe Edition)",
+  "original_release_year": 2015,
+  "pressing_year": 2020,
+  "upgrade_suggestion": "2020 US Deluxe Edition 2LP 180g is the most comprehensive vinyl issue of this album (17 tracks vs. the original 2015 12-track LP). No meaningful sonic upgrade exists for this title on vinyl; the 2020 cut is the current canonical pressing.",
+  "commentary": "Released March 27, 2015 by Centricity Music, *How Can It Be* is Lauren Daigle's debut studio album — the record that established her as a major contemporary Christian voice before *Look Up Child* broke her into mainstream pop visibility three years later. *First* (the lead single) and the title track *How Can It Be* both went to #1 on Billboard's Hot Christian Songs chart, with the album itself certified 2× Platinum by the RIAA.\n\nThe album was produced by Paul Mabury (who would also produce *Look Up Child*), with Jason Ingram contributing as co-writer on multiple tracks. Recorded in Nashville, the production sits in adult-contemporary worship territory — piano-and-strings ballads, mid-tempo pop-rock, Daigle's voice (often compared to Adele's) consistently the centerpiece. *How Can It Be* won Best Contemporary Christian Music Album at the 2017 Grammys — Daigle's first Grammy, before her *Look Up Child* repeat in 2019.\n\nThe original 2015 release was 12 tracks. Centricity reissued the album as a *Deluxe Edition* in late 2015 / early 2016 with 5 additional tracks: live versions, an alternate mix, and a previously-unreleased song. The 2016 deluxe was the version that anchored the album's continued chart presence through 2017–2018.\n\n**About this 2020 US Deluxe Edition pressing (2×LP, 180g, gatefold):** Centricity Music issued the deluxe configuration on vinyl in 2020 (catno `9619210101`), five years after the original digital release. 17 tracks across four sides at standard 33⅓ RPM, on **180g** vinyl with a full-color gatefold jacket and custom die-cut inner sleeves. The vinyl format choice (33⅓ rather than the 45 RPM cut Centricity used for the *Look Up Child* LP) is appropriate to the longer total runtime — 17 tracks at 45 RPM would have required 3 LPs.\n\nThis is the more comprehensive vinyl edition of *How Can It Be* available — the original 12-track album was issued on standard-weight vinyl in 2015 (catno harder to find), while this 2020 deluxe is the canonical \"complete\" vinyl release.\n\n### Gemini Notes\n\nReleased in 2015, *How Can It Be* is the debut studio album by contemporary Christian music artist Lauren Daigle. The album was a massive commercial and critical success, winning a Billboard Music Award and earning a Grammy nomination. Its soulful pop sensibilities and Daigle's powerful, smoky vocals drew comparisons to Adele, bridging the gap between CCM and mainstream pop.\n\n**About this pressing:**",
+  "discogs": {
+    "release_id": 15685007,
+    "master_id": 1008471,
+    "uri": "https://www.discogs.com/release/15685007-Lauren-Daigle-How-Can-It-Be-Deluxe-Edition",
+    "title": "How Can It Be (Deluxe Edition)",
+    "artists": [
+      {
+        "name": "Lauren Daigle",
+        "id": 4558153,
+        "role": null
+      }
+    ],
+    "year": 2020,
+    "released": "2020-07-24",
+    "country": "US",
+    "labels": [
+      {
+        "name": "Centricity Music",
+        "catno": "9619210101",
+        "id": 128222
+      }
+    ],
+    "formats": [
+      {
+        "name": "Vinyl",
+        "qty": "2",
+        "descriptions": [
+          "LP",
+          "Album",
+          "Deluxe Edition"
+        ],
+        "text": "180g"
+      }
+    ],
+    "genres": [
+      "Pop",
+      "Folk, World, & Country"
+    ],
+    "styles": [
+      "Ballad",
+      "Gospel"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "First",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "A2",
+        "title": "How Can It Be",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "A3",
+        "title": "Trust In You",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "A4 ",
+        "title": "My Revival",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B1",
+        "title": "Loyal",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B2",
+        "title": "Power To Redeem",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B3",
+        "title": "Here's My Heart",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B4",
+        "title": "O' Lord",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "C1",
+        "title": "I Am Yours",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "C2",
+        "title": "Come Alive (Dry Bones)",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "C3",
+        "title": "Salt & Light",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "C4",
+        "title": "Once And For All",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "C5",
+        "title": "Now Is Forever (Bonus Track)",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "D1",
+        "title": "Wordless (Bonus Track)",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "D2",
+        "title": "First (Deluxe Sessions)",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "D3",
+        "title": "Come Alive (Dry Bones) (Deluxe Sessions)",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "D4",
+        "title": "How Can It Be (Live)",
+        "duration": "",
+        "type": "track"
+      }
+    ],
+    "extraartists": [
+      {
+        "name": "Jason Ingram",
+        "role": "Co-producer",
+        "id": 626236
+      },
+      {
+        "name": "Joe Williams (27)",
+        "role": "Producer",
+        "id": 3957003
+      },
+      {
+        "name": "Paul Mabury",
+        "role": "Producer",
+        "id": 1810394
+      },
+      {
+        "name": "Sean Moffitt",
+        "role": "Producer",
+        "id": 3276183
+      }
+    ],
+    "identifiers": [
+      {
+        "type": "Barcode",
+        "value": "829619210101",
+        "description": null
+      }
+    ],
+    "notes": "Includes 5 bonus tracks. \nPackaged in full-color gatefold jacket with custom die-cut inner sleeves.",
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/mrQRJXz1pOB3E70zhUrKdztpAWn8ZBFCvRNcqu83_uA/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njg1/MDA3LTE3NTM2NDk1/MzEtOTU5Ny5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/hPkPxvpoLnd7Dl16hWh03rHJFLEGzbaOhiPr86a78j0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njg1/MDA3LTE3NTM2NDk1/MzEtOTU5Ny5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/nikEcdrozz6CzKru9fJwyAkdfEbtsw5RY1RpJ6Ls2nU/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njg1/MDA3LTE3NTM2NDk1/MzItNzExMS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/n9ZjkXNUJInGVWKGHByygjB9XY8PoSaK5hw_kaoYOeA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njg1/MDA3LTE3NTM2NDk1/MzItNzExMS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/I9RqSmgEl6rgR98muIuuBEXolMNKur2PXRDYifB_pfw/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njg1/MDA3LTE3NTM2NDk1/MzMtODAxOS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/yK53PyJJTOg7u75znB83J0uRkHter0nHhK3cE_Df3wY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njg1/MDA3LTE3NTM2NDk1/MzMtODAxOS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/4NRVIZMJlWoQy_Apca6GGOloheAqrXYGsvs3mfRmYGs/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njg1/MDA3LTE3NTM2NDk1/MzEtNTkwNC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/o8bfgmRp0rtjzLYZZAz_S2wm1QktRiFXXBe-4QFbhOk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njg1/MDA3LTE3NTM2NDk1/MzEtNTkwNC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/pCKw9yFngmhrE7WdK0Y80jpM33WefHsuI5S8l9O4z8k/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njg1/MDA3LTE3NTM2NDk1/MzMtNTMzOC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/uTyqMW_Bdpg5o5zo4FpBqE2OtIg807P1Y52wfn2NhZ4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njg1/MDA3LTE3NTM2NDk1/MzMtNTMzOC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/do_Woz57oJQ89Pllw9KLlF1JhZhhVVSQnQrYJDUxTyk/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njg1/MDA3LTE3NTM2NDk1/MzMtMjk0OC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/qLzv14yCjlu77i1Tia9z1aSTdXmmD0SD-gPu3O07zmA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njg1/MDA3LTE3NTM2NDk1/MzMtMjk0OC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/6SR3UbTmgwiEO3M5VkYbU85t3vv5aftoSvKjyaf2sOI/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njg1/MDA3LTE3NTM2NDk1/MzMtMzE4Mi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/1VFrvbhCtFUWCpMVXZSbLOw0h396dA-X0KjOoN40ML0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njg1/MDA3LTE3NTM2NDk1/MzMtMzE4Mi5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/ED7u4vZha57UwwOIz18uElfUjAUYyel8VsHYhZNUSlM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njg1/MDA3LTE3NTM2NDk1/MzItMzc2NS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/JDvsdrLszKXSVlFprBzS4FIAlvvjWRsx2h4rWxpj53A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njg1/MDA3LTE3NTM2NDk1/MzItMzc2NS5qcGVn.jpeg"
+      }
+    ],
+    "community": {
+      "rating": {
+        "count": 28,
+        "average": 4.57
+      },
+      "have": 465,
+      "want": 128
+    },
+    "master": {
+      "id": 1008471,
+      "title": "How Can It Be",
+      "main_release": 7356055,
+      "year": 2015,
+      "uri": "https://www.discogs.com/master/1008471-Lauren-Daigle-How-Can-It-Be",
+      "num_for_sale": 45
+    }
+  },
+  "apple_music": {
+    "id": 1560661432,
+    "url": "https://music.apple.com/us/album/how-can-it-be-deluxe-edition/1560661432?uo=4",
+    "name": "How Can It Be (Deluxe Edition)",
+    "artist": "Lauren Daigle",
+    "artist_id": 722177758,
+    "artwork_url_100": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/10/6a/e6/106ae622-6ef1-a7ad-10aa-0ceb6f3f22cb/829619134759.jpg/100x100bb.jpg",
+    "artwork_url_600": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/10/6a/e6/106ae622-6ef1-a7ad-10aa-0ceb6f3f22cb/829619134759.jpg/600x600bb.jpg",
+    "release_date": "2015-04-14T07:00:00Z",
+    "track_count": 17,
+    "copyright": "℗ 2016 Centricity Music",
+    "primary_genre": "Christian",
+    "country": "USA",
+    "tracks": [
+      {
+        "track_number": 1,
+        "disc_number": 1,
+        "name": "First",
+        "duration_ms": 228373,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/de/0d/62/de0d627f-8f90-72bd-b42f-b535261507b9/mzaf_16815802429897054868.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/first/1560661432?i=1560661433&uo=4"
+      },
+      {
+        "track_number": 2,
+        "disc_number": 1,
+        "name": "How Can It Be",
+        "duration_ms": 259293,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/10/3a/2b/103a2be1-46aa-c691-7845-c8efd38ab199/mzaf_3810992585809310779.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/how-can-it-be/1560661432?i=1560661434&uo=4"
+      },
+      {
+        "track_number": 3,
+        "disc_number": 1,
+        "name": "Trust in You",
+        "duration_ms": 211600,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/93/5f/d2/935fd216-e459-1358-c03d-a8fee6348bc3/mzaf_16457315275430194733.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/trust-in-you/1560661432?i=1560661436&uo=4"
+      },
+      {
+        "track_number": 4,
+        "disc_number": 1,
+        "name": "My Revival",
+        "duration_ms": 299680,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/75/cb/59/75cb5911-cab6-9284-2d00-f7784950edb9/mzaf_4225190990108027644.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/my-revival/1560661432?i=1560661438&uo=4"
+      },
+      {
+        "track_number": 5,
+        "disc_number": 1,
+        "name": "Loyal",
+        "duration_ms": 269253,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/9a/f9/e4/9af9e45e-3ba5-35eb-c0d7-ef9e4b09ce07/mzaf_13093303902416936349.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/loyal/1560661432?i=1560661439&uo=4"
+      },
+      {
+        "track_number": 6,
+        "disc_number": 1,
+        "name": "Power to Redeem (feat. All Sons & Daughters)",
+        "duration_ms": 225240,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0f/9d/f5/0f9df552-1082-64aa-ecc9-480c32b5174e/mzaf_6111078831161810499.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/power-to-redeem-feat-all-sons-daughters/1560661432?i=1560661443&uo=4"
+      },
+      {
+        "track_number": 7,
+        "disc_number": 1,
+        "name": "Here's My Heart",
+        "duration_ms": 375027,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c7/14/13/c7141304-f754-6d8f-2240-546e2550df84/mzaf_8422020777878805368.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/heres-my-heart/1560661432?i=1560661444&uo=4"
+      },
+      {
+        "track_number": 8,
+        "disc_number": 1,
+        "name": "O' Lord (Radio Version)",
+        "duration_ms": 209467,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/3b/81/b1/3b81b1d8-89be-ef25-0553-3f9457c8d300/mzaf_7402997213556496633.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/o-lord-radio-version/1560661432?i=1560661958&uo=4"
+      },
+      {
+        "track_number": 9,
+        "disc_number": 1,
+        "name": "I Am Yours",
+        "duration_ms": 238027,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/02/e4/b4/02e4b448-7505-3388-fc3e-8a043ebdb489/mzaf_172819822839055027.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/i-am-yours/1560661432?i=1560661959&uo=4"
+      },
+      {
+        "track_number": 10,
+        "disc_number": 1,
+        "name": "Come Alive (Dry Bones)",
+        "duration_ms": 235227,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a5/78/35/a57835f3-f437-3de1-8677-b035cb4b510b/mzaf_18431784575136861171.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/come-alive-dry-bones/1560661432?i=1560661964&uo=4"
+      },
+      {
+        "track_number": 11,
+        "disc_number": 1,
+        "name": "Salt & Light",
+        "duration_ms": 241640,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b0/9e/75/b09e7576-83de-cf91-643b-644c5abc3a3b/mzaf_244573545766637218.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/salt-light/1560661432?i=1560661965&uo=4"
+      },
+      {
+        "track_number": 12,
+        "disc_number": 1,
+        "name": "Once and for All",
+        "duration_ms": 255520,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/07/d9/4f/07d94fbd-156a-d266-46be-0ddbcdaa8278/mzaf_4628249853155795257.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/once-and-for-all/1560661432?i=1560661966&uo=4"
+      },
+      {
+        "track_number": 13,
+        "disc_number": 1,
+        "name": "Now is Forever (Bonus Track)",
+        "duration_ms": 192933,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e4/62/ad/e462ad37-a5f9-7776-cdf6-75b762169402/mzaf_465113761362700261.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/now-is-forever-bonus-track/1560661432?i=1560661968&uo=4"
+      },
+      {
+        "track_number": 14,
+        "disc_number": 1,
+        "name": "Wordless (Bonus Track)",
+        "duration_ms": 225760,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a4/46/d6/a446d689-dca6-b60c-c699-9a1082960cb3/mzaf_7516242562292147106.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/wordless-bonus-track/1560661432?i=1560661974&uo=4"
+      },
+      {
+        "track_number": 15,
+        "disc_number": 1,
+        "name": "First (Deluxe Sessions)",
+        "duration_ms": 239320,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f2/6a/a4/f26aa459-a709-0014-289f-98a5f2dff574/mzaf_12970299928603032826.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/first-deluxe-sessions/1560661432?i=1560661976&uo=4"
+      },
+      {
+        "track_number": 16,
+        "disc_number": 1,
+        "name": "Come Alive (Dry Bones) [Deluxe Sessions]",
+        "duration_ms": 286253,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/54/b5/e9/54b5e9ae-60a6-4fb8-133d-622820d55615/mzaf_3820574962344883735.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/come-alive-dry-bones-deluxe-sessions/1560661432?i=1560661982&uo=4"
+      },
+      {
+        "track_number": 17,
+        "disc_number": 1,
+        "name": "How Can It Be (Live)",
+        "duration_ms": 293227,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c0/0e/bc/c00ebc9e-4d85-13ec-df23-27d072593862/mzaf_14941430745326268408.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/how-can-it-be-live/1560661432?i=1560661984&uo=4"
+      }
+    ]
+  },
+  "discrepancies": [
+    "Release year differs: your pressing=2020, Apple Music edition=2015. Apple Music typically streams the most recent remaster."
+  ],
+  "local_cover": "images/15685007.jpg"
+}

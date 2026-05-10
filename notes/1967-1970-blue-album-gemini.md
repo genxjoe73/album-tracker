@@ -1,0 +1,1 @@
+Released in 1973, the "Blue Album" compiles The Beatles' later, more experimental and culturally defining work. It captures their unmatched evolution from studio innovators into a global countercultural phenomenon.

@@ -1,0 +1,1 @@
+Released in 2012, *Born to Die* introduced Lana Del Rey's cinematic, sad-core pop aesthetic to the mainstream. Blending sweeping orchestral arrangements with hip-hop beats and vintage Americana imagery, the album proved hugely influential on the decade's pop landscape.

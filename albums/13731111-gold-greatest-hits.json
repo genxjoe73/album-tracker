@@ -1,0 +1,597 @@
+{
+  "captured_at": "2026-05-10T16:23:32+00:00",
+  "schema_version": 3,
+  "artist": "ABBA",
+  "title": "Gold (Greatest Hits)",
+  "original_release_year": 1992,
+  "pressing_year": 2019,
+  "upgrade_suggestion": "No definitive audiophile pressing exists for ABBA Gold — it has never received a half-speed or anniversary vinyl treatment. The 2019 Universal pressing you own is the current standard domestic configuration. Original 1992 Polydor pressings (r634765) are occasionally sought for novelty but offer no mastering advantage over modern issues.",
+  "commentary": "Released in September 1992, *ABBA Gold: Greatest Hits* is one of the best-selling compilation albums of all time. After ABBA effectively disbanded in 1982, their music experienced a dip in popularity, but the release of *Gold* sparked a massive global resurgence. Curated to include all of their most iconic, universally recognizable tracks, the compilation reintroduced ABBA's meticulously crafted pop to a new generation, paving the way for the *Mamma Mia!* musical and their eventual 2021 reunion.\n\nThe album serves as a masterclass in pop songwriting and production, highlighting the genius of Benny Andersson and Björn Ulvaeus, alongside the unmatched vocal harmonies of Agnetha Fältskog and Anni-Frid Lyngstad. From the disco perfection of \"Dancing Queen\" to the heartbreak of \"The Winner Takes It All,\" *Gold* is an essential pop document that has remained a fixture on charts worldwide for decades.\n\n**About this pressing:**\n*Deadwax TBD — check runouts for mastering engineers or pressing plant symbols. Update this section once details are logged.*\n\n### Gemini Notes\n\nReleased in 1992, *ABBA Gold* sparked a massive global resurgence for the Swedish pop group. Curated to include all of their most iconic tracks, it serves as a masterclass in pop songwriting and production.\n\n**About this pressing:**",
+  "discogs": {
+    "release_id": 13731111,
+    "master_id": 12249,
+    "uri": "https://www.discogs.com/release/13731111-ABBA-Gold-Greatest-Hits",
+    "title": "Gold (Greatest Hits)",
+    "artists": [
+      {
+        "name": "ABBA",
+        "id": 69866,
+        "role": null
+      }
+    ],
+    "year": 2019,
+    "released": "2019-06-07",
+    "country": "USA & Europe",
+    "labels": [
+      {
+        "name": "Polydor",
+        "catno": "574 785-4",
+        "id": 1610
+      },
+      {
+        "name": "Polar",
+        "catno": "00602557478549",
+        "id": 40813
+      }
+    ],
+    "formats": [
+      {
+        "name": "Vinyl",
+        "qty": "2",
+        "descriptions": [
+          "LP",
+          "Compilation",
+          "Limited Edition",
+          "Reissue",
+          "Remastered",
+          "Stereo"
+        ],
+        "text": "180 Gram, Gold"
+      }
+    ],
+    "genres": [
+      "Electronic",
+      "Pop"
+    ],
+    "styles": [
+      "Europop",
+      "Disco"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Dancing Queen",
+        "duration": "3:49",
+        "type": "track"
+      },
+      {
+        "position": "A2",
+        "title": "Knowing Me, Knowing You",
+        "duration": "4:01",
+        "type": "track"
+      },
+      {
+        "position": "A3",
+        "title": "Take A Chance On Me",
+        "duration": "4:01",
+        "type": "track"
+      },
+      {
+        "position": "A4",
+        "title": "Mamma Mia",
+        "duration": "3:32",
+        "type": "track"
+      },
+      {
+        "position": "A5",
+        "title": "Lay All Your Love On Me",
+        "duration": "4:32",
+        "type": "track"
+      },
+      {
+        "position": "B1",
+        "title": "Super Trouper",
+        "duration": "4:10",
+        "type": "track"
+      },
+      {
+        "position": "B2",
+        "title": "I Have A Dream",
+        "duration": "4:43",
+        "type": "track"
+      },
+      {
+        "position": "B3",
+        "title": "The Winner Takes It All",
+        "duration": "4:54",
+        "type": "track"
+      },
+      {
+        "position": "B4",
+        "title": "Money, Money, Money",
+        "duration": "3:05",
+        "type": "track"
+      },
+      {
+        "position": "B5",
+        "title": "S.O.S.",
+        "duration": "3:19",
+        "type": "track"
+      },
+      {
+        "position": "C1",
+        "title": "Chiquitita",
+        "duration": "5:26",
+        "type": "track"
+      },
+      {
+        "position": "C2",
+        "title": "Fernando",
+        "duration": "4:10",
+        "type": "track"
+      },
+      {
+        "position": "C3",
+        "title": "Voulez Vous",
+        "duration": "5:05",
+        "type": "track"
+      },
+      {
+        "position": "C4",
+        "title": "Gimme! Gimme! Gimme! (A Man After Midnight)",
+        "duration": "4:46",
+        "type": "track"
+      },
+      {
+        "position": "D1",
+        "title": "Does Your Mother Know",
+        "duration": "3:14",
+        "type": "track"
+      },
+      {
+        "position": "D2",
+        "title": "One Of Us",
+        "duration": "3:53",
+        "type": "track"
+      },
+      {
+        "position": "D3",
+        "title": "The Name Of The Game",
+        "duration": "4:50",
+        "type": "track"
+      },
+      {
+        "position": "D4",
+        "title": "Thank You For The Music",
+        "duration": "3:51",
+        "type": "track"
+      },
+      {
+        "position": "D5",
+        "title": "Waterloo",
+        "duration": "2:42",
+        "type": "track"
+      }
+    ],
+    "extraartists": [
+      {
+        "name": "Chris Griffin (4)",
+        "role": "Compiled By",
+        "id": 626310
+      },
+      {
+        "name": "George McManus",
+        "role": "Compiled By [Assistant]",
+        "id": 626312
+      },
+      {
+        "name": "Ingemar Bergman",
+        "role": "Compiled By [Assistant]",
+        "id": 626309
+      },
+      {
+        "name": "Jackie Stansfield",
+        "role": "Compiled By [Assistant]",
+        "id": 626313
+      },
+      {
+        "name": "John Tobler",
+        "role": "Compiled By [Assistant]",
+        "id": 605846
+      },
+      {
+        "name": "John Waller",
+        "role": "Compiled By [Assistant]",
+        "id": 626311
+      },
+      {
+        "name": "Icon (21)",
+        "role": "Design",
+        "id": 1834490
+      },
+      {
+        "name": "Frank Arkwright",
+        "role": "Lacquer Cut By",
+        "id": 339601
+      },
+      {
+        "name": "John Tobler",
+        "role": "Liner Notes",
+        "id": 605846
+      },
+      {
+        "name": "Björn Ulvaeus & Benny Andersson",
+        "role": "Producer",
+        "id": 975170
+      },
+      {
+        "name": "Michael B. Tretow",
+        "role": "Remastered By [Digitally]",
+        "id": 266246
+      },
+      {
+        "name": "Björn Ulvaeus & Benny Andersson",
+        "role": "Written-By",
+        "id": 975170
+      }
+    ],
+    "identifiers": [
+      {
+        "type": "Barcode",
+        "value": "6 02577 62921 1",
+        "description": "Text, on sticker"
+      },
+      {
+        "type": "Rights Society",
+        "value": "BIEM / SDRM",
+        "description": null
+      },
+      {
+        "type": "Label Code",
+        "value": "LC 01846",
+        "description": null
+      },
+      {
+        "type": "Other",
+        "value": "574 785-6",
+        "description": "Cat# Record 1 and Inner Sleeve"
+      },
+      {
+        "type": "Other",
+        "value": "574 785-7",
+        "description": "Cat# Record 2 and Inner Sleeve"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "0600753511077 - A2 - MPO® 19 105702 - FA - MPO",
+        "description": "Side A runout, variant 1"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "0600753511077 - B2 - MPO® 19 105766 - F.A. - MPO",
+        "description": "Side B runout, variant 1"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "0600753511084 - A2 - MPO® 18 33429 - FA - MPO",
+        "description": "Side C runout, variant 1"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "0600753511084 - B2 - MPO® 19 109744 - F.A. - MPO",
+        "description": "Side D runout, variant 1"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "A0600753511077  A2  FA  MPO MPO® 19 105852",
+        "description": "Side A runout, variant 2"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "0600753511077  B2  FA  MPO MPO® 19 105706",
+        "description": "Side B runout, variant 2"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "0600753511084  A2  FA  MPO MPO® 19 105893",
+        "description": "Side C runout, variant 2"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "0600753511084  B2  FA  MPO MPO® 19 106113",
+        "description": "Side D runout, variant 2"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "0600753511077 A2 [MPO logo]® 19 105931 F.A. MPO",
+        "description": "Side A runout, variant 3"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "0600753511077 B2 F.A. MPO [MPO logo]® 19 105933",
+        "description": "Side B runout, variant 3"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "0600753511084 A2 [MPO logo]® 19 106144 FA. MPO",
+        "description": "Side C runout, variant 3"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "0600753511084 B2 [MPO logo]® 19 105795 F.A. MPO",
+        "description": "Side D runout, variant 3"
+      }
+    ],
+    "notes": "Issued in a single pocket sleeve with a soft sheen finish. Printed inner sleeves of thin card, top opening.\nThe lustrous gold vinyl is translucent and has a marbled appearance when held up to light.\nCopies may come with a hype sticker and/or merchant retailing stickers depending on territory.\nBarcode may be in the form of a sticker applied directly to the sleeve, within the shrink-wrap.\n\nSticker on shrink-wrap says \"LIMITED EDITION GOLD VINYL\" (The Target exclusive U.S. release's hype sticker says \"limited edition 2LP gold vinyl\")\n\nThis compilation ℗ & © 1992 Polar Music International AB\nMade in the EU. ",
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/38rPSx3JEs2G4CiInRQx3PP1oSDy1zDb31GX-1pFyzU/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzMx/MTExLTE2NDY1MTY5/OTAtOTMxOS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/xOsg0w4qlDoTxUHpLgvLp6wnw9rg9TFSSXqNH-BviqA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzMx/MTExLTE2NDY1MTY5/OTAtOTMxOS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/YwtW9DgvJmRo4qumJMVA4_3B1kMooWViNXbDadE_jvU/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzMx/MTExLTE2NDY1MTY5/OTAtNTMzMy5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/Gwc-05HjykI8mSu7NV_kXhlcAxyBYvea1IplzNZL5yg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzMx/MTExLTE2NDY1MTY5/OTAtNTMzMy5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/rVUq16QY4AwSZbOEkjFjFsG-2v22_53GPBB14mCrZik/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzMx/MTExLTE1NjAzNDE3/MzQtNTkyMC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/wwjhazeF_EsS-5s1-et10SFmBg5vLQ4VrfLP51JFhIk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzMx/MTExLTE1NjAzNDE3/MzQtNTkyMC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/5k3YdQL5DUA-SenaG8KTp_mFgH06rC-ek9tgmcRXz14/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzMx/MTExLTE1NjAzNDE3/MzUtNDY4NS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/3LjvG3IhS8qERHlhaIKQwd1ScDVLIMdCWXOfpEdf9cE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzMx/MTExLTE1NjAzNDE3/MzUtNDY4NS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/GSoEr2NIeGzorAMMYZ0lAlZMtteErDzDrlwwZmJczHI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzMx/MTExLTE1NjAzNDE3/MzUtOTk1OC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/5UOGx6EEXcppr9yyu6mHvjPeSTWLRN7uakaUExn0ErQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzMx/MTExLTE1NjAzNDE3/MzUtOTk1OC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/621oyxcW7kvBxIQLTLh90mCks1Cuwa2D0kmW5hMao6Q/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzMx/MTExLTE1NjAzNDE3/MzQtNTUzNC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/F_ngk2gcdgvzuW8lVru_jr-GACD7pjHPdlPZVsIY1p4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzMx/MTExLTE1NjAzNDE3/MzQtNTUzNC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/Q-nOfSP7pNuKhu7a2xy2Bg2rx6hJSHlxzClicZKn-QI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzMx/MTExLTE1NjAzNDE3/MjUtMjI2Ny5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/vXFrTsU1Fh71U7peKhukRlV1R7Rx7B42v7SrayKW78c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzMx/MTExLTE1NjAzNDE3/MjUtMjI2Ny5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/_vY_nhLeOsTdfr23UVsrq8odTCTRkT_ArSD59xlTyoU/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzMx/MTExLTE1OTMxMzky/ODAtMTU1NS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/sSw9NJZ6p8FMSNh6JRQ0ObaPN152OZYk4xj0_d7dnfQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzMx/MTExLTE1OTMxMzky/ODAtMTU1NS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/KXsU3AI5cFlurpNYRlA1oIJXltJO6q9NwVUUhWra6xw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzMx/MTExLTE1OTMxMzky/NzktNTA1Ny5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/c0jEhxkgqOMMUEvMHnphoHXq-x5tbDvY4N3b6yhkHvU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzMx/MTExLTE1OTMxMzky/NzktNTA1Ny5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/YDh89irPebBjlbv5nKbSm353wOnO0xbeTQQmFL-wqik/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzMx/MTExLTE1OTMxMzky/ODEtMTcyMS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/U9v2o0J9INfF0JIS_SXbdr8AyK3xPkS95mrUTyRmrrc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzMx/MTExLTE1OTMxMzky/ODEtMTcyMS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/KCqRrdzBPPDzYz1_P328BWMjHwODiRel7EuOB7FE3RM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzMx/MTExLTE1OTMxMzky/ODEtMTE3NC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/2b-O8RydX98xt4bUSjAa3I46l317mifBW7qyD6n2YqQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzMx/MTExLTE1OTMxMzky/ODEtMTE3NC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/fiYq3G2zOVK0S7sVph8yFIBCwZ3-yGWY3KqN0JOr-WE/rs:fit/g:sm/q:90/h:393/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzMx/MTExLTE2ODcyMTE4/NTEtMjI5OS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/F65IYAVDS7AmChhgK7-t8tgKK1ZhTPesMXipJggEprM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzMx/MTExLTE2ODcyMTE4/NTEtMjI5OS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/hRSG_OOh6jwH6wmBMMG98AYcXV7URW3IZcQHrNztssI/rs:fit/g:sm/q:90/h:329/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzMx/MTExLTE2NDY1NjM0/NTMtODkwOC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/ox2E2ZUl2RFeD1wOOdLnlidql83NKntizGo2W5Fl2v8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzMx/MTExLTE2NDY1NjM0/NTMtODkwOC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/tM_iBZ59XKqMGLoeoj8b8Hlu78HtCOrVPJ8Ldf6dPts/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzMx/MTExLTE1Nzg3NjU2/MTktMTQwNC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/sPBV7HIFMY-Xn4B44DRahXMas3sasQzTLzUw7p3W6Cg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzMx/MTExLTE1Nzg3NjU2/MTktMTQwNC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/vWzuuNHkFZjNsAqGhXXptVW7_hUC1-t4LG88Aegw0dk/rs:fit/g:sm/q:90/h:600/w:438/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzMx/MTExLTE2NDY1NjM0/NzgtNDIzMi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/8pXlFm9Nzzmrad9a4d1RQSZyluhK8dtWUIdba9E3SYI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzMx/MTExLTE2NDY1NjM0/NzgtNDIzMi5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/_YrTFu0BI46M6aRiKpNzQ-StKKMEwxiXCeMWlWD4Kwg/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzMx/MTExLTE2NDY1NjM0/MTEtNjg5MC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/0mFWj7TU35o-PnzDGnQQi09z8pLz3E9crsiytS-1fAA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzMx/MTExLTE2NDY1NjM0/MTEtNjg5MC5qcGVn.jpeg"
+      }
+    ],
+    "community": {
+      "rating": {
+        "count": 276,
+        "average": 4.5
+      },
+      "have": 5298,
+      "want": 841
+    },
+    "master": {
+      "id": 12249,
+      "title": "Gold (Greatest Hits)",
+      "main_release": 338764,
+      "year": 1992,
+      "uri": "https://www.discogs.com/master/12249-ABBA-Gold-Greatest-Hits",
+      "num_for_sale": 2455
+    }
+  },
+  "apple_music": {
+    "id": 1422648512,
+    "url": "https://music.apple.com/us/album/abba-gold-greatest-hits/1422648512?uo=4",
+    "name": "ABBA Gold: Greatest Hits",
+    "artist": "ABBA",
+    "artist_id": 372976,
+    "artwork_url_100": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/60/f8/a6/60f8a6bc-e875-238d-f2f8-f34a6034e6d2/14UMGIM07615.rgb.jpg/100x100bb.jpg",
+    "artwork_url_600": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/60/f8/a6/60f8a6bc-e875-238d-f2f8-f34a6034e6d2/14UMGIM07615.rgb.jpg/600x600bb.jpg",
+    "release_date": "1992-09-21T07:00:00Z",
+    "track_count": 19,
+    "copyright": "This Compilation ℗ 1992 Polar Music International AB",
+    "primary_genre": "Pop",
+    "country": "USA",
+    "tracks": [
+      {
+        "track_number": 1,
+        "disc_number": 1,
+        "name": "Dancing Queen",
+        "duration_ms": 231844,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1a/47/93/1a4793fc-1586-87bc-00d2-dc4916a61c7c/mzaf_13920610926910283055.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/dancing-queen/1422648512?i=1422648513&uo=4"
+      },
+      {
+        "track_number": 2,
+        "disc_number": 1,
+        "name": "Knowing Me, Knowing You",
+        "duration_ms": 241643,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/07/df/51/07df5155-b554-8bfb-57a7-bdb874366e91/mzaf_655615450779308148.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/knowing-me-knowing-you/1422648512?i=1422648515&uo=4"
+      },
+      {
+        "track_number": 3,
+        "disc_number": 1,
+        "name": "Take a Chance On Me",
+        "duration_ms": 244954,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/33/da/4b/33da4be8-dccc-b813-688d-17450f629ce9/mzaf_8411635802164180318.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/take-a-chance-on-me/1422648512?i=1422648520&uo=4"
+      },
+      {
+        "track_number": 4,
+        "disc_number": 1,
+        "name": "Mamma Mia",
+        "duration_ms": 212304,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/4e/a8/65/4ea8652c-78d2-f4a2-b280-172c53214728/mzaf_2638669605971250687.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/mamma-mia/1422648512?i=1422648821&uo=4"
+      },
+      {
+        "track_number": 5,
+        "disc_number": 1,
+        "name": "Lay All Your Love On Me",
+        "duration_ms": 274525,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c6/03/eb/c603eb1e-4d3f-2f25-0373-a66401d2f07b/mzaf_10960197639416331719.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/lay-all-your-love-on-me/1422648512?i=1422648822&uo=4"
+      },
+      {
+        "track_number": 6,
+        "disc_number": 1,
+        "name": "Super Trouper",
+        "duration_ms": 251187,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/03/53/8a/03538a02-c432-b115-fb02-988722f899cd/mzaf_12061233905008433284.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/super-trouper/1422648512?i=1422648824&uo=4"
+      },
+      {
+        "track_number": 7,
+        "disc_number": 1,
+        "name": "I Have a Dream",
+        "duration_ms": 283848,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/dc/d8/e0/dcd8e019-c8f3-d40d-1453-5060a3f06700/mzaf_18363488121746169237.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/i-have-a-dream/1422648512?i=1422648833&uo=4"
+      },
+      {
+        "track_number": 8,
+        "disc_number": 1,
+        "name": "The Winner Takes It All",
+        "duration_ms": 294806,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/fd/6d/12/fd6d123d-e356-cd43-b036-2ae2218bca1e/mzaf_2532642148093309877.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/the-winner-takes-it-all/1422648512?i=1422648844&uo=4"
+      },
+      {
+        "track_number": 9,
+        "disc_number": 1,
+        "name": "Money, Money, Money",
+        "duration_ms": 185979,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/00/f3/8b/00f38bbc-a525-9f5a-a36b-7056c2ae12c9/mzaf_9176411157702167025.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/money-money-money/1422648512?i=1422648959&uo=4"
+      },
+      {
+        "track_number": 10,
+        "disc_number": 1,
+        "name": "SOS",
+        "duration_ms": 201678,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2e/31/d8/2e31d83c-7a4b-74af-2313-0fc74defcf53/mzaf_1208513409091905377.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/sos/1422648512?i=1422648966&uo=4"
+      },
+      {
+        "track_number": 11,
+        "disc_number": 1,
+        "name": "Chiquitita",
+        "duration_ms": 325796,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/19/42/df/1942df49-8985-2003-53a8-afb4383deb96/mzaf_8794849758390829764.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/chiquitita/1422648512?i=1422648967&uo=4"
+      },
+      {
+        "track_number": 12,
+        "disc_number": 1,
+        "name": "Fernando",
+        "duration_ms": 253220,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d8/89/b7/d889b70a-2e7b-d5b5-9251-51003efaad4e/mzaf_18008947010916525061.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/fernando/1422648512?i=1422648968&uo=4"
+      },
+      {
+        "track_number": 13,
+        "disc_number": 1,
+        "name": "Voulez-Vous",
+        "duration_ms": 308278,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/64/9a/22/649a22fd-b2a3-d101-6da1-910f3ca8c9ea/mzaf_11627621452296891329.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/voulez-vous/1422648512?i=1422648969&uo=4"
+      },
+      {
+        "track_number": 14,
+        "disc_number": 1,
+        "name": "Gimme! Gimme! Gimme! (A Man After Midnight)",
+        "duration_ms": 289887,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b6/89/f4/b689f49d-17f0-4c23-0008-a2846ff3d216/mzaf_4518780566099169041.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/gimme-gimme-gimme-a-man-after-midnight/1422648512?i=1422648970&uo=4"
+      },
+      {
+        "track_number": 15,
+        "disc_number": 1,
+        "name": "Does Your Mother Know",
+        "duration_ms": 194561,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/0a/f0/2c/0af02c86-6384-8a6d-2654-2bd64443d766/mzaf_11998343236056367541.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/does-your-mother-know/1422648512?i=1422649001&uo=4"
+      },
+      {
+        "track_number": 16,
+        "disc_number": 1,
+        "name": "One of Us",
+        "duration_ms": 235820,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/82/15/4e/82154e7d-7158-4515-12a5-bc90904331b2/mzaf_2874836074314733843.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/one-of-us/1422648512?i=1422649003&uo=4"
+      },
+      {
+        "track_number": 17,
+        "disc_number": 1,
+        "name": "The Name of the Game",
+        "duration_ms": 291934,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/41/11/2f/41112f7e-5869-0666-2d5b-72167ceae28f/mzaf_8040592443211948061.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/the-name-of-the-game/1422648512?i=1422649004&uo=4"
+      },
+      {
+        "track_number": 18,
+        "disc_number": 1,
+        "name": "Thank You for the Music",
+        "duration_ms": 228102,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f7/f8/07/f7f80738-401e-087f-2e3c-829b346bedb6/mzaf_5831645497853634596.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/thank-you-for-the-music/1422648512?i=1422649007&uo=4"
+      },
+      {
+        "track_number": 19,
+        "disc_number": 1,
+        "name": "Waterloo",
+        "duration_ms": 164432,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/32/ca/2b/32ca2b0a-79a1-77ad-4746-07a83639d3ce/mzaf_9127813743185986422.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/waterloo/1422648512?i=1422649021&uo=4"
+      }
+    ]
+  },
+  "discrepancies": [
+    "Release year differs: your pressing=2019, Apple Music edition=1992. Apple Music typically streams the most recent remaster."
+  ],
+  "local_cover": "images/13731111.jpg"
+}

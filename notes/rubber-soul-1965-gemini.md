@@ -1,0 +1,4 @@
+Released in December 1965, *Rubber Soul* is widely recognized as the moment The Beatles transitioned from a live touring rock-and-roll act into serious, introspective studio artists. Heavily influenced by Bob Dylan and folk-rock, the lyrics became more sophisticated, while the instrumentation expanded to include sitar (on "Norwegian Wood") and fuzz bass. The album's cohesive, artistic approach paved the way for the conceptual masterpieces that would follow.
+
+**About this pressing:**
+*Deadwax TBD — check runouts for mastering engineers or pressing plant symbols. Update this section once details are logged.*

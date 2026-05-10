@@ -1,0 +1,1 @@
+Released in 2004, this compilation captures the massive post-grunge dominance of Creed. Featuring sweeping arena-rock anthems like "Higher" and "With Arms Wide Open," it highlights their peak commercial era.

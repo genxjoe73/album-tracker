@@ -1,0 +1,1 @@
+Recorded during Pink Floyd's 1974 tour, this live album captures the band performing their magnum opus in its entirety, offering a rawer, more improvisational take on the heavily layered studio album.

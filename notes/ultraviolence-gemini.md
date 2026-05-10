@@ -1,0 +1,1 @@
+Released in 2014, *Ultraviolence* is Lana Del Rey's dark, psychedelic rock masterpiece. Produced by Dan Auerbach of The Black Keys, the album trades her debut's hip-hop beats for heavy, reverb-drenched guitars and raw live-band energy.

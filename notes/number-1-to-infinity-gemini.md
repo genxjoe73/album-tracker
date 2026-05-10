@@ -1,0 +1,1 @@
+Released in 2015, *#1 to Infinity* compiles all 18 of Mariah Carey's US Billboard Hot 100 number-one singles, alongside a new track. It serves as a monumental testament to her unparalleled chart dominance and vocal prowess.

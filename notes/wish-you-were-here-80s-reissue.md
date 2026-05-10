@@ -1,0 +1,4 @@
+Released in September 1975, *Wish You Were Here* explores themes of alienation and the dehumanizing nature of the music industry. The album’s conceptual focus on "absence" is mirrored in its packaging, which originally featured a black shrink-wrap hiding the cover art, and in its lyrical content, particularly the title track and the multi-part "Shine On You Crazy Diamond."
+
+**About this pressing:**
+This is a 1980s US Columbia reissue, identifiable by the barcode printed on the back cover and the JC/PC prefix on the spine and labels. *Deadwax TBD — check runouts for mastering engineers or pressing plant symbols. Update this section once details are logged.*

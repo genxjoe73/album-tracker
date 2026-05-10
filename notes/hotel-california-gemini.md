@@ -1,0 +1,1 @@
+Released in 1976, the Eagles' *Hotel California* is a cornerstone of the 1970s Southern California rock sound. Featuring the twin-guitar attack of Don Felder and Joe Walsh, the album explores themes of excess, disillusionment, and the dark underbelly of the American Dream.

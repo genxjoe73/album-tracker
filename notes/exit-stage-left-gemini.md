@@ -1,0 +1,1 @@
+Released in 1981, *Exit...Stage Left* is a definitive live album from Rush, capturing performances from their Permanent Waves and Moving Pictures tours. It perfectly balances the band's virtuosic complexity with their sheer power as a live trio.

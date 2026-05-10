@@ -1,0 +1,612 @@
+{
+  "captured_at": "2026-05-10T19:52:36+00:00",
+  "schema_version": 3,
+  "artist": "Mariah Carey",
+  "title": "#1 To Infinity",
+  "original_release_year": 2015,
+  "pressing_year": 2015,
+  "upgrade_suggestion": "No audiophile pressing of Mariah Carey's #1 To Infinity compilation has been issued. The 180g 2015 Columbia reissue you own is the only modern domestic vinyl configuration. No half-speed or specialty pressing exists for this title.",
+  "commentary": "**#1 To Infinity** is a greatest-hits compilation by Mariah Carey released in May 2015 by **Epic Records / Columbia / Legacy**. The title refers to Mariah Carey's record-breaking run of number-one singles on the Billboard Hot 100 — the album opens with her early flagship hits (\"Vision of Love,\" \"Love Takes Time\") and proceeds chronologically through her career, capturing her dominance of the chart across two and a half decades. The tracklist spans her debut *Mariah Carey* (1990) through *Me. I Am Mariah... The Elusive Chanteuse* (2014), concentrating on her most commercially successful material: ballads, love songs, and upbeat pop-R&B fusions that defined her commercial identity.\n\nThe **2015 pressing** was issued on **180-gram vinyl**, a weight designation associated with collector-oriented reissues and generally implying more stable playback and quieter surfaces relative to standard 120g pressings. Columbia Records mastered this edition at their **Burbank facility**, with **CJH** (the engineer code) conducting the cut under the project name `Welcome to 1979` — a reference that may allude to the mastering session's date or artistic intent. The pressing plant is not explicitly stated on the release, but Sony's 2015 compilations were typically manufactured by either domestic or European contract presses.\n\n**About this 2015 US pressing (2×LP, 180g):** Epic / Columbia / Legacy catalog **88875102891** (barcode **888751028913**), 180-gram vinyl. Mastered at **Columbia Records, Burbank** by **CJH** under session name `Welcome to 1979`. Deadwax: `88875102891-A² Ⓤ CJH Welcome to 1979` / `88875102891-B-RE3 Ⓤ CJH Welcome to 1979` / etc. Two-disc compilation spanning her career 1990–2014.\n\n### Gemini Notes\n\nReleased in 2015, *#1 to Infinity* compiles all 18 of Mariah Carey's US Billboard Hot 100 number-one singles, alongside a new track. It serves as a monumental testament to her unparalleled chart dominance and vocal prowess.\n\n**About this pressing:**",
+  "discogs": {
+    "release_id": 7401772,
+    "master_id": 839537,
+    "uri": "https://www.discogs.com/release/7401772-Mariah-Carey-1-To-Infinity",
+    "title": "#1 To Infinity",
+    "artists": [
+      {
+        "name": "Mariah Carey",
+        "id": 33534,
+        "role": null
+      }
+    ],
+    "year": 2015,
+    "released": "2015-08-28",
+    "country": "US",
+    "labels": [
+      {
+        "name": "Columbia",
+        "catno": "88875102891",
+        "id": 1866
+      },
+      {
+        "name": "Epic",
+        "catno": "88875102891",
+        "id": 1005
+      },
+      {
+        "name": "Legacy",
+        "catno": "88875102891",
+        "id": 15491
+      }
+    ],
+    "formats": [
+      {
+        "name": "Vinyl",
+        "qty": "2",
+        "descriptions": [
+          "LP",
+          "Compilation"
+        ],
+        "text": "180 Gram"
+      }
+    ],
+    "genres": [
+      "Hip Hop",
+      "Funk / Soul",
+      "Pop"
+    ],
+    "styles": [
+      "Contemporary R&B",
+      "Ballad"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Vision of Love",
+        "duration": "3:29",
+        "type": "track"
+      },
+      {
+        "position": "A2",
+        "title": "Love Takes Time",
+        "duration": "3:49",
+        "type": "track"
+      },
+      {
+        "position": "A3",
+        "title": "Someday",
+        "duration": "3:57",
+        "type": "track"
+      },
+      {
+        "position": "A4",
+        "title": "I Don't Wanna Cry",
+        "duration": "4:48",
+        "type": "track"
+      },
+      {
+        "position": "A5",
+        "title": "Emotions ",
+        "duration": "4:08",
+        "type": "track"
+      },
+      {
+        "position": "B1",
+        "title": "I'll Be There",
+        "duration": "4:24",
+        "type": "track"
+      },
+      {
+        "position": "B2",
+        "title": "Dreamlover",
+        "duration": "3:53",
+        "type": "track"
+      },
+      {
+        "position": "B3",
+        "title": "Hero",
+        "duration": "4:17",
+        "type": "track"
+      },
+      {
+        "position": "B4",
+        "title": "Fantasy",
+        "duration": "4:53",
+        "type": "track"
+      },
+      {
+        "position": "B5",
+        "title": "One Sweet Day",
+        "duration": "4:41",
+        "type": "track"
+      },
+      {
+        "position": "C1",
+        "title": "Always Be My Baby",
+        "duration": "4:18",
+        "type": "track"
+      },
+      {
+        "position": "C2",
+        "title": "Honey",
+        "duration": "4:59",
+        "type": "track"
+      },
+      {
+        "position": "C3",
+        "title": "My All",
+        "duration": "3:51",
+        "type": "track"
+      },
+      {
+        "position": "C4",
+        "title": "Heartbreaker",
+        "duration": "4:46",
+        "type": "track"
+      },
+      {
+        "position": "C5",
+        "title": "Thank God I Found You",
+        "duration": "4:17",
+        "type": "track"
+      },
+      {
+        "position": "D1",
+        "title": "We Belong Together ",
+        "duration": "3:22",
+        "type": "track"
+      },
+      {
+        "position": "D2",
+        "title": "Don't Forget About Us",
+        "duration": "3:53",
+        "type": "track"
+      },
+      {
+        "position": "D3",
+        "title": "Touch My Body ",
+        "duration": "3:27",
+        "type": "track"
+      },
+      {
+        "position": "D4",
+        "title": "Infinity ",
+        "duration": "3:58",
+        "type": "track"
+      }
+    ],
+    "extraartists": [
+      {
+        "name": "Joey Arbagey",
+        "role": "A&R [Epic]",
+        "id": 1760124
+      },
+      {
+        "name": "Henry Towns",
+        "role": "A&R [Legacy]",
+        "id": 1300237
+      },
+      {
+        "name": "Frank Harkins",
+        "role": "Art Direction, Design",
+        "id": 1831301
+      },
+      {
+        "name": "Fuko Chubachi",
+        "role": "Art Direction, Design",
+        "id": 1904683
+      },
+      {
+        "name": "Gretchen Brennison",
+        "role": "Creative Director [Product Direction]",
+        "id": 402667
+      },
+      {
+        "name": "Antonio Reid (2)",
+        "role": "Executive-Producer",
+        "id": 5032901
+      },
+      {
+        "name": "Mariah Carey",
+        "role": "Executive-Producer",
+        "id": 33534
+      },
+      {
+        "name": "Cameron Henry (2)",
+        "role": "Lacquer Cut By [Runout Etchings]",
+        "id": 3335468
+      },
+      {
+        "name": "Mark Wilder",
+        "role": "Mastered By",
+        "id": 161744
+      },
+      {
+        "name": "Frank Peinemann",
+        "role": "Photography By [All Other Photos]",
+        "id": 2531255
+      },
+      {
+        "name": "Jo Ann Toy",
+        "role": "Photography By [All Other Photos]",
+        "id": 2974511
+      },
+      {
+        "name": "Kip Meyer",
+        "role": "Photography By [All Other Photos]",
+        "id": 2862297
+      },
+      {
+        "name": "Laurence Galud",
+        "role": "Photography By [All Other Photos]",
+        "id": 2562768
+      },
+      {
+        "name": "Mariah Carey",
+        "role": "Photography By [All Other Photos]",
+        "id": 33534
+      },
+      {
+        "name": "Michael Thompson (8)",
+        "role": "Photography By [All Other Photos]",
+        "id": 1351806
+      },
+      {
+        "name": "Naomi Kaltman",
+        "role": "Photography By [All Other Photos]",
+        "id": 2235816
+      },
+      {
+        "name": "Sony Music Archives",
+        "role": "Photography By [All Other Photos]",
+        "id": 2283583
+      },
+      {
+        "name": "Wayne Maser",
+        "role": "Photography By [Cover, Back & Inside Gatefold]",
+        "id": 2243546
+      },
+      {
+        "name": "Mariah Carey",
+        "role": "Producer",
+        "id": 33534
+      },
+      {
+        "name": "Mandana Eidgah",
+        "role": "Product Manager [Project Management]",
+        "id": 1699043
+      }
+    ],
+    "identifiers": [
+      {
+        "type": "Barcode",
+        "value": "8 88751 02891 3",
+        "description": "Text"
+      },
+      {
+        "type": "Barcode",
+        "value": "888751028913",
+        "description": "Scanned"
+      },
+      {
+        "type": "Rights Society",
+        "value": "ASCAP",
+        "description": null
+      },
+      {
+        "type": "Rights Society",
+        "value": "BMI",
+        "description": null
+      },
+      {
+        "type": "Rights Society",
+        "value": "SESAC",
+        "description": null
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "88875102891A",
+        "description": "Label side A"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "88875102891B",
+        "description": "Label side B"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "88875102891C",
+        "description": "Label side C"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "88875102891D",
+        "description": "Label side D"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "88875102891-A² Ⓤ CJH Welcome to 1979",
+        "description": "Runout side A"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "88875102891-B-RE3 Ⓤ CJH Welcome to 1979",
+        "description": "Runout side B"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "88875102891-C Ⓤ CJH Welcome to 1979",
+        "description": "Runout side C"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "88875102891-D Ⓤ CJH Welcome to 1979",
+        "description": "Runout side D"
+      }
+    ],
+    "notes": "Ⓒ 2015 Sony Music Entertainment / Ⓟ 1990, 1991, 1992, 1993, 1995, 1997, 1999, 2000 Columbia Records,\n2005, 2008 The Island Def Jam Music Group and Mariah Carey, 2015 Epic Records.\n\nA1, A2, A4: Taken from [url=http://www.discogs.com/Mariah-Carey-Mariah-Carey/master/78748]Mariah Carey[/url] Ⓟ1990\nA3: Taken from [url=http://www.discogs.com/Mariah-Carey-MTV-Unplugged-EP/master/78765]MTV Unplugged EP[/url] Ⓟ1992. Original version appears on [url=http://www.discogs.com/Mariah-Carey-Mariah-Carey/master/78748]Mariah Carey[/url]\nA5: Taken from [url=http://www.discogs.com/Mariah-Carey-Emotions/master/78076]Emotions[/url] Ⓟ1991\nB1: Taken from [url=http://www.discogs.com/Mariah-Carey-MTV-Unplugged-EP/master/78765]MTV Unplugged EP[/url] Ⓟ1992\nB2, B3: Taken from [url=http://www.discogs.com/Mariah-Carey-Music-Box/master/79031]Music Box[/url] Ⓟ1993\nB4: Taken from [url=http://www.discogs.com/Mariah-Carey-Fantasy/release/145658]CD Maxi Single[/url] Ⓟ1995. Original version appears on [url=http://www.discogs.com/Mariah-Carey-Daydream/master/78027]Daydream[/url]\nB5, C1: Taken from [url=http://www.discogs.com/Mariah-Carey-Daydream/master/78027]Daydream[/url] Ⓟ1995\nC2, C3: Taken from [url=http://www.discogs.com/Mariah-Carey-Butterfly/master/78000]Butterfly[/url] Ⓟ1997\nC4, C5: Taken from [url=http://www.discogs.com/Mariah-Carey-Rainbow/master/78855]Rainbow[/url] Ⓟ1999\nD1, D2: Taken from [url=http://www.discogs.com/Mariah-Carey-The-Emancipation-Of-Mimi/master/78958]The Emancipation Of Mimi[/url] Ⓟ2005\nD3: Taken from [url=http://www.discogs.com/Mariah-Carey-EMC²/master/78066]E=MC[/url] Ⓟ2008\nD4: Exclusive to this collection Ⓟ2015\n\nTrack D4 mastered at 'Powers Mastering, Florida'. \n\n180-gram vinyl in a gatefold release, with a black hype sticker. \nIncludes high-quality MP3 dowloads.\n\nA, B, C & D runouts are etched, 'Welcome to 1979' stamped.",
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/pM-VKiNV2FcbQbybjvUuTioQbmTSKOXCYFHQXVOeDaY/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MDE3/NzItMTcyOTM2NjYw/Ni01NzcxLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/7VrQmEhQgTUGpqGxCU-glaZ0w2txC9mQECr388B8GMQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MDE3/NzItMTcyOTM2NjYw/Ni01NzcxLmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/lrdhKazR_jSRd6AB8-L7sYymZJVbEQiDSNr8F-TTBLM/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MDE3/NzItMTcyOTM2NjYw/Ny01Mjc0LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/2ISW4xs243P9I3tV7qhjFX9ljubKvU8yyaPzARzy0nQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MDE3/NzItMTcyOTM2NjYw/Ny01Mjc0LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/7dd8OmCIhBF-Z0g5SLi161NYzg60FJn338zcWrQwz2o/rs:fit/g:sm/q:90/h:577/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MDE3/NzItMTcyOTM2NjYw/Ni05OTU2LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/5JOTwxJlzc9hIcBefWBU6x6SOwW36Gc2vCKmFKPUOGw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MDE3/NzItMTcyOTM2NjYw/Ni05OTU2LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/LRhFjZvkIsx_MaIm4GcdCFwdQlZq9_DTOZ0EVe2oJFI/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MDE3/NzItMTcyOTM2NjYw/Ni00MjkzLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/f2CuhUVHT6UgnJfGgMA35_DC8ZIM82PjDX-Fdfxr_xk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MDE3/NzItMTcyOTM2NjYw/Ni00MjkzLmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/8n1pCpnbdXi_dfDw8-KFbOgoyF039_wjEA69oyHP00k/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MDE3/NzItMTcyOTM2NzM0/OC02OTU3LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/adVx_YoD8deBFJ41CMxZ03xQfczFAgsgAW7fG_Smkwo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MDE3/NzItMTcyOTM2NzM0/OC02OTU3LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/JZFm9AJRXN6pjWOJpkip7BNtem_2rIyR1nCvq6A_aNo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MDE3/NzItMTcyOTM2NzM0/OC02MTEzLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/FTLmdSVm3x83bFXArR_wKSk-6JV4BvRWmwOZeAlvq1Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MDE3/NzItMTcyOTM2NzM0/OC02MTEzLmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/xJT432TXgH4A4TlGmxiAhz-u6NKuiQzLxMypMB5yoFo/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MDE3/NzItMTUzMjk1NDQ5/Mi0xOTQ5LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/kjxd0dFWsneT4Nd5OGo3KC0x4oMYQh9kCaEXpljpGFk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MDE3/NzItMTUzMjk1NDQ5/Mi0xOTQ5LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/fXgjxx46KGWos9xrCbxhYFND3mTAzLcQGVr74VB9B5Q/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MDE3/NzItMTUzMjk1NDQ5/Mi02NjYxLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/o46cn3RCYQT_FgiI8EloFlrUeTHqa4hLxdzZTFEd0kI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MDE3/NzItMTUzMjk1NDQ5/Mi02NjYxLmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/POrQsJCK5q_rxfQY_PYDhkexjhpJXCt2pz-PBeMDwm0/rs:fit/g:sm/q:90/h:580/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MDE3/NzItMTcyOTM2NzM2/Ni0xMTE4LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/RcV-SqVinSStV5mB52Kos5caG9ubZPLbdXqqWb0IYW8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MDE3/NzItMTcyOTM2NzM2/Ni0xMTE4LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/irIC-mMFhYli-Vvl9oJPXcfyMD4q16TO4kGrynURxg0/rs:fit/g:sm/q:90/h:576/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MDE3/NzItMTcyOTM2NzM2/Ni03NTA2LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/PthE10pDn5ZHFu-VpzgTZRhcda_94L0Ti_RF99QyC6I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MDE3/NzItMTcyOTM2NzM2/Ni03NTA2LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/gw9ECpWzc_LtgZZBnu7wLTwTyAJbyHPRA2ssE4FuRqk/rs:fit/g:sm/q:90/h:580/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MDE3/NzItMTcyOTM2NzM2/Ni05Njc3LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/UcPZGaOQy7Zd_VAp5e4em_q-roB0UA6cPrSj-zsZ6vI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MDE3/NzItMTcyOTM2NzM2/Ni05Njc3LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/SSpcR5SQ6fym5kgnNTzL65rwW850_brr2ssRpNIk8mU/rs:fit/g:sm/q:90/h:571/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MDE3/NzItMTcyOTM2NzM2/Ny04NzQ3LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/Dy6_h2dmYAxMju5IDCriU_4ozE0Or7z8LeNgyevJZJg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MDE3/NzItMTcyOTM2NzM2/Ny04NzQ3LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/RE_c8gxs90krV6gG4EAXu9W6wjWaQthGD7p-d7Cnc-E/rs:fit/g:sm/q:90/h:600/w:408/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MDE3/NzItMTcyOTM2NzU3/Ny05MTU4LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/3MA8ygGowvBiZxc50NbczMXsBFhtVisxWdayAmJNGBg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MDE3/NzItMTcyOTM2NzU3/Ny05MTU4LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/LSrq5KRF1Gw0ZREgIf4L7rGEbt9KnHbbOLDXi5AJ3eU/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MDE3/NzItMTcyOTM2NzU4/MC0yODE4LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/54uJT9xIWs1BIBlkGzu0wZoMM15hkTUcTiVIc_7V0kI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MDE3/NzItMTcyOTM2NzU4/MC0yODE4LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/WOGVdlz3sz-ospxKhdMyAC5wAGgtj0kuX39KEXmjo44/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MDE3/NzItMTQ0Nzc3ODM4/NS04MTkyLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/Hbr3B8aQuJb7dEgJ31MQh-kNekvh-ng0IU0Rrdrx6IM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MDE3/NzItMTQ0Nzc3ODM4/NS04MTkyLmpwZWc.jpeg"
+      }
+    ],
+    "community": {
+      "rating": {
+        "count": 192,
+        "average": 4.59
+      },
+      "have": 3593,
+      "want": 651
+    },
+    "master": {
+      "id": 839537,
+      "title": "#1 To Infinity",
+      "main_release": 25178299,
+      "year": 2015,
+      "uri": "https://www.discogs.com/master/839537-Mariah-Carey-1-To-Infinity",
+      "num_for_sale": 120
+    }
+  },
+  "apple_music": {
+    "id": 989380334,
+    "url": "https://music.apple.com/us/album/1-to-infinity/989380334?uo=4",
+    "name": "#1 to Infinity",
+    "artist": "Mariah Carey",
+    "artist_id": 91853,
+    "artwork_url_100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/84/6c/45/846c4546-3f31-5d3b-1c93-9aac043ffec4/886445157277.jpg/100x100bb.jpg",
+    "artwork_url_600": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/84/6c/45/846c4546-3f31-5d3b-1c93-9aac043ffec4/886445157277.jpg/600x600bb.jpg",
+    "release_date": "2015-05-15T07:00:00Z",
+    "track_count": 19,
+    "copyright": "℗ 1990, 1991, 1992, 1993, 1995, 1997, 1999 Columbia Records, a division of Sony Music Entertainment, 2005, 2008 The Island Def Jam Music Group and Mariah Carey, 2015 Epic Records, a division of Sony Music Entertainment",
+    "primary_genre": "Pop",
+    "country": "USA",
+    "tracks": [
+      {
+        "track_number": 1,
+        "disc_number": 1,
+        "name": "Vision of Love",
+        "duration_ms": 209760,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/74/08/c9/7408c98a-e108-0346-6da1-97cefd9c18e1/mzaf_7855772470083270441.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/vision-of-love/989380334?i=989380340&uo=4"
+      },
+      {
+        "track_number": 2,
+        "disc_number": 1,
+        "name": "Love Takes Time",
+        "duration_ms": 228267,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/47/02/29/4702299a-918b-7427-9f38-11152137eb13/mzaf_726730109432148673.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/love-takes-time/989380334?i=989380341&uo=4"
+      },
+      {
+        "track_number": 3,
+        "disc_number": 1,
+        "name": "Someday (MTV Unplugged)",
+        "duration_ms": 241947,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e2/a2/a0/e2a2a0d9-95f9-63a8-8f76-08e1c6fdee34/mzaf_4081822804423501135.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/someday-mtv-unplugged/989380334?i=989380544&uo=4"
+      },
+      {
+        "track_number": 4,
+        "disc_number": 1,
+        "name": "I Don't Wanna Cry",
+        "duration_ms": 288987,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/41/72/bd/4172bd2f-5469-e98d-d6b1-843996019811/mzaf_2413063816851987081.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/i-dont-wanna-cry/989380334?i=989380545&uo=4"
+      },
+      {
+        "track_number": 5,
+        "disc_number": 1,
+        "name": "Emotions",
+        "duration_ms": 249040,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/08/af/c5/08afc5c4-ebab-6218-78cc-fca7803e3ea2/mzaf_143975747696834430.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/emotions/989380334?i=989380546&uo=4"
+      },
+      {
+        "track_number": 6,
+        "disc_number": 1,
+        "name": "I'll Be There (feat. Trey Lorenz)",
+        "duration_ms": 264240,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/fd/fa/a3/fdfaa35b-339d-a551-0f95-9e29d473acda/mzaf_589256887287333523.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/ill-be-there-feat-trey-lorenz/989380334?i=989380547&uo=4"
+      },
+      {
+        "track_number": 7,
+        "disc_number": 1,
+        "name": "Dreamlover",
+        "duration_ms": 233600,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/51/4a/a3/514aa338-4da0-48e2-3c76-fe594d00eb59/mzaf_7331640261479199751.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/dreamlover/989380334?i=989380548&uo=4"
+      },
+      {
+        "track_number": 8,
+        "disc_number": 1,
+        "name": "Hero",
+        "duration_ms": 258027,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/11/96/b4/1196b430-06af-a2df-8f4f-4f9e24ccd69f/mzaf_4618036723962038530.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/hero/989380334?i=989380549&uo=4"
+      },
+      {
+        "track_number": 9,
+        "disc_number": 1,
+        "name": "Fantasy (feat. Ol' Dirty Bastard) [Bad Boy Fantasy]",
+        "duration_ms": 290413,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c7/34/04/c73404de-86b3-29f1-7c05-6ba054519183/mzaf_902568908178362510.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/fantasy-feat-ol-dirty-bastard-bad-boy-fantasy/989380334?i=989380550&uo=4"
+      },
+      {
+        "track_number": 10,
+        "disc_number": 1,
+        "name": "One Sweet Day",
+        "duration_ms": 281253,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/fd/71/03/fd7103f8-ea37-b411-409d-cb5dab920655/mzaf_16620273788883636485.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/one-sweet-day/989380334?i=989380551&uo=4"
+      },
+      {
+        "track_number": 11,
+        "disc_number": 1,
+        "name": "Always Be My Baby",
+        "duration_ms": 258253,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/76/c4/4c/76c44ce6-43cc-f3d2-7390-bda2d0d9c63d/mzaf_14685849211174966633.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/always-be-my-baby/989380334?i=989380561&uo=4"
+      },
+      {
+        "track_number": 12,
+        "disc_number": 1,
+        "name": "Honey",
+        "duration_ms": 299427,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/9f/63/2f/9f632f1f-bf26-6c31-011a-bcea299daf99/mzaf_17462269822906317673.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/honey/989380334?i=989380562&uo=4"
+      },
+      {
+        "track_number": 13,
+        "disc_number": 1,
+        "name": "My All",
+        "duration_ms": 230840,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ab/11/da/ab11daff-317e-9b5b-bedc-904869cd25b8/mzaf_3877105433340048959.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/my-all/989380334?i=989380563&uo=4"
+      },
+      {
+        "track_number": 14,
+        "disc_number": 1,
+        "name": "Heartbreaker (feat. JAŸ-Z)",
+        "duration_ms": 285787,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/94/06/5a/94065a92-b49b-4cca-4f49-0be71413d584/mzaf_16172661915117790151.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/heartbreaker-feat-ja%C3%BF-z/989380334?i=989380564&uo=4"
+      },
+      {
+        "track_number": 15,
+        "disc_number": 1,
+        "name": "Thank God I Found You (feat. Joe & 98°)",
+        "duration_ms": 257467,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e2/d2/67/e2d2677b-8b21-8be2-b94f-4ddbaf2e1be3/mzaf_770921082650608263.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/thank-god-i-found-you-feat-joe-98/989380334?i=989380805&uo=4"
+      },
+      {
+        "track_number": 16,
+        "disc_number": 1,
+        "name": "We Belong Together",
+        "duration_ms": 201067,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ae/54/45/ae5445c0-13a9-7061-2d5f-918947657bb2/mzaf_13422616972094789368.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/we-belong-together/989380334?i=989380806&uo=4"
+      },
+      {
+        "track_number": 17,
+        "disc_number": 1,
+        "name": "Don't Forget About Us",
+        "duration_ms": 233840,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/16/a2/b0/16a2b013-3a92-098a-a61a-fb43bed04369/mzaf_9947240712308758588.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/dont-forget-about-us/989380334?i=989380807&uo=4"
+      },
+      {
+        "track_number": 18,
+        "disc_number": 1,
+        "name": "Touch My Body",
+        "duration_ms": 205307,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/2f/f3/d8/2ff3d8d6-df19-8098-c984-ff512476c312/mzaf_17890513234349499214.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/touch-my-body/989380334?i=989380808&uo=4"
+      },
+      {
+        "track_number": 19,
+        "disc_number": 1,
+        "name": "Infinity",
+        "duration_ms": 239800,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2b/c3/34/2bc334c1-49c5-349b-c580-d8e709add7ff/mzaf_8431308457100828146.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/infinity/989380334?i=989380809&uo=4"
+      }
+    ]
+  },
+  "discrepancies": [],
+  "local_cover": "images/7401772.jpg"
+}

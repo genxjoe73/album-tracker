@@ -1,0 +1,4 @@
+Released in November 2000, *1* is a compilation album by The Beatles featuring every number-one single achieved by the band in the United Kingdom and the United States from 1962 to 1970. Issued on the 30th anniversary of the band's dissolution, it became the fastest-selling album in history, moving over 31 million copies worldwide. It successfully introduced The Beatles to a new generation and cemented their legacy as the most commercially successful band of all time.
+
+**About this pressing:**
+*Deadwax TBD — check runouts for mastering engineers or pressing plant symbols. Update this section once details are logged.*

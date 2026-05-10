@@ -1,0 +1,1 @@
+Released in 1976, Boston's self-titled debut is a masterclass in arena rock. Masterminded by Tom Scholz in his basement studio, the album's dense layers of overdubbed guitars and soaring vocals set a new standard for rock production.

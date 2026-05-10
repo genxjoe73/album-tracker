@@ -1,0 +1,429 @@
+{
+  "captured_at": "2026-05-04T15:24:11+00:00",
+  "schema_version": 3,
+  "artist": "Lana Del Rey",
+  "title": "NFR!",
+  "original_release_year": 2019,
+  "pressing_year": 2022,
+  "upgrade_suggestion": "Your Pallas pressing on JN-H/Sterling lacquer is already the audiophile pick for this title; no meaningful sonic upgrade exists.",
+  "discogs": {
+    "release_id": 23406356,
+    "master_id": 1597875,
+    "uri": "https://www.discogs.com/release/23406356-Lana-Del-Rey-NFR",
+    "title": "NFR!",
+    "artists": [
+      {
+        "name": "Lana Del Rey",
+        "id": 2445772,
+        "role": null
+      }
+    ],
+    "year": 2022,
+    "released": "2022",
+    "country": "USA & Europe",
+    "labels": [
+      {
+        "name": "Polydor",
+        "catno": "0840940",
+        "id": 1610
+      },
+      {
+        "name": "Interscope Records",
+        "catno": "0840940",
+        "id": 2311
+      },
+      {
+        "name": "Polydor",
+        "catno": "B0030880-01",
+        "id": 1610
+      },
+      {
+        "name": "Interscope Records",
+        "catno": "B0030880-01",
+        "id": 2311
+      },
+      {
+        "name": "Polydor",
+        "catno": "00602508409400",
+        "id": 1610
+      },
+      {
+        "name": "Interscope Records",
+        "catno": "00602508409400",
+        "id": 2311
+      }
+    ],
+    "formats": [
+      {
+        "name": "Vinyl",
+        "qty": "2",
+        "descriptions": [
+          "LP",
+          "Album",
+          "Reissue"
+        ],
+        "text": "Pallas Pressing"
+      }
+    ],
+    "genres": [
+      "Rock",
+      "Pop"
+    ],
+    "styles": [
+      "Psychedelic Rock",
+      "Dream Pop",
+      "Folk Rock",
+      "Soft Rock",
+      "Trip Hop",
+      "Ballad",
+      "Alt-Pop"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Norman Fucking Rockwell",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "A2",
+        "title": "Mariners Apartment Complex",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "A3",
+        "title": "Venice Bitch",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B4",
+        "title": "Fuck It I Love You",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B5",
+        "title": "Doin' Time",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B6",
+        "title": "Love Song",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B7",
+        "title": "Cinnamon Girl",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B8",
+        "title": "How To Disappear",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "C9",
+        "title": "California",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "C10",
+        "title": "The Next Best American Record",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "C11",
+        "title": "The Greatest",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "D12",
+        "title": "Bartender",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "D13",
+        "title": "Happiness Is A Butterfly",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "D14",
+        "title": "Hope Is A Dangerous Thing For A Woman Like Me To Have - But I Have It",
+        "duration": "",
+        "type": "track"
+      }
+    ],
+    "extraartists": [
+      {
+        "name": "Joe Nino-Hernes",
+        "role": "Lacquer Cut By",
+        "id": 6012918
+      }
+    ],
+    "identifiers": [
+      {
+        "type": "Barcode",
+        "value": "6 02508 40940 0",
+        "description": "Text"
+      },
+      {
+        "type": "Barcode",
+        "value": "602508409400",
+        "description": "Scanned"
+      },
+      {
+        "type": "Rights Society",
+        "value": "BIEM/SDRM",
+        "description": null
+      },
+      {
+        "type": "Label Code",
+        "value": "LC00309",
+        "description": null
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "0840940-A (20)-1 -59595- JN-H STERLING",
+        "description": "Side A runout"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "0840940-B (20)-1 -59595-I JN-H STERLING",
+        "description": "Side B runout"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "0840940-C (20)-1 -59596-I JN-H STERLING",
+        "description": "Side C runout"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "0840940-D (20)-1 -59596-I JN-H STERLING",
+        "description": "Side D runout"
+      }
+    ],
+    "notes": "Made in the EU.\n\nIn the runouts, the Pallas job number and STERLING are stamped, the rest is hand-etched.\n\n",
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/-q_wZ7hqkAjxvlANfBSC762qNOzEZpgNZ5mYCHwC5bA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDA2/MzU2LTE2ODk0MDY5/ODUtMTYxNS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/eTgRCL6LG4V-3vHgX_FD0QXEbNFoHSD3Ebz_LJVn3Yo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDA2/MzU2LTE2ODk0MDY5/ODUtMTYxNS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/DqzbG3I0doe6yKYegokGTazHoQsAcDaXvTqkuG0UdBA/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDA2/MzU2LTE2ODk0MDY5/ODYtMTQ5MS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/0uEI1UKy_RFYEAU8DC0CR_I43BLdkZ7ahSiVtN2Aj5U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDA2/MzU2LTE2ODk0MDY5/ODYtMTQ5MS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/WrqkQ2HH2uK0_jCkmcRjD9qHbdb1xb13vmFb3Fauo5c/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDA2/MzU2LTE2ODk0MDY5/ODYtNjIyMi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/Qdp2QQFN8HQBJYbS6xHwDz7yGKII19_gYnK5Bdt9JHg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDA2/MzU2LTE2ODk0MDY5/ODYtNjIyMi5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/WM_7-tgsHW5eJNfb-kH9g1OJThAye82fHmL45z9YaPk/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDA2/MzU2LTE2ODk0MDY5/ODUtNjc2MS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/MytPanx_ZTVXMSKG6sPl0CFGTnQ53hsoHoYBK9__m1Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDA2/MzU2LTE2ODk0MDY5/ODUtNjc2MS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/uNvSeZOC21DZif9cUT10M6d4O2moayR8U81_a1-AFqc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDA2/MzU2LTE2ODk0MDY5/ODMtMTY3NC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/QL9tI-v1gLZtuYT7dj2TfZPNFGCEjlA37TfXN_RbLgY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDA2/MzU2LTE2ODk0MDY5/ODMtMTY3NC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/yYtnkVkAeory9KCkaEAW8LOueoVYi2Y0dBGmqHZ4rw4/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDA2/MzU2LTE2ODk0MDY5/ODQtMzgxOS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/uwQmxKA1qw4hjWt-9pAQtpHqiriEcPGdmNY1e7scUQY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDA2/MzU2LTE2ODk0MDY5/ODQtMzgxOS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/TzekoBMCDXGhrzNE9dC1Tqy_-A-LWGmgjSgDWDBftUA/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDA2/MzU2LTE2ODk0MDY5/ODMtMjE0NC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/V-GOwHwwmKi5D6NjJfgmClWMyrsXOXHPCsvmr8uKtQg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDA2/MzU2LTE2ODk0MDY5/ODMtMjE0NC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/4HsbjapjLPrtftkJ0OVWF3oosqH27PmF-YPpLbs3rng/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDA2/MzU2LTE2ODk0MDY5/ODMtODkyNC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/9td6Div1O_f0cmQZ9TKgJ7M7XEMJH-ll526KiYDVh8U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDA2/MzU2LTE2ODk0MDY5/ODMtODkyNC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/Ix0QlwTyAYqNm7vyw6sJpXD3Gip6C3cRsq17RoitUpM/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDA2/MzU2LTE2ODk0MDY5/ODUtOTc2NS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/CBoBU6gqQ0GPrjA_8bj1_a4iKII7Cdo8bBIDiJ0ma7U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDA2/MzU2LTE2ODk0MDY5/ODUtOTc2NS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/elFAT0Lt49if2Fg0J06v9f3t3ebqUx98IDeuh1cC0Q4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDA2/MzU2LTE2ODk0MDY5/ODYtMzYxOS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/_kLiB63pdx1XPaP38omPnbdJ9rECQPQCR9OGRIDbxu8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDA2/MzU2LTE2ODk0MDY5/ODYtMzYxOS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/QpgY05hcRDMSHfndG9k9UfGZwyRgmFehVaT5EGCYXJ8/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDA2/MzU2LTE2ODk0MDY5/ODUtNTg4My5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/v0Uqt2HlNt68qsImkpS0Q3Vr5Z99VJNhNEJp_gTc8tM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDA2/MzU2LTE2ODk0MDY5/ODUtNTg4My5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/mPH6L_eHy64qxn_HeSMDF5j4DYMh7a0Fs1qLOgcV4lo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDA2/MzU2LTE2ODk0MDY5/ODUtNzE2NC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/T2aHZ7fhPegz7rRXolRVLylTP0ryaQpZVksG0_sGocs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDA2/MzU2LTE2ODk0MDY5/ODUtNzE2NC5qcGVn.jpeg"
+      }
+    ],
+    "community": {
+      "rating": {
+        "count": 367,
+        "average": 4.72
+      },
+      "have": 6060,
+      "want": 790
+    },
+    "master": {
+      "id": 1597875,
+      "title": "Norman F*****g Rockwell!",
+      "main_release": 14105574,
+      "year": 2019,
+      "uri": "https://www.discogs.com/master/1597875-LDR-Norman-Fg-Rockwell",
+      "num_for_sale": 485
+    }
+  },
+  "apple_music": {
+    "id": 1474669063,
+    "url": "https://music.apple.com/us/album/norman-f-g-rockwell/1474669063?uo=4",
+    "name": "Norman F*****g Rockwell!",
+    "artist": "Lana Del Rey",
+    "artist_id": 464296584,
+    "artwork_url_100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c6/5f/b9/c65fb9eb-da2f-89a9-b640-2fff1fc3a660/19UMGIM61350.rgb.jpg/100x100bb.jpg",
+    "artwork_url_600": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c6/5f/b9/c65fb9eb-da2f-89a9-b640-2fff1fc3a660/19UMGIM61350.rgb.jpg/600x600bb.jpg",
+    "release_date": "2019-08-30T07:00:00Z",
+    "track_count": 14,
+    "copyright": "A Polydor Records Release / An Interscope Records Release In The USA; ℗ 2019 Lana Del Rey, under exclusive licence to Universal Music Operations Limited",
+    "primary_genre": "Alternative",
+    "country": "USA",
+    "tracks": [
+      {
+        "track_number": 1,
+        "disc_number": 1,
+        "name": "Norman f*****g Rockwell",
+        "duration_ms": 248934,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/14/ed/e9/14ede9c8-6fc8-b041-d43d-a085414edd4c/mzaf_15223217358784223208.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/norman-f-g-rockwell/1474669063?i=1474669065&uo=4"
+      },
+      {
+        "track_number": 2,
+        "disc_number": 1,
+        "name": "Mariners Apartment Complex",
+        "duration_ms": 247150,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/a8/15/d6/a815d6eb-348c-8894-c4e9-ea0aeb33b0f0/mzaf_13406123863631482412.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/mariners-apartment-complex/1474669063?i=1474669066&uo=4"
+      },
+      {
+        "track_number": 3,
+        "disc_number": 1,
+        "name": "Venice Bitch",
+        "duration_ms": 577199,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/eb/0e/64/eb0e646b-1dfd-ff91-be9d-c1fb4f5615f5/mzaf_13922910362622597861.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/venice-bitch/1474669063?i=1474669067&uo=4"
+      },
+      {
+        "track_number": 4,
+        "disc_number": 1,
+        "name": "F**k it I love you",
+        "duration_ms": 218288,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/d2/d4/47/d2d4475c-17dc-eeb0-f303-64a2f778a683/mzaf_418966242166775150.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/f-k-it-i-love-you/1474669063?i=1474669068&uo=4"
+      },
+      {
+        "track_number": 5,
+        "disc_number": 1,
+        "name": "Doin' Time",
+        "duration_ms": 202193,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/d8/7b/af/d87bafba-d27d-a46c-5848-be2f28fbfb7a/mzaf_8986418767608165015.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/doin-time/1474669063?i=1474669071&uo=4"
+      },
+      {
+        "track_number": 6,
+        "disc_number": 1,
+        "name": "Love song",
+        "duration_ms": 229326,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/17/86/85/17868559-6328-b72b-87a8-e1c55397b07e/mzaf_15829054658182185033.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/love-song/1474669063?i=1474669073&uo=4"
+      },
+      {
+        "track_number": 7,
+        "disc_number": 1,
+        "name": "Cinnamon Girl",
+        "duration_ms": 300683,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/86/ab/c9/86abc949-717d-b99e-ccc1-2d06a10e01d6/mzaf_13331833199397738074.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/cinnamon-girl/1474669063?i=1474669074&uo=4"
+      },
+      {
+        "track_number": 8,
+        "disc_number": 1,
+        "name": "How to disappear",
+        "duration_ms": 228071,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/26/d7/6e/26d76e66-9531-f3cd-212b-5175bbfb7691/mzaf_12477456165941596435.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/how-to-disappear/1474669063?i=1474669286&uo=4"
+      },
+      {
+        "track_number": 9,
+        "disc_number": 1,
+        "name": "California",
+        "duration_ms": 305900,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/f3/99/a1/f399a1c1-d4a2-0a56-ebab-d3ca27fa8dbd/mzaf_16721418719569377836.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/california/1474669063?i=1474669287&uo=4"
+      },
+      {
+        "track_number": 10,
+        "disc_number": 1,
+        "name": "The Next Best American Record",
+        "duration_ms": 349347,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/ef/f6/38/eff6387c-bd70-4397-7b17-9a49f790bcb0/mzaf_559708575828913344.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/the-next-best-american-record/1474669063?i=1474669290&uo=4"
+      },
+      {
+        "track_number": 11,
+        "disc_number": 1,
+        "name": "The greatest",
+        "duration_ms": 300361,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/86/5a/e3/865ae3a8-99d0-ea13-18a6-169cf56641be/mzaf_17155384389737092008.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/the-greatest/1474669063?i=1474669292&uo=4"
+      },
+      {
+        "track_number": 12,
+        "disc_number": 1,
+        "name": "Bartender",
+        "duration_ms": 263441,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/c1/fd/78/c1fd789a-8614-5d4c-2743-2b9c7273269b/mzaf_5808221812079280897.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/bartender/1474669063?i=1474669293&uo=4"
+      },
+      {
+        "track_number": 13,
+        "disc_number": 1,
+        "name": "Happiness is a butterfly",
+        "duration_ms": 272485,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/82/26/d9/8226d98e-9247-99ea-7621-b9b6e04e246c/mzaf_18416233737690445513.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/happiness-is-a-butterfly/1474669063?i=1474669295&uo=4"
+      },
+      {
+        "track_number": 14,
+        "disc_number": 1,
+        "name": "hope is a dangerous thing for a woman like me to have - but I have it",
+        "duration_ms": 324540,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/2e/ed/9a/2eed9a3c-486c-1a2a-1635-33b664de3668/mzaf_1771714548992360387.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/hope-is-a-dangerous-thing-for-a-woman-like-me-to/1474669063?i=1474669296&uo=4"
+      }
+    ]
+  },
+  "discrepancies": [
+    "Release year differs: your pressing=2022, Apple Music edition=2019. Apple Music typically streams the most recent remaster."
+  ],
+  "local_cover": "images/23406356.jpg",
+  "commentary": "Released in August 2019, *Norman Fucking Rockwell!* is widely considered Lana Del Rey's magnum opus and one of the defining albums of the 2010s. Produced largely with Jack Antonoff, the album strips away the heavy orchestration of her earlier work in favor of lush, Laurel Canyon-inspired psych-rock, classic piano ballads, and folk overtones. It captures a distinctly Californian atmosphere, blending tragic romance with a cynical but affectionate view of the collapsing American dream.\n\nThe album's title is a wry reference to the iconic American painter Norman Rockwell, setting the tone for songs that explore the messy reality behind idealized American life. Tracks like \"Venice Bitch,\" a nearly 10-minute psychedelic jam, and the deeply poignant \"The Greatest,\" showcase Del Rey's sharpened songwriting and Antonoff's understated production. It earned widespread critical acclaim, cementing Del Rey's legacy as one of her generation's greatest lyricists.\n\n**About this pressing:**\n*Deadwax TBD — check runouts for mastering engineers or pressing plant symbols. Update this section once details are logged.*\n\n### Gemini Notes\n\nReleased in 2019, *Norman Fucking Rockwell!* is widely considered Lana Del Rey's magnum opus. Produced largely with Jack Antonoff, the album explores the messy reality behind the idealized American dream with lush, psych-rock instrumentation.\n\n**About this pressing:**"
+}

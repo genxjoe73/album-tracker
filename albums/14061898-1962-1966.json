@@ -1,0 +1,608 @@
+{
+  "captured_at": "2026-05-10T17:03:52+00:00",
+  "schema_version": 3,
+  "artist": "The Beatles",
+  "title": "1962-1966",
+  "original_release_year": 1973,
+  "pressing_year": 1977,
+  "upgrade_suggestion": "The 2023 half-speed remaster by Miles Showell at Abbey Road (r25989072, 3×LP) is the reference upgrade for the Red Album, sourced from the 2023 Giles Martin remix sessions. It supersedes all prior vinyl configurations for fidelity.",
+  "commentary": "By April 1973, the Beatles had been dissolved as a legal and commercial entity for nearly three years, their partnership formally wound up in the courts while their catalog continued to sell in staggering quantities. EMI and Capitol Records recognized what was obvious to any accountant: there was enormous appetite for a definitive retrospective. The result was *1962–1966*, the so-called **Red Album**, released on April 2, 1973, on Apple Records — the Beatles' own label — covering the band's early period from their first single through *Revolver* and capturing the transition from raw Merseybeat to the increasingly ambitious studio craft that would define their later work. The Red Album was compiled and sequenced to tell a coherent story: four boys from Liverpool who learned their trade in Hamburg and the Cavern Club, broke globally in 1964, and spent the following two years dismantling the very commercial formula that had made them famous. It was the first official double-album retrospective the band had authorized, and its appearance alongside the simultaneously released **Blue Album** (*1967–1970*) established the template for how the catalog would be managed and presented for decades.\n\nThe original 1973 pressing carried the Apple Records label, but Capitol — which had held US distribution rights since the beginning — continued pressing the compilation into the mid-1970s under its own label identity. This pressing is one of those Capitol-label represses. The catalog number **SKBO-3403** is consistent across both issues; the label change reflects Capitol's ongoing distribution relationship rather than any change to the underlying source material. Capitol's involvement in the US market had always complicated the Beatles' discography, most infamously through the label's practice of resequencing UK albums and adding tracks, creating an alternate American canon that ran parallel to the EMI originals until the catalog was globally standardized in 1987.\n\nFor the physical manufacture of this pressing, Capitol contracted **Presswell**, a New Jersey-based pressing plant operating out of facilities in Totowa and Ancora. Presswell was one of the busiest contract pressing operations of the 1970s and handled work for multiple major labels. Its pressings are identifiable in deadwax by the **(PR)** designation, which appears consistently across all four sides of this copy. Presswell product is generally regarded as competent commercial work — not in the same conversation as the early UK Parlophone pressings cut at EMI's Abbey Road, but reliable and well-suited to the high-volume, wide-distribution mandate Capitol had for this title.\n\nMastering for this pressing was done at Capitol's own facility, as indicated by the **MASTERED BY CAPITOL** inscription in all four deadwax grooves. The hand-etched name **Gene** on Side 1 identifies the Capitol mastering engineer responsible for that lacquer cut — a common practice at Capitol, where engineers sometimes initialed or signed their work by hand in the lacquer. The **G-series lacquer matrix numbers** (G-33, G-37, G-35, G-36 across the four sides) place this in mid-to-late run Capitol cutting activity, consistent with a mid-1970s repress timeline rather than the initial 1973 Apple pressing campaign.\n\n**About this US pressing (2×LP, Presswell):** Capitol Records catalog **SKBO-3403**, manufactured by **Presswell** (Totowa/Ancora, NJ), identified by the **(PR)** deadwax code on all four sides. Deadwax: `SKBO-1-3403 G-33 (PR) MASTERED BY CAPITOL Gene` / `SKBO-2-3403 G-37 (PR) MASTERED BY CAPITOL` / `SKBO-3-3403 G-35 (PR) MASTERED BY CAPITOL` / `SKBO-4-3403 G-36 (PR) MASTERED BY CAPITOL`. The \"Gene\" hand-etch on Side 1 identifies the Capitol mastering engineer for that lacquer. Mid-1970s Capitol-label repress of an album that originally appeared on Apple Records in April 1973.\n\n### Gemini Notes\n\nReleased in 1973 alongside the Blue Album, the \"Red Album\" covers The Beatles' unstoppable rise during the height of Beatlemania. It serves as a masterclass in perfect, two-and-a-half-minute pop songwriting.\n\n**About this pressing:**",
+  "discogs": {
+    "release_id": 14061898,
+    "master_id": 23881,
+    "uri": "https://www.discogs.com/release/14061898-The-Beatles-1962-1966",
+    "title": "1962-1966",
+    "artists": [
+      {
+        "name": "The Beatles",
+        "id": 82730,
+        "role": null
+      }
+    ],
+    "year": 0,
+    "released": null,
+    "country": "US",
+    "labels": [
+      {
+        "name": "Capitol Records",
+        "catno": "SKBO-3403",
+        "id": 654
+      },
+      {
+        "name": "Capitol Records",
+        "catno": "SKBO 3403",
+        "id": 654
+      }
+    ],
+    "formats": [
+      {
+        "name": "Vinyl",
+        "qty": "2",
+        "descriptions": [
+          "LP",
+          "Compilation",
+          "Reissue"
+        ],
+        "text": "Presswell Pressing"
+      }
+    ],
+    "genres": [
+      "Rock",
+      "Pop"
+    ],
+    "styles": [
+      "Beat",
+      "Rock & Roll",
+      "Pop Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Love Me Do",
+        "duration": "2:18",
+        "type": "track"
+      },
+      {
+        "position": "A2",
+        "title": "Please Please Me",
+        "duration": "1:58",
+        "type": "track"
+      },
+      {
+        "position": "A3",
+        "title": "From Me To You",
+        "duration": "2:19",
+        "type": "track"
+      },
+      {
+        "position": "A4",
+        "title": "She Loves You",
+        "duration": "2:19",
+        "type": "track"
+      },
+      {
+        "position": "A5",
+        "title": "I Want To Hold Your Hand",
+        "duration": "2:23",
+        "type": "track"
+      },
+      {
+        "position": "A6",
+        "title": "All My Loving",
+        "duration": "2:04",
+        "type": "track"
+      },
+      {
+        "position": "A7",
+        "title": "Can't Buy Me Love",
+        "duration": "2:19",
+        "type": "track"
+      },
+      {
+        "position": "B1",
+        "title": "A Hard Day's Night",
+        "duration": "2:28",
+        "type": "track"
+      },
+      {
+        "position": "B2",
+        "title": "And I Love Her",
+        "duration": "2:28",
+        "type": "track"
+      },
+      {
+        "position": "B3",
+        "title": "Eight Days A Week",
+        "duration": "2:43",
+        "type": "track"
+      },
+      {
+        "position": "B4",
+        "title": "I Feel Fine",
+        "duration": "2:00",
+        "type": "track"
+      },
+      {
+        "position": "B5",
+        "title": "Ticket To Ride",
+        "duration": "3:08",
+        "type": "track"
+      },
+      {
+        "position": "B6",
+        "title": "Yesterday",
+        "duration": "2:03",
+        "type": "track"
+      },
+      {
+        "position": "C1",
+        "title": "Help!",
+        "duration": "2:16",
+        "type": "track"
+      },
+      {
+        "position": "C2",
+        "title": "You've Got To Hide Your Love Away",
+        "duration": "2:08",
+        "type": "track"
+      },
+      {
+        "position": "C3",
+        "title": "We Can Work It Out",
+        "duration": "2:10",
+        "type": "track"
+      },
+      {
+        "position": "C4",
+        "title": "Day Tripper",
+        "duration": "2:47",
+        "type": "track"
+      },
+      {
+        "position": "C5",
+        "title": "Drive My Car",
+        "duration": "2:25",
+        "type": "track"
+      },
+      {
+        "position": "C6",
+        "title": "Norwegian Wood (This Bird Has Flown)",
+        "duration": "2:02",
+        "type": "track"
+      },
+      {
+        "position": "D1",
+        "title": "Nowhere Man",
+        "duration": "2:41",
+        "type": "track"
+      },
+      {
+        "position": "D2",
+        "title": "Michelle",
+        "duration": "2:40",
+        "type": "track"
+      },
+      {
+        "position": "D3",
+        "title": "In My Life",
+        "duration": "2:23",
+        "type": "track"
+      },
+      {
+        "position": "D4",
+        "title": "Girl",
+        "duration": "2:28",
+        "type": "track"
+      },
+      {
+        "position": "D5",
+        "title": "Paperback Writer",
+        "duration": "2:14",
+        "type": "track"
+      },
+      {
+        "position": "D6",
+        "title": "Eleanor Rigby",
+        "duration": "2:04",
+        "type": "track"
+      },
+      {
+        "position": "D7",
+        "title": "Yellow Submarine",
+        "duration": "2:37",
+        "type": "track"
+      }
+    ],
+    "extraartists": [
+      {
+        "name": "Gene Thompson",
+        "role": "Lacquer Cut By",
+        "id": 445088
+      },
+      {
+        "name": "George Martin",
+        "role": "Producer",
+        "id": 259769
+      },
+      {
+        "name": "Lennon-McCartney",
+        "role": "Written-By",
+        "id": 779927
+      }
+    ],
+    "identifiers": [
+      {
+        "type": "Price Code",
+        "value": "(1098)",
+        "description": "Spine"
+      },
+      {
+        "type": "Other",
+        "value": "PR",
+        "description": "Runouts"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "SKBO-3403-1",
+        "description": "Label Side A"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "SKBO-3403-2",
+        "description": "Label Side B"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "SKBO-3403-3",
+        "description": "Label Side C"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "SKBO-3403-4",
+        "description": "Label Side D"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "SKBO-1-3403 G-33 (PR) ⓧ MASTERED BY CAPITOL Gene",
+        "description": "Runout Side A"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "SKBO-2-3403 G-39 (PR) ⓧ MASTERED BY CAPITOL Gene ",
+        "description": "Runout Side B"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "SKBO-3-3403 G-35 (PR) P ⓧ MASTERED BY CAPITOL Gene ",
+        "description": "Runout Side C"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "SKBO-4-3403 G-36 (PR) P ⓧ MASTERED BY CAPITOL Gene",
+        "description": "Runout Side D"
+      }
+    ],
+    "notes": "This was pressed at Presswell, identified by (PR) P in runout.  Most likely a 1977-1978 pressing.\nSKBO 3403 printed on spine and os's.  SKBO-3403 printed on labels.\nGatefold sleeve.  Originally included custom printed lyric inner sleeves.\nRed Labels with pink Capitol are designated:\nRecord 1, Side 1\nRecord 1, Side 2\nRecord 2, Side 1\nRecord 2, Side 2\n\nRunouts are etched except for \"MASTERED BY CAPITOL\" which is stamped.\n\n℗ 1973 EMI Records Limited\n© 1973 Apple Records, Inc.\nPrinted in U.S.A.\nAll selections previously released.\nDouble album originally released in 1973.",
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/oEqgMZ5GJtcDErlkFeNCe-But2qo1bjbFLCcPLcNHkU/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDYx/ODk4LTE3NTQ1MTU0/NjQtMzY4NS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/vV0H4f09r07BjYA_QLC4fMZ4DsPQSr6pyWgqEzhNd08/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDYx/ODk4LTE3NTQ1MTU0/NjQtMzY4NS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/dPELwtE4HZUpGm521tY-0P3nzmmjr-RVm8x-PmPi3rg/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDYx/ODk4LTE3NTQ1MTU0/NjYtNDcwNS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/45bPyk5hQRFXAQKL0ol8UIjnl-gTutKv3l__bYPGjU4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDYx/ODk4LTE3NTQ1MTU0/NjYtNDcwNS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/fDSSqzGWafJVKNR_LLmOub0w3sWoTv4f1wuIlvvnRpg/rs:fit/g:sm/q:90/h:296/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDYx/ODk4LTE3NTQ1MTU0/NjUtNzQxOC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/lVLmdrKSAe58tlTev-TRGPmg8OFMKuZjOI4uQ9zKHgU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDYx/ODk4LTE3NTQ1MTU0/NjUtNzQxOC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/1qrPjOuP4aZZYwDciTuNZ7BuEKn30I_7TgKRIiRCuNE/rs:fit/g:sm/q:90/h:576/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDYx/ODk4LTE3NTQ1MTU0/NjAtNTUzNi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/ZDTbQoM07I2yP8NlMWP9MjT3vr8gqbRg0fP4NempMIE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDYx/ODk4LTE3NTQ1MTU0/NjAtNTUzNi5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/lP-3dKkBBkTgkm7vwlgFBGE6Dthl4WVJxegPNqAewoY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDYx/ODk4LTE3NTQ1MTU0/NjQtNTMwNi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/wnyGcRirba_13S5Gk_w3Xn6nbYStEyIVJBEtstqfVek/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDYx/ODk4LTE3NTQ1MTU0/NjQtNTMwNi5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/51PPTxfCaN5xO03jB-tnssi059RZ6FvB8Pdmexy6d0U/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDYx/ODk4LTE3NTQ1MTU0/NjUtODE1OS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/f-ZgRxA53vqToB6xETmctt6CAyTr2732INs2kOTrXRg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDYx/ODk4LTE3NTQ1MTU0/NjUtODE1OS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/Mn-cwjus_pLHYVgHv8M_kvP73_rww7F2emg3tTyDNsI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDYx/ODk4LTE3NTQ1MTU0/NjMtNzA2MC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/MlmcnSC7R_4eSyRR2hwHKt_agDi4UAuap3epxLziT3U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDYx/ODk4LTE3NTQ1MTU0/NjMtNzA2MC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/qRfCDgqq5uOCtbtaBmipteHlfbQRcspct1P_cyIA0Ps/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDYx/ODk4LTE3NTQ1MTU0/NjMtNzcxOC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/FtbZVcNjQDchFzrCYSgLSXTGMdjski0KKS5VAA5dkMM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDYx/ODk4LTE3NTQ1MTU0/NjMtNzcxOC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/T4moNLqoKw3_wfBBztncibVH86MDoYZDEpP8OxfiQpI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDYx/ODk4LTE3NTQ1MTU0/NTgtNjc5OS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/qOoMdTypq8n8Gl7YgTBV7aSrdzoPGqzlfnmYYec4C8E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDYx/ODk4LTE3NTQ1MTU0/NTgtNjc5OS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/IW7lod8H0TRyaK51VUMxf8zAW6-6s9cEldezm5Cxat0/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDYx/ODk4LTE3NTQ1MTU0/NjYtNTk5MC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/baadDhLstSpvEpaPh1hZVC8yQyNKkU-ESdytCa0p9X4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDYx/ODk4LTE3NTQ1MTU0/NjYtNTk5MC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/dItF-StLB0Vq8kCiIiY2Hv4NKk3MoAIoyfNIry0HU8s/rs:fit/g:sm/q:90/h:563/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDYx/ODk4LTE3NTQ1MTU0/NjItNDEyNS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/h-gQEtCW1jGFZNtnBpneQARrbr5noCwDBUQdhvP7nv8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDYx/ODk4LTE3NTQ1MTU0/NjItNDEyNS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/lt3-6O_WxZLWl6xMDuBZj7KlGqmx4JgQNClogVU9eHI/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDYx/ODk4LTE3NTQ1MTU0/NjUtODE2MC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/qZta1c_6O3Xj39E0lU9REnmhv6wfe6acwcxsZE_QJLk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDYx/ODk4LTE3NTQ1MTU0/NjUtODE2MC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/e4n7LaVPQiHixGWPTdRMAoG1FZvyTfhF5JcHkzZO_qk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDYx/ODk4LTE3NTQ1MTU0/NjgtNDU3Mi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/nZOA07I5uddhO21WyhU8BL-0s5AtAleFkAw6moUOiJc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDYx/ODk4LTE3NTQ1MTU0/NjgtNDU3Mi5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/P98pgGppemlqhIy859hFcI0W-TsyuGLqSA7400xvcww/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDYx/ODk4LTE3NTQ1MTU0/NjYtODk5Ni5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/_YTD9xn4ocCA3qxRZvLp6MSsb16l1HZghsP9bitFbyY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDYx/ODk4LTE3NTQ1MTU0/NjYtODk5Ni5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/fUL7m5PSTH239bAPp9sYalc1LxrkEGIcrOYjU_L_iDk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDYx/ODk4LTE3NTQ1MTU0/NTUtOTczMy5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/urdX0UOx5txQIuLIj18o4ZpSG0pBO2ZH04arn2625ao/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDYx/ODk4LTE3NTQ1MTU0/NTUtOTczMy5qcGVn.jpeg"
+      }
+    ],
+    "community": {
+      "rating": {
+        "count": 22,
+        "average": 4.55
+      },
+      "have": 321,
+      "want": 144
+    },
+    "master": {
+      "id": 23881,
+      "title": "1962-1966",
+      "main_release": 936664,
+      "year": 1973,
+      "uri": "https://www.discogs.com/master/23881-The-Beatles-1962-1966",
+      "num_for_sale": 6367
+    }
+  },
+  "apple_music": {
+    "id": 1441132965,
+    "url": "https://music.apple.com/us/album/the-beatles-1962-1966-the-red-album/1441132965?uo=4",
+    "name": "The Beatles 1962-1966 (The Red Album)",
+    "artist": "The Beatles",
+    "artist_id": 136975,
+    "artwork_url_100": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/2a/4a/e6/2a4ae63d-ada7-fa57-6f16-02eebcf72f95/18UMGIM29770.rgb.jpg/100x100bb.jpg",
+    "artwork_url_600": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/2a/4a/e6/2a4ae63d-ada7-fa57-6f16-02eebcf72f95/18UMGIM29770.rgb.jpg/600x600bb.jpg",
+    "release_date": "1973-04-02T08:00:00Z",
+    "track_count": 27,
+    "copyright": "This Compilation ℗ 2010 Calderstone Productions Limited (a division of Universal Music Group)",
+    "primary_genre": "Rock",
+    "country": "USA",
+    "tracks": [
+      {
+        "track_number": 1,
+        "disc_number": 1,
+        "name": "Love Me Do (Mono Version)",
+        "duration_ms": 141120,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ed/e7/f9/ede7f965-022d-f893-1359-4faa3187ae0e/mzaf_15497902604899491237.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/love-me-do-mono-version/1441132965?i=1441132983&uo=4"
+      },
+      {
+        "track_number": 2,
+        "disc_number": 1,
+        "name": "Please Please Me (Mono Version)",
+        "duration_ms": 121333,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/9c/8f/41/9c8f4115-0b2c-6a97-456f-3bb0b6b43c3f/mzaf_9862665384865153639.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/please-please-me-mono-version/1441132965?i=1441132990&uo=4"
+      },
+      {
+        "track_number": 3,
+        "disc_number": 1,
+        "name": "From Me to You (Mono Version)",
+        "duration_ms": 117907,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d9/20/ce/d920ce45-0685-559f-aa59-80eae817a6d1/mzaf_2841265186246192047.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/from-me-to-you-mono-version/1441132965?i=1441133324&uo=4"
+      },
+      {
+        "track_number": 4,
+        "disc_number": 1,
+        "name": "She Loves You (Mono Version)",
+        "duration_ms": 142653,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/03/61/5a/03615ae4-e794-557e-9a2b-55d66032aa01/mzaf_17417100389240314977.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/she-loves-you-mono-version/1441132965?i=1441133342&uo=4"
+      },
+      {
+        "track_number": 5,
+        "disc_number": 1,
+        "name": "I Want to Hold Your Hand",
+        "duration_ms": 146720,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/99/d4/84/99d48419-cbd2-4d45-ad5c-60a581ff126e/mzaf_10364932228692401724.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/i-want-to-hold-your-hand/1441132965?i=1441133348&uo=4"
+      },
+      {
+        "track_number": 6,
+        "disc_number": 1,
+        "name": "All My Loving",
+        "duration_ms": 129227,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/fb/97/51/fb975149-e17d-e5a4-40df-322da7bed1bc/mzaf_11720271898412889158.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/all-my-loving/1441132965?i=1441133350&uo=4"
+      },
+      {
+        "track_number": 7,
+        "disc_number": 1,
+        "name": "Can't Buy Me Love",
+        "duration_ms": 133107,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/2b/7a/a1/2b7aa147-3299-dba1-badd-9ebf23256ee5/mzaf_12429747396379499470.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/cant-buy-me-love/1441132965?i=1441133471&uo=4"
+      },
+      {
+        "track_number": 8,
+        "disc_number": 1,
+        "name": "A Hard Day's Night",
+        "duration_ms": 154627,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/80/d1/79/80d1794e-5436-d7be-6d87-4b1192ea82ce/mzaf_9751547977953400308.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/a-hard-days-night/1441132965?i=1441133482&uo=4"
+      },
+      {
+        "track_number": 9,
+        "disc_number": 1,
+        "name": "And I Love Her",
+        "duration_ms": 151413,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a3/a2/2e/a3a22e01-7cce-ae80-be63-8e20c4977eeb/mzaf_1542177003021542830.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/and-i-love-her/1441132965?i=1441133484&uo=4"
+      },
+      {
+        "track_number": 10,
+        "disc_number": 1,
+        "name": "Eight Days a Week",
+        "duration_ms": 164533,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/85/37/91/85379184-afff-a813-12b3-4dfc0c7aec41/mzaf_9680030035504996538.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/eight-days-a-week/1441132965?i=1441133487&uo=4"
+      },
+      {
+        "track_number": 11,
+        "disc_number": 1,
+        "name": "I Feel Fine",
+        "duration_ms": 140400,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ac/27/cd/ac27cd5d-0a02-4696-00ee-475419b378d5/mzaf_14469001079054739789.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/i-feel-fine/1441132965?i=1441133491&uo=4"
+      },
+      {
+        "track_number": 12,
+        "disc_number": 1,
+        "name": "Ticket to Ride",
+        "duration_ms": 191160,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/dd/d2/52/ddd252f9-a0aa-0d81-34fe-ce3fe7498b47/mzaf_5296647890430053703.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/ticket-to-ride/1441132965?i=1441133494&uo=4"
+      },
+      {
+        "track_number": 13,
+        "disc_number": 1,
+        "name": "Yesterday",
+        "duration_ms": 123524,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6b/7d/19/6b7d191e-8ed7-cc71-edc0-3e1868d02d67/mzaf_14299828124080156107.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/yesterday/1441132965?i=1441133496&uo=4"
+      },
+      {
+        "track_number": 1,
+        "disc_number": 2,
+        "name": "Help!",
+        "duration_ms": 139280,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c1/89/9e/c1899e81-9f68-ecd3-b008-144444d4e8a3/mzaf_12195376681880917543.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/help/1441132965?i=1441133711&uo=4"
+      },
+      {
+        "track_number": 2,
+        "disc_number": 2,
+        "name": "You've Got to Hide Your Love Away",
+        "duration_ms": 131307,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/5d/0d/cf/5d0dcfbf-5efb-5e03-ff2e-59aca7b423eb/mzaf_3629039033285236913.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/youve-got-to-hide-your-love-away/1441132965?i=1441133714&uo=4"
+      },
+      {
+        "track_number": 3,
+        "disc_number": 2,
+        "name": "We Can Work It Out",
+        "duration_ms": 136120,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/57/35/57/57355730-e417-53a5-5234-aeac5a6d7017/mzaf_11591983466097209854.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/we-can-work-it-out/1441132965?i=1441133719&uo=4"
+      },
+      {
+        "track_number": 4,
+        "disc_number": 2,
+        "name": "Day Tripper",
+        "duration_ms": 169613,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8f/99/80/8f9980fe-a677-bd2b-d942-f2b98c791e95/mzaf_15272281138530530866.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/day-tripper/1441132965?i=1441133726&uo=4"
+      },
+      {
+        "track_number": 5,
+        "disc_number": 2,
+        "name": "Drive My Car",
+        "duration_ms": 148453,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b7/38/aa/b738aa68-eaf8-9a8e-2344-3b4b19027315/mzaf_11378513967429644865.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/drive-my-car/1441132965?i=1441133727&uo=4"
+      },
+      {
+        "track_number": 6,
+        "disc_number": 2,
+        "name": "Norwegian Wood (This Bird Has Flown)",
+        "duration_ms": 125187,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/79/aa/92/79aa9213-607a-dec6-d610-7d91566823b3/mzaf_15545175954999022006.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/norwegian-wood-this-bird-has-flown/1441132965?i=1441133731&uo=4"
+      },
+      {
+        "track_number": 7,
+        "disc_number": 2,
+        "name": "Nowhere Man",
+        "duration_ms": 164187,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/dd/1f/e2/dd1fe27b-4494-f629-dd36-2c7f32e6a82b/mzaf_691315532735999904.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/nowhere-man/1441132965?i=1441133732&uo=4"
+      },
+      {
+        "track_number": 8,
+        "disc_number": 2,
+        "name": "Michelle",
+        "duration_ms": 162453,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/3b/95/b7/3b95b720-ffc0-ccce-a139-265b63eb94c0/mzaf_17060398908084456965.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/michelle/1441132965?i=1441134003&uo=4"
+      },
+      {
+        "track_number": 9,
+        "disc_number": 2,
+        "name": "In My Life",
+        "duration_ms": 147227,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/fe/66/df/fe66dfee-c6c0-ef30-0335-9e1a15b1ebd1/mzaf_8426041440592429824.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/in-my-life/1441132965?i=1441134004&uo=4"
+      },
+      {
+        "track_number": 10,
+        "disc_number": 2,
+        "name": "Girl",
+        "duration_ms": 151533,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/df/d9/71/dfd9710b-71e7-a9f2-0916-953e7d13353e/mzaf_2438637123637110606.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/girl/1441132965?i=1441134119&uo=4"
+      },
+      {
+        "track_number": 11,
+        "disc_number": 2,
+        "name": "Paperback Writer",
+        "duration_ms": 139187,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/06/b4/fb/06b4fbfc-52b6-5bf9-a4f0-685cb9478759/mzaf_18405070656054257271.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/paperback-writer/1441132965?i=1441134120&uo=4"
+      },
+      {
+        "track_number": 12,
+        "disc_number": 2,
+        "name": "Eleanor Rigby",
+        "duration_ms": 128160,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c1/0d/e4/c10de456-bceb-1b67-89ff-fc2ee57793ae/mzaf_4686420839720516816.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/eleanor-rigby/1441132965?i=1441134125&uo=4"
+      },
+      {
+        "track_number": 13,
+        "disc_number": 2,
+        "name": "Yellow Submarine",
+        "duration_ms": 157536,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/73/45/59/73455914-db05-886e-1859-45c3fed70f1d/mzaf_13986938630895384420.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/yellow-submarine/1441132965?i=1441134128&uo=4"
+      }
+    ]
+  },
+  "discrepancies": [
+    "Total runtime differs by 63s (Discogs=3685s, Apple Music=3748s) — likely a different master/remaster."
+  ],
+  "local_cover": "images/14061898.jpg"
+}

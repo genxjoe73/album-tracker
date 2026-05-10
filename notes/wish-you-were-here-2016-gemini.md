@@ -1,0 +1,1 @@
+Released in 1975, *Wish You Were Here* is Pink Floyd's elegiac tribute to their absent founder, Syd Barrett. This pressing is the 2016 Pink Floyd Records reissue, widely considered one of the best-sounding modern pressings.

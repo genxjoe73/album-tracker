@@ -1,0 +1,36 @@
+# Auditor Instructions — Album Tracker
+
+Append-only audit log per Rule G of `rules.universal.md`. Logs bugs, drift,
+broken references, and code-quality issues observed during work.
+
+**Logging an observation does not require permission. Fixing a logged issue
+does (Rule B). Status only changes on explicit user instruction.**
+
+Schema, field discipline, and category enum: see Rule G in `rules.universal.md`.
+IDs are sequential `AUD-NNN`, zero-padded, never reused.
+
+---
+
+<!-- New entries appended below, chronological order. -->
+
+### [AUD-001] iTunes Search match heuristic is too permissive — accepts wrong album when target is missing
+- **Caught:** 2026-05-04 13:47:52 GMT by claude:claude-opus-4-7
+- **Location:** scripts/capture.py:50-58 (function `pick_apple_match`)
+- **Severity:** high
+- **Category:** bug
+- **Observation:** `pick_apple_match` falls back to `results[0]` when no result's `collectionName` startswith the target title. For Pink Floyd's Dark Side of the Moon, the iTunes Search keyword index does not return the album at all in the US store — the top result is "The Wall." The heuristic accepted "The Wall" silently and the capture wrote a JSON file mixing Dark Side's Discogs metadata with The Wall's Apple Music data. The capture script's discrepancy detector did flag the 26-vs-10 track count and 4-decade year gap, but those notes appeared *after* the file was written, not as a refusal to write. The same failure mode will hit any album that is not searchable via the iTunes Search keyword index.
+- **Evidence:** `.venv/bin/python -c "from scripts.lib.apple import ITunesClient; c=ITunesClient('https://itunes.apple.com/search','https://itunes.apple.com/lookup','us'); [print(r['collectionId'], r['artistName'], r['collectionName']) for r in c.search_album('Pink Floyd','The Dark Side Of The Moon',limit=10)]"` returns The Wall, Echoes, Piper, Meddle, etc. — never Dark Side, even though album ID 1665303755 exists at music.apple.com/us/album/.../1665303755.
+- **Suggested fix:** Tighten the matcher: require fuzzy match score (e.g. token-set ratio ≥ 80) on `collectionName` against the Discogs title AND `artistName` match against the Discogs artist. If no candidate clears the threshold, refuse to write Apple data and return None — surface "no Apple match found" rather than silently picking the closest stranger. As a complementary fix, expose a `--apple-collection-id` flag (already done) and prefer it when the fuzzy search is uncertain.
+- **Owner:** unassigned
+- **Status:** open
+
+### [AUD-002] Discrepancy detector flags Apple's original-release-date as a "different master" — false positive
+- **Caught:** 2026-05-04 13:48:19 GMT by claude:claude-opus-4-7
+- **Location:** scripts/lib/merge.py:108-118 (function `_detect_discrepancies`, year-comparison branch)
+- **Severity:** low
+- **Category:** bug
+- **Observation:** Apple Music uses the *original* album release date even for explicit remaster/reissue entries. For the 50th Anniversary Remastered (collection 1665303755), Apple reports `releaseDate=1973-03-01` despite the entry being the 2023 Guthrie remaster — the year comes from the master record, not the issue date. The current detector compares Discogs `year` (the pressing year, 2023) against Apple's first-four-chars of `releaseDate` (1973) and emits "Apple Music typically streams the most recent remaster" — but in this case Apple IS streaming the most recent remaster; the year just doesn't reflect that. The note is misleading.
+- **Evidence:** `albums/28580086-the-dark-side-of-the-moon.json` field `discrepancies[1]` reads "Release year differs: your pressing=2023, Apple Music edition=1973. Apple Music typically streams the most recent remaster." But the Apple album's `name` is "The Dark Side of the Moon (50th Anniversary) [Remastered]" and copyright reads "℗ 2023 Pink Floyd Music Ltd." — clearly the same source as the 2023 vinyl pressing.
+- **Suggested fix:** Compare against Apple `copyright` text (look for ℗ <year>) or the `collectionName` for keywords like "Remastered", "Anniversary", "Deluxe Edition" before emitting the year-mismatch note. If those signals say "this is a current remaster," suppress the note. Alternative: emit the year delta as informational only ("Apple Music release date is 1973-03-01; Apple typically uses the original release date even for remasters") rather than as a master/remaster suspicion.
+- **Owner:** unassigned
+- **Status:** open

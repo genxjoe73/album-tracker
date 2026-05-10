@@ -1,0 +1,8 @@
+{
+  "output_dir": "albums",
+  "discogs_base_url": "https://api.discogs.com",
+  "itunes_search_base_url": "https://itunes.apple.com/search",
+  "itunes_lookup_base_url": "https://itunes.apple.com/lookup",
+  "itunes_country": "us",
+  "request_timeout_seconds": 30
+}

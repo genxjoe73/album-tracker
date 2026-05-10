@@ -1,0 +1,1 @@
+Released in 1992, *ABBA Gold* sparked a massive global resurgence for the Swedish pop group. Curated to include all of their most iconic tracks, it serves as a masterclass in pop songwriting and production.

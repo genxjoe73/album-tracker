@@ -1,0 +1,400 @@
+{
+  "captured_at": "2026-05-10T16:27:33+00:00",
+  "schema_version": 3,
+  "artist": "Beastie Boys",
+  "title": "Licensed To Ill",
+  "original_release_year": 1986,
+  "pressing_year": 2016,
+  "upgrade_suggestion": "The 2016 Pallas-pressed 180g reissue you own is the current standard configuration. No half-speed or audiophile specialty pressing of Licensed to Ill has been issued. Original 1986 Def Jam pressings (r261339) are collectible but offer no documented mastering advantage.",
+  "commentary": "**Licensed to Ill** was recorded in 1986 at **Chung King Studios** in lower Manhattan, produced by **Rick Rubin** and the Beastie Boys — Michael Diamond (Mike D), Adam Horovitz (Ad-Rock), and Adam Yauch (MCA). Chung King, then a modest facility known for hip-hop sessions, gave Rubin and the group an environment where the album's defining collision could happen: hip-hop drum programming and breakbeat sampling slammed directly against distorted guitar riffs, hard rock aggression, and the loosely confrontational vocal style the trio had developed out of the New York hardcore scene. The album was released November 15, 1986 on **Def Jam Recordings** through Columbia, and within months had become the first rap album to reach number one on the **Billboard 200** — a commercial milestone that permanently altered mainstream perceptions of hip-hop's ceiling. Tracks like \"Fight for Your Right,\" \"No Sleep till Brooklyn,\" and \"Paul Revere\" remain lodestones of the era, but the album's genius as a listening experience is in its sequencing and sonic continuity: every track sounds unified, aggressive, and slightly dangerous in the same way.\n\nRubin's production philosophy on Licensed to Ill was essentially maximalist compression. He ran the **Oberheim DMX** drum machine — already a fixture in early Def Jam recordings — through a chain designed to make individual hits sound enormous rather than programmatic. Breakbeats were sampled and layered beneath the DMX patterns, creating a rhythmic bed with both the punch of machine precision and the grit of physical tape. Guitar samples, most famously the opening riff of Led Zeppelin's \"Whole Lotta Love\" repurposed for \"Rhymin & Stealin,\" were not decorative — they functioned as structural elements, treated as equal to any programmed part. The original **mastering** for the 1986 Columbia/Def Jam pressing was cut to prioritize loudness and radio competitiveness in line with mid-1980s commercial standards. The low end was kept controlled enough to survive broadcast processing, which means the original pressing, while energetic, sacrificed some of the sub-bass weight the tracks potentially hold in the source recordings.\n\nThe 2016 reissue marks the album's **30th anniversary** and was released through **UMe** (Universal Music Enterprises), which administers the Def Jam catalog in this context. The reissue carries catalog number **B0024720-01** and represents UMe's standard anniversary-tier vinyl program: a **180-gram** pressing aimed at collectors and listeners returning to the album in a format-conscious way. The mastering lineage is not formally documented on the packaging — the cutting and mastering credit situation is opaque, as is common with UMe anniversary titles — and it is plausible that the lacquers were cut from previously existing remaster files rather than from a dedicated 2016 session against the original analog masters.\n\nWhat is clearly documented is the **pressing plant**: **Pallas** (**Schallplattenfabrik Pallas GmbH**), located in Diepholz, Germany. Pallas is consistently regarded as one of Europe's most technically rigorous pressing facilities, with a reputation built on strict quality control, low surface-noise floors, and tight dimensional tolerances that translate directly to trackability and channel separation on playback. A Pallas-pressed record will generally present with minimal crackle, centered label placement, and consistent weight distribution — the kind of baseline quality that lets the mastering work speak without interference from the vinyl itself. The **B0024720-01-B** deadwax stamp on Side B confirms the plant identity and pressing batch for this variant. A second variant sharing the same barcode exists under r9200786 — a European **Record Industry** pressing distinguishable at the deadwax level. Both are 180g pressings likely cut from the same lacquers; the Pallas provenance of this copy carries the stronger consistency guarantee based on that plant's track record.\n\n**About this 2016 US pressing (LP, 180g):** Def Jam Recordings / UMe catalog **B0024720-01**, pressed at **Pallas** (Diepholz, Germany), confirmed by the Side B deadwax inscription `B0024720-01-B`. 180-gram black vinyl LP, released as a 30th Anniversary edition. Mastering lineage not formally documented on packaging. Distinct from the European Record Industry pressing (r9200786) that shares the same barcode — the two are distinguishable at the deadwax level.\n\n### Gemini Notes\n\nReleased in 1986, Beastie Boys' debut *Licensed to Ill* was the first rap album to top the Billboard 200. Produced by Rick Rubin, its collision of heavy metal riffs and frat-boy rap completely shifted the cultural landscape of the 1980s.\n\n**About this pressing:**",
+  "discogs": {
+    "release_id": 9173990,
+    "master_id": 20090,
+    "uri": "https://www.discogs.com/release/9173990-Beastie-Boys-Licensed-To-Ill",
+    "title": "Licensed To Ill",
+    "artists": [
+      {
+        "name": "Beastie Boys",
+        "id": 10783,
+        "role": null
+      }
+    ],
+    "year": 2016,
+    "released": "2016-10-14",
+    "country": "US",
+    "labels": [
+      {
+        "name": "Def Jam Recordings",
+        "catno": "B0024720-01",
+        "id": 4241
+      },
+      {
+        "name": "UMe",
+        "catno": "B0024720-01",
+        "id": 68029
+      }
+    ],
+    "formats": [
+      {
+        "name": "Vinyl",
+        "qty": "1",
+        "descriptions": [
+          "LP",
+          "Album",
+          "Reissue"
+        ],
+        "text": "Pallas Pressing, 30th Anniversary Edition, 180 Gram"
+      }
+    ],
+    "genres": [
+      "Hip Hop",
+      "Rock"
+    ],
+    "styles": [
+      "Cut-up/DJ",
+      "Hard Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Rhymin & Stealin",
+        "duration": "4:08",
+        "type": "track"
+      },
+      {
+        "position": "A2",
+        "title": "The New Style",
+        "duration": "4:35",
+        "type": "track"
+      },
+      {
+        "position": "A3",
+        "title": "She’s Crafty",
+        "duration": "3:36",
+        "type": "track"
+      },
+      {
+        "position": "A4",
+        "title": "Posse In Effect",
+        "duration": "2:27",
+        "type": "track"
+      },
+      {
+        "position": "A5",
+        "title": "Slow Ride",
+        "duration": "2:56",
+        "type": "track"
+      },
+      {
+        "position": "A6",
+        "title": "Girls",
+        "duration": "2:14",
+        "type": "track"
+      },
+      {
+        "position": "A7",
+        "title": "Fight For Your Right",
+        "duration": "3:28",
+        "type": "track"
+      },
+      {
+        "position": "B1",
+        "title": "No Sleep Till Brooklyn",
+        "duration": "4:07",
+        "type": "track"
+      },
+      {
+        "position": "B2",
+        "title": "Paul Revere",
+        "duration": "3:42",
+        "type": "track"
+      },
+      {
+        "position": "B3",
+        "title": "Hold It Now, Hit It",
+        "duration": "3:29",
+        "type": "track"
+      },
+      {
+        "position": "B4",
+        "title": "Brass Monkey",
+        "duration": "2:38",
+        "type": "track"
+      },
+      {
+        "position": "B5",
+        "title": "Slow And Low",
+        "duration": "3:37",
+        "type": "track"
+      },
+      {
+        "position": "B6",
+        "title": "Time To Get Ill",
+        "duration": "3:37",
+        "type": "track"
+      }
+    ],
+    "extraartists": [
+      {
+        "name": "Stephen Byram",
+        "role": "Art Direction",
+        "id": 1831145
+      },
+      {
+        "name": "World B. Omés",
+        "role": "Artwork [Cover Art]",
+        "id": 2296778
+      },
+      {
+        "name": "Beastie Boys",
+        "role": "Co-producer",
+        "id": 10783
+      },
+      {
+        "name": "Steve Ett",
+        "role": "Engineer [Head]",
+        "id": 121657
+      },
+      {
+        "name": "Ron McMaster",
+        "role": "Lacquer Cut By",
+        "id": 354751
+      },
+      {
+        "name": "Howie Weinberg",
+        "role": "Mastered By",
+        "id": 254262
+      },
+      {
+        "name": "Sunny Bak",
+        "role": "Photography By [Gate Fold Photo]",
+        "id": 2240624
+      },
+      {
+        "name": "Ricky Powell (2)",
+        "role": "Photography By [Sleeve Photos]",
+        "id": 2254224
+      },
+      {
+        "name": "Rick Rubin",
+        "role": "Producer",
+        "id": 68211
+      },
+      {
+        "name": "Beastie Boys",
+        "role": "Written-By",
+        "id": 10783
+      },
+      {
+        "name": "Rick Rubin",
+        "role": "Written-By",
+        "id": 68211
+      }
+    ],
+    "identifiers": [
+      {
+        "type": "Barcode",
+        "value": "602547820754",
+        "description": "Scanned"
+      },
+      {
+        "type": "Barcode",
+        "value": "6 02547 82075 4",
+        "description": "Printed"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "P. USA -40236- B0024720-01-A G-2 RM",
+        "description": "Side A runout"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "P. USA -40236- B0024720-01-B G-2 RM",
+        "description": "Side B runout"
+      }
+    ],
+    "notes": "30th Anniversary Edition reissue cut from the original production masters and pressed on 180 gram vinyl housed in a gatefold jacket. Includes a reproduction of the original printed inner sleeve and the record comes issued in a white poly-lined inner sleeve.\n\nThis album is dedicated to Doris Keefe Horovitz.\nSpecial knowledge to Run, DMC & Jam-Master Jay.\n\n℗© 2016 Def Jam Recordings, a division of UMG Recordings, Inc.\n\n\"P. USA -40236-\" is stamped; the rest of the runout is etched.",
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/D1egauX30OUM3xE6_oFg2cFryGJo1MLDXl5lVLwjt4Q/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNzM5/OTAtMTQ3Njg5MzUw/My02MDAxLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/hVdiF1EbHiq3OQ_wBX2iz4m0CwnoLCWy98P8rjer0Xg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNzM5/OTAtMTQ3Njg5MzUw/My02MDAxLmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/xVChHuHYXEImrfl1JOQlUolT4QTSnnfxeEpsYR3FDUg/rs:fit/g:sm/q:90/h:290/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNzM5/OTAtMTQ3Njg5MzUw/OC0xNjQ1LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/eLsOI9iXzMtKZI8zst45hCUhTBJrTSqpUUxz2_gfryE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNzM5/OTAtMTQ3Njg5MzUw/OC0xNjQ1LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/EgPZOCROwJpCeIsgbDpjKdN-6JyXDRsjIhQU3oG_-CQ/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNzM5/OTAtMTQ3Njg5MzUw/OS00MzQ2LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/1nuNjPLNznAbQtzjQ_wNnJ2NQ5jUU7AIfPQGGEDk6RY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNzM5/OTAtMTQ3Njg5MzUw/OS00MzQ2LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/GQB4a3Jrwih3xBHmMDtbPre85g4WAIB-veIofT6l4oE/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNzM5/OTAtMTQ3Njg5MzUw/Ny01Nzk0LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/TMLPGtrPbzd8_QIxQ658hLSZ7q7J9FsHroEEVDXlM3M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNzM5/OTAtMTQ3Njg5MzUw/Ny01Nzk0LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/EcBSpOPzXHNpcQ3Y-Ob0BG9EF4bYcmtOxO_EbLQI2M8/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNzM5/OTAtMTQ3Njg5MzUw/Ni01MzE0LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/0uSNkuUNGv3XGuz80C-bwmGm4_HdIJWyr_iZF016pr8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNzM5/OTAtMTQ3Njg5MzUw/Ni01MzE0LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/0ZmRKoyGq9-xSFa8vT7wLJm61KrZRMQvDle6krPF3t8/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNzM5/OTAtMTY5NTA1OTMx/NS0yODE1LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/2tKX9UGaBKEIR2t4Eb-hpWi45WTbw2Yv7UYJEpsYrGs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNzM5/OTAtMTY5NTA1OTMx/NS0yODE1LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/kbYVxRfM7srXY5BP3Y70YwZvarE8S--L2r8-EbbLF_M/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNzM5/OTAtMTY5NTA1OTMx/OC0zMjUyLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/r1ap-48eq3Zj5Nrt1RqQ4clnQwJJxDoY8lnqpPk6z2s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNzM5/OTAtMTY5NTA1OTMx/OC0zMjUyLmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/wrLKFq_OQbzwW-UJW8EirbGr_20lN_rMgpLAa9c3Wv0/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNzM5/OTAtMTQ3Njg5MzUw/Ny00MzA1LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/ITuD5n2W8JCJ-LucmUxqwzGhgf6n4jOmyMbqSODxCi8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNzM5/OTAtMTQ3Njg5MzUw/Ny00MzA1LmpwZWc.jpeg"
+      }
+    ],
+    "community": {
+      "rating": {
+        "count": 1143,
+        "average": 4.57
+      },
+      "have": 19941,
+      "want": 2383
+    },
+    "master": {
+      "id": 20090,
+      "title": "Licensed To Ill",
+      "main_release": 5531755,
+      "year": 1986,
+      "uri": "https://www.discogs.com/master/20090-Beastie-Boys-Licensed-To-Ill",
+      "num_for_sale": 2112
+    }
+  },
+  "apple_music": {
+    "id": 1440912031,
+    "url": "https://music.apple.com/us/album/licensed-to-ill/1440912031?uo=4",
+    "name": "Licensed to Ill",
+    "artist": "Beastie Boys",
+    "artist_id": 1971863,
+    "artwork_url_100": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/e4/d7/81/e4d781e8-bd3f-486a-cd18-e9b3a7d12b34/00731452735126.rgb.jpg/100x100bb.jpg",
+    "artwork_url_600": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/e4/d7/81/e4d781e8-bd3f-486a-cd18-e9b3a7d12b34/00731452735126.rgb.jpg/600x600bb.jpg",
+    "release_date": "1986-11-15T08:00:00Z",
+    "track_count": 13,
+    "copyright": "℗ 1986 Def Jam Recordings",
+    "primary_genre": "Hip-Hop/Rap",
+    "country": "USA",
+    "tracks": [
+      {
+        "track_number": 1,
+        "disc_number": 1,
+        "name": "Rhymin' & Stealin'",
+        "duration_ms": 248400,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/8c/83/56/8c83568a-29b8-b8a2-ca85-f7ddb1739629/mzaf_3751401002544584685.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/rhymin-stealin/1440912031?i=1440912033&uo=4"
+      },
+      {
+        "track_number": 2,
+        "disc_number": 1,
+        "name": "The New Style",
+        "duration_ms": 275547,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/43/e8/55/43e855f7-6266-e1a2-7ec8-586a77f5e61f/mzaf_16882083626713730904.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/the-new-style/1440912031?i=1440912036&uo=4"
+      },
+      {
+        "track_number": 3,
+        "disc_number": 1,
+        "name": "She's Crafty",
+        "duration_ms": 215133,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/8b/1c/ae/8b1caee6-1211-ded9-1859-683ce435749a/mzaf_15015014859905905139.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/shes-crafty/1440912031?i=1440912347&uo=4"
+      },
+      {
+        "track_number": 4,
+        "disc_number": 1,
+        "name": "Posse In Effect",
+        "duration_ms": 146413,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/bf/26/d1/bf26d10f-51e5-f573-385e-ef657877caf9/mzaf_10468923139846088613.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/posse-in-effect/1440912031?i=1440912348&uo=4"
+      },
+      {
+        "track_number": 5,
+        "disc_number": 1,
+        "name": "Slow Ride",
+        "duration_ms": 176760,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/e9/2a/b4/e92ab4e6-5765-b08a-29a5-00ac3071d6a8/mzaf_810828109312224887.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/slow-ride/1440912031?i=1440912349&uo=4"
+      },
+      {
+        "track_number": 6,
+        "disc_number": 1,
+        "name": "Girls",
+        "duration_ms": 132707,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/55/38/2a/55382a75-b018-df25-20b1-84ce68fd5373/mzaf_8683034412598570396.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/girls/1440912031?i=1440912350&uo=4"
+      },
+      {
+        "track_number": 7,
+        "disc_number": 1,
+        "name": "Fight for Your Right",
+        "duration_ms": 208653,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/1d/76/58/1d7658e2-7bcc-beca-f260-3bdbc13c6e8e/mzaf_2983022627158602500.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/fight-for-your-right/1440912031?i=1440912353&uo=4"
+      },
+      {
+        "track_number": 8,
+        "disc_number": 1,
+        "name": "No Sleep Till Brooklyn",
+        "duration_ms": 246933,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/94/9e/27/949e27e2-cad4-c6c7-a133-967353cec07f/mzaf_3264922967896254073.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/no-sleep-till-brooklyn/1440912031?i=1440912354&uo=4"
+      },
+      {
+        "track_number": 9,
+        "disc_number": 1,
+        "name": "Paul Revere",
+        "duration_ms": 220840,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/d9/50/ec/d950ece3-5ae0-25c5-5437-586eaf63dc35/mzaf_14647684919436187222.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/paul-revere/1440912031?i=1440912357&uo=4"
+      },
+      {
+        "track_number": 10,
+        "disc_number": 1,
+        "name": "Hold It Now, Hit It",
+        "duration_ms": 206213,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/f9/af/f9/f9aff977-c36b-4dbb-9d16-e00414828e9c/mzaf_17853512666614660229.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/hold-it-now-hit-it/1440912031?i=1440912364&uo=4"
+      },
+      {
+        "track_number": 11,
+        "disc_number": 1,
+        "name": "Brass Monkey",
+        "duration_ms": 157440,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/b8/d4/25/b8d425db-d788-73ef-eafc-925192e2b102/mzaf_16516608083008105932.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/brass-monkey/1440912031?i=1440912369&uo=4"
+      },
+      {
+        "track_number": 12,
+        "disc_number": 1,
+        "name": "Slow and Low",
+        "duration_ms": 218067,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/c2/f7/91/c2f79156-5f7c-bb04-7079-56b0c4bbf092/mzaf_13340826365926313395.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/slow-and-low/1440912031?i=1440912377&uo=4"
+      },
+      {
+        "track_number": 13,
+        "disc_number": 1,
+        "name": "Time to Get Ill",
+        "duration_ms": 219573,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/77/5f/d8/775fd8ba-5825-ec43-c7fd-f15e88061981/mzaf_13528534983661691017.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/time-to-get-ill/1440912031?i=1440912378&uo=4"
+      }
+    ]
+  },
+  "discrepancies": [
+    "Release year differs: your pressing=2016, Apple Music edition=1986. Apple Music typically streams the most recent remaster."
+  ],
+  "local_cover": "images/9173990.jpg"
+}

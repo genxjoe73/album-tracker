@@ -1,0 +1,49 @@
+{
+  "captured_at": "2026-05-10T16:21:36Z",
+  "schema_version": 3,
+  "artist": "Pink Floyd",
+  "title": "Wish You Were Here -50-",
+  "original_release_year": 1975,
+  "pressing_year": 2025,
+  "upgrade_suggestion": "This is the definitive modern audio presentation of the album — Dolby Atmos and Quadraphonic mixes on Blu-ray represent formats unavailable on vinyl. No upgrade path exists within this format.",
+  "commentary": "Released in September 1975, *Wish You Were Here* followed the massive success of *The Dark Side of the Moon*. The album deals with themes of absence, the music business, and former band member Syd Barrett. The recording sessions were notoriously difficult, but the result is a deeply cohesive and emotional record that many band members consider their favorite.\n\n**About this pressing:**\nThis is the 2025 50th Anniversary release. *Deadwax TBD — check runouts for mastering engineers or pressing plant symbols. Update this section once details are logged.*\n\n### Gemini Notes\n\nReleased in September 1975, *Wish You Were Here* followed the massive success of *The Dark Side of the Moon*. The album deals with themes of absence and former band member Syd Barrett. \n\n**About this pressing:**\nThis is the 50th Anniversary release.",
+  "discogs": {
+    "release_id": 35906743,
+    "master_id": 11703,
+    "label": "Columbia / Sony Music",
+    "catno": "19802876739",
+    "country": "Worldwide",
+    "year": 2025,
+    "format": "Blu-ray, Album, Reissue, Remastered, Stereo, Quadraphonic, Multichannel (Dolby Atmos, PCM)",
+    "url": "https://www.discogs.com/release/35906743",
+    "formats": [
+      {
+        "name": "Blu-ray",
+        "qty": "1",
+        "descriptions": [
+          "Album",
+          "Reissue",
+          "Remastered",
+          "Stereo",
+          "Quadraphonic",
+          "Multichannel"
+        ],
+        "text": "Dolby Atmos, PCM"
+      }
+    ],
+    "labels": [
+      {
+        "name": "Columbia"
+      },
+      {
+        "name": "Sony Music Entertainment"
+      },
+      {
+        "name": "Pink Floyd Music"
+      }
+    ]
+  },
+  "apple_music": null,
+  "discrepancies": [],
+  "local_cover": "images/35906743.jpg"
+}

@@ -1,0 +1,4 @@
+Released in August 1966, *Revolver* marks a monumental turning point in The Beatles' evolution, as they fully abandoned their mop-top pop origins in favor of studio experimentation and psychedelic rock. Working heavily with producer George Martin and engineer Geoff Emerick at Abbey Road, the band pioneered techniques like tape loops, reversed instrumentation, and artificial double-tracking. Tracks like "Tomorrow Never Knows" and "Eleanor Rigby" expanded the boundaries of what popular music could be.
+
+**About this pressing:**
+*Deadwax TBD — check runouts for mastering engineers or pressing plant symbols. Update this section once details are logged.*

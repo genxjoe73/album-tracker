@@ -1,0 +1,1 @@
+Released in 2001, *Legacy: The Greatest Hits Collection* is the definitive compilation of Boyz II Men's dominance in the 90s, capturing their record-breaking singles and unmatched vocal harmonies.

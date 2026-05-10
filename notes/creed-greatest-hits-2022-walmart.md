@@ -1,0 +1,9 @@
+Released November 2004 by Wind-up Records, *Greatest Hits* is the compilation that closed Creed's first chapter — coming out roughly 18 months after the band's 2004 dissolution and before the 2009 reunion. The original 2004 issue was a CD/DVD package; the DVD held the music videos and a documentary on the band's rise and fall.
+
+The 13 tracks collect the singles from the three studio albums: four from *My Own Prison* (1997) on side A, four from *Human Clay* (1999) on side B, and five from *Weathered* (2001) on side C. No previously-unreleased material — this is a straight singles compilation, not a "with bonus tracks" reissue.
+
+The album draws from the post-grunge moment when Creed was the third-best-selling US act of the early 2000s — *Human Clay* alone is RIAA-certified Diamond (10× platinum). Scott Stapp's vocal mannerisms (the deep-timbre quasi-Vedder phrasing) and Mark Tremonti's guitar approach (drop-D power chords with melodic-minor lead lines) defined a specific sound that became inescapable on US rock radio from 1998 through about 2002. The compilation is the easiest single-disc summary of why that sound dominated.
+
+**About this 2022 Walmart Exclusive Blue Marble pressing (2×LP, side D etched):** Craft Recordings issued this as a limited reissue with catalog `CR04979`. The 13 tracks fit across three sides (A/B/C); side D is a decorative etching rather than music — a common move for compilations whose runtime doesn't justify a full 4-side fill. The Blue Marble color variant was Walmart-exclusive at release.
+
+The pressing was done at MPO (`MPO Logo 21240131` stamped on the runouts) — a French plant Universal Music Group uses for repress jobs. The cut catno (`CR-00272`) in the runout differs from the release catno (`CR04979`) — the cut was originally made for an earlier issue and reused for this Walmart variant, which is standard cost-saving practice for reissues.

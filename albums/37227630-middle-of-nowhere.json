@@ -1,0 +1,504 @@
+{
+  "captured_at": "2026-05-10T01:56:10+00:00",
+  "schema_version": 3,
+  "artist": "Kacey Musgraves",
+  "title": "Middle Of Nowhere",
+  "original_release_year": 2026,
+  "pressing_year": 2026,
+  "upgrade_suggestion": "JN-H/Sterling-cut current-release LP on colored vinyl with signed insert is already an audiophile-tier pressing of a brand-new album; no meaningful sonic upgrade exists. Lossless digital is the only alternate path (Apple Music streaming is lossy AAC by default; the same recording in lossless is on Apple Music's lossless tier or via the standard 16/44.1 download).",
+  "commentary": "Released May 2026, *Middle of Nowhere* is Kacey Musgraves' sixth studio album and her first on Lost Highway Records — a deliberate move back to a more traditional country label after the pop-leaning *Star-Crossed* (2021) and *Deeper Well* (2024). Musgraves has described the album as feeling like \"a big circle\" back to her early-career roots in *Same Trailer Different Park* and *Pageant Material*: country songwriting in the storytelling tradition rather than the cosmic-pop tradition *Golden Hour* opened up.\n\nThe album was recorded primarily in Nashville with Daniel Tashian and Ian Fitchuk co-producing — the same production team behind *Golden Hour*, but applied here to a more straightforwardly country palette. Pedal steel, fiddle, and acoustic textures dominate; the synth-and-strings layering of *Star-Crossed* is largely absent.\n\n**About this US Limited Edition pressing (Brown Translucent \"Whiskey\" with signed insert):** the lacquer was cut by **Joe Nino-Hernes at Sterling Sound** (`JN-H STERLING` in the runout) — the same engineer who cut Lana Del Rey's *Norman Fucking Rockwell!* 50th Anniversary Pallas pressing in your collection. Nino-Hernes is one of the current top cutting engineers for major-label country and pop releases. The cut numbers in the runout (`313070E1` / `313070E2` for the lacquers, plus the `02496658` / `02493657` family of cut-pair identifiers) are Sterling's job-tracking codes.\n\nThis pressing is the \"Whiskey\" colored variant — brown translucent vinyl, limited edition with a signed insert. The standard black vinyl issue is r37270545; the standard color (no signature) Whiskey issue is r37209792. Your specific copy with the signed insert is r37227630.\n\n### Gemini Notes\n\nKacey Musgraves consistently pushes the boundaries of modern country. *Middle Of Nowhere* captures her signature blend of traditional songwriting and progressive themes.\n\n**About this pressing:**",
+  "discogs": {
+    "release_id": 37227630,
+    "master_id": 4210611,
+    "uri": "https://www.discogs.com/release/37227630-Kacey-Musgraves-Middle-Of-Nowhere",
+    "title": "Middle Of Nowhere",
+    "artists": [
+      {
+        "name": "Kacey Musgraves",
+        "id": 2866928,
+        "role": null
+      }
+    ],
+    "year": 2026,
+    "released": "2026-05-01",
+    "country": "US",
+    "labels": [
+      {
+        "name": "Lost Highway",
+        "catno": "602488275439",
+        "id": 35795
+      }
+    ],
+    "formats": [
+      {
+        "name": "Vinyl",
+        "qty": "1",
+        "descriptions": [
+          "LP",
+          "Album",
+          "Limited Edition"
+        ],
+        "text": "Brown Translucent [Whiskey], Signed Insert"
+      }
+    ],
+    "genres": [
+      "Folk, World, & Country"
+    ],
+    "styles": [],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Middle Of Nowhere",
+        "duration": "2:37",
+        "type": "track"
+      },
+      {
+        "position": "A2",
+        "title": "Dry Spell",
+        "duration": "3:17",
+        "type": "track"
+      },
+      {
+        "position": "A3",
+        "title": "Back On The Wagon",
+        "duration": "3:51",
+        "type": "track"
+      },
+      {
+        "position": "A4",
+        "title": "I Believe In Ghosts",
+        "duration": "3:51",
+        "type": "track"
+      },
+      {
+        "position": "A5",
+        "title": "Abilene",
+        "duration": "2:48",
+        "type": "track"
+      },
+      {
+        "position": "A6",
+        "title": "Coyote",
+        "duration": "3:12",
+        "type": "track"
+      },
+      {
+        "position": "A7",
+        "title": "Loneliest Girl",
+        "duration": "4:16",
+        "type": "track"
+      },
+      {
+        "position": "B1",
+        "title": "Everybody Wants To Be A Cowboy",
+        "duration": "3:39",
+        "type": "track"
+      },
+      {
+        "position": "B2",
+        "title": "Horses And Divorces",
+        "duration": "2:43",
+        "type": "track"
+      },
+      {
+        "position": "B3",
+        "title": "Uncertain, TX",
+        "duration": "3:33",
+        "type": "track"
+      },
+      {
+        "position": "B4",
+        "title": "Rhinestoned",
+        "duration": "3:33",
+        "type": "track"
+      },
+      {
+        "position": "B5",
+        "title": "Mexico Honey",
+        "duration": "3:43",
+        "type": "track"
+      },
+      {
+        "position": "B6",
+        "title": "Hell On Me",
+        "duration": "3:08",
+        "type": "track"
+      }
+    ],
+    "extraartists": [
+      {
+        "name": "Marta Navas",
+        "role": "A&R [A&R Admin]",
+        "id": 2649472
+      },
+      {
+        "name": "Jake Gear",
+        "role": "A&R [A&R Production]",
+        "id": 8472999
+      },
+      {
+        "name": "Marta Navas",
+        "role": "A&R [A&R Production]",
+        "id": 2649472
+      },
+      {
+        "name": "Kacey Musgraves",
+        "role": "Art Direction",
+        "id": 2866928
+      },
+      {
+        "name": "Kelly Christine Sutton",
+        "role": "Art Direction",
+        "id": 4512713
+      },
+      {
+        "name": "Lucia Kaminsky",
+        "role": "Art Direction",
+        "id": 14334962
+      },
+      {
+        "name": "Mackenzie Moore (2)",
+        "role": "Art Direction",
+        "id": 9971902
+      },
+      {
+        "name": "Kristen Clark (2)",
+        "role": "Coordinator [Production Coordinator]",
+        "id": 8532441
+      },
+      {
+        "name": "Mackenzie Moore (2)",
+        "role": "Design",
+        "id": 9971902
+      },
+      {
+        "name": "Giovanni Delgado",
+        "role": "Hair, Make-Up",
+        "id": 9971914
+      },
+      {
+        "name": "Moani Lee",
+        "role": "Hair, Make-Up",
+        "id": 10900900
+      },
+      {
+        "name": "Ashley Kohorst Sieling",
+        "role": "Image Editor [Photo Editing]",
+        "id": 17679585
+      },
+      {
+        "name": "Favorite Records",
+        "role": "Image Editor [Photo Editing]",
+        "id": 17679588
+      },
+      {
+        "name": "Joe Nino-Hernes",
+        "role": "Lacquer Cut By",
+        "id": 6012918
+      },
+      {
+        "name": "Bobby Simmons (9)",
+        "role": "Management",
+        "id": 14334950
+      },
+      {
+        "name": "Jake Basden",
+        "role": "Management",
+        "id": 11991038
+      },
+      {
+        "name": "Jason Owen",
+        "role": "Management",
+        "id": 3001155
+      },
+      {
+        "name": "Katie Admire",
+        "role": "Management",
+        "id": 14334953
+      },
+      {
+        "name": "Keith Bunn",
+        "role": "Management",
+        "id": 14334956
+      },
+      {
+        "name": "Lucia Kaminsky",
+        "role": "Management",
+        "id": 14334962
+      },
+      {
+        "name": "Madison Moll",
+        "role": "Management",
+        "id": 17661582
+      },
+      {
+        "name": "Sandbox Entertainment",
+        "role": "Management",
+        "id": 4512715
+      },
+      {
+        "name": "Kelly Christine Sutton",
+        "role": "Photography By",
+        "id": 4512713
+      },
+      {
+        "name": "Laura Phillips (4)",
+        "role": "Production Manager [Art Production]",
+        "id": 14334947
+      },
+      {
+        "name": "Coffee Talk Media",
+        "role": "Public Relations [Publicity]",
+        "id": 17679591
+      },
+      {
+        "name": "Sheila Richman",
+        "role": "Public Relations [Publicity]",
+        "id": 4028429
+      },
+      {
+        "name": "Maddie Louviere",
+        "role": "Stylist [Wardrobe]",
+        "id": 10015120
+      }
+    ],
+    "identifiers": [
+      {
+        "type": "Barcode",
+        "value": "199957220378",
+        "description": "Barcode on shrink sticker"
+      },
+      {
+        "type": "Barcode",
+        "value": "6 02488 27543 9",
+        "description": "Text on the sleeve"
+      },
+      {
+        "type": "Rights Society",
+        "value": "ASCAP",
+        "description": null
+      },
+      {
+        "type": "Rights Society",
+        "value": "BMI",
+        "description": null
+      },
+      {
+        "type": "Rights Society",
+        "value": "GMR",
+        "description": null
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "602488275439-A 602488275439-A 2489959 02496658 313070E1 JN-H STERLING",
+        "description": "Runout side A"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "602488275439-B 602488275439-B (i) 313070E2 02493657 2492055 JN-H STERLING",
+        "description": "Runout side B"
+      }
+    ],
+    "notes": "Includes a signed art card.\nPackaged in a gatefold sleeve.\nIncludes a printed inner sleeve.\n\n℗© 2026 Kacey Musgraves, under exclusive license to Lost Highway, 1131 4th Ave South, Suite 110, Nashville, TN 37210.\n\nA1. Published by Recordings of Cosmic Intent (ASCAP) and WC Music Corp. (ASCAP) All rights administered by WC Music Corp.; Royal Peach Publishing/International Dog Music administered by Downtown DMP Songs (BMI); Speaking Tree Music / Sony/ATV Songs LLC (BMI)\nRecorded... at The Study and Sound Emporium (Nashville, TN)\n(Mixing) Engineered... at MixStar Studios (Virginia Beach, VA)\nMastered... at Sterling Sound (Nashville, TN)\n\nA2. Published by Recordings of Cosmic Intent (ASCAP) and WC Music Corp. (ASCAP) All rights administered by WC Music Corp.; Sony Lyric Music Publishing / CN Songs from 1508 / Crawford Mercer Music (GMR); Smackworld Music (GMR) Art of CTM Music Outlander LP (GMR) and Warner Geo Met Ric Music (GMR); Sony Cross Keys Publishing / Songs for Indy and Owl (ASCAP)\nRecorded... Assisted by Joanna Finley at Historic RCA Studio A, Royal Plum Studios (Nashville, TN), Additional recording... at The CABIN (Nashville, TN)\n(Mixing) Engineered... at MixStar Studios (Virginia Beach, VA)\nMastered... at Sterling Sound (Nashville, TN)\n\nA3. Published by Recordings of Cosmic Intent (ASCAP) and WC Music Corp. (ASCAP) All rights administered by WC Music Corp.; Royal Peach Publishing/International Dog Music administered by Downtown DMP Songs (BMI); Speaking Tree Music / Sony/ATV Songs LLC (BMI)\nRecorded... at The Sound Emporium (Nashville, TN)\n(Mixing) Engineered... at MixStar Studios (Virginia Beach, VA)\nMastered... at Sterling Sound (Nashville, TN)\n\nA4. Published by Recordings of Cosmic Intent (ASCAP) and WC Music Corp. (ASCAP) All rights administered by WC Music Corp.; Sony Lyric Music Publishing / CN Songs from 1508 / Crawford Mercer Music (GMR); Smackworld Music (GMR) Art of CTM Music Outlander LP (GMR) All rights on behalf of Smackworld Music and Art of CTM Music Outlander LP administered by Warner Geo Met Ric Music (GMR)\nRecorded... at Sound Emporium, Blackbird Studios (Nashville, TN)\n(Mixing) Engineered... at MixStar Studios (Virginia Beach, VA)\nMastered... at Sterling Sound (Nashville, TN)\n\nA5. Published by Recordings of Cosmic Intent (ASCAP) and WC Music Corp. (ASCAP) All rights administered by WC Music Corp.; Sony Lyric Music Publishing / CN Songs from 1508 / Crawford Mercer Music (GMR); Smackworld Music (GMR) Art of CTM Music Outlander LP (GMR) and Warner Geo Met Ric Music (GMR)\nRecorded... at Sound Emporium (Nashville, TN)\n(Mixing) Engineered... at MixStar Studios (Virginia Beach, VA)\nMastered... at Sterling Sound (Nashville, TN)\n\nA6. Published by Recordings of Cosmic Intent (ASCAP) and WC Music Corp. (ASCAP) All rights administered by WC Music Corp.; Royal Peach Publishing/International Dog Music administered by Downtown DMP Songs (BMI); Speaking Tree Music / Sony/ATV Songs LLC (BMI) Universal Music Works/Apricot Bonfire Music (GMR) All rights administered by Universal Music Works (GMR)\nRecorded... at The Study, Sound Emporium, Blackbird Studios (Nashville, TN)\nMixed... at The Study (Nashville, TN)\nMastered... at Sterling Sound (Nashville, TN)\nGregory Alan Isakov appears courtesy of Dualtone Records\n\nA7. Published by Recordings of Cosmic Intent (ASCAP) and WC Music Corp. (ASCAP) All rights administered by WC Music Corp.; Sony Lyric Music Publishing / CN Songs from 1508 / Crawford Mercer Music (GMR); Smackworld Music (GMR) Art of CTM Music Outlander LP (GMR) and Warner Geo Met Ric Music (GMR); Sony Cross Keys Publishing / Songs for Indy and Owl (ASCAP)\nRecorded... at Sound Emporium (Nashville, TN)\nAdditional recording... at The CABIN (Nashville, TN)\n(Mixing) Engineered... at MixStar Studios (Virginia Beach, VA)\nMastered... at Sterling Sound (Nashville, TN)\n\nB1. Published by Recordings of Cosmic Intent (ASCAP) and WC Music Corp. (ASCAP) All rights administered by WC Music Corp.; Royal Peach Publishing/International Dog Music administered by Downtown DMP Songs (BMI); Speaking Tree Music / Sony/ATV Songs LLC (BMI)\nRecorded... at The Study, Sound Emporium, Historic RCA Studio A, Blackbird Studios, Royal Plum Studios, East Iris Studios (Nashville, TN)\n(Mixing) Engineered... at MixStar Studios (Virginia Beach, VA)\nMastered... at Sterling Sound (Nashville, TN)\nBilly Strings appears courtesy of Reprise Records\n\nB2. Published by Recordings of Cosmic Intent (ASCAP) and WC Music Corp. (ASCAP) All rights administered by WC Music Corp.; Smackworld Music (GMR) Art of CTM Music Outlander LP (GMR) and Warner Geo Met Ric Music (GMR); Sony Tree Publishing / Crazy Def Girlfriend / Delta's Place Publishing (BMI)\nRecorded... at East Iris Studios (Nashville, TN)\nMiranda Lambert's vocals recorded... at The Saltmine (Phoenix, AZ)\nMixed... at The Study (Nashville, TN)\nMastered... at Sterling Sound (Nashville, TN)\nMiranda Lambert appears courtesy of Republic Records\n\nB3. Published by Recordings of Cosmic Intent (ASCAP) and WC Music Corp. (ASCAP) All rights administered by WC Music Corp.; Royal Peach Publishing/International Dog Music administered by Downtown DMP Songs (BMI)\nRecorded... at Historic RCA Studio A, Blackbird Studios (Nashville, TN)\nMixed... at The Study (Nashville, TN)\nMastered... at Sterling Sound (Nashville, TN)\nWillie Nelson appears courtesy of Sony Legacy\n\nB4. Published by Recordings of Cosmic Intent (ASCAP) and WC Music Corp. (ASCAP) All rights administered by WC Music Corp.; Royal Peach Publishing/International Dog Music administered by Downtown DMP Songs (BMI); Speaking Tree Music / Sony/ATV Songs LLC (BMI), Florida Room Music (BMI) administered by Me Gusta Music.\nRecorded... at The Study, Sound Emporium, Historic RCA Studio A (Nashville, TN)\n(Mixing) Engineered... at MixStar Studios (Virginia Beach, VA)\nMastered... at Sterling Sound (Nashville, TN)\n\nB5. Published by Recordings of Cosmic Intent (ASCAP) and WC Music Corp. (ASCAP) All rights administered by WC Music Corp.; © Smells Like Good Music (ASCAP). All rights administered worldwide by Reservoir Media Management, Inc.; Sony Lyric Music Publishing / CN Songs from 1508 / Crawford Mercer Music (GMR)\nRecorded... at Sound Emporium, The CABIN (Nashville, TN)\nAdditional recording... at The CABIN (Nashville, TN)\n(Mixing) Engineered... at MixStar Studios (Virginia Beach, VA)\nMastered... at Sterling Sound (Nashville, TN)\n\nB6. Published by Recordings of Cosmic Intent (ASCAP) and WC Music Corp. (ASCAP) All rights administered by WC Music Corp.; © Smells Like Good Music (ASCAP). All rights administered worldwide by Reservoir Media Management, Inc.; Sony Lyric Music Publishing / CN Songs from 1508 / Crawford Mercer Music (GMR); Smackworld Music (GMR) Art of CTM Music Outlander LP (GMR) and Warner Geo Met Ric Music (GMR)\nRecorded... at Sound Emporium (Nashville, TN)\nMixed... at The Study (Nashville, TN)\nMastered... at Sterling Sound (Nashville, TN)\n\nTex the bull appearing courtesy of Evan Tate, Tate Farms",
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/Sp7UYKy7UhU9bZlP4XymAMW4Ygzc0AZtXLUaoN4_3VM/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MjI3/NjMwLTE3Nzc2Nzg0/NzktNTU4MC5wbmc.jpeg",
+        "uri150": "https://i.discogs.com/IK7hE98P8fdbzJ-BMQK4GgP9fWu4ljRTQKt-ThZcle4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MjI3/NjMwLTE3Nzc2Nzg0/NzktNTU4MC5wbmc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/5c9VGCtDZ5KAK-OrATdbc9LHK9HvAg8PdyFLkNIUi8s/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MjI3/NjMwLTE3Nzc5OTUw/NzctNjY5NS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/gQaVmNHqpXc44MthbYCwUu0Dse72d5YvWXufKRo7Mt0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MjI3/NjMwLTE3Nzc5OTUw/NzctNjY5NS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/VAROX1rd4vl-pJEcQrapVucnwQjlknnwgnXNTZd36nQ/rs:fit/g:sm/q:90/h:583/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MjI3/NjMwLTE3Nzc5OTUw/NzktODg4Ny5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/NxOQ88ce880wwFCjN46Lr2R_q3Ncv714hmBT_fINdJE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MjI3/NjMwLTE3Nzc5OTUw/NzktODg4Ny5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/Kz41YS7tNYYVLitOryGzz908C4VBlvzroppJcgY4Pbw/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MjI3/NjMwLTE3Nzc5OTUw/ODAtMTc1Mi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/2ym7f9rsWMEmX5KhKIDnEPar4Kl3WdUXOcWbq6UCcnc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MjI3/NjMwLTE3Nzc5OTUw/ODAtMTc1Mi5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/MLhyPvEuxCCU2fYUkwHUsAyYKlcaTL3e1ztpIhj_lU0/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MjI3/NjMwLTE3Nzc5OTUw/OTUtNjY1OC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/nbXBOedSpPSC_I3Y54ZO7rIXleWKhlf5tRKi-eg14jY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MjI3/NjMwLTE3Nzc5OTUw/OTUtNjY1OC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/C375Xt7DMrAOjMUIsiTob_3eUlAN95xKXE9nOlvg4NU/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MjI3/NjMwLTE3Nzc5OTUx/MTktNjQwMS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/TE0NQdfunsaS-phE93fl1CUPbIvQP-t3jC02iii7Oqg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MjI3/NjMwLTE3Nzc5OTUx/MTktNjQwMS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/aLfd6I1r5HZgS9Q8DqJCXkrEwddzmFeHfe5Dw1Mp_5A/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MjI3/NjMwLTE3Nzc2Nzg0/ODYtMjcxNC5wbmc.jpeg",
+        "uri150": "https://i.discogs.com/t-mHJhJas0NV24rhXO7zLvNpLPhQYV569kkHGgRlvAo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MjI3/NjMwLTE3Nzc2Nzg0/ODYtMjcxNC5wbmc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/G_mxvc5lar0AgwCL8y-9FkFT5-HVZr_YKs5insF9eXo/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MjI3/NjMwLTE3Nzc5OTUx/MjItNzIzNi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/hT1IMPl6TGp3mIGIOqQWB9PA_H0Dj1-N0lg04r50Ilg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MjI3/NjMwLTE3Nzc5OTUx/MjItNzIzNi5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/AEQcqLK36bc5t2kpFNWo1tG34_6Q_i_oKJStkkMFxJU/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MjI3/NjMwLTE3Nzc5OTUx/MjMtMTA0OC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/fFj3ssbPXErMO3WBlhPDEcqdGdYK9wkMPBSmSlVEpV8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MjI3/NjMwLTE3Nzc5OTUx/MjMtMTA0OC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/ynQTNNY7NX9uDihCG-rTzAXKtvRDzxkvE1Q4S_sDlaU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MjI3/NjMwLTE3Nzc2Nzk2/MTQtMTk3My5wbmc.jpeg",
+        "uri150": "https://i.discogs.com/GbiX9GSgN0YwOIsD9tY-dimH-g-tWi896ml7cv8yJWU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MjI3/NjMwLTE3Nzc2Nzk2/MTQtMTk3My5wbmc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/r4BAVi0MadhbOilsjbal_lsMHYVjjbS1USL_QZqHOeo/rs:fit/g:sm/q:90/h:241/w:426/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MjI3/NjMwLTE3Nzc5OTUx/MjUtOTU1MC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/l6-IoSkP9sc1uJv9O5F4nJxq8ztvt8bWVYJUFCqkIaY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MjI3/NjMwLTE3Nzc5OTUx/MjUtOTU1MC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/2d5H8Am01-UNyCHPLIpgLkytodEGDHFX2bJdBx5TbYg/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MjI3/NjMwLTE3Nzc2Nzg1/MjEtOTQxNi5wbmc.jpeg",
+        "uri150": "https://i.discogs.com/KpAvaJXP2sOagbVh9McfRgFJ3dNPwMqOUbcq8xR4C6g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MjI3/NjMwLTE3Nzc2Nzg1/MjEtOTQxNi5wbmc.jpeg"
+      }
+    ],
+    "community": {
+      "rating": {
+        "count": 96,
+        "average": 4.85
+      },
+      "have": 1157,
+      "want": 55
+    },
+    "master": {
+      "id": 4210611,
+      "title": "Middle Of Nowhere",
+      "main_release": 37209330,
+      "year": 2026,
+      "uri": "https://www.discogs.com/master/4210611-Kacey-Musgraves-Middle-Of-Nowhere",
+      "num_for_sale": 104
+    }
+  },
+  "apple_music": {
+    "id": 1883176984,
+    "url": "https://music.apple.com/us/album/middle-of-nowhere/1883176984?uo=4",
+    "name": "Middle of Nowhere",
+    "artist": "Kacey Musgraves",
+    "artist_id": 466044182,
+    "artwork_url_100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/54/34/80/54348027-2a5d-c1d4-28cf-4570080baf0d/ticket.ntlfhbfe.jpg/100x100bb.jpg",
+    "artwork_url_600": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/54/34/80/54348027-2a5d-c1d4-28cf-4570080baf0d/ticket.ntlfhbfe.jpg/600x600bb.jpg",
+    "release_date": "2026-05-01T07:00:00Z",
+    "track_count": 13,
+    "copyright": "℗ 2026 Kacey Musgraves, under exclusive license to Lost Highway",
+    "primary_genre": "Country",
+    "country": "USA",
+    "tracks": [
+      {
+        "track_number": 1,
+        "disc_number": 1,
+        "name": "Middle of Nowhere",
+        "duration_ms": 156974,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/59/bd/8f/59bd8fba-dd20-b1c4-1e3e-db567811d086/mzaf_10188476690026686663.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/middle-of-nowhere/1883176984?i=1883177257&uo=4"
+      },
+      {
+        "track_number": 2,
+        "disc_number": 1,
+        "name": "Dry Spell",
+        "duration_ms": 197682,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/48/ba/3f/48ba3f3a-c17e-f0ee-b2da-d57c6e311041/mzaf_3166207278943984447.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/dry-spell/1883176984?i=1883177258&uo=4"
+      },
+      {
+        "track_number": 3,
+        "disc_number": 1,
+        "name": "Back On The Wagon",
+        "duration_ms": 231419,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/1c/e9/24/1ce924ac-2e67-27cf-60ab-c532802d58a2/mzaf_8723517121749022701.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/back-on-the-wagon/1883176984?i=1883177260&uo=4"
+      },
+      {
+        "track_number": 4,
+        "disc_number": 1,
+        "name": "I Believe In Ghosts",
+        "duration_ms": 231254,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/64/9d/46/649d46f3-bbb6-8e1b-4982-b9301fedc7dd/mzaf_8424513044740028770.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/i-believe-in-ghosts/1883176984?i=1883177261&uo=4"
+      },
+      {
+        "track_number": 5,
+        "disc_number": 1,
+        "name": "Abilene",
+        "duration_ms": 168208,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f4/20/ef/f420ef0c-092e-75d5-4ce1-f85cd8d4f094/mzaf_10774158492939321529.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/abilene/1883176984?i=1883177263&uo=4"
+      },
+      {
+        "track_number": 6,
+        "disc_number": 1,
+        "name": "Coyote (feat. Gregory Alan Isakov)",
+        "duration_ms": 192398,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/86/6d/5c/866d5c2d-454a-9578-e0db-6e5687026608/mzaf_14752871430472888737.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/coyote-feat-gregory-alan-isakov/1883176984?i=1883177264&uo=4"
+      },
+      {
+        "track_number": 7,
+        "disc_number": 1,
+        "name": "Loneliest Girl",
+        "duration_ms": 256476,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/df/bd/7f/dfbd7f3a-ad7b-8a01-cc8d-9f44fa3e3d83/mzaf_15013999604842819558.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/loneliest-girl/1883176984?i=1883177265&uo=4"
+      },
+      {
+        "track_number": 8,
+        "disc_number": 1,
+        "name": "Everybody Wants To Be A Cowboy",
+        "duration_ms": 219358,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/aa/0b/07/aa0b071c-67ed-f68f-0cc8-ef56e0a905ba/mzaf_7549750254310611002.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/everybody-wants-to-be-a-cowboy/1883176984?i=1883177266&uo=4"
+      },
+      {
+        "track_number": 9,
+        "disc_number": 1,
+        "name": "Horses and Divorces",
+        "duration_ms": 163690,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/50/b8/03/50b8039d-393e-a6ed-1965-2da52382a603/mzaf_4792740961547711869.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/horses-and-divorces/1883176984?i=1883177267&uo=4"
+      },
+      {
+        "track_number": 10,
+        "disc_number": 1,
+        "name": "Uncertain, TX",
+        "duration_ms": 213382,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a5/3a/da/a53adae0-be38-f302-6b56-ca82580971b4/mzaf_16913008182523647145.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/uncertain-tx/1883176984?i=1883177270&uo=4"
+      },
+      {
+        "track_number": 11,
+        "disc_number": 1,
+        "name": "Rhinestoned",
+        "duration_ms": 213802,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ae/0f/74/ae0f7452-502b-2f00-3b5a-1634b182e73f/mzaf_16760912712996692367.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/rhinestoned/1883176984?i=1883177271&uo=4"
+      },
+      {
+        "track_number": 12,
+        "disc_number": 1,
+        "name": "Mexico Honey",
+        "duration_ms": 223333,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/86/f5/57/86f5570b-a87a-74bf-c49a-168016bc3da1/mzaf_9832609318940066968.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/mexico-honey/1883176984?i=1883177272&uo=4"
+      },
+      {
+        "track_number": 13,
+        "disc_number": 1,
+        "name": "Hell On Me",
+        "duration_ms": 188767,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8a/6d/ab/8a6dabf7-cbff-79ad-ce2f-1f13f4473173/mzaf_16603077955050663861.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/hell-on-me/1883176984?i=1883177275&uo=4"
+      }
+    ]
+  },
+  "discrepancies": [],
+  "local_cover": "images/37227630.jpg"
+}

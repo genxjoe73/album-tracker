@@ -1,0 +1,1 @@
+Released in 1990, Mariah Carey's self-titled debut album instantly established her as a vocal powerhouse. Featuring hits like "Vision of Love," it ushered in a new era of melismatic R&B and pop dominance.

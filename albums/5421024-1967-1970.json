@@ -1,0 +1,631 @@
+{
+  "captured_at": "2026-05-10T17:03:53+00:00",
+  "schema_version": 3,
+  "artist": "The Beatles",
+  "title": "1967-1970",
+  "original_release_year": 1973,
+  "pressing_year": 1973,
+  "upgrade_suggestion": "The 2023 half-speed remaster by Miles Showell at Abbey Road (r25989073, 3×LP) is the reference upgrade for the Blue Album, sourced from the 2023 Giles Martin remix sessions. It supersedes all prior vinyl configurations for fidelity.",
+  "commentary": "Where the Red Album documented ascent, *1967–1970* — the **Blue Album** — documents a different kind of story: the Beatles at the absolute peak of their studio ambition, and then the slow, painful unraveling of the band that produced that work. The period covered begins with *Sgt. Pepper's Lonely Hearts Club Band* and runs through the psychedelic experiments of *Magical Mystery Tour* and the *White Album*, the refined classicism of *Abbey Road*, and finally the fractured, contentious sessions that produced *Let It Be* — released posthumously in May 1970 after the band had already, for all practical purposes, ceased to exist. Released on **April 2, 1973**, simultaneously with the Red Album, the Blue Album was conceived as the second half of a matched set: the two compilations together spanning the complete arc of the Beatles' recording career.\n\nThe 1973 Apple Records pressing carries the **blue Apple label** on vinyl — the label variant Apple used for Beatles releases during this period, as distinct from the green Apple used for non-Beatles Apple Records artists. **Apple Records** itself was the Beatles' own label, founded in 1968 as part of a broader corporate venture into entertainment and retail. The blue label on this pressing is original to the 1973 release and distinguishes it from the Capitol-label represses that followed in the mid-1970s. The **gatefold sleeve** for both compilations was a deliberate presentation choice, providing room for the iconic photographs — the complementary rooftop images that gave both records their visual identity and connected them visually across the matched set.\n\nDespite the Apple Records label on the sleeve and vinyl, the actual mastering work for the US pressing was done at Capitol's facilities, and the deadwax codes reflect this. The notation **CCD** on Side 2 identifies **Capitol Custom Disc**, Capitol's Hollywood mastering division, which handled custom and compilation work for the label and its affiliates. CCD's involvement here is consistent with the compilation's status as a major release requiring dedicated mastering attention rather than routine production.\n\nThe **F- and G-series lacquer matrix numbers** across the four sides (F40, G42, G11, F48) place this pressing in mid-run Capitol cutting activity. The earliest lacquers for any given Capitol title tend to carry the highest-letter designations — H, Z — representing the first cuts from the source tape. F and G cuts are later in sequence, indicating this pressing was manufactured after the initial pressing campaign had consumed the earliest lacquers. This is consistent with a mid-to-late 1973 date, plausibly later in the year rather than from the very first April pressing run. The **+8** notation on Side 4 is a **stamper** designation indicating the generation number of the stamper used for that side.\n\n**About this 1973 US Apple Records pressing (2×LP, gatefold):** Apple Records catalog **SKBO-3404**, blue Apple label on vinyl, gatefold sleeve. Deadwax: Side 1 `SKBO-1-3404 F40` / Side 2 `SKBO-2-3404 G42 CCD` / Side 3 `SKBO-3-3404 G11` / Side 4 `SKBO-4-3404 F48 +8`. **CCD** on Side 2 = Capitol Custom Disc (Capitol Hollywood mastering). F/G lacquer series = mid-run cutting, consistent with mid-to-late 1973. The `+8` on Side 4 is a stamper notation. Note: this exact deadwax combination does not appear as a standalone Discogs entry and is captured against r5421024 as the closest documented variant.\n\n### Gemini Notes\n\nReleased in 1973, the \"Blue Album\" compiles The Beatles' later, more experimental and culturally defining work. It captures their unmatched evolution from studio innovators into a global countercultural phenomenon.\n\n**About this pressing:**",
+  "discogs": {
+    "release_id": 5421024,
+    "master_id": 24155,
+    "uri": "https://www.discogs.com/release/5421024-The-Beatles-1967-1970",
+    "title": "1967-1970",
+    "artists": [
+      {
+        "name": "The Beatles",
+        "id": 82730,
+        "role": null
+      }
+    ],
+    "year": 1973,
+    "released": "1973-04-02",
+    "country": "US",
+    "labels": [
+      {
+        "name": "Apple Records",
+        "catno": "SKBO 3404",
+        "id": 25693
+      }
+    ],
+    "formats": [
+      {
+        "name": "Vinyl",
+        "qty": "2",
+        "descriptions": [
+          "LP",
+          "Compilation"
+        ],
+        "text": "Gatefold Sleeve"
+      }
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Pop Rock",
+      "Psychedelic Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Strawberry Fields Forever",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "A2",
+        "title": "Penny Lane",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "A3",
+        "title": "Sgt. Pepper's Lonely Hearts Club Band",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "A4",
+        "title": "With A Little Help From My Friends",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "A5",
+        "title": "Lucy In The Sky With Diamonds",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "A6",
+        "title": "A Day In The Life",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "A7",
+        "title": "All You Need Is Love",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B1",
+        "title": "I Am The Walrus",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B2",
+        "title": "Hello Goodbye",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B3",
+        "title": "The Fool On The Hill",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B4",
+        "title": "Magical Mystery Tour",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B5",
+        "title": "Lady Madonna",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B6",
+        "title": "Hey Jude",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B7",
+        "title": "Revolution",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "C1",
+        "title": "Back In The U.S.S.R.",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "C2",
+        "title": "While My Guitar Gently Weeps",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "C3",
+        "title": "Ob-La-Di, Ob-La-Da",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "C4",
+        "title": "Get Back",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "C5",
+        "title": "Don't Let Me Down",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "C6",
+        "title": "The Ballad Of John & Yoko",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "C7",
+        "title": "Old Brown Shoe",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "D1",
+        "title": "Here Comes The Sun",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "D2",
+        "title": "Come Together",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "D3",
+        "title": "Something",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "D4",
+        "title": "Octopus's Garden",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "D5",
+        "title": "Let It Be",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "D6",
+        "title": "Across The Universe",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "D7",
+        "title": "The Long And Winding Road",
+        "duration": "",
+        "type": "track"
+      }
+    ],
+    "extraartists": [
+      {
+        "name": "George Martin",
+        "role": "Producer",
+        "id": 259769
+      },
+      {
+        "name": "Phil Spector",
+        "role": "Producer",
+        "id": 190767
+      },
+      {
+        "name": "George Harrison",
+        "role": "Written-By",
+        "id": 243955
+      },
+      {
+        "name": "Lennon-McCartney",
+        "role": "Written-By",
+        "id": 779927
+      },
+      {
+        "name": "Richard Starkey",
+        "role": "Written-By",
+        "id": 298525
+      }
+    ],
+    "identifiers": [
+      {
+        "type": "Matrix / Runout",
+        "value": "1-3404-H-14",
+        "description": "Side A Etched"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "SKBO-2-3404-G-17",
+        "description": "Side B Etched"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "3-3404-H-13",
+        "description": "Side C Etched"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "SKBO-4-3404 Z13",
+        "description": "Side D Etched"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "Mastered by Capitol",
+        "description": "Sides A, B, & C Stamped"
+      },
+      {
+        "type": "Rights Society",
+        "value": "BMI / ASCAP",
+        "description": null
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "SKBO-1-3404-F15#4",
+        "description": "Variant Side A Etched"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "SKBO-2-3404-F16#3",
+        "description": "Variant Side B Etched"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "SKBO-3-3404-F14#3",
+        "description": "Variant Side C Etched"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "SKBO-4-3404-F26#4",
+        "description": "Variant Side D Etched"
+      }
+    ],
+    "notes": "Gatefold sleeve with printed inner sleeves containing lyrics. \r\n\r\nCenter labels:\r\nMfd. Apple Records, Inc.\r\n℗ 1973 Apple Records, Inc. \r\n\r\nA1 to A7, B2, B5 to B7, C1 to C7, D1 to D7: BMI\r\nB1, B3, B4: ASCAP",
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/Vr8mvV637GiYL9eDKbkhuCyz_YLeaZ4uXj9KSTny9_I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MjEw/MjQtMTYyOTM5NDUz/Ny0xNzk5LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/7XeyL8Ana14lxjgOotkMfLKU7kM72F8e3V0AoCc5Ejk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MjEw/MjQtMTYyOTM5NDUz/Ny0xNzk5LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/i3vKwIxkwzUnxALlhExvjyrMHe6GA5AF-d_CdgJbKGM/rs:fit/g:sm/q:90/h:600/w:576/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MjEw/MjQtMTM5MjkyNDk4/Mi00ODk4LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/744_UlZUIf8QVOr3MeTYK7T6oTBFOJZk1csOwI7QuXU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MjEw/MjQtMTM5MjkyNDk4/Mi00ODk4LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/oEYj7Yfc060pvyh56OdrAM1aS3qFEuhSIlA-dsSdni8/rs:fit/g:sm/q:90/h:600/w:574/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MjEw/MjQtMTM5MjkyNDk4/Mi02NDg3LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/A4ogMBABlNxUK7ZLPPcMMijcIsAOpP9Zm6F1afQT-Bg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MjEw/MjQtMTM5MjkyNDk4/Mi02NDg3LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/byAItENISG0JQ0VS__pJelWQwheY1U57Gcfl0W2EhBk/rs:fit/g:sm/q:90/h:583/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MjEw/MjQtMTM5MjkyNDk4/Mi00MTU2LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/YzwyTFCupcev3hBQDMAmyOig57jSWeLfDSLVXhzRT-g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MjEw/MjQtMTM5MjkyNDk4/Mi00MTU2LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/l2tO6XbJtrNetn5VNS0fsR1i-E0SORwyq0KV1L-yyBU/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MjEw/MjQtMTM5MjkyNDk4/Mi01MDUwLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/3gaZxBuvkc1JDIKLhpCTYcTZMPzAyzvXYKmr1-WD-AU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MjEw/MjQtMTM5MjkyNDk4/Mi01MDUwLmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/6a_xgZ24Zdj1eHYV57HvA2Clm3RL1bZ4Csq5JMMJ28c/rs:fit/g:sm/q:90/h:579/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MjEw/MjQtMTM5MjkyNDk4/Mi0zOTU2LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/yeHOJM9-iy8AL9ZI77RY-X5_-S-nQXSXH7vovvxszKQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MjEw/MjQtMTM5MjkyNDk4/Mi0zOTU2LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/OCj-xu4_aHAAxpYBdkAekUwWXEOiH7fKumMR9Nk0rDg/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MjEw/MjQtMTM5MjkyNDk4/Mi03MDM4LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/PaPFhVfocxgkvAlH6JIcinvUoz3NGShfbIUdaOGXN_w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MjEw/MjQtMTM5MjkyNDk4/Mi03MDM4LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/ZMA7usv5s_eXnRJrPCcyE4lse3SFV1N6x7i_ZI1tL7M/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MjEw/MjQtMTM5MjkyNDk4/MS02MTc4LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/EP5JsE7SWfZTezDmCZZtOiLqeh4_UVGJxDYyZXKoZMQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MjEw/MjQtMTM5MjkyNDk4/MS02MTc4LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/2QHjivrcl_cDFHCGyZXq2wwKfMZl5i8nSqwYFw5gxEA/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MjEw/MjQtMTM5MjkyNDk4/MS0yOTAwLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/5NOuaiiIATkXnIVYsL2l7xxv6iqoFr65SeWCjd6Fi2w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MjEw/MjQtMTM5MjkyNDk4/MS0yOTAwLmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/SW5dreLmhEXB0N7JqLW95ASDDw5pNEz1DJq5E6nNcvk/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MjEw/MjQtMTM5MjkyNDk4/Mi02NTM1LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/PKzCRRm_tcKjaKh3DXq-_vSsbBP-a7iCAdkSr56NRA4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MjEw/MjQtMTM5MjkyNDk4/Mi02NTM1LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/J4Ne-Uhx5ZeEzMPnAP9dlcjIs0UgUr3jeFF1AJBAzik/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MjEw/MjQtMTM5MjkyNDk4/Mi0yNjg2LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/07Qi6tAHLEo7DOj3TnhGfaAKdVRDxfEhSGNG3RW--9c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MjEw/MjQtMTM5MjkyNDk4/Mi0yNjg2LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/TPO2VQg-dK7n1IUcGbtFINmAVzzpKnzYOkqdl6Qg0rE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MjEw/MjQtMTM5MjkyNDk4/MS05ODM0LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/kzX7YR8KreugiDvssfeP7otPSpLux-KKfDSnO3gcXQE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MjEw/MjQtMTM5MjkyNDk4/MS05ODM0LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/H64aq0x9yqD36Idaa3i4pi4-7Mhuuv6TAO5muVA7H_Y/rs:fit/g:sm/q:90/h:296/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MjEw/MjQtMTM5MjkyNDk4/MS0zMTEwLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/_zPKQjehGWD3dyoAbxm1pJR3sdqnV9g_Kh6RyVL9oeY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MjEw/MjQtMTM5MjkyNDk4/MS0zMTEwLmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/DKKjtWi5pe-FXwrSfVgz1LvGpZ2E5cDQ79529toVxnI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MjEw/MjQtMTM5MjkyNDk4/MS00ODUxLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/R6MfL-BCo6Ix4owBBtQiP1VUJQ05LBNchztX4u7Yyk8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MjEw/MjQtMTM5MjkyNDk4/MS00ODUxLmpwZWc.jpeg"
+      }
+    ],
+    "community": {
+      "rating": {
+        "count": 182,
+        "average": 4.47
+      },
+      "have": 3160,
+      "want": 316
+    },
+    "master": {
+      "id": 24155,
+      "title": "1967-1970",
+      "main_release": 851518,
+      "year": 1973,
+      "uri": "https://www.discogs.com/master/24155-The-Beatles-1967-1970",
+      "num_for_sale": 5697
+    }
+  },
+  "apple_music": {
+    "id": 1441133100,
+    "url": "https://music.apple.com/us/album/the-beatles-1967-1970-the-blue-album/1441133100?uo=4",
+    "name": "The Beatles 1967-1970 (The Blue Album)",
+    "artist": "The Beatles",
+    "artist_id": 136975,
+    "artwork_url_100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a6/8b/65/a68b657c-cac6-68e6-3bde-b79d58fbc795/18UMGIM30762.rgb.jpg/100x100bb.jpg",
+    "artwork_url_600": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a6/8b/65/a68b657c-cac6-68e6-3bde-b79d58fbc795/18UMGIM30762.rgb.jpg/600x600bb.jpg",
+    "release_date": "1973-04-02T08:00:00Z",
+    "track_count": 29,
+    "copyright": "This Compilation ℗ 2010 Calderstone Productions Limited (a division of Universal Music Group)",
+    "primary_genre": "Rock",
+    "country": "USA",
+    "tracks": [
+      {
+        "track_number": 1,
+        "disc_number": 1,
+        "name": "Strawberry Fields Forever",
+        "duration_ms": 247933,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/01/bc/c5/01bcc5e6-b94c-41b9-878c-c67549d73bef/mzaf_16216832087310258457.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/strawberry-fields-forever/1441133100?i=1441133101&uo=4"
+      },
+      {
+        "track_number": 2,
+        "disc_number": 1,
+        "name": "Penny Lane",
+        "duration_ms": 181600,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c5/ba/44/c5ba44c4-aa9c-ae04-68d7-068bf04bf981/mzaf_7018200867491766959.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/penny-lane/1441133100?i=1441133102&uo=4"
+      },
+      {
+        "track_number": 3,
+        "disc_number": 1,
+        "name": "Sgt. Pepper's Lonely Hearts Club Band",
+        "duration_ms": 122133,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d4/94/f0/d494f025-652e-ca1d-1c83-5b292c8da459/mzaf_7664360007712938433.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/sgt-peppers-lonely-hearts-club-band/1441133100?i=1441133109&uo=4"
+      },
+      {
+        "track_number": 4,
+        "disc_number": 1,
+        "name": "With a Little Help From My Friends",
+        "duration_ms": 164187,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/bb/cc/52/bbcc527f-75e7-2edc-1351-6712932920f5/mzaf_18053291498396148522.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/with-a-little-help-from-my-friends/1441133100?i=1441133267&uo=4"
+      },
+      {
+        "track_number": 5,
+        "disc_number": 1,
+        "name": "Lucy In the Sky with Diamonds",
+        "duration_ms": 209667,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/75/72/5a/75725a22-7dee-8d43-318f-7cb9631c403c/mzaf_5506199426467322213.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/lucy-in-the-sky-with-diamonds/1441133100?i=1441133268&uo=4"
+      },
+      {
+        "track_number": 6,
+        "disc_number": 1,
+        "name": "A Day In the Life",
+        "duration_ms": 307680,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1c/ce/16/1cce1692-067b-cbc4-0c1f-2c924d876855/mzaf_13032849534270075393.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/a-day-in-the-life/1441133100?i=1441133270&uo=4"
+      },
+      {
+        "track_number": 7,
+        "disc_number": 1,
+        "name": "All You Need Is Love",
+        "duration_ms": 228653,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/2d/f0/94/2df09422-8733-9d67-6d7e-239de8e6e8ff/mzaf_16329476949469886766.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/all-you-need-is-love/1441133100?i=1441133271&uo=4"
+      },
+      {
+        "track_number": 8,
+        "disc_number": 1,
+        "name": "I Am the Walrus",
+        "duration_ms": 275680,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/17/e5/df/17e5dfb0-dc19-a22c-e47d-24503eb8799c/mzaf_7679000234006155324.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/i-am-the-walrus/1441133100?i=1441133272&uo=4"
+      },
+      {
+        "track_number": 9,
+        "disc_number": 1,
+        "name": "Hello, Goodbye",
+        "duration_ms": 209893,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/21/27/aa/2127aac9-2446-2f33-1671-f35036536ad0/mzaf_12139168413873240733.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/hello-goodbye/1441133100?i=1441133273&uo=4"
+      },
+      {
+        "track_number": 10,
+        "disc_number": 1,
+        "name": "The Fool On the Hill",
+        "duration_ms": 180253,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e3/d4/48/e3d448ea-bbe7-a183-62a3-a63e85583a5b/mzaf_8948741010870055696.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/the-fool-on-the-hill/1441133100?i=1441133274&uo=4"
+      },
+      {
+        "track_number": 11,
+        "disc_number": 1,
+        "name": "Magical Mystery Tour",
+        "duration_ms": 169133,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/22/1d/46/221d4650-d0e5-1b31-4132-ee6e258fa59e/mzaf_13477371972644578952.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/magical-mystery-tour/1441133100?i=1441133275&uo=4"
+      },
+      {
+        "track_number": 12,
+        "disc_number": 1,
+        "name": "Lady Madonna",
+        "duration_ms": 138987,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/89/f4/03/89f403a4-f173-9d03-a3c2-5cceedd4cd7f/mzaf_11242330814416710934.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/lady-madonna/1441133100?i=1441133276&uo=4"
+      },
+      {
+        "track_number": 13,
+        "disc_number": 1,
+        "name": "Hey Jude",
+        "duration_ms": 431333,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/3d/08/f5/3d08f5d7-1e0a-99d9-1085-d50ecc972bb9/mzaf_1689604474306790314.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/hey-jude/1441133100?i=1441133277&uo=4"
+      },
+      {
+        "track_number": 14,
+        "disc_number": 1,
+        "name": "Revolution",
+        "duration_ms": 203292,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/69/88/17/69881708-0b82-b3b4-552b-366604734847/mzaf_13466256995441533652.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/revolution/1441133100?i=1441133279&uo=4"
+      },
+      {
+        "track_number": 1,
+        "disc_number": 2,
+        "name": "Back In the U.S.S.R.",
+        "duration_ms": 165760,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/af/2a/34/af2a346f-56d7-bddb-b836-db8f84e01cb2/mzaf_10384738475058504538.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/back-in-the-u-s-s-r/1441133100?i=1441133280&uo=4"
+      },
+      {
+        "track_number": 2,
+        "disc_number": 2,
+        "name": "While My Guitar Gently Weeps",
+        "duration_ms": 286840,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/32/31/ec/3231ec27-d757-cd03-2f28-08919284c82a/mzaf_14594164292007939728.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/while-my-guitar-gently-weeps/1441133100?i=1441133281&uo=4"
+      },
+      {
+        "track_number": 3,
+        "disc_number": 2,
+        "name": "Ob-La-Di, Ob-La-Da",
+        "duration_ms": 191387,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ff/42/0f/ff420f7e-29ca-6581-d192-41a2776bbc55/mzaf_14400433292251306225.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/ob-la-di-ob-la-da/1441133100?i=1441133282&uo=4"
+      },
+      {
+        "track_number": 4,
+        "disc_number": 2,
+        "name": "Get Back",
+        "duration_ms": 192667,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/63/92/25/6392257d-541b-5c01-d971-11a628a6e9dd/mzaf_7181829990321817914.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/get-back/1441133100?i=1441133283&uo=4"
+      },
+      {
+        "track_number": 5,
+        "disc_number": 2,
+        "name": "Don't Let Me Down",
+        "duration_ms": 215733,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ed/81/e4/ed81e401-62aa-ec77-e074-814b027c3458/mzaf_9768523682072995383.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/dont-let-me-down/1441133100?i=1441133286&uo=4"
+      },
+      {
+        "track_number": 6,
+        "disc_number": 2,
+        "name": "The Ballad of John and Yoko",
+        "duration_ms": 181067,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d1/0f/3a/d10f3aee-1222-12b2-03c4-68800c68b851/mzaf_1643259255276931416.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/the-ballad-of-john-and-yoko/1441133100?i=1441133287&uo=4"
+      },
+      {
+        "track_number": 7,
+        "disc_number": 2,
+        "name": "Old Brown Shoe",
+        "duration_ms": 201133,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/92/d9/9f/92d99f04-0387-5f69-cb83-11f99f2f72b7/mzaf_14799397007943746131.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/old-brown-shoe/1441133100?i=1441133288&uo=4"
+      },
+      {
+        "track_number": 8,
+        "disc_number": 2,
+        "name": "Here Comes the Sun",
+        "duration_ms": 187373,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/51/3a/96/513a96da-2f80-c181-a880-753756076b7b/mzaf_13974734574602798517.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/here-comes-the-sun/1441133100?i=1441133289&uo=4"
+      },
+      {
+        "track_number": 9,
+        "disc_number": 2,
+        "name": "Come Together",
+        "duration_ms": 259667,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/52/6f/df/526fdf33-e3df-2b6c-966e-68d38ea89c68/mzaf_9876069503080794881.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/come-together/1441133100?i=1441133290&uo=4"
+      },
+      {
+        "track_number": 10,
+        "disc_number": 2,
+        "name": "Something",
+        "duration_ms": 183800,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c4/11/35/c41135dc-cc9e-7bd9-9138-9e302fba1eaf/mzaf_17590591540963101995.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/something/1441133100?i=1441133501&uo=4"
+      },
+      {
+        "track_number": 11,
+        "disc_number": 2,
+        "name": "Octopus's Garden",
+        "duration_ms": 172333,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ba/0a/e3/ba0ae376-79a1-8c0f-e8e9-cbc490276b20/mzaf_667933490232000220.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/octopuss-garden/1441133100?i=1441133504&uo=4"
+      },
+      {
+        "track_number": 12,
+        "disc_number": 2,
+        "name": "Let It Be",
+        "duration_ms": 232373,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/fa/e6/fe/fae6fe41-92b1-564a-c849-d527055276ff/mzaf_4120874178705864578.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/let-it-be/1441133100?i=1441133505&uo=4"
+      },
+      {
+        "track_number": 13,
+        "disc_number": 2,
+        "name": "Across the Universe",
+        "duration_ms": 229787,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f9/7b/59/f97b5957-a25d-54ff-0435-4e0763a0a62d/mzaf_12902583961331845277.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/across-the-universe/1441133100?i=1441133506&uo=4"
+      },
+      {
+        "track_number": 14,
+        "disc_number": 2,
+        "name": "The Long and Winding Road",
+        "duration_ms": 218262,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/dd/16/73/dd16731f-a354-8a59-d285-137b4ceb9291/mzaf_11187930378073934854.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/the-long-and-winding-road/1441133100?i=1441133507&uo=4"
+      }
+    ]
+  },
+  "discrepancies": [],
+  "local_cover": "images/5421024.jpg"
+}

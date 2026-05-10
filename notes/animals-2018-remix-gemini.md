@@ -1,0 +1,1 @@
+Pink Floyd's 1977 album *Animals* is a biting, Orwellian critique of late-capitalist society. Long considered the band's muddiest sounding classic-era album, the 2018 remix by James Guthrie significantly opens up the soundstage, revealing new details in Richard Wright's keyboards and Nick Mason's drumming.

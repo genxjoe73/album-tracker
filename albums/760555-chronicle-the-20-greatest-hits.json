@@ -1,0 +1,505 @@
+{
+  "captured_at": "2026-05-10T19:58:45+00:00",
+  "schema_version": 3,
+  "artist": "Creedence Clearwater Revival / John Fogerty",
+  "title": "Chronicle - The 20 Greatest Hits",
+  "original_release_year": 1976,
+  "pressing_year": 1976,
+  "upgrade_suggestion": "This is a 1976 original pressing by Fantasy Records, not a remaster or reissue. No modern audiophile reissue of Chronicle has been issued, and the original David Turner master from 1976 represents the sole vinyl lineage for this album. Your mid-series G# lacquer pressing is a collectible original, preserved from the initial manufacturing run.",
+  "commentary": "**Chronicle: The 20 Greatest Hits** is a compilation by Creedence Clearwater Revival released in January 1976 by **Fantasy Records**. CCR had disbanded in 1972, and by 1976, the catalog had accumulated enough distance and cultural resonance to support a definitive retrospective. The 20-track selection spans their entire run from 1967 to 1970 — \"Susie Q\" (the John Lee Hooker cover that launched them), \"Proud Mary,\" \"Bad Moon Rising,\" \"Fortunate Son,\" \"Green River,\" and \"Lookin' Out My Back Door,\" among others. *Chronicle* became one of CCR's best-selling releases and remains the standard compilation by which the band is known to casual listeners.\n\n**Fantasy Records** was the independent label that released all of CCR's studio albums and held the master tapes and publishing rights throughout the band's career and beyond. The label was founded by **Saul Zaentz** in the 1950s and built on jazz catalog; CCR's commercial dominance from 1969 onward transformed Fantasy into a major force in the American recording industry. This 1976 pressing was manufactured and distributed from Fantasy's headquarters in **Berkeley, California**, as indicated on the label.\n\nEarly pressings of *Chronicle* carry the **⁀..⁀ symbol** in the deadwax, indicating mastering by **David Turner**, Fantasy's house mastering engineer. Your copy carries a **`G#` lacquer designation**, suggesting a mid-series pressing — later in the initial production run but before the \"mixed plates\" configuration that appears on later repressings. The random **`P` etch** is an individual engineer or QC mark.\n\n**About this 1976 US pressing (2×LP, gatefold):** Fantasy Records catalog **CCR-2**, manufactured and distributed from **Berkeley, California**. Mastered by **David Turner** (indicated by ⁀..⁀ on early copies; your pressing carries `G#` lacquer). Deadwax: `CCR-2` / `G#` / `P`. Gatefold sleeve. No barcode (original 1976 pressing).\n\n### Gemini Notes\n\nReleased in 1976, *Chronicle: The 20 Greatest Hits* is the definitive compilation of Creedence Clearwater Revival's unmatched run of late-60s and early-70s singles. Featuring John Fogerty's swamp-rock songwriting mastery, it remains one of the best-selling greatest hits albums in music history.\n\n**About this pressing:**",
+  "discogs": {
+    "release_id": 760555,
+    "master_id": 55427,
+    "uri": "https://www.discogs.com/release/760555-Creedence-Clearwater-Revival-Featuring-John-Fogerty-Chronicle-The-20-Greatest-Hits",
+    "title": "Chronicle - The 20 Greatest Hits",
+    "artists": [
+      {
+        "name": "Creedence Clearwater Revival",
+        "id": 252102,
+        "role": null
+      },
+      {
+        "name": "John Fogerty",
+        "id": 260458,
+        "role": null
+      }
+    ],
+    "year": 1976,
+    "released": "1976",
+    "country": "US",
+    "labels": [
+      {
+        "name": "Fantasy",
+        "catno": "CCR-2",
+        "id": 1329
+      }
+    ],
+    "formats": [
+      {
+        "name": "Vinyl",
+        "qty": "2",
+        "descriptions": [
+          "LP",
+          "Compilation"
+        ],
+        "text": "Terre Haute Pressing"
+      }
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Classic Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Susie Q",
+        "duration": "4:36",
+        "type": "track"
+      },
+      {
+        "position": "A2",
+        "title": "I Put A Spell On You",
+        "duration": "4:30",
+        "type": "track"
+      },
+      {
+        "position": "A3",
+        "title": "Proud Mary",
+        "duration": "3:07",
+        "type": "track"
+      },
+      {
+        "position": "A4",
+        "title": "Bad Moon Rising",
+        "duration": "2:18",
+        "type": "track"
+      },
+      {
+        "position": "B1",
+        "title": "Lodi",
+        "duration": "3:10",
+        "type": "track"
+      },
+      {
+        "position": "B2",
+        "title": "Green River",
+        "duration": "2:32",
+        "type": "track"
+      },
+      {
+        "position": "B3",
+        "title": "Commotion",
+        "duration": "2:41",
+        "type": "track"
+      },
+      {
+        "position": "B4",
+        "title": "Down On The Corner",
+        "duration": "2:39",
+        "type": "track"
+      },
+      {
+        "position": "B5",
+        "title": "Fortunate Son",
+        "duration": "2:18",
+        "type": "track"
+      },
+      {
+        "position": "B6",
+        "title": "Travelin' Band",
+        "duration": "2:06",
+        "type": "track"
+      },
+      {
+        "position": "C1",
+        "title": "Who'll Stop The Rain",
+        "duration": "2:27",
+        "type": "track"
+      },
+      {
+        "position": "C2",
+        "title": "Up Around The Bend",
+        "duration": "2:41",
+        "type": "track"
+      },
+      {
+        "position": "C3",
+        "title": "Run Through The Jungle",
+        "duration": "3:05",
+        "type": "track"
+      },
+      {
+        "position": "C4",
+        "title": "Lookin' Out My Back Door",
+        "duration": "2:31",
+        "type": "track"
+      },
+      {
+        "position": "C5",
+        "title": "Long As I Can See The Light",
+        "duration": "3:33",
+        "type": "track"
+      },
+      {
+        "position": "D1",
+        "title": "I Heard It Through The Grapevine",
+        "duration": "3:52",
+        "type": "track"
+      },
+      {
+        "position": "D2",
+        "title": "Have You Ever Seen The Rain?",
+        "duration": "2:39",
+        "type": "track"
+      },
+      {
+        "position": "D3",
+        "title": "Hey Tonight",
+        "duration": "2:43",
+        "type": "track"
+      },
+      {
+        "position": "D4",
+        "title": "Sweet Hitch-Hiker",
+        "duration": "2:57",
+        "type": "track"
+      },
+      {
+        "position": "D5",
+        "title": "Someday Never Comes",
+        "duration": "3:59",
+        "type": "track"
+      }
+    ],
+    "extraartists": [
+      {
+        "name": "Phil Carroll",
+        "role": "Art Direction, Design",
+        "id": 609456
+      },
+      {
+        "name": "Stu Cook",
+        "role": "Bass",
+        "id": 293633
+      },
+      {
+        "name": "Doug Clifford",
+        "role": "Drums",
+        "id": 293635
+      },
+      {
+        "name": "Tom Fogerty",
+        "role": "Guitar",
+        "id": 293634
+      },
+      {
+        "name": "David Turner (2)",
+        "role": "Lacquer Cut By",
+        "id": 696890
+      },
+      {
+        "name": "John Fogerty",
+        "role": "Lead Guitar, Vocals",
+        "id": 260458
+      },
+      {
+        "name": "Jim Marshall",
+        "role": "Photography",
+        "id": 0
+      },
+      {
+        "name": "John Fogerty",
+        "role": "Producer, Arranged By",
+        "id": 260458
+      }
+    ],
+    "identifiers": [
+      {
+        "type": "Rights Society",
+        "value": "BMI",
+        "description": null
+      },
+      {
+        "type": "Rights Society",
+        "value": "ASCAP",
+        "description": null
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "CCR-2-A",
+        "description": "Label side A"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "CCR-2-B",
+        "description": "Label side B"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "CCR-2-C",
+        "description": "Label side C"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "CCR-2-D",
+        "description": "Label side D"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "T 1 CCR2A - 1  ⁀..⁀",
+        "description": "Runout side A, etched"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "T 1 CCR 2B - 1  ⁀..⁀",
+        "description": "Runout side B, etched"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "T 1 CCR 2C - 1  ⁀..⁀",
+        "description": "Runout side C, etched"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "T 1 CCR2D - 2  ⁀..⁀",
+        "description": "Runout side D, etched"
+      }
+    ],
+    "notes": "Record 1: Sides 1 & 4\nRecord 2: Sides 2 & 3\n\nRunouts on early copies have ⁀..⁀ indicating mastering by David Turner.\nLater pressings have mixed plates.\n\n(P)1976 Fantasy Records\n(C)1976 Fantasy Records\n\nGatefold Cover\n",
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/AqrCx_btXnL2cwfqAknwIbH_VOxRHcSqM8u7xy0KatE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MDU1/NS0xNTQzMDIyOTI2/LTgzNjkuanBlZw.jpeg",
+        "uri150": "https://i.discogs.com/TwHPerrK6xjSnQvIvUdXAw9kpmsgZbLWPm1mDowihuY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MDU1/NS0xNTQzMDIyOTI2/LTgzNjkuanBlZw.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/b9586hHKloSb9AY_Ku563FF_ijeoxNQznlw09VDMVpM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MDU1/NS0xNTQzMDIyOTM0/LTkzMzkuanBlZw.jpeg",
+        "uri150": "https://i.discogs.com/UMAU17bDKhNtcsfxfqkjZxyGkoJWRd8RhM8Y3H3btY8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MDU1/NS0xNTQzMDIyOTM0/LTkzMzkuanBlZw.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/XsHKqj-_0wLS5lt2rWBxBoyv-f0xIL8KAwgSik30G1Q/rs:fit/g:sm/q:90/h:291/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MDU1/NS0xNTQzMDIyOTgw/LTE4MzIuanBlZw.jpeg",
+        "uri150": "https://i.discogs.com/ao-_3bStUqz79cEH0YSK1sHUiJ3vlSwgJETdeF4HTTA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MDU1/NS0xNTQzMDIyOTgw/LTE4MzIuanBlZw.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/WrPRw565qq_kNmR2RC5WnjkzskpAu895CASa8WRqP_A/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MDU1/NS0xNTQzMDIyOTM3/LTI1MjQuanBlZw.jpeg",
+        "uri150": "https://i.discogs.com/Rgqb-_HUF1EnmCwQrZQbeQk3_Yw3qvRh5T9Y0YLa7WA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MDU1/NS0xNTQzMDIyOTM3/LTI1MjQuanBlZw.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/nVDC7CNITbGJA2hPBQzhHiJPESv_F0f1DTTzYlCoR0M/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MDU1/NS0xNTQzMDIyOTM4/LTQ3NzEuanBlZw.jpeg",
+        "uri150": "https://i.discogs.com/w_HGfrZVYCKB4U2F5vHA_IFmrwuKcMgC-BA5OpMXJjw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MDU1/NS0xNTQzMDIyOTM4/LTQ3NzEuanBlZw.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/I8_AXB_ZE_ezFZQ4B1xCC2Dzh_AVDhcdFWDd0i4s5lI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MDU1/NS0xNTQzMDIyOTM4/LTM0OTIuanBlZw.jpeg",
+        "uri150": "https://i.discogs.com/38QYMqZpZ9R448VIFymPczVmIKghCZGmlwy27Zmydss/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MDU1/NS0xNTQzMDIyOTM4/LTM0OTIuanBlZw.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/glROBrj8O7axsex4Lk19X8m_X6BNfgiNUC9iQfZBMbk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MDU1/NS0xNTQzMDIyOTM4/LTcwMzUuanBlZw.jpeg",
+        "uri150": "https://i.discogs.com/-6WUB7xqNeFZx4hRHNMZQ20IAB1LylQ88UvUibOL-mk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MDU1/NS0xNTQzMDIyOTM4/LTcwMzUuanBlZw.jpeg"
+      }
+    ],
+    "community": {
+      "rating": {
+        "count": 709,
+        "average": 4.45
+      },
+      "have": 10319,
+      "want": 753
+    },
+    "master": {
+      "id": 55427,
+      "title": "Chronicle - The 20 Greatest Hits",
+      "main_release": 9719570,
+      "year": 1976,
+      "uri": "https://www.discogs.com/master/55427-Creedence-Clearwater-Revival-Featuring-John-Fogerty-Chronicle-The-20-Greatest-Hits",
+      "num_for_sale": 2622
+    }
+  },
+  "apple_music": {
+    "id": 1440955595,
+    "url": "https://music.apple.com/us/album/chronicle-the-20-greatest-hits/1440955595?uo=4",
+    "name": "Chronicle: The 20 Greatest Hits",
+    "artist": "Creedence Clearwater Revival",
+    "artist_id": 2083606,
+    "artwork_url_100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a1/47/ba/a147ba91-31cd-ef4d-d785-040036d14598/12CMGIM34362.rgb.jpg/100x100bb.jpg",
+    "artwork_url_600": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a1/47/ba/a147ba91-31cd-ef4d-d785-040036d14598/12CMGIM34362.rgb.jpg/600x600bb.jpg",
+    "release_date": "1976-01-01T08:00:00Z",
+    "track_count": 20,
+    "copyright": "This Compilation ℗ 2011 Concord Music Group, Inc.",
+    "primary_genre": "Rock",
+    "country": "USA",
+    "tracks": [
+      {
+        "track_number": 1,
+        "disc_number": 1,
+        "name": "Susie Q",
+        "duration_ms": 274363,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/96/70/f5/9670f55e-6dbb-487f-b10c-3889bf841554/mzaf_16156039033685499095.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/susie-q/1440955595?i=1440955816&uo=4"
+      },
+      {
+        "track_number": 2,
+        "disc_number": 1,
+        "name": "I Put a Spell On You",
+        "duration_ms": 271570,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/6f/fb/18/6ffb1839-b74d-83fd-e419-355157737de5/mzaf_6940512560503931829.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/i-put-a-spell-on-you/1440955595?i=1440955823&uo=4"
+      },
+      {
+        "track_number": 3,
+        "disc_number": 1,
+        "name": "Proud Mary",
+        "duration_ms": 187473,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/23/99/de/2399de47-d5bb-ea0c-a447-1bab38c359a2/mzaf_2999904675923731756.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/proud-mary/1440955595?i=1440955828&uo=4"
+      },
+      {
+        "track_number": 4,
+        "disc_number": 1,
+        "name": "Bad Moon Rising",
+        "duration_ms": 140257,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/c5/1a/c9/c51ac904-8ed5-9915-15c8-e89ddc72a52b/mzaf_11851919257040385797.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/bad-moon-rising/1440955595?i=1440955834&uo=4"
+      },
+      {
+        "track_number": 5,
+        "disc_number": 1,
+        "name": "Lodi",
+        "duration_ms": 190996,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/cf/13/68/cf136865-82a4-0e85-b262-dbb491fbd6d5/mzaf_11682993980750131446.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/lodi/1440955595?i=1440955837&uo=4"
+      },
+      {
+        "track_number": 6,
+        "disc_number": 1,
+        "name": "Green River",
+        "duration_ms": 152629,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/57/d1/7f/57d17f38-ba73-4e3d-6742-c17334a15366/mzaf_15363283528111207161.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/green-river/1440955595?i=1440956141&uo=4"
+      },
+      {
+        "track_number": 7,
+        "disc_number": 1,
+        "name": "Commotion",
+        "duration_ms": 163432,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/91/ff/a4/91ffa4a4-e782-97d4-5f3e-73aac3387e14/mzaf_13773325229562046801.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/commotion/1440955595?i=1440956144&uo=4"
+      },
+      {
+        "track_number": 8,
+        "disc_number": 1,
+        "name": "Down On the Corner",
+        "duration_ms": 165716,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/52/94/3c/52943c74-e04b-d9a3-cdcd-dbcd0f6238a7/mzaf_17989968485744482274.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/down-on-the-corner/1440955595?i=1440956148&uo=4"
+      },
+      {
+        "track_number": 9,
+        "disc_number": 1,
+        "name": "Fortunate Son",
+        "duration_ms": 138716,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/cf/7d/3e/cf7d3efd-8778-0811-3312-322881064541/mzaf_17554128918534037556.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/fortunate-son/1440955595?i=1440956152&uo=4"
+      },
+      {
+        "track_number": 10,
+        "disc_number": 1,
+        "name": "Travelin' Band",
+        "duration_ms": 127487,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/20/b6/c3/20b6c317-aee1-29db-69a6-b6471ff11f82/mzaf_6016668869797819696.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/travelin-band/1440955595?i=1440956157&uo=4"
+      },
+      {
+        "track_number": 11,
+        "disc_number": 1,
+        "name": "Who'll Stop the Rain",
+        "duration_ms": 147510,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/94/d8/df/94d8dffa-3523-e223-7756-af6af9ba09fd/mzaf_7274183698822001075.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/wholl-stop-the-rain/1440955595?i=1440956163&uo=4"
+      },
+      {
+        "track_number": 12,
+        "disc_number": 1,
+        "name": "Up Around the Bend",
+        "duration_ms": 161478,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/5d/9e/f5/5d9ef571-a074-e273-23d7-7cb71e9aac12/mzaf_16279492210190483862.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/up-around-the-bend/1440955595?i=1440956322&uo=4"
+      },
+      {
+        "track_number": 13,
+        "disc_number": 1,
+        "name": "Run Through the Jungle",
+        "duration_ms": 184776,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/aa/c5/d6/aac5d6d3-9563-6c31-aaeb-84da3cb79eef/mzaf_1060051793082255587.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/run-through-the-jungle/1440955595?i=1440956330&uo=4"
+      },
+      {
+        "track_number": 14,
+        "disc_number": 1,
+        "name": "Lookin' Out My Back Door",
+        "duration_ms": 152533,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/3b/09/a5/3b09a583-da7d-dd8c-9038-8aa5fb799734/mzaf_11692982488288593421.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/lookin-out-my-back-door/1440955595?i=1440956332&uo=4"
+      },
+      {
+        "track_number": 15,
+        "disc_number": 1,
+        "name": "Long As I Can See the Light",
+        "duration_ms": 210744,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/66/57/63/6657633b-7d4d-74a4-e91d-6dca296ff05d/mzaf_9574254016475518734.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/long-as-i-can-see-the-light/1440955595?i=1440956334&uo=4"
+      },
+      {
+        "track_number": 16,
+        "disc_number": 1,
+        "name": "I Heard It Through the Grapevine",
+        "duration_ms": 662796,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/1d/65/4d/1d654dcf-4505-94b2-0f4d-c336b9d338bb/mzaf_14015799197899016454.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/i-heard-it-through-the-grapevine/1440955595?i=1440956338&uo=4"
+      },
+      {
+        "track_number": 17,
+        "disc_number": 1,
+        "name": "Have You Ever Seen the Rain",
+        "duration_ms": 160143,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/df/9f/cb/df9fcb30-b659-4e57-dacb-0dc7924cadbf/mzaf_8162838071707566410.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/have-you-ever-seen-the-rain/1440955595?i=1440956341&uo=4"
+      },
+      {
+        "track_number": 18,
+        "disc_number": 1,
+        "name": "Hey Tonight",
+        "duration_ms": 162923,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/d8/1d/4f/d81d4ffe-3c83-c7ab-1603-452b6411f500/mzaf_18430715284563222091.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/hey-tonight/1440955595?i=1440956347&uo=4"
+      },
+      {
+        "track_number": 19,
+        "disc_number": 1,
+        "name": "Sweet Hitch Hiker",
+        "duration_ms": 173492,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/17/f5/69/17f569af-c7e3-f472-95e3-ea14e0b29715/mzaf_2580662768255512399.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/sweet-hitch-hiker/1440955595?i=1440956441&uo=4"
+      },
+      {
+        "track_number": 20,
+        "disc_number": 1,
+        "name": "Someday Never Comes",
+        "duration_ms": 242189,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/af/5b/bc/af5bbc61-54aa-571c-d5ce-a43df76029ef/mzaf_2410891477125199768.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/someday-never-comes/1440955595?i=1440956443&uo=4"
+      }
+    ]
+  },
+  "discrepancies": [
+    "Total runtime differs by 436s (Discogs=3624s, Apple Music=4060s) — likely a different master/remaster."
+  ],
+  "local_cover": "images/760555.jpg"
+}

@@ -1,0 +1,364 @@
+{
+  "captured_at": "2026-05-10T19:47:47+00:00",
+  "schema_version": 3,
+  "artist": "Boyz II Men",
+  "title": "Legacy (The Greatest Hits Collection)",
+  "original_release_year": 2001,
+  "pressing_year": 2020,
+  "upgrade_suggestion": "No audiophile pressing of Legacy has been issued — this 2020 Pallas limited edition purple translucent is the only modern vinyl configuration for this compilation. Original 2001 Motown pressings exist but offer no documented mastering advantage. The Pallas pressing you own is the reference for this title.",
+  "commentary": "**Legacy: The Greatest Hits Collection** is a retrospective compilation of Boyz II Men released in October 2001 on Motown Records. It charts the group's career from their 1991 debut *Cooleyhighharmony* through the early 2000s, spanning ten years and six studio albums of material. The selection emphasizes their signature ballads and chart-topping singles — \"Motownphilly,\" \"End of the Road,\" \"I'll Make Love to You,\" \"On Bended Knee,\" and others — representing the core of their commercial identity. The compilation was updated and reissued several times; this 2020 pressing is a **UMe Limited Edition** version.\n\n**Pallas** is a German vinyl pressing facility based in Hanover and is consistently regarded as one of the highest-quality pressing plants in Europe. Pallas pressings are known for quiet vinyl, excellent center-hole precision, and careful QC. The plant code **56266** appears on all pressings handled by Pallas and is a hallmark of their work. For contemporary compilations of popular catalog material, a Pallas pressing is a favorable configuration.\n\nThe **purple translucent vinyl** is a visual distinction specific to this 2020 limited edition. While colored vinyl typically has marginally higher surface noise than black vinyl due to variations in compound uniformity, purple translucent is generally among the more stable colored variants and does not usually carry a significant penalty relative to other colors.\n\n**About this 2020 US pressing (2×LP, purple translucent vinyl):** Motown / UMe Limited Edition, catalog **B0032890-01** (barcode **602435161211**), manufactured by **Schallplattenfabrik Pallas GmbH**, Hanover, Germany (plant code **56266**). Purple translucent vinyl, 2×LP, limited edition reissue of the 2001 compilation.\n\n### Gemini Notes\n\nReleased in 2001, *Legacy: The Greatest Hits Collection* is the definitive compilation of Boyz II Men's dominance in the 90s, capturing their record-breaking singles and unmatched vocal harmonies.\n\n**About this pressing:**",
+  "discogs": {
+    "release_id": 16669062,
+    "master_id": 77915,
+    "uri": "https://www.discogs.com/release/16669062-Boyz-II-Men-Legacy-The-Greatest-Hits-Collection",
+    "title": "Legacy (The Greatest Hits Collection)",
+    "artists": [
+      {
+        "name": "Boyz II Men",
+        "id": 101552,
+        "role": null
+      }
+    ],
+    "year": 2020,
+    "released": "2020-12-18",
+    "country": "US",
+    "labels": [
+      {
+        "name": "Motown",
+        "catno": "B0032890-01",
+        "id": 1723
+      },
+      {
+        "name": "UMe",
+        "catno": "B0032890-01",
+        "id": 68029
+      }
+    ],
+    "formats": [
+      {
+        "name": "Vinyl",
+        "qty": "2",
+        "descriptions": [
+          "LP",
+          "Compilation",
+          "Limited Edition",
+          "Reissue"
+        ],
+        "text": "Purple Translucent"
+      }
+    ],
+    "genres": [
+      "Funk / Soul"
+    ],
+    "styles": [
+      "Contemporary R&B",
+      "Soul"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Motownphilly",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "A2",
+        "title": "It's So Hard To Say Goodbye To Yesterday",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "A3",
+        "title": "End Of The Road",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "A4",
+        "title": "In The Still Of The Nite (I'll Remember)",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B1",
+        "title": "Hey Lover",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B2",
+        "title": "I'll Make Love To You",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B3",
+        "title": "On Bended Knee",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "C1",
+        "title": "Water Runs Dry",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "C2",
+        "title": "One Sweet Day",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "C3",
+        "title": "Doin' Just Fine",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "D1",
+        "title": "4 Seasons Of Loneliness",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "D2",
+        "title": "A Song For Mama",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "D3",
+        "title": "Pass You By",
+        "duration": "",
+        "type": "track"
+      }
+    ],
+    "extraartists": [],
+    "identifiers": [
+      {
+        "type": "Barcode",
+        "value": "602435161211",
+        "description": null
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "B0032890-01-A [-56266- P.USA] -A M",
+        "description": "Side A Etched [Stamped]"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "B0032890-01-B [-56266- P.USA] -B M",
+        "description": "Side B Etched [Stamped]"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "B0032890-01-C [-56266-] II  [P.USA] -C M",
+        "description": "Side C Etched [Stamped]"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "B0032890-01-D [-56266-] II [P.USA] -D M",
+        "description": "Side D Etched [Stamped]"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "10-96852/B003289001-A 250548E1/A",
+        "description": "Side A Variant 2"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "10-96852/B003289001-B 250548E2/B",
+        "description": "Side B Variant 2"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "10-96852/B003289001-C 250548E3/B",
+        "description": "Side C Variant 2"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "10-96852/B003289001-D 250548E42/B",
+        "description": "Side D Variant 2"
+      }
+    ],
+    "notes": null,
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/GU-9cX4Tg_4lxdQkTGht1qbkkYf4msHzMF1ca2Y-pdw/rs:fit/g:sm/q:90/h:600/w:573/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NjY5/MDYyLTE2OTk3Mjg1/NjUtNTAyOC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/dCRbvB_fDwNPxShh53UNN3cpozxVzeOwR7d0T31G__M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NjY5/MDYyLTE2OTk3Mjg1/NjUtNTAyOC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/_tXANBzZKz7O_7J4yy2k8MbkpYcrkIlRVNwtEb0oyZI/rs:fit/g:sm/q:90/h:600/w:538/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NjY5/MDYyLTE2OTk3Mjg1/NjgtMjU3NS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/VBsnKWynLaQQhVn-fuH3XCDr4-VdtM_TeiLoV6eL8ZY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NjY5/MDYyLTE2OTk3Mjg1/NjgtMjU3NS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/oLhsc3KtLsPSsmrrgqVniZs1_qT6z5ckPykJCO4Crjs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NjY5/MDYyLTE2MDk4OTQw/MjctMzU1OS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/RKm03_EaaAXUVJgcSj4AvbMrAUgXswc0pn42K2-SAlc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NjY5/MDYyLTE2MDk4OTQw/MjctMzU1OS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/soNArEDQIpo1Qr6GrWrUcwYwLKgB6Dwym_peRISfyfE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NjY5/MDYyLTE2MDk4OTQw/MjctNTkxOS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/FXmVWmjyAoQbtGXCHSE6xO_Mkt2yb5ez6_bzNIpF3ns/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NjY5/MDYyLTE2MDk4OTQw/MjctNTkxOS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/XhxE11HlS4qHiNfTQBqvc3MgMFApRG1KpfOylKuTX4A/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NjY5/MDYyLTE2MDk4OTQw/MjctOTU5OS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/qbHwsJBQCFjJ9egSzFQ3JxPZMBWd4F5D-zEBhF8yfZU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NjY5/MDYyLTE2MDk4OTQw/MjctOTU5OS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/Wu7zAbJn5MBaZ2Rvkdwm6bVKj31hgMKkze6JIiHHS-A/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NjY5/MDYyLTE2MDk4OTQw/MjctMjI1OC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/3sKYeLDB81iDeZUB6VRLgw8VJNkJ19T1vKWUYOo6xoY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NjY5/MDYyLTE2MDk4OTQw/MjctMjI1OC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/P0UPk2jEj-HrO75mKrnv1oeIHpt1tndqTy7WFA4dh1M/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NjY5/MDYyLTE2MDk0Mjkz/MTItMzQ4My5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/O_TGH7Oe87CR4epwZSnf7fn4FUvW5fsqDNt2O27_M74/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NjY5/MDYyLTE2MDk0Mjkz/MTItMzQ4My5qcGVn.jpeg"
+      }
+    ],
+    "community": {
+      "rating": {
+        "count": 171,
+        "average": 4.75
+      },
+      "have": 4148,
+      "want": 382
+    },
+    "master": {
+      "id": 77915,
+      "title": "Legacy (The Greatest Hits Collection)",
+      "main_release": 6519594,
+      "year": 2001,
+      "uri": "https://www.discogs.com/master/77915-Boyz-II-Men-Legacy-The-Greatest-Hits-Collection",
+      "num_for_sale": 287
+    }
+  },
+  "apple_music": {
+    "id": 1440664619,
+    "url": "https://music.apple.com/us/album/legacy-the-greatest-hits-collection/1440664619?uo=4",
+    "name": "Legacy: The Greatest Hits Collection",
+    "artist": "Boyz II Men",
+    "artist_id": 256514,
+    "artwork_url_100": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/fe/65/55/fe655582-80b3-908c-f87d-aaa7fb3bbe2b/06UMGIM08210.rgb.jpg/100x100bb.jpg",
+    "artwork_url_600": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/fe/65/55/fe655582-80b3-908c-f87d-aaa7fb3bbe2b/06UMGIM08210.rgb.jpg/600x600bb.jpg",
+    "release_date": "2001-10-30T08:00:00Z",
+    "track_count": 13,
+    "copyright": "℗ 2001 Motown Records, a Division of UMG Recordings, Inc.",
+    "primary_genre": "R&B/Soul",
+    "country": "USA",
+    "tracks": [
+      {
+        "track_number": 1,
+        "disc_number": 1,
+        "name": "Motownphilly",
+        "duration_ms": 236173,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/70/b4/86/70b4867c-a721-0856-a1d6-65bc5b0feffd/mzaf_8822951263268884212.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/motownphilly/1440664619?i=1440664705&uo=4"
+      },
+      {
+        "track_number": 2,
+        "disc_number": 1,
+        "name": "It's So Hard to Say Goodbye to Yesterday",
+        "duration_ms": 167960,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/df/06/cf/df06cff8-e4fc-1bff-50c2-b3325f270c92/mzaf_14807237526071809032.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/its-so-hard-to-say-goodbye-to-yesterday/1440664619?i=1440664823&uo=4"
+      },
+      {
+        "track_number": 3,
+        "disc_number": 1,
+        "name": "End of the Road",
+        "duration_ms": 349640,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/39/25/9d/39259d11-b635-dfcc-f6ad-9561b6def17e/mzaf_14332194682058917560.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/end-of-the-road/1440664619?i=1440664825&uo=4"
+      },
+      {
+        "track_number": 4,
+        "disc_number": 1,
+        "name": "In the Still of the Nite (I'll Remember)",
+        "duration_ms": 169267,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/83/ab/52/83ab5254-89b1-9ba1-79e2-b59705cb4280/mzaf_2934905954836049198.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/in-the-still-of-the-nite-ill-remember/1440664619?i=1440664834&uo=4"
+      },
+      {
+        "track_number": 5,
+        "disc_number": 1,
+        "name": "Hey Lover (feat. Boyz II Men)",
+        "duration_ms": 284853,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/17/16/fd/1716fd4d-be5e-7bcc-7b4c-0705c490ec8b/mzaf_7603178878995279220.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/hey-lover-feat-boyz-ii-men/1440664619?i=1440664836&uo=4"
+      },
+      {
+        "track_number": 6,
+        "disc_number": 1,
+        "name": "I'll Make Love to You",
+        "duration_ms": 244800,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/15/c3/c0/15c3c0f0-8dba-e1e3-e2d4-399c4f214b8c/mzaf_12648935314987231753.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/ill-make-love-to-you/1440664619?i=1440664839&uo=4"
+      },
+      {
+        "track_number": 7,
+        "disc_number": 1,
+        "name": "On Bended Knee",
+        "duration_ms": 329813,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/69/c8/da/69c8dabc-474f-4523-9105-e8326e62b599/mzaf_7217209679651122280.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/on-bended-knee/1440664619?i=1440665022&uo=4"
+      },
+      {
+        "track_number": 8,
+        "disc_number": 1,
+        "name": "Water Runs Dry",
+        "duration_ms": 200987,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ff/7c/b6/ff7cb698-02c6-2900-886a-8cfc66c9080c/mzaf_10165890764727027567.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/water-runs-dry/1440664619?i=1440665023&uo=4"
+      },
+      {
+        "track_number": 9,
+        "disc_number": 1,
+        "name": "One Sweet Day",
+        "duration_ms": 279440,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/05/0d/32/050d3259-f7d6-dcab-2600-a70a4e495e73/mzaf_10108971553318379730.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/one-sweet-day/1440664619?i=1440665024&uo=4"
+      },
+      {
+        "track_number": 10,
+        "disc_number": 1,
+        "name": "Doin' Just Fine",
+        "duration_ms": 330107,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/39/08/63/39086326-954d-f409-cdc2-ffc461442b94/mzaf_4991471775406262419.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/doin-just-fine/1440664619?i=1440665025&uo=4"
+      },
+      {
+        "track_number": 11,
+        "disc_number": 1,
+        "name": "4 Seasons of Loneliness",
+        "duration_ms": 292760,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d1/bf/c7/d1bfc7f1-d375-6dcd-b034-ef9a6508becf/mzaf_13716166213806773701.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/4-seasons-of-loneliness/1440664619?i=1440665027&uo=4"
+      },
+      {
+        "track_number": 12,
+        "disc_number": 1,
+        "name": "A Song for Mama",
+        "duration_ms": 301907,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/90/de/0e/90de0e4c-ce3e-efe4-812e-fdf0bfac23ed/mzaf_5062629031914008147.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/a-song-for-mama/1440664619?i=1440665035&uo=4"
+      },
+      {
+        "track_number": 13,
+        "disc_number": 1,
+        "name": "Pass You By",
+        "duration_ms": 266493,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/70/e0/64/70e06477-b3eb-4601-3ce7-2ff533b72d9f/mzaf_7340313247319670677.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/pass-you-by/1440664619?i=1440665037&uo=4"
+      }
+    ]
+  },
+  "discrepancies": [
+    "Release year differs: your pressing=2020, Apple Music edition=2001. Apple Music typically streams the most recent remaster."
+  ],
+  "local_cover": "images/16669062.jpg"
+}

@@ -1,0 +1,1 @@
+Released in 1967, *Sgt. Pepper's Lonely Hearts Club Band* is the defining cultural artifact of the Summer of Love. The Beatles' alter-ego concept allowed them to push the limits of the recording studio, changing the trajectory of popular music forever.

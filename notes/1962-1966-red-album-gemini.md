@@ -1,0 +1,1 @@
+Released in 1973 alongside the Blue Album, the "Red Album" covers The Beatles' unstoppable rise during the height of Beatlemania. It serves as a masterclass in perfect, two-and-a-half-minute pop songwriting.

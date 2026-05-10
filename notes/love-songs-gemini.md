@@ -1,0 +1,1 @@
+Released in 1977, *Love Songs* is a double-LP compilation issued by Capitol Records. Packaged in a lavish faux-leather textured gatefold, it collected the band's most famous romantic ballads and pop tunes into one cohesive package.

@@ -1,0 +1,452 @@
+{
+  "captured_at": "2026-05-10T02:05:23+00:00",
+  "schema_version": 3,
+  "artist": "Lana Del Rey",
+  "title": "Honeymoon",
+  "original_release_year": 2015,
+  "pressing_year": 2025,
+  "upgrade_suggestion": "2025 standard repress is the most accessible current-press option for this title; sonic alternatives are the original 2015 EU pressing (r7532352, harder to find) for source-cut purity, or the parallel 2025 Red Translucent Limited Edition (r33111807, same cut, color/artwork variant only).",
+  "commentary": "Released September 2015, *Honeymoon* is Lana Del Rey's fourth studio album and the most stylistically consistent of her early-to-middle period — slow, orchestral, languid, with a deliberate avoidance of the radio-friendly hooks that anchored *Born to Die* and *Ultraviolence*. Del Rey co-produced with Rick Nowels and Kieron Menzies (the *Ultraviolence* team minus Dan Auerbach), and the album was recorded primarily at The Green Building in Santa Monica.\n\nThe aesthetic is intentional: Del Rey has described *Honeymoon* as her \"most cinematic\" record, and the arrangements lean into film-noir strings, woozy reverb, and tempos that rarely break out of ballad territory. *High by the Beach* is the most up-tempo moment; the rest of the album sits in *Music to Watch Boys To* / *Terrence Loves You* / *Salvatore* mode — jazz-influenced, slow-burning, deliberately patient. The album includes a spoken-word reading of T.S. Eliot's *Burnt Norton* as track 6, which is either pretentious or perfect depending on how you feel about that kind of thing.\n\nCritical reception was strong but quieter than her earlier records — *Honeymoon* is the album most often cited by Lana fans as \"the one that grew on me.\" It's also the last fully Nowels-and-Menzies-produced Del Rey album before Jack Antonoff entered the picture for *Norman Fucking Rockwell!* — making the production lineage in this collection (Nowels/Menzies on *Honeymoon*, Antonoff on *NFR!*) trace the actual hinge of her career.\n\n**About this 2025 USA & Europe repress (2×LP):** catalog `4750764`, barcode `00602547488275`. The deadwax shows `171758E1`–`171758E4` cut codes (one per side) — Universal/Polydor's reissue cutting from the original 2015 source. The `1713519` / `1712205` / `1751205` / `1713360` numbers are Universal's job/cut tracking codes from the 2025 repress run. This is a black 2LP standard issue; the parallel Limited Edition (r33111807) was issued the same year on Red Translucent vinyl with alternative artwork.\n\nThe standard 2025 repress is the cleanest current-press option for *Honeymoon* on vinyl — original 2015 EU pressings (r7532352) are also good if you find them, but the 2025 cut is the more accessible current option.\n\n### Gemini Notes\n\nReleased in 2015, *Honeymoon* is Lana Del Rey's fourth studio album. It marked a return to the cinematic, baroque pop of her debut, featuring lush string arrangements, jazzy undertones, and themes of doomed romance and Californian melancholy.\n\n**About this pressing:**",
+  "discogs": {
+    "release_id": 33711615,
+    "master_id": null,
+    "uri": "https://www.discogs.com/release/33711615-Lana-Del-Rey-Honeymoon",
+    "title": "Honeymoon",
+    "artists": [
+      {
+        "name": "Lana Del Rey",
+        "id": 2445772,
+        "role": null
+      }
+    ],
+    "year": 2025,
+    "released": "2025",
+    "country": "USA & Europe",
+    "labels": [
+      {
+        "name": "Polydor",
+        "catno": "4750764",
+        "id": 1610
+      },
+      {
+        "name": "Interscope Records",
+        "catno": "4750764",
+        "id": 2311
+      }
+    ],
+    "formats": [
+      {
+        "name": "Vinyl",
+        "qty": "2",
+        "descriptions": [
+          "LP",
+          "Album",
+          "Reissue",
+          "Repress"
+        ],
+        "text": null
+      }
+    ],
+    "genres": [
+      "Electronic",
+      "Rock",
+      "Pop"
+    ],
+    "styles": [
+      "Ballad",
+      "Downtempo",
+      "Indie Pop",
+      "Soft Rock",
+      "Trip Hop"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Honeymoon",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "A2",
+        "title": "Music To Watch Boys To",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "A3",
+        "title": "Terrence Loves You",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B1",
+        "title": "God Knows I Tried",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B2",
+        "title": "High By The Beach",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B3",
+        "title": "Freak",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "C1",
+        "title": "Art Deco",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "C2",
+        "title": "Burnt Norton (Interlude)",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "C3",
+        "title": "Religion",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "C4",
+        "title": "Salvatore",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "D1",
+        "title": "The Blackest Day",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "D2",
+        "title": "24",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "D3",
+        "title": "Swan Song",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "D4",
+        "title": "Don't Let Me Be Misunderstood",
+        "duration": "",
+        "type": "track"
+      }
+    ],
+    "extraartists": [
+      {
+        "name": "Caroline \"Chuck\" H. Grant",
+        "role": "Art Direction [Cover]",
+        "id": 3850597
+      },
+      {
+        "name": "Markus Karlsson (2)",
+        "role": "Design",
+        "id": 2044786
+      },
+      {
+        "name": "Mat Maitland",
+        "role": "Design",
+        "id": 568148
+      },
+      {
+        "name": "Caroline \"Chuck\" H. Grant",
+        "role": "Photography By",
+        "id": 3850597
+      },
+      {
+        "name": "Neil Krug",
+        "role": "Photography By",
+        "id": 2321540
+      },
+      {
+        "name": "Kieron Menzies",
+        "role": "Producer",
+        "id": 410860
+      },
+      {
+        "name": "Lana Del Rey",
+        "role": "Producer",
+        "id": 2445772
+      },
+      {
+        "name": "Rick Nowels",
+        "role": "Producer",
+        "id": 67614
+      }
+    ],
+    "identifiers": [
+      {
+        "type": "Barcode",
+        "value": "00602547507648",
+        "description": "Text"
+      },
+      {
+        "type": "Label Code",
+        "value": "LC00309",
+        "description": null
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "00602547488275-A 171758E1 1713519",
+        "description": "Side A runout"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "00602547488275-B 171758E2 1712205",
+        "description": "Side B runout"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "00602547488282-C 171758E3 1751205",
+        "description": "Side C runout"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "00602547488282-D 171758E4 1713360",
+        "description": "Side D runout"
+      }
+    ],
+    "notes": "ADD MORE INFO HERE\n\nIssued in a gatefold jacket with printed inner sleeves and 16-page booklet.\n\nRepressed from lacquers cut for a [url=https://www.discogs.com/release/16231744-Lana-Del-Rey-Honeymoon]reissue released circa 2018[/url] rather than the [url=https://www.discogs.com/release/7491819]original 2015 pressing[/url].\n\n\"MADE IN CZECH REPUBLIC\" sticker on rear shrink wrap.\n\nRunouts are stamped.",
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/UsTBcbf1evkTXScpZUBZB9XgNYfbvOjO81RcSHtGTcU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNzEx/NjE1LTE3NDQ3Njc1/NzktMTIyMS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/gBTWvDDMct_aYwh2T_ANoBosu8Zzk-4GGrrzH0WjXOs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNzEx/NjE1LTE3NDQ3Njc1/NzktMTIyMS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/cEa5OYNUyLSgCtGKkFCxmTGmi-KDi80i6eJBWCktaFo/rs:fit/g:sm/q:90/h:574/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNzEx/NjE1LTE3NDQ3Njc1/NzktOTUxMy5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/X7jaIDoIvq-KVKezDEe7HfTVMhDVSG4ObPrwb9mif1U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNzEx/NjE1LTE3NDQ3Njc1/NzktOTUxMy5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/dR2Nan2Aa6mNzr7aPLsSoT29K3VvtwHpwmOeO1TaiII/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNzEx/NjE1LTE3NDQ3Njc1/NzktOTIxNS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/CYxVZq2rcHktY8CiXlHQUjnIqV2sFSxuQ3XgPD6yYRw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNzEx/NjE1LTE3NDQ3Njc1/NzktOTIxNS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/rUV6jdcgrCB54CbS1QQfytH0fjurls2q4BemSXF8-rM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNzEx/NjE1LTE3NDQ3Njc1/NzktNTI3My5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/QxROagIbl3a2v1hial0HcxBXvk2PwY7nqBuR0Rw0Xv8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNzEx/NjE1LTE3NDQ3Njc1/NzktNTI3My5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/7P9BvzwWMYKzxq6Dlmjd_DErT438hQCjp--FNch1oUA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNzEx/NjE1LTE3NDQ3Njc1/NzctMzI0My5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/ATOYFjKVAi_Pw_zDDH5CuiPGJqqIhg_fl6BPUXb9GDY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNzEx/NjE1LTE3NDQ3Njc1/NzctMzI0My5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/RWQIA71_aJlJW-4-zsKKgLRLWlGe7xvZuZ8Drt43cac/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNzEx/NjE1LTE3NDQ3Njc1/NzctOTc5NC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/MnFkFj6oM-O9EKiPc91VO5N9vgCt8aWHVZ1TWKp1uYw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNzEx/NjE1LTE3NDQ3Njc1/NzctOTc5NC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/ET2PYNDLbH0FAGqlxqu-xwe9gjqJO-mIgQMN5Yv3azc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNzEx/NjE1LTE3NDQ3Njc1/NzctOTg1Mi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/tRN-Nb18-rJ_65bGA3otJUrXtvWdWc5r8yO4LwAqLkg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNzEx/NjE1LTE3NDQ3Njc1/NzctOTg1Mi5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/WKR5KhC3880723-ufyuPK5WTRd800nP_LDBcUhQagqk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNzEx/NjE1LTE3NDQ3Njc1/NzctNjMyMi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/brXdwnlaFa7BGsMrAm3qA3U7kvGzDQxiZgzBrsxJN1Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNzEx/NjE1LTE3NDQ3Njc1/NzctNjMyMi5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/B80nBFgW6_sHNpkWK6kGlXSoDHvnXSC3P6vtiB7BmOA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNzEx/NjE1LTE3NDQ3Njc1/NzgtOTI0OC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/y0jXPV8Lw2VuevbQWqoyuXV6gVNxeu8c--P_Fnq29ts/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNzEx/NjE1LTE3NDQ3Njc1/NzgtOTI0OC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/ks8g7VWmDMswppGaOensn5omOGLTtyp3WNx9rkYDi0s/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNzEx/NjE1LTE3NDQ3Njc1/NzktODU4Ni5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/r7dL7_KfYzmJHYOBYDP8KhfrsnvO2Y3BIpN-p-t2qwY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNzEx/NjE1LTE3NDQ3Njc1/NzktODU4Ni5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/eJRB634O7GE7rLLCEuNWJbL5-xuelEkRPE8sC-AjT4I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNzEx/NjE1LTE3NDQ3Njc1/NzgtODQyOS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/R8mVXq77uus6UkZAQeULLPRgOxzmOWiwj1ljvPuE-R0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNzEx/NjE1LTE3NDQ3Njc1/NzgtODQyOS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/i6SZmVyNpLE158j95KA24fm6yUVqWpySHZ4zcKJGb1k/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNzEx/NjE1LTE3NDQ3Njc1/NzgtNDY0OC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/_18Up8YOGe_RtTYkhHvLAkikmG0YE_GeKY0YsMu1RJQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNzEx/NjE1LTE3NDQ3Njc1/NzgtNDY0OC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/96I4xXHBx-WU6zudJZIMwt3zT9eRH2DhwMpJANM1MVY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNzEx/NjE1LTE3NDQ3Njc1/NzktNDMxOS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/ExMOS2qIVb-V7h39gts_Sda85-rXk_Yl-p_C7tFPluU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNzEx/NjE1LTE3NDQ3Njc1/NzktNDMxOS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/pM0247GCz2q1GaDzIPec-I0OpgCyab4c77DasHG8d7A/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNzEx/NjE1LTE3NDQ3Njc1/NzgtMzAwNi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/y-D-JKxo3LQjylAZfL_L-bkVB6sCK1BjmhCC24ksVtE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNzEx/NjE1LTE3NDQ3Njc1/NzgtMzAwNi5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/NnMOOtc6hzZ3z9nHhNHmEWeyHNBwDw8LUoS_TgIFY_E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNzEx/NjE1LTE3NDQ3Njc1/NzgtNDk0Mi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/bWjHHews2284vUOkf2Pd11vcMDLDUrFga6n8Wm0JkXc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNzEx/NjE1LTE3NDQ3Njc1/NzgtNDk0Mi5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/YvRIZwPyJfh-F6i-Q3bYud_ivH399Sxadl52RH1VSC4/rs:fit/g:sm/q:90/h:396/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNzEx/NjE1LTE3NDQ3Njc1/NzktNjE0My5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/UhWrsV1w55RGV2o39eJgCQMt9Yfy_a5gNr3VTTFmMNU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNzEx/NjE1LTE3NDQ3Njc1/NzktNjE0My5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/p5kAWNKJh3FN-MSSfPZwM79YsuZpqv2smnXZfY4RCEA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNzEx/NjE1LTE3NDQ3Njc1/NzktNzE1Ny5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/VwtNm-IMyLg6dMIXOSedX8FAFQPWb10-HXGRnUr507Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNzEx/NjE1LTE3NDQ3Njc1/NzktNzE1Ny5qcGVn.jpeg"
+      }
+    ],
+    "community": {
+      "rating": {
+        "count": 0,
+        "average": 0.0
+      },
+      "have": 8,
+      "want": 4
+    },
+    "master": null
+  },
+  "apple_music": {
+    "id": 1440827260,
+    "url": "https://music.apple.com/us/album/honeymoon/1440827260?uo=4",
+    "name": "Honeymoon",
+    "artist": "Lana Del Rey",
+    "artist_id": 464296584,
+    "artwork_url_100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a2/e1/35/a2e1350a-c739-dc75-93f5-b3e8b33d7d7e/15UMGIM44419.rgb.jpg/100x100bb.jpg",
+    "artwork_url_600": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a2/e1/35/a2e1350a-c739-dc75-93f5-b3e8b33d7d7e/15UMGIM44419.rgb.jpg/600x600bb.jpg",
+    "release_date": "2015-09-18T07:00:00Z",
+    "track_count": 15,
+    "copyright": "℗ 2015 Polydor Ltd. (UK)",
+    "primary_genre": "Alternative",
+    "country": "USA",
+    "tracks": [
+      {
+        "track_number": 1,
+        "disc_number": 1,
+        "name": "Honeymoon",
+        "duration_ms": 350059,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/61/d2/b0/61d2b088-e060-5cee-09d4-42c5ef00b6c5/mzaf_15301932875212025441.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/honeymoon/1440827260?i=1440827582&uo=4"
+      },
+      {
+        "track_number": 2,
+        "disc_number": 1,
+        "name": "Music To Watch Boys To",
+        "duration_ms": 290626,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/d0/59/e3/d059e3ef-844a-ad91-8c46-6bc51d001ab3/mzaf_5825113850702433618.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/music-to-watch-boys-to/1440827260?i=1440827833&uo=4"
+      },
+      {
+        "track_number": 3,
+        "disc_number": 1,
+        "name": "Terrence Loves You",
+        "duration_ms": 290636,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/5d/a3/b0/5da3b0d6-5591-1440-953d-0bf51331e879/mzaf_15655460346980612688.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/terrence-loves-you/1440827260?i=1440827834&uo=4"
+      },
+      {
+        "track_number": 4,
+        "disc_number": 1,
+        "name": "God Knows I Tried",
+        "duration_ms": 280653,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/4b/7b/e5/4b7be585-e24a-445b-7999-0d7696744ea8/mzaf_281781723875135965.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/god-knows-i-tried/1440827260?i=1440827835&uo=4"
+      },
+      {
+        "track_number": 5,
+        "disc_number": 1,
+        "name": "High By the Beach",
+        "duration_ms": 257573,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/0b/18/d9/0b18d90d-916f-65b2-148b-73eac9032625/mzaf_2150221544546790489.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/high-by-the-beach/1440827260?i=1440827843&uo=4"
+      },
+      {
+        "track_number": 6,
+        "disc_number": 1,
+        "name": "Freak",
+        "duration_ms": 295093,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/0a/99/0e/0a990e9c-71b6-bf80-2a3f-089ed8d36eb9/mzaf_13555971011340023135.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/freak/1440827260?i=1440827849&uo=4"
+      },
+      {
+        "track_number": 7,
+        "disc_number": 1,
+        "name": "Art Deco",
+        "duration_ms": 295067,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/dc/32/dd/dc32dd87-b336-491b-23c5-0acee36f7039/mzaf_1527129464670331141.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/art-deco/1440827260?i=1440827855&uo=4"
+      },
+      {
+        "track_number": 8,
+        "disc_number": 1,
+        "name": "Burnt Norton (Interlude)",
+        "duration_ms": 81960,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/d3/ed/21/d3ed212e-b026-c479-5012-99568cff39f7/mzaf_12505135015857186951.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/burnt-norton-interlude/1440827260?i=1440828133&uo=4"
+      },
+      {
+        "track_number": 9,
+        "disc_number": 1,
+        "name": "Religion",
+        "duration_ms": 323280,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/67/ba/df/67badf69-a61c-2e52-1c78-274c528a38be/mzaf_2300343599454886937.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/religion/1440827260?i=1440828144&uo=4"
+      },
+      {
+        "track_number": 10,
+        "disc_number": 1,
+        "name": "Salvatore",
+        "duration_ms": 281093,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/35/3d/fe/353dfe8c-c802-1880-19c0-2ec3de51617c/mzaf_2423868082573466930.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/salvatore/1440827260?i=1440828152&uo=4"
+      },
+      {
+        "track_number": 11,
+        "disc_number": 1,
+        "name": "The Blackest Day",
+        "duration_ms": 365760,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/1c/1b/27/1c1b2715-439b-2261-64e8-6efc9bf1cd1b/mzaf_12616435337938822344.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/the-blackest-day/1440827260?i=1440828312&uo=4"
+      },
+      {
+        "track_number": 12,
+        "disc_number": 1,
+        "name": "24",
+        "duration_ms": 295947,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/8e/7a/dc/8e7adcd2-551b-71b2-2662-fba22e4a64f4/mzaf_17510243111534735205.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/24/1440827260?i=1440828319&uo=4"
+      },
+      {
+        "track_number": 13,
+        "disc_number": 1,
+        "name": "Swan Song",
+        "duration_ms": 323489,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/3b/c9/47/3bc9471a-edc0-79b3-ffbb-9b55d9fb4c47/mzaf_9687469013441261305.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/swan-song/1440827260?i=1440828323&uo=4"
+      },
+      {
+        "track_number": 14,
+        "disc_number": 1,
+        "name": "Don't Let Me Be Misunderstood",
+        "duration_ms": 181887,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/bd/f1/6e/bdf16efa-b7d8-ea9d-296c-ad88af62160e/mzaf_570280861521705319.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/dont-let-me-be-misunderstood/1440827260?i=1440828328&uo=4"
+      }
+    ]
+  },
+  "discrepancies": [
+    "Release year differs: your pressing=2025, Apple Music edition=2015. Apple Music typically streams the most recent remaster."
+  ],
+  "local_cover": "images/33711615.jpg"
+}

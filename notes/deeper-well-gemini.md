@@ -1,0 +1,1 @@
+Released in 2024, *Deeper Well* finds Kacey Musgraves exploring themes of self-care, boundaries, and emotional growth. Reunited with her *Golden Hour* co-producers, the album returns to a warm, acoustic-driven folk-pop sound.

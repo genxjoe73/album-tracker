@@ -1,0 +1,419 @@
+{
+  "captured_at": "2026-05-04T15:36:47+00:00",
+  "schema_version": 3,
+  "artist": "Pink Floyd",
+  "title": "Animals",
+  "original_release_year": 1977,
+  "pressing_year": 1977,
+  "upgrade_suggestion": "1977 US Columbia first press is the historical document of the original mix; nothing 'upgrades' it sonically — alternates are the 2018 Guthrie remix (different reading) or a UK Harvest first press for tonal variation. Plant variant TBD until deadwax stamps are read.",
+  "commentary": "Recorded April–December 1976 at Britannia Row Studios in Islington — the band's own newly-built studio, replacing the earlier Abbey Road sessions. The album was assembled under significant pressure: the band had become tax exiles, internal tensions were rising, and Roger Waters has since described the original mix as rushed.\n\nColumbia's US issue (catno **JC 34474**) was pressed at three plants depending on regional distribution: Santa Maria, Pitman, or Terre Haute. The deadwax stamps tell you which — `1T` indicates Terre Haute; absence of a plant marker typically points to Pitman or Santa Maria. Mastering on the 1977 US cuts is generally credited to Greg Calbi at Sterling Sound, with some pressings cut by George Marino.\n\nAnalog cut from analog tape, no digital intermediate. This is the historical document of the original mix as released — the version that existed before the 2018 remix reframed the album.\n\n*Deadwax TBD — once you've read the stamps under good light, the specific plant variant can be identified and the captured release ID re-pointed if needed.*\n\n### Gemini Notes\n\nReleased in 1977, *Animals* is Pink Floyd's aggressive, synthesizer-heavy adaptation of George Orwell's Animal Farm. It serves as a stark bridge between the spaciousness of *Wish You Were Here* and the theatricality of *The Wall*.\n\n**About this pressing:**",
+  "discogs": {
+    "release_id": 495664,
+    "master_id": 10370,
+    "uri": "https://www.discogs.com/release/495664-Pink-Floyd-Animals",
+    "title": "Animals",
+    "artists": [
+      {
+        "name": "Pink Floyd",
+        "id": 45467,
+        "role": null
+      }
+    ],
+    "year": 1977,
+    "released": "1977-01-00",
+    "country": "US",
+    "labels": [
+      {
+        "name": "Columbia",
+        "catno": "JC 34474",
+        "id": 1866
+      },
+      {
+        "name": "Columbia",
+        "catno": "34474",
+        "id": 1866
+      }
+    ],
+    "formats": [
+      {
+        "name": "Vinyl",
+        "qty": "1",
+        "descriptions": [
+          "LP",
+          "Album",
+          "Stereo"
+        ],
+        "text": "1st Press, Gatefold "
+      }
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Prog Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Pigs On The Wing (Part One)",
+        "duration": "1:24",
+        "type": "track"
+      },
+      {
+        "position": "A2",
+        "title": "Dogs",
+        "duration": "17:01",
+        "type": "track"
+      },
+      {
+        "position": "B1",
+        "title": "Pigs (Three Different Ones)",
+        "duration": "11:20",
+        "type": "track"
+      },
+      {
+        "position": "B2",
+        "title": "Sheep",
+        "duration": "10:22",
+        "type": "track"
+      },
+      {
+        "position": "B3",
+        "title": "Pigs On The Wing (Part Two)",
+        "duration": "1:24",
+        "type": "track"
+      }
+    ],
+    "extraartists": [
+      {
+        "name": "Aubrey Powell",
+        "role": "Art Direction [Organised By]",
+        "id": 500326
+      },
+      {
+        "name": "Storm Thorgerson",
+        "role": "Art Direction [Organised By]",
+        "id": 1571032
+      },
+      {
+        "name": "E.R.G. Amsterdam",
+        "role": "Design",
+        "id": 1995719
+      },
+      {
+        "name": "Roger Waters",
+        "role": "Design [Sleeve]",
+        "id": 110862
+      },
+      {
+        "name": "Brian Humphries",
+        "role": "Engineer",
+        "id": 258792
+      },
+      {
+        "name": "Nick Mason",
+        "role": "Graphics",
+        "id": 246097
+      },
+      {
+        "name": "Roger Waters",
+        "role": "Lyrics By",
+        "id": 110862
+      },
+      {
+        "name": "Colin Jones (7)",
+        "role": "Photography By",
+        "id": 2300925
+      },
+      {
+        "name": "Howard Bartrop",
+        "role": "Photography By",
+        "id": 1832642
+      },
+      {
+        "name": "Nic Tucker",
+        "role": "Photography By",
+        "id": 2300926
+      },
+      {
+        "name": "Peter Christopherson",
+        "role": "Photography By",
+        "id": 34069
+      },
+      {
+        "name": "Rob Brimson",
+        "role": "Photography By",
+        "id": 2236392
+      },
+      {
+        "name": "Robert Ellis (4)",
+        "role": "Photography By",
+        "id": 2235686
+      },
+      {
+        "name": "Pink Floyd",
+        "role": "Producer",
+        "id": 45467
+      }
+    ],
+    "identifiers": [
+      {
+        "type": "Rights Society",
+        "value": "BMI",
+        "description": null
+      },
+      {
+        "type": "Price Code",
+        "value": "X798",
+        "description": "On spine."
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "AL 34474",
+        "description": "A-side label"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BL 34474",
+        "description": "B-side label"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "AL 34474-2G",
+        "description": "A-side runout Variant 1"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BL 34474-2F",
+        "description": "B-side runout Variant 1"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "AL 34474-2B",
+        "description": "A-side runout Variant 2"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BL 34474-2B",
+        "description": "B-side runout Variant 2"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "AL 34474-2H",
+        "description": "A-side runout Variant 3"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BL 34474-2G",
+        "description": "B-side runout Variant 3"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "AL 34474-2B",
+        "description": "A-side runout Variant 4"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BL 34474-2D",
+        "description": "B-side runout Variant 4"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "AL 34474-2D",
+        "description": "A-side runout Variant 5 Stamped"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BL 34474-2D",
+        "description": "B-side runout Variant 5 Stamped"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "AL 34474-2D",
+        "description": "A-side runout Variant 6 Stamped"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BL 34474-2B",
+        "description": "B-side runout Variant 6 Stamped"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "AL 34474-2G 2 5 B 22 o",
+        "description": "A-side runout Variant 7"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BL 34474-2F 51 FH o",
+        "description": "B-side runout Variant 7"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "AL 34474-2F",
+        "description": "A-side runout Variant 8"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BL 34474-2E",
+        "description": "B-side runout Variant 8"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "AL 34474-2L    ",
+        "description": "A-side runout Variant 9"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BL 34474-2E   ",
+        "description": "B-side runout Variant 9"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "AL 34474-2B 2 P",
+        "description": "A-side runout Variant 10"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BL 34474-2D",
+        "description": "B-side runout Variant 10"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "AL 34474-2AA  C",
+        "description": "A-side runout Variant 11"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BL 34474-2B  C",
+        "description": "B-side runout Variant 11"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "AL 34474-2B  C",
+        "description": "A-side runout Variant 12"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BL 34474-2D C",
+        "description": "B-side runout Variant 12"
+      }
+    ],
+    "notes": "Inflatable Pig Designed by E R G, Amsterdam\nPublished by Pink Floyd Music Publishers, Inc. (BMI)\n\n© 1977 Pink Floyd Music Ltd.\n℗ 1977 Pink Floyd Music Ltd.\nManufactured by Columbia Records / CBS Inc.\n\nReleased with a printed cardboard inner lyrics-sleeve\n\nTrack durations not listed on the release.\n\n\n",
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/Y7Gq4M4FCi8TgOsx45vnUGtxX8wFqpj-HHGCWUlRrWs/rs:fit/g:sm/q:90/h:600/w:587/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NTY2/NC0xNzQzNTU2MDQx/LTg1MjUuanBlZw.jpeg",
+        "uri150": "https://i.discogs.com/Tc1wrF7Z5R2YeWO8HE2oZmCP_UKd4QkDD5g2fCM2w9M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NTY2/NC0xNzQzNTU2MDQx/LTg1MjUuanBlZw.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/c1vm1JnlywmOCqIJ4c2iQpnKg9CytoZ0-0ILbbXKFd4/rs:fit/g:sm/q:90/h:297/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NTY2/NC0xMjQ4NTg5MDE2/LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/tj3L75_89Mvy53lsURD6wFuCgjxfRxwn6gzWmGYr_vY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NTY2/NC0xMjQ4NTg5MDE2/LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/rH9kD-GNl0pBUXxZZfH_ViA7d5U2oHSle0wICqbowfc/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NTY2/NC0xNzQzNTU2ODY5/LTMyOTEuanBlZw.jpeg",
+        "uri150": "https://i.discogs.com/LWe0TBt3_vLtzct0pMt8gy72_D_No45TrSB8cVRedAk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NTY2/NC0xNzQzNTU2ODY5/LTMyOTEuanBlZw.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/quwRqHOdU-s8P2YOvpq90Q-eft7T_-qzAKIBxxEHg7M/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NTY2/NC0xMjQ4NTg5MDU3/LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/2GNlUouMxp7dFJukx6i1Aa5JD_NBczDbzmnh5TKhZ8g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NTY2/NC0xMjQ4NTg5MDU3/LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/curablvAY9hlxRMBUmQQUjcwQAgjT8DBGATl_dNF9yg/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NTY2/NC0xMjQ4NTg5MDY4/LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/IYxhzvfvNag5w0hYu8UzGvdXLqQzJm1kr9IfAjF6YbM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NTY2/NC0xMjQ4NTg5MDY4/LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/JNQSnIvGIM7IfBnL-OsKB272IWW0JVdBeaICzVFRFx0/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NTY2/NC0xMjQ4NTg5MDI5/LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/Hsm2u4b0-9QCxAK6UtuZmJfIQ4Dxpn-tYVAE3QeTmQ4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NTY2/NC0xMjQ4NTg5MDI5/LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/rIAeyfXhKwj916-ybjZfGd0q06kYmdjm_Yw_w_FF3UU/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NTY2/NC0xMjQ4NTg5MDQy/LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/wlol50adq7Rv4BAqnqU4m2S4YQoqB5K_F6wjeyBnobI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NTY2/NC0xMjQ4NTg5MDQy/LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/PyB1zkGEOIF9o1VjGzKNzLRunc_1-2gy4is60tqUPBM/rs:fit/g:sm/q:90/h:424/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NTY2/NC0xNjMxMTM2ODI0/LTY5ODcuanBlZw.jpeg",
+        "uri150": "https://i.discogs.com/vTKhOe3LA4RjgU5voAZwRSP_HoQdKZOvpxHWclKY-Qg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NTY2/NC0xNjMxMTM2ODI0/LTY5ODcuanBlZw.jpeg"
+      }
+    ],
+    "community": {
+      "rating": {
+        "count": 1943,
+        "average": 4.54
+      },
+      "have": 21346,
+      "want": 3846
+    },
+    "master": {
+      "id": 10370,
+      "title": "Animals",
+      "main_release": 391322,
+      "year": 1977,
+      "uri": "https://www.discogs.com/master/10370-Pink-Floyd-Animals",
+      "num_for_sale": 3705
+    }
+  },
+  "apple_music": {
+    "id": 1065974284,
+    "url": "https://music.apple.com/us/album/animals/1065974284?uo=4",
+    "name": "Animals",
+    "artist": "Pink Floyd",
+    "artist_id": 487143,
+    "artwork_url_100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ef/03/66/ef036634-5956-38db-ba78-db6200adfdc4/886445635942.jpg/100x100bb.jpg",
+    "artwork_url_600": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ef/03/66/ef036634-5956-38db-ba78-db6200adfdc4/886445635942.jpg/600x600bb.jpg",
+    "release_date": "1977-01-23T08:00:00Z",
+    "track_count": 6,
+    "copyright": "℗ 2016 The copyright in this sound recording is owned by Pink Floyd Music Ltd., marketed and distributed by Sony Music Entertainment",
+    "primary_genre": "Rock",
+    "country": "USA",
+    "tracks": [
+      {
+        "track_number": 1,
+        "disc_number": 1,
+        "name": "Pigs On the Wing, Pt. 1",
+        "duration_ms": 84693,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/7e/59/98/7e599842-9b60-450e-b5ab-f431ef206cd3/mzaf_1319484554830674081.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/pigs-on-the-wing-pt-1/1065974284?i=1065975104&uo=4"
+      },
+      {
+        "track_number": 2,
+        "disc_number": 1,
+        "name": "Dogs",
+        "duration_ms": 1024853,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/63/d0/43/63d0438b-5d7d-db37-44f1-1908fe6045e2/mzaf_14283977508359678850.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/dogs/1065974284?i=1065975105&uo=4"
+      },
+      {
+        "track_number": 3,
+        "disc_number": 1,
+        "name": "Pigs (Three Different Ones)",
+        "duration_ms": 686333,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/f4/44/39/f4443967-4ab1-e1fd-db13-13afefa8352e/mzaf_6222998790397797861.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/pigs-three-different-ones/1065974284?i=1065975107&uo=4"
+      },
+      {
+        "track_number": 4,
+        "disc_number": 1,
+        "name": "Sheep",
+        "duration_ms": 618933,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/dd/c3/0d/ddc30d27-1f58-92d1-e202-34016e2dc927/mzaf_6014847659696402648.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/sheep/1065974284?i=1065975108&uo=4"
+      },
+      {
+        "track_number": 5,
+        "disc_number": 1,
+        "name": "Pigs On the Wing, Pt. 2",
+        "duration_ms": 86853,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/23/56/15/235615c5-95fe-3a48-0852-7bae9cf860b8/mzaf_7124095861728147946.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/pigs-on-the-wing-pt-2/1065974284?i=1065975109&uo=4"
+      }
+    ]
+  },
+  "discrepancies": [],
+  "local_cover": "images/495664.jpg"
+}

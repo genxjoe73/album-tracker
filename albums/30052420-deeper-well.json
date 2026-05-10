@@ -1,0 +1,445 @@
+{
+  "captured_at": "2026-05-10T02:24:10+00:00",
+  "schema_version": 3,
+  "artist": "Kacey Musgraves",
+  "title": "Deeper Well",
+  "original_release_year": 2024,
+  "pressing_year": 2024,
+  "upgrade_suggestion": "RKS/Sterling-cut current-release LP on cream transparent vinyl is already an audiophile-tier pressing of a 2024 album; no meaningful sonic upgrade exists. The Apple Music 'Deeper into the Well' deluxe edition (id 1758870783) adds 10 bonus tracks at lossy AAC quality but the source mix is the same.",
+  "commentary": "Released March 15, 2024 by Interscope Records and MCA Nashville, *Deeper Well* is Kacey Musgraves' fifth studio album and a deliberate retreat from the synth-and-strings pop ambition of *Star-Crossed* (2021). Recorded primarily at Electric Lady Studios in New York with Daniel Tashian and Ian Fitchuk co-producing — the same team behind *Golden Hour* — the album leans on acoustic textures, slower tempos, and a meditative folk-influenced palette. Musgraves has framed it as a record about peace and slowing down, written largely after she moved out of Nashville and into a more rural setting.\n\nThe lead single *Deeper Well* and *Cardinal* anchor the album's emotional center — the former is a meditation on relationship boundaries (the well as a metaphor for needing more depth than circumstances allow), the latter is a song about a friend's passing. The whole record sits in a softer dynamic register than her earlier work; even the more upbeat tracks (*Heaven Is*, *Dinner with Friends*) avoid the shimmer of *Golden Hour*. *Deeper Well* won the Grammy for Best Country Album at the 2025 ceremony, Musgraves' second win in that category after *Golden Hour*.\n\nThe album's production design is intentionally low-resolution in a positive sense — lots of room sound, minimal stereo widening, vocals close to the listener with the band recorded as if in a single room. It's the album most often cited by Musgraves fans as her \"Sunday morning\" record.\n\n**About this 2024 Worldwide pressing (1×LP, Cream Transparent):** Interscope/MCA Nashville catalog `602455847041`. The lacquer was cut by **Ryan K. Smith at Sterling Sound** (`RKS STERLING` in the runout, with cut codes `276316E1` and `276316E2`). Smith is one of Sterling's senior cutters — his credits include extensive work on contemporary country, indie, and alternative releases. This makes three Sterling cuts in the collection: NFR Pallas (Joe Nino-Hernes / JN-H), Middle of Nowhere Whiskey LE (also JN-H), and Deeper Well (RKS) — Sterling Sound being the dominant cutting facility for current major-label vinyl on the US/EU market.\n\nThe Cream Transparent variant is the standard worldwide retail pressing — not a limited-edition color but the default vinyl color for this release. Other variants exist (Limited Edition versions r30109691 and r30104402, Picture Disc r30105227) with their own catnos. Comes in a gatefold jacket with a printed die-cut inner sleeve. Photographs in the gatefold were taken at The Farm & Fiddle in Florida, the property where Musgraves wrote much of the album.\n\n### Gemini Notes\n\nReleased in 2024, *Deeper Well* finds Kacey Musgraves exploring themes of self-care, boundaries, and emotional growth. Reunited with her *Golden Hour* co-producers, the album returns to a warm, acoustic-driven folk-pop sound.\n\n**About this pressing:**",
+  "discogs": {
+    "release_id": 30052420,
+    "master_id": 3425747,
+    "uri": "https://www.discogs.com/release/30052420-Kacey-Musgraves-Deeper-Well",
+    "title": "Deeper Well",
+    "artists": [
+      {
+        "name": "Kacey Musgraves",
+        "id": 2866928,
+        "role": null
+      }
+    ],
+    "year": 2024,
+    "released": "2024-03-15",
+    "country": "Worldwide",
+    "labels": [
+      {
+        "name": "Interscope Records",
+        "catno": "602455847041",
+        "id": 2311
+      },
+      {
+        "name": "MCA Nashville",
+        "catno": "602455847041",
+        "id": 178754
+      }
+    ],
+    "formats": [
+      {
+        "name": "Vinyl",
+        "qty": "1",
+        "descriptions": [
+          "LP",
+          "Album",
+          "Stereo"
+        ],
+        "text": "Cream Transparent"
+      }
+    ],
+    "genres": [
+      "Folk, World, & Country"
+    ],
+    "styles": [
+      "Country"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Cardinal",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "A2",
+        "title": "Deeper Well",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "A3",
+        "title": "Too Good To Be True",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "A4",
+        "title": "Moving Out",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "A5",
+        "title": "Giver / Taker",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "A6",
+        "title": "Sway",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "A7",
+        "title": "Dinner With Friends",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B1",
+        "title": "Heart Of The Woods",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B2",
+        "title": "Jade Green",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B3",
+        "title": "The Architect",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B4",
+        "title": "Lonely Millionaire",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B5",
+        "title": "Heaven Is",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B6",
+        "title": "Anime Eyes",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B7",
+        "title": "Nothing To Be Scared Of",
+        "duration": "",
+        "type": "track"
+      }
+    ],
+    "extraartists": [
+      {
+        "name": "Sarah Marie Burke",
+        "role": "A&R [A&R Production]",
+        "id": 7683330
+      },
+      {
+        "name": "Ashley Kohorst",
+        "role": "Art Direction",
+        "id": 7775298
+      },
+      {
+        "name": "Kacey Musgraves",
+        "role": "Art Direction",
+        "id": 2866928
+      },
+      {
+        "name": "Kelly Christine Sutton",
+        "role": "Art Direction",
+        "id": 4512713
+      },
+      {
+        "name": "Mackenzie Moore (2)",
+        "role": "Art Direction",
+        "id": 9971902
+      },
+      {
+        "name": "Laura Phillips (4)",
+        "role": "Artwork [Art Production]",
+        "id": 14334947
+      },
+      {
+        "name": "Frank McDonough",
+        "role": "Coordinator [Production Coordinators]",
+        "id": 1969355
+      },
+      {
+        "name": "Kristen Clark (2)",
+        "role": "Coordinator [Production Coordinators]",
+        "id": 8532441
+      },
+      {
+        "name": "Mackenzie Moore (2)",
+        "role": "Design",
+        "id": 9971902
+      },
+      {
+        "name": "Giovanni Delgado",
+        "role": "Hair, Make-Up",
+        "id": 9971914
+      },
+      {
+        "name": "Moani Lee",
+        "role": "Hair, Make-Up",
+        "id": 10900900
+      }
+    ],
+    "identifiers": [
+      {
+        "type": "Barcode",
+        "value": "6 02455 84704 1",
+        "description": "Text"
+      },
+      {
+        "type": "Barcode",
+        "value": "602455847041",
+        "description": "Scanned"
+      },
+      {
+        "type": "Rights Society",
+        "value": "BMI",
+        "description": null
+      },
+      {
+        "type": "Rights Society",
+        "value": "GMR",
+        "description": null
+      },
+      {
+        "type": "Rights Society",
+        "value": "ASCAP",
+        "description": null
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "276316E1 1852585 RKS STERLING 602455847041-A (2) 0602455847041-A",
+        "description": "Side A, runout"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "276316E2 1846480 RKS STERLING 602455847041-B (2) 0602455847041-B",
+        "description": "Side B, runout"
+      }
+    ],
+    "notes": "Housed in a gatefold jacket.\nThe record comes in a printed die-cut inner sleeve.\n\nAn Interscope Records/MCA Nashville Release. ℗ © 2024 UMG Recordings, Inc.\n\nPhotographs taken at The Farm & Fiddle (Fly, TN) and Innisfree Farm (Williamsport, TN).\n\n___\nAll songs published by: 351 Music/Warner-Tamerlane Publishing Corp (BMI), Royal Peach Publishing/International Dog Music; Administered by Downtown DMP Songs (BMI), Sony/ATV Songs LLC/Speaking Tree Music (BMI); With additional publishing on: “Sway”: Powerteam Tom Songs (BMI) “The Architect”: Tempo Investments/Smack Hits/Warner/Chappell Music (GMR), Sony Cross Keys Publishing/Songs For Indy And Owl (ASCAP) “Lonely Millionaire”: Route Way LLC/Reservoir 416 (BMI); District 80s Publishing/Sony/ATV Songs LLC (BMI); Margaux Whitney Publishing/Concord Music Publishing LLC (BMI)/BMG Music Publishing; BMG Gold Songs (ASCAP)/Taji Kemar Jones Publishing, DJ Barnett Designee, Jerramy Barnett Designee, Justin Nicolas Barnett Designee *Contains interpolations from “Kody Blu 31” written-by [url=https://www.discogs.com/artist/7246829-JID]D. Route[/url], [url=https://www.discogs.com/artist/12334423-John-Welch-10]J. Welch[/url], I. Welch, [url=https://www.discogs.com/artist/4903953-Margaux-Whitney]M. Whitney[/url], T. Jones, DJ Barnett, J. Barnett, J. Barnett, N. Barnett and published by: Route Way LLC/Reservoir 416 (BMI); District 80s Publishing/Sony/ATV Songs LLC (BMI); Margaux Whitney Publishing/Concord Music Publishing LLC (BMI)/BMG Music Publishing; BMG Gold Songs (ASCAP)/Taji Kemar Jones Publishing, DJ Barnett Designee, Jerramy Barnett Designee, Justin Nicolas Barnett Designee. “To Good To Bee True”: Annibonna Music/Concord Songs (ASCAP) *Contains interpolations from “Breath (2 AM)” written-by [a766304] and published by Annibonna Music/Concord Songs (ASCAP).\n\n\"Made in Czech Republic\" sticker on back of shrink.",
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/3qPfiLricu2U5vD2xNmmAIxOM9kpsxNAd11AsRmt9FY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDUy/NDIwLTE3MTE1NzE4/MDUtMjM0NC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/M2Gx7lEgEe9KCbV1AneAEN9O-D4BS9vRckHomvIR-m0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDUy/NDIwLTE3MTE1NzE4/MDUtMjM0NC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/54WZRH6sL0hboTc5WJfJJESbvqUj0_92OdQ9HeAlri0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDUy/NDIwLTE3MTE1NzE4/MDUtNTQ5NC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/OvLIDYPGjPbg7bzLGPjII3i92S5Ix_7iGQwsykF5iVE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDUy/NDIwLTE3MTE1NzE4/MDUtNTQ5NC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/fA1gjePSSauy-8gEwuyTYs7IGdxgs4KJngHSz3LXHLg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDUy/NDIwLTE3MTE1NzE4/MDUtNjUyMC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/OhgvhjhqobrNR3cgP6Lefwhn_d_vHjt1eo-81hV_bAA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDUy/NDIwLTE3MTE1NzE4/MDUtNjUyMC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/dCzzcHMaAPVVIZNycamoWs4GfWTuIm0t3Mok9BahEW0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDUy/NDIwLTE3MTE1NzE4/MDUtODY4Ni5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/re-QCKuV5uh9DlrFLCWvKLT2pxTxAbQTo8zJWmr4brY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDUy/NDIwLTE3MTE1NzE4/MDUtODY4Ni5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/inl6mGgzVPrOqfFZs6Vc5XUzKOmSZ8Nwth4wWTzuxD4/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDUy/NDIwLTE3MTE1NzE4/NTEtODUyMC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/BvJUJvW_WhEX84-YMDCsHyM-UrYkh4-84-W9dVNlm5I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDUy/NDIwLTE3MTE1NzE4/NTEtODUyMC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/jiF3TKGY3ptwwfozOc__r_e2uH1uFECfzTS17wZHpfA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDUy/NDIwLTE3MTE1NzE4/NTEtNDg0Ny5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/ZMIfqAZRDONg8SElUh51f3w2oqwv62i8n4PWjCGeixk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDUy/NDIwLTE3MTE1NzE4/NTEtNDg0Ny5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/puyrQ-kN5bdBS8YRlmEn3-spbGmbp-Tp3g_mc5SKONo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDUy/NDIwLTE3MTE1NzE4/NTYtMzA4MC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/Ge6Dzfh_uK0R-RwwySlpWAfXfceVe7Lmym_hNAblBbE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDUy/NDIwLTE3MTE1NzE4/NTYtMzA4MC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/TKJeQyD5MZ95jMhsY6_7ROcIB8eCET1-_eIES1lNSww/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDUy/NDIwLTE3MTE1NzE4/NTYtNzgyMS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/V4pHW5RK8zNVvyqmd5CUylusdAYJ1nwEYsAzYCrnGQI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDUy/NDIwLTE3MTE1NzE4/NTYtNzgyMS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/X7wb_qZorA6xtDoCVLc3Lu0U6aYITPxWzy6BmepUdnU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDUy/NDIwLTE3MTE1NzE4/NTktODgwNS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/N8cv-EWYOjUftjOD8f7iL-F9BpzMkanFH8fDrzZnKtM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDUy/NDIwLTE3MTE1NzE4/NTktODgwNS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/zcxg2fvRALvMrodFK7ICk1vjcZMu-kTt2i9XFln2_AU/rs:fit/g:sm/q:90/h:600/w:328/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDUy/NDIwLTE3MTAwMzIy/OTItNjkwNy5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/bGE5UbvLP-A-32KgSg0qzORhCQtNp6jrvTPIIzumJ6c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDUy/NDIwLTE3MTAwMzIy/OTItNjkwNy5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/Bo7XlZHsKUUNYl24VPK9md8tH_xzoIdSel2qf2PKDKM/rs:fit/g:sm/q:90/h:213/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDUy/NDIwLTE3MTAwMzIy/MTgtNTEwNC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/GzexJTVFTzmw6iRwakadTseSFVoZThPDL4q_kAGeGOw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDUy/NDIwLTE3MTAwMzIy/MTgtNTEwNC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/YE2gF-nvPcCSxLL_f5i9djxylb7Io1cY2D_Y2bP2OJ4/rs:fit/g:sm/q:90/h:600/w:580/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDUy/NDIwLTE3MTAwMzI5/OTItMjMwNi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/FNgQb2H8ExskoT4z2GnmPO8PYhPWZAB1gKOHV7vmnh8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDUy/NDIwLTE3MTAwMzI5/OTItMjMwNi5qcGVn.jpeg"
+      }
+    ],
+    "community": {
+      "rating": {
+        "count": 166,
+        "average": 4.67
+      },
+      "have": 2967,
+      "want": 272
+    },
+    "master": {
+      "id": 3425747,
+      "title": "Deeper Well",
+      "main_release": 30102884,
+      "year": 2024,
+      "uri": "https://www.discogs.com/master/3425747-Kacey-Musgraves-Deeper-Well",
+      "num_for_sale": 276
+    }
+  },
+  "apple_music": {
+    "id": 1729242096,
+    "url": "https://music.apple.com/us/album/deeper-well/1729242096?uo=4",
+    "name": "Deeper Well",
+    "artist": "Kacey Musgraves",
+    "artist_id": 466044182,
+    "artwork_url_100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/18/27/9e/18279e4a-8aaa-caf9-614b-5bded6134648/24UMGIM01566.rgb.jpg/100x100bb.jpg",
+    "artwork_url_600": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/18/27/9e/18279e4a-8aaa-caf9-614b-5bded6134648/24UMGIM01566.rgb.jpg/600x600bb.jpg",
+    "release_date": "2024-03-15T07:00:00Z",
+    "track_count": 14,
+    "copyright": "An Interscope Records/MCA Nashville Release; ℗ 2023 UMG Recordings, Inc.",
+    "primary_genre": "Country",
+    "country": "USA",
+    "tracks": [
+      {
+        "track_number": 1,
+        "disc_number": 1,
+        "name": "Cardinal",
+        "duration_ms": 191413,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/69/a8/b9/69a8b960-9369-e990-75fb-50bd4dca48b0/mzaf_2452284437452927802.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/cardinal/1729242096?i=1729242099&uo=4"
+      },
+      {
+        "track_number": 2,
+        "disc_number": 1,
+        "name": "Deeper Well",
+        "duration_ms": 232133,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/8e/97/b3/8e97b38c-30ed-2699-50af-8bc4f66af829/mzaf_11047478525005834562.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/deeper-well/1729242096?i=1729242101&uo=4"
+      },
+      {
+        "track_number": 3,
+        "disc_number": 1,
+        "name": "Too Good to be True",
+        "duration_ms": 160053,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/0a/c9/0d/0ac90d2b-0923-c26e-6b0e-3a9ecb56e97e/mzaf_8934719043374855610.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/too-good-to-be-true/1729242096?i=1729242102&uo=4"
+      },
+      {
+        "track_number": 4,
+        "disc_number": 1,
+        "name": "Moving Out",
+        "duration_ms": 189827,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/68/94/97/689497b9-2e2f-ae56-acc5-b9ae73786112/mzaf_13691053967469264414.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/moving-out/1729242096?i=1729242291&uo=4"
+      },
+      {
+        "track_number": 5,
+        "disc_number": 1,
+        "name": "Giver / Taker",
+        "duration_ms": 190973,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b4/b1/39/b4b13985-b2dd-08a9-71fa-82e6c55c25fc/mzaf_13272358266159994304.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/giver-taker/1729242096?i=1729242295&uo=4"
+      },
+      {
+        "track_number": 6,
+        "disc_number": 1,
+        "name": "Sway",
+        "duration_ms": 191413,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/58/d1/85/58d185a7-84cc-16c8-95cf-510dbe41e1ea/mzaf_15716553859534558401.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/sway/1729242096?i=1729242349&uo=4"
+      },
+      {
+        "track_number": 7,
+        "disc_number": 1,
+        "name": "Dinner with Friends",
+        "duration_ms": 177733,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b1/1d/27/b11d270d-c015-e334-e717-ce9d9bf35a8e/mzaf_15349427488597851535.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/dinner-with-friends/1729242096?i=1729242358&uo=4"
+      },
+      {
+        "track_number": 8,
+        "disc_number": 1,
+        "name": "Heart of the Woods",
+        "duration_ms": 136813,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/59/b9/de/59b9de52-3948-ef7d-5530-57ccddc220c0/mzaf_17054938617583022885.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/heart-of-the-woods/1729242096?i=1729242362&uo=4"
+      },
+      {
+        "track_number": 9,
+        "disc_number": 1,
+        "name": "Jade Green",
+        "duration_ms": 178467,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/10/75/f9/1075f910-c7e5-f9f6-cce5-40292b487087/mzaf_15402488240224752837.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/jade-green/1729242096?i=1729242366&uo=4"
+      },
+      {
+        "track_number": 10,
+        "disc_number": 1,
+        "name": "The Architect",
+        "duration_ms": 177293,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/cf/af/5f/cfaf5fc8-61b9-f6bd-2bcf-704598557066/mzaf_16706276994654948046.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/the-architect/1729242096?i=1729242367&uo=4"
+      },
+      {
+        "track_number": 11,
+        "disc_number": 1,
+        "name": "Lonely Millionaire",
+        "duration_ms": 186013,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/53/f7/b4/53f7b4a6-3bcd-9755-7215-8d4623b83eb6/mzaf_17421213057926368024.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/lonely-millionaire/1729242096?i=1729242371&uo=4"
+      },
+      {
+        "track_number": 12,
+        "disc_number": 1,
+        "name": "Heaven Is",
+        "duration_ms": 164027,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/15/b5/e2/15b5e2b8-cc88-2806-1871-f8eac072593a/mzaf_6629092337882867276.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/heaven-is/1729242096?i=1729242373&uo=4"
+      },
+      {
+        "track_number": 13,
+        "disc_number": 1,
+        "name": "Anime Eyes",
+        "duration_ms": 198027,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/75/a0/19/75a01955-d068-55ab-4ac0-16874ff5ecdd/mzaf_6579212690848848697.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/anime-eyes/1729242096?i=1729242375&uo=4"
+      },
+      {
+        "track_number": 14,
+        "disc_number": 1,
+        "name": "Nothing to be Scared Of",
+        "duration_ms": 153533,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/75/ca/2a/75ca2a18-a35e-3363-ee29-13fee68e4b77/mzaf_1212539975707717004.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/nothing-to-be-scared-of/1729242096?i=1729242527&uo=4"
+      }
+    ]
+  },
+  "discrepancies": [],
+  "local_cover": "images/30052420.jpg"
+}

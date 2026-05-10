@@ -1,0 +1,1 @@
+Released in March 1973, *The Dark Side of the Moon* is Pink Floyd's commercial breakthrough and the defining album of the progressive rock era. Its themes of time, greed, and mental illness resonated globally, making it one of the best-selling records in history.

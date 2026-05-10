@@ -1,0 +1,378 @@
+{
+  "captured_at": "2026-05-10T02:28:49+00:00",
+  "schema_version": 3,
+  "artist": "Pink Floyd",
+  "title": "Animals (2018 Remix)",
+  "original_release_year": 1977,
+  "pressing_year": 2022,
+  "upgrade_suggestion": "2022 Netherlands-pressed PFRLP28 repress with BG-cut lacquer is a current-gen remix at audiophile cutting standards; no meaningful sonic upgrade exists for this remix on vinyl. Sonic alternative is to listen to the 1977 original mix instead (different document, not an upgrade).",
+  "commentary": "James Guthrie (Pink Floyd's mix engineer from *The Wall* onward) returned to the multitracks for the 2018 remix, working with Joel Plante. The remix's stated purpose was to address what Roger Waters has called the rushed quality of the original 1977 mix — the band was in tax exile, fractured internally, and the album was assembled under duress. The remix was completed in 2018 but held back until 2022 due to credit and legal disputes among the band members.\n\n**Mastering credit:** Bernie Grundman, James Guthrie, and Joel Plante (three names). **Lacquer cutting:** Bernie Grundman alone — the `BG` stamp in the deadwax. The cutting job number `24758` traces the same Bernie Grundman cut series used across the 2022 worldwide release. This makes a meaningful through-line with the 2023 50th Anniversary *Dark Side of the Moon* in the collection — both have BG-cut lacquers from Guthrie/Plante-mixed sources.\n\nThe remix is more resolved and wider than the 1977 mix; it is also more controversial. Purists argue Guthrie's revision sterilizes the original's atmosphere — the murk and tension that match the album's subject matter. Both readings are defensible: the 1977 mix is the historical document, the 2018 mix is what the band has chosen to present going forward.\n\n**About this 2022 Netherlands-pressed worldwide repress (1×LP, gatefold, 180g):** Pink Floyd Records catalog `PFRLP28`, barcode `190758768519`, **Made in the Netherlands**. This is the *Repress* variant of the 2022 worldwide-distribution release — same audio source (Bernie Grundman cut from Guthrie/Plante mix and master), same physical specs (180g, gatefold, 28-page booklet), but pressed in a later production run with slightly different runout markings than the original 2022 issue.\n\nThe runouts on this variant include `19075876851-A R B 24758 5A BG ▽` — note the `R` (for Repress), and the `5A` cut-revision number indicating this is the 5th lacquer-cut variant in the series. The earlier 2022 run (r24516668) used `2A` for its first cut. The audio is the same Grundman cut from the same source masters; the cut variant is a manufacturing-side detail rather than a sonic change.\n\nPressed at the Record Industry plant in the Netherlands (the standard Pink Floyd Records pressing facility for European-distribution releases) — the same plant family that produces the bulk of major-label vinyl for the European market.\n\n### Gemini Notes\n\nPink Floyd's 1977 album *Animals* is a biting, Orwellian critique of late-capitalist society. Long considered the band's muddiest sounding classic-era album, the 2018 remix by James Guthrie significantly opens up the soundstage, revealing new details in Richard Wright's keyboards and Nick Mason's drumming.\n\n**About this pressing:**",
+  "discogs": {
+    "release_id": 32533200,
+    "master_id": 10370,
+    "uri": "https://www.discogs.com/release/32533200-Pink-Floyd-Animals-2018-Remix",
+    "title": "Animals (2018 Remix)",
+    "artists": [
+      {
+        "name": "Pink Floyd",
+        "id": 45467,
+        "role": null
+      }
+    ],
+    "year": 2022,
+    "released": "2022-09-16",
+    "country": null,
+    "labels": [
+      {
+        "name": "Pink Floyd Records",
+        "catno": "PFRLP28",
+        "id": 983890
+      },
+      {
+        "name": "Pink Floyd Records",
+        "catno": "19075876851",
+        "id": 983890
+      }
+    ],
+    "formats": [
+      {
+        "name": "Vinyl",
+        "qty": "1",
+        "descriptions": [
+          "LP",
+          "Album",
+          "Reissue",
+          "Repress",
+          "Stereo"
+        ],
+        "text": "Gatefold, 180g"
+      }
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Prog Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Pigs On The Wing 1",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "A2",
+        "title": "Dogs",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B1",
+        "title": "Pigs (Three Different Ones)",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B2",
+        "title": "Sheep",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B3",
+        "title": "Pigs On The Wing 2",
+        "duration": "",
+        "type": "track"
+      }
+    ],
+    "extraartists": [
+      {
+        "name": "Brian Humphries",
+        "role": "Engineer",
+        "id": 258792
+      },
+      {
+        "name": "Joel Plante",
+        "role": "Engineer [Assistant]",
+        "id": 409280
+      },
+      {
+        "name": "Bernie Grundman",
+        "role": "Lacquer Cut By",
+        "id": 307942
+      },
+      {
+        "name": "Bernie Grundman",
+        "role": "Mastered By",
+        "id": 307942
+      },
+      {
+        "name": "James Guthrie",
+        "role": "Mastered By",
+        "id": 171450
+      },
+      {
+        "name": "Joel Plante",
+        "role": "Mastered By",
+        "id": 409280
+      },
+      {
+        "name": "James Guthrie",
+        "role": "Mixed By [2018 Remix]",
+        "id": 171450
+      },
+      {
+        "name": "Pink Floyd",
+        "role": "Producer",
+        "id": 45467
+      }
+    ],
+    "identifiers": [
+      {
+        "type": "Barcode",
+        "value": "1 90758 76851 9",
+        "description": "Text"
+      },
+      {
+        "type": "Barcode",
+        "value": "190758768519",
+        "description": "Scanned"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "PFRLP28-A",
+        "description": "Label side A"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "PFRLP28-B",
+        "description": "Label side B"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "19075876851-A R B 24758 ̶4̶A̶ 5A BG ▽",
+        "description": "Runout side A"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "19075876851-B R 24758 5 ̶A̶B BG ▽",
+        "description": "Runout side B"
+      }
+    ],
+    "notes": "180g vinyl with 28-page booklet.\n\nThis version is marketed and distributed by [l29073] (see close-up image from rear LP jacket); similar to [r=24512732], which is marketed and distributed by [l563997]\n\nSimilar to https://www.discogs.com/release/24516668-Pink-Floyd-Animals-2018-Remix but different runouts.  This version has a runout similar to the vinyl album contained in the box sets but lacks the leading 0 in the catalog number and also includes the letter R.\n\nMade in Netherlands.",
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/qyWCDacMYOxTcNptbtTaly0q_T8DPOTP0SU7nU9BimM/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTMz/MjAwLTE3NDc4ODYz/NzktNTkwOS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/yWkGFTEZHmv5ePDaDNYy8Fcpo9l2S8oq_S81_vxtW24/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTMz/MjAwLTE3NDc4ODYz/NzktNTkwOS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/2YMPdRiOiVKfA_-ZUXCC81K4yqpkWsqnc-jtsN6Y294/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTMz/MjAwLTE3NDc4ODY0/NzctNjU4My5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/Rv_Kn9kV-scxafFcDPSW_drdcVz5P5doq6DkvQC0dJA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTMz/MjAwLTE3NDc4ODY0/NzctNjU4My5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/z6SGvQAzKg-zhWdlN6CLKH2dlgneeHGOSuSoJ_DkJs0/rs:fit/g:sm/q:90/h:290/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTMz/MjAwLTE3NDc4ODYz/NzgtMzU5Ny5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/WdSbh69b28OHJwH9JmcD-Ga13jrgAsQlO02xB3Fq6AI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTMz/MjAwLTE3NDc4ODYz/NzgtMzU5Ny5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/iKOgSTDxRlRj4D_KkymB7tCmY72HP4xfHD6trvauS4o/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTMz/MjAwLTE3NDc4ODYz/NzktNzU1Ny5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/PyVv1wIuAedjTdGiKSYZtBnnz5n_cEm6vbu1MZa6yHs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTMz/MjAwLTE3NDc4ODYz/NzktNzU1Ny5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/34ShRMiVBDueKHrp0KlnT0HvYNyMpYlzbySNoDM5tIE/rs:fit/g:sm/q:90/h:295/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTMz/MjAwLTE3NDc4ODYz/NzktNTg1OC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/6wn3UU6daz0bgfl3GcqxLbWgaCXXL1Zn6DyxHacEz5o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTMz/MjAwLTE3NDc4ODYz/NzktNTg1OC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/s81bDLcAlxQEaWDB24BcuTl3p4ntPKnQa2RThaqH_1M/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTMz/MjAwLTE3NDc5MjI2/NTgtNzA2MS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/ZG8Ny1S9ZAux5QSY_6x10rjBpMkmvnnye-gxs9ow9K0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTMz/MjAwLTE3NDc5MjI2/NTgtNzA2MS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/AN0FNfHjVLmYMWWGnSFZS8RMW8Xnk3fyqjfS9yBBXMc/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTMz/MjAwLTE3NDc5MjI2/NjItNjE0My5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/Npr1U78lsQBeCwzI8Q4AsTiV0QoRUgoKYxP4Yp4XaoE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTMz/MjAwLTE3NDc5MjI2/NjItNjE0My5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/1xmMLup86vN2OUoFuJT_iJf24cJarusnRvugeH-fAH0/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTMz/MjAwLTE3NDc4ODYz/NzQtNDU0MC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/bod9DPRaIjwhitlFu1IeL0hMeSh-U4jmRwpP6dWeC_Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTMz/MjAwLTE3NDc4ODYz/NzQtNDU0MC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/wKYs5mevzaxHzyPquz12ReK7cTf-_Bxbrd5PHKUZlxA/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTMz/MjAwLTE3NDc4ODYz/NzctMjk3NS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/dAvoSCA_f2gttTstXGJUJkZLswiQf8Z0BsGROgZG0zY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTMz/MjAwLTE3NDc4ODYz/NzctMjk3NS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/_c31iyA0QBcljqcDJg85ADJ711Qbb3xCYZNurLOxtpg/rs:fit/g:sm/q:90/h:295/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTMz/MjAwLTE3NDc4ODYz/NzgtMzM0MC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/-meAwy8eY6VHASxGIz8kjYIDE2VdWY1-qlyZYrXd85U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTMz/MjAwLTE3NDc4ODYz/NzgtMzM0MC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/-vZ9tOPxn3AZ6rbRSuq1F3NriOS6OPxaRjBt2T683xg/rs:fit/g:sm/q:90/h:294/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTMz/MjAwLTE3NDc4ODYz/NzgtNjE4Ny5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/3r6nBYJHVLjIgTpa5DV7ROyGm2LYX6R2wTH5-z7UCAE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTMz/MjAwLTE3NDc4ODYz/NzgtNjE4Ny5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/OYH9YflCduFmvjx74tBwGajdELcbYy7RxKlxiCUwTFc/rs:fit/g:sm/q:90/h:295/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTMz/MjAwLTE3NDc4ODYz/NzgtNjgwOS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/MTOOqmWOYjtThysNsuFgoBl3Wgl4N3YN-v98rQj-rsM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTMz/MjAwLTE3NDc4ODYz/NzgtNjgwOS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/SkAByz9qKjHkcAPV3BzZDFnInZg4XfZTOJoOA-3k2R4/rs:fit/g:sm/q:90/h:296/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTMz/MjAwLTE3NDc4ODYz/NzgtMTI2My5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/JvBDD6CbQb9Wj0L4ew97TgIyPg5QzEbhSgYuMo-ZvoE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTMz/MjAwLTE3NDc4ODYz/NzgtMTI2My5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/SBe_hWb5A9z2WvkdEpaiYdoQ5-o1l5fHIXG_vTje5CM/rs:fit/g:sm/q:90/h:294/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTMz/MjAwLTE3NDc4ODYz/NzktMjIzNC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/uNLG3mjZxdSHmBSHOa1xuIQ2OjaaqTlvgOjPrqaFetQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTMz/MjAwLTE3NDc4ODYz/NzktMjIzNC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/-nr1hI0kMu5I9Kw4TJO_Xlp5hNAqjbdVaSaNC8PuDk0/rs:fit/g:sm/q:90/h:300/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTMz/MjAwLTE3NDc4ODYz/NzgtNzc4MC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/kiQcQe0HDf2c1itzcERA2toc7noy6xFW5JpcLZRUoFg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTMz/MjAwLTE3NDc4ODYz/NzgtNzc4MC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/Fu9f5H1w-VoCUeJc9_rSFu7RFukBs5gnq9xTyY1WtOY/rs:fit/g:sm/q:90/h:298/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTMz/MjAwLTE3NDc4ODYz/NzktNTg0My5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/jCk7Cm7ZvBO2zqijDOI1G7r8mxam5NVRha0NzbzK1tw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTMz/MjAwLTE3NDc4ODYz/NzktNTg0My5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/hrnyN2iLN7A2omJO5AWWFNhHMVhPYamBO2rPGM6DOfI/rs:fit/g:sm/q:90/h:296/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTMz/MjAwLTE3NDc4ODYz/NzgtNzAzMy5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/O5RgAhKgXghKyuqGGML5zc9IIajqAMr-q1f7KxH8E40/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTMz/MjAwLTE3NDc4ODYz/NzgtNzAzMy5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/RnOui5Orlwxae3wUJn6qT8Jxi3boGIfCbdxB75Id95Q/rs:fit/g:sm/q:90/h:299/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTMz/MjAwLTE3NDc4ODYz/NzgtNDgzNy5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/ZdqlDvJU-Fa3kAd_r1YaowI5tnHwNER6NkLl6ELspYw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTMz/MjAwLTE3NDc4ODYz/NzgtNDgzNy5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/O1O2zCTl6KpIIqTbobjViW8hTQkM9HzHHTEwjlmJyb0/rs:fit/g:sm/q:90/h:295/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTMz/MjAwLTE3NDc4ODYz/NzgtNjAyOC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/eKUPi-KuIb-yi51EidRiNmVm6unXIOlUm9LsDHhD-tk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTMz/MjAwLTE3NDc4ODYz/NzgtNjAyOC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/xRCyyIN7vqIkpcT7ok5pm9O3OutdDMOUwL9QhWSQzyk/rs:fit/g:sm/q:90/h:298/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTMz/MjAwLTE3NDc4ODYz/NzctNDAxNC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/OaHVSj1HD0IgRW5bhALdcS8n3J1vVRN7ZYfQSytQt5Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTMz/MjAwLTE3NDc4ODYz/NzctNDAxNC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/xvZVTc9OR4dyShm61eD8QbI_Y6slgs7fLAIOd4ku92A/rs:fit/g:sm/q:90/h:300/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTMz/MjAwLTE3NDc4ODYz/NzgtNzYxNi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/cjyVLAN8FUYV0d7iV4QJDWbsV8qv7RUjsa62D9g0A9Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTMz/MjAwLTE3NDc4ODYz/NzgtNzYxNi5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/4ZqTNfB42HTon9YYLKtAgdRLRh8AjPMAnmG-zpoXsNE/rs:fit/g:sm/q:90/h:302/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTMz/MjAwLTE3NDc4ODYz/NzktOTgwNy5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/KH75n4xzT6E_Q509tBrUZSfJElVlE9oSNwv--4Qc06c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTMz/MjAwLTE3NDc4ODYz/NzktOTgwNy5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/qobYj35ZGyZoz8WWHEc6MeScps6Dhwef-k0mrk-LeTk/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTMz/MjAwLTE3NDc4ODYz/NzktOTI0NS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/xevaC4v4hgcb6Y6pSUTq1aFamuzI-yIU62s3EO0Zcuc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTMz/MjAwLTE3NDc4ODYz/NzktOTI0NS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/d42xs7Lp9sJ_GiP95yhlcp9DGKo0Nkj7DhkTlFN3a5w/rs:fit/g:sm/q:90/h:217/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTMz/MjAwLTE3NDc4ODYz/NzQtMTMxNy5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/0K5kOLsdhbjkniN5GNYBAP5-C6hnHezXYVnpcPtyiOo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTMz/MjAwLTE3NDc4ODYz/NzQtMTMxNy5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/Xer_l3vOEq2gSWaFcUh4E6gopJ_YQj6VkvRbLEGl9CI/rs:fit/g:sm/q:90/h:150/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTMz/MjAwLTE3NDc4ODYz/NzEtMzQxMi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/Gp1bahYWrCACWGIFKoKtM_cwHHSO8OBBXT4iGISWefI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTMz/MjAwLTE3NDc4ODYz/NzEtMzQxMi5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/TZH27ULikRbxqibKZ4EL7aCQ8RGpRZjQe8H_Ehax3vk/rs:fit/g:sm/q:90/h:600/w:402/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTMz/MjAwLTE3NDc4ODYz/NzctNjUzMi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/A9ErFSP9nCkSSAGIWbk1VAyScl-3ZlJkCn16Ri7PZjU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTMz/MjAwLTE3NDc4ODYz/NzctNjUzMi5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/sBzaF6x3xWKwPQUY0gFckMzotSBkFjmLMUBsedz6kr8/rs:fit/g:sm/q:90/h:108/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTMz/MjAwLTE3NDc4ODYz/NzMtNjg0Ny5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/3v2o1KW0Yt2XyvCflUye_Y_ISnwkmxBU5r9joc5c8BQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTMz/MjAwLTE3NDc4ODYz/NzMtNjg0Ny5qcGVn.jpeg"
+      }
+    ],
+    "community": {
+      "rating": {
+        "count": 96,
+        "average": 4.82
+      },
+      "have": 751,
+      "want": 169
+    },
+    "master": {
+      "id": 10370,
+      "title": "Animals",
+      "main_release": 391322,
+      "year": 1977,
+      "uri": "https://www.discogs.com/master/10370-Pink-Floyd-Animals",
+      "num_for_sale": 3707
+    }
+  },
+  "apple_music": {
+    "id": 1631582682,
+    "url": "https://music.apple.com/us/album/animals-2018-remix/1631582682?uo=4",
+    "name": "Animals (2018 Remix)",
+    "artist": "Pink Floyd",
+    "artist_id": 487143,
+    "artwork_url_100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/71/be/a7/71bea7a4-59af-53f6-b101-827a63cfebb9/196589270573.jpg/100x100bb.jpg",
+    "artwork_url_600": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/71/be/a7/71bea7a4-59af-53f6-b101-827a63cfebb9/196589270573.jpg/600x600bb.jpg",
+    "release_date": "1977-01-23T08:00:00Z",
+    "track_count": 5,
+    "copyright": "℗ 2022 Pink Floyd Music Ltd., marketed and distributed by Sony Music Entertainment",
+    "primary_genre": "Rock",
+    "country": "USA",
+    "tracks": [
+      {
+        "track_number": 1,
+        "disc_number": 1,
+        "name": "Pigs On the Wing, Pt. 1 (2018 Remix)",
+        "duration_ms": 85027,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/59/bb/2c/59bb2ca8-471c-69ef-80c7-f73513c2696d/mzaf_14700289750963610680.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/pigs-on-the-wing-pt-1-2018-remix/1631582682?i=1631582688&uo=4"
+      },
+      {
+        "track_number": 2,
+        "disc_number": 1,
+        "name": "Dogs (2018 Remix)",
+        "duration_ms": 1026787,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/4e/ef/17/4eef17d9-e19d-d51f-ac13-138c08c3ba20/mzaf_6002863184668854709.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/dogs-2018-remix/1631582682?i=1631582691&uo=4"
+      },
+      {
+        "track_number": 3,
+        "disc_number": 1,
+        "name": "Pigs (Three Different Ones) [2018 Remix]",
+        "duration_ms": 686680,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/37/27/26/3727268f-9f4d-2f4a-577b-d69b184e8bc3/mzaf_13775660882185681834.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/pigs-three-different-ones-2018-remix/1631582682?i=1631582693&uo=4"
+      },
+      {
+        "track_number": 4,
+        "disc_number": 1,
+        "name": "Sheep (2018 Remix)",
+        "duration_ms": 617493,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/55/29/48/55294872-948d-f642-91c3-0d7ae4a88ace/mzaf_848643207242353133.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/sheep-2018-remix/1631582682?i=1631582695&uo=4"
+      },
+      {
+        "track_number": 5,
+        "disc_number": 1,
+        "name": "Pigs On the Wing, Pt. 2 (2018 Remix)",
+        "duration_ms": 93093,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f1/94/37/f194371f-8d46-d844-0a1d-5a5ac83c513b/mzaf_7335855825056932801.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/pigs-on-the-wing-pt-2-2018-remix/1631582682?i=1631582699&uo=4"
+      }
+    ]
+  },
+  "discrepancies": [
+    "Release year differs: your pressing=2022, Apple Music edition=1977. Apple Music typically streams the most recent remaster."
+  ],
+  "local_cover": "images/32533200.jpg"
+}

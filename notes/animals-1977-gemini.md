@@ -1,0 +1,1 @@
+Released in 1977, *Animals* is Pink Floyd's aggressive, synthesizer-heavy adaptation of George Orwell's Animal Farm. It serves as a stark bridge between the spaciousness of *Wish You Were Here* and the theatricality of *The Wall*.

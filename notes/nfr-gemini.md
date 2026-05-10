@@ -1,0 +1,1 @@
+Released in 2019, *Norman Fucking Rockwell!* is widely considered Lana Del Rey's magnum opus. Produced largely with Jack Antonoff, the album explores the messy reality behind the idealized American dream with lush, psych-rock instrumentation.

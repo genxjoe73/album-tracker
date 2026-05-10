@@ -1,0 +1,82 @@
+:root {
+  color-scheme: light dark;
+  --bg: #fafafa;
+  --fg: #1a1a1a;
+  --muted: #666;
+  --border: #ddd;
+  --accent: #0a66c2;
+  --row-hover: #eef;
+  --card: #fff;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #14171a;
+    --fg: #eaeaea;
+    --muted: #999;
+    --border: #2a2f33;
+    --accent: #4ea1ff;
+    --row-hover: #1c2126;
+    --card: #1a1e22;
+  }
+}
+* { box-sizing: border-box; }
+html, body { margin: 0; padding: 0; background: var(--bg); color: var(--fg); }
+body { font: 14px/1.45 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; }
+header { padding: 18px 24px; border-bottom: 1px solid var(--border); display: flex; align-items: baseline; gap: 16px; }
+header h1 { font-size: 18px; margin: 0; font-weight: 600; }
+header .meta { color: var(--muted); font-size: 12px; }
+main { padding: 16px 24px 64px; max-width: 1400px; margin: 0 auto; }
+
+input.filter {
+  width: 100%; padding: 10px 14px; font-size: 14px;
+  border: 1px solid var(--border); border-radius: 6px;
+  background: var(--card); color: var(--fg);
+  margin-bottom: 16px;
+}
+
+table { border-collapse: collapse; width: 100%; }
+th, td { padding: 10px 12px; text-align: left; border-bottom: 1px solid var(--border); vertical-align: middle; }
+th {
+  position: sticky; top: 0; background: var(--bg);
+  cursor: pointer; user-select: none; font-weight: 600;
+  border-bottom: 2px solid var(--border);
+}
+th[aria-sort="ascending"]::after { content: " ▲"; color: var(--muted); }
+th[aria-sort="descending"]::after { content: " ▼"; color: var(--muted); }
+tr:hover td { background: var(--row-hover); }
+td.cover { width: 64px; }
+td.cover img { display: block; width: 56px; height: 56px; object-fit: cover; border-radius: 4px; background: var(--border); }
+td.cover .placeholder { display: flex; align-items: center; justify-content: center; width: 56px; height: 56px; background: var(--border); border-radius: 4px; color: var(--muted); font-size: 11px; }
+td.year { text-align: right; font-variant-numeric: tabular-nums; color: var(--muted); }
+a { color: var(--accent); text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+/* Detail page */
+.detail-grid { display: grid; grid-template-columns: 320px 1fr; gap: 32px; }
+@media (max-width: 800px) { .detail-grid { grid-template-columns: 1fr; } }
+.detail-cover img { width: 100%; max-width: 320px; border-radius: 6px; box-shadow: 0 2px 12px rgba(0,0,0,0.15); }
+.detail-cover .placeholder { width: 320px; height: 320px; display: flex; align-items: center; justify-content: center; background: var(--border); border-radius: 6px; color: var(--muted); }
+.detail h1 { margin: 0 0 4px; font-size: 26px; }
+.detail .artist { color: var(--muted); font-size: 18px; margin-bottom: 16px; }
+.kv { display: grid; grid-template-columns: 160px 1fr; gap: 6px 18px; margin: 18px 0; }
+.kv dt { color: var(--muted); }
+.kv dd { margin: 0; }
+.section { margin-top: 28px; }
+.section h2 { font-size: 16px; margin: 0 0 10px; padding-bottom: 6px; border-bottom: 1px solid var(--border); font-weight: 600; }
+.tracklist { width: 100%; border-collapse: collapse; }
+.tracklist td { padding: 6px 8px; border-bottom: 1px solid var(--border); }
+.tracklist td.pos { width: 50px; color: var(--muted); font-variant-numeric: tabular-nums; }
+.tracklist td.dur { width: 70px; text-align: right; color: var(--muted); font-variant-numeric: tabular-nums; }
+.credits, .identifiers { font-size: 13px; }
+.credits li, .identifiers li { margin: 2px 0; }
+.credits .role, .identifiers .type { color: var(--muted); }
+.notes { white-space: pre-wrap; background: var(--card); padding: 12px; border-radius: 6px; border: 1px solid var(--border); font-size: 13px; }
+.upgrade { background: var(--card); padding: 12px 14px; border-left: 3px solid var(--accent); border-radius: 4px; margin: 16px 0; font-size: 13px; }
+.commentary { font-size: 14px; line-height: 1.55; }
+.commentary p { margin: 0 0 12px; }
+.commentary p:last-child { margin-bottom: 0; }
+.commentary strong { color: var(--fg); }
+.commentary em { color: var(--fg); }
+.discrepancies { font-size: 13px; color: var(--muted); }
+.discrepancies li { margin: 3px 0; }
+.back { display: inline-block; margin-bottom: 16px; font-size: 13px; }

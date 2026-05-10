@@ -1,0 +1,764 @@
+{
+  "captured_at": "2026-05-10T02:40:40+00:00",
+  "schema_version": 3,
+  "artist": "Pink Floyd",
+  "title": "The Wall",
+  "original_release_year": 1979,
+  "pressing_year": 2018,
+  "upgrade_suggestion": "No meaningful upgrade exists within the current audio source — the 2016 first pressing (r8957729) uses the same Bernie Grundman cut from the same Guthrie/Plante remaster. If pursuing an original, the 1979 UK Columbia first press (CBS SAWBX 411) is the historical document, cut by Nick Webb at Britannia Row.",
+  "commentary": "**The Wall** is Pink Floyd's eleventh studio album, released in November 1979 as a **double LP**. The record was co-produced by **Roger Waters**, **Bob Ezrin**, **David Gilmour**, and **Nick Mason**, with Ezrin's orchestral and theatrical instincts shaping the album's dense, layered sonic architecture. Mixed by **James Guthrie**, who had joined the band's inner circle during the recording sessions at Britannia Row, Super Bear, Miravel, CBS, and Cherokee Studios, The Wall remains one of the most technically ambitious rock productions of its era. The conceptual arc — a rock star named Pink constructing a psychological wall against the world — unfolds across four sides of vinyl with an almost operatic sense of pacing, culminating in the mock-trial finale of \"The Trial.\" Commercially, the album was enormous, spending fifteen weeks at number one in the United States and producing the band's only US chart-topping single, \"Another Brick in the Wall, Part II.\" It is, alongside Dark Side of the Moon, the axis around which Pink Floyd's legacy turns.\n\nThe **mastering lineage** of The Wall on vinyl is largely the story of James Guthrie's continuing custodianship of the recording. Guthrie mixed the original album and has remained the primary steward of its audio across subsequent reissues. In 2016, Pink Floyd Records initiated a comprehensive remaster of The Wall, with Guthrie working alongside **Joel Plante** — the same two-person team responsible for the 2018 Animals remix and remaster. The resulting **2016 remaster** (catalogued on Discogs as r8957729) became the audio source for all subsequent authorized vinyl pressings under the Pink Floyd Records umbrella. For this pressing, the lacquers were cut by **Bernie Grundman**, whose initials **BG** appear in the deadwax and whose Beverly Hills mastering studio is one of the most respected cutting rooms in North America. Grundman's involvement signals a deliberate audiophile-tier cut rather than a mechanical duplication of an earlier lacquer set.\n\n**About this 2018 US repress (2×LP, 180g, gatefold):** Pink Floyd Records catalog **PFRLP11**, barcode `888751842816`, pressed at **Record Industry** in Haarlem, Netherlands — one of Europe's premier pressing plants, identifiable in the deadwax by the plant job code **18009**. The full matrix reads `18009 xX 88875184281-X BG`: the `18009` prefix is the Record Industry plant stamp; `88875184281` is the matrix base tied to the 2016 Pink Floyd Records remaster; and `BG` confirms the Bernie Grundman lacquer cut. The audio source is the same 2016 Guthrie/Plante remaster as the 2016 first pressing (r8957729), making this a sonically equivalent variant distinguished primarily by its lacquer generation and plant run. Physically, the record is **180-gram** vinyl in the original **gatefold** jacket with the Gerald Scarfe artwork intact. Side 4 is notably shorter than the other three — a consequence of the album's sequencing, with the brief closing track \"Outside the Wall\" landing after the cathartic peak of \"The Trial.\" The pressing is US-market configured despite Netherlands manufacture, reflecting the common practice of European plants supplying North American catalog pressings for Pink Floyd Records releases during this period.\n\n### Gemini Notes\n\nReleased in 1979, *The Wall* is Roger Waters' sweeping rock opera about isolation, trauma, and societal breakdown. Produced with Bob Ezrin, it features the iconic hit \"Another Brick in the Wall, Part 2\" and remains a landmark of theatrical rock.\n\n**About this pressing:**",
+  "discogs": {
+    "release_id": 15540799,
+    "master_id": 11329,
+    "uri": "https://www.discogs.com/release/15540799-Pink-Floyd-The-Wall",
+    "title": "The Wall",
+    "artists": [
+      {
+        "name": "Pink Floyd",
+        "id": 45467,
+        "role": null
+      }
+    ],
+    "year": 2018,
+    "released": "2018",
+    "country": "US",
+    "labels": [
+      {
+        "name": "Pink Floyd Records",
+        "catno": "PFRLP11",
+        "id": 983890
+      },
+      {
+        "name": "Pink Floyd Records",
+        "catno": "88875184281",
+        "id": 983890
+      }
+    ],
+    "formats": [
+      {
+        "name": "Vinyl",
+        "qty": "2",
+        "descriptions": [
+          "LP",
+          "Album",
+          "Reissue",
+          "Remastered",
+          "Repress"
+        ],
+        "text": "180 Gram, Gatefold"
+      }
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Art Rock",
+      "Prog Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "In The Flesh?",
+        "duration": "3:18",
+        "type": "track"
+      },
+      {
+        "position": "A2",
+        "title": "The Thin Ice",
+        "duration": "2:22",
+        "type": "track"
+      },
+      {
+        "position": "A3",
+        "title": "Another Brick In The Wall Part 1",
+        "duration": "3:12",
+        "type": "track"
+      },
+      {
+        "position": "A4",
+        "title": "The Happiest Days Of Our Lives",
+        "duration": "1:38",
+        "type": "track"
+      },
+      {
+        "position": "A5",
+        "title": "Another Brick In The Wall Part 2",
+        "duration": "3:52",
+        "type": "track"
+      },
+      {
+        "position": "A6",
+        "title": "Mother",
+        "duration": "5:17",
+        "type": "track"
+      },
+      {
+        "position": "B1",
+        "title": "Goodbye Blue Sky",
+        "duration": "2:43",
+        "type": "track"
+      },
+      {
+        "position": "B2",
+        "title": "Empty Spaces",
+        "duration": "2:02",
+        "type": "track"
+      },
+      {
+        "position": "B3",
+        "title": "Young Lust",
+        "duration": "3:27",
+        "type": "track"
+      },
+      {
+        "position": "B4",
+        "title": "One Of My Turns",
+        "duration": "3:26",
+        "type": "track"
+      },
+      {
+        "position": "B5",
+        "title": "Don't Leave Me Now",
+        "duration": "4:14",
+        "type": "track"
+      },
+      {
+        "position": "B6",
+        "title": "Another Brick In The Wall Part 3",
+        "duration": "1:17",
+        "type": "track"
+      },
+      {
+        "position": "B7",
+        "title": "Goodbye Cruel World",
+        "duration": "0:59",
+        "type": "track"
+      },
+      {
+        "position": "C1",
+        "title": "Hey You",
+        "duration": "4:32",
+        "type": "track"
+      },
+      {
+        "position": "C2",
+        "title": "Is There Anybody Out There?",
+        "duration": "2:41",
+        "type": "track"
+      },
+      {
+        "position": "C3",
+        "title": "Nobody Home",
+        "duration": "3:35",
+        "type": "track"
+      },
+      {
+        "position": "C4",
+        "title": "Vera",
+        "duration": "1:16",
+        "type": "track"
+      },
+      {
+        "position": "C5",
+        "title": "Bring The Boys Back Home",
+        "duration": "1:16",
+        "type": "track"
+      },
+      {
+        "position": "C6",
+        "title": "Comfortably Numb",
+        "duration": "6:07",
+        "type": "track"
+      },
+      {
+        "position": "D1",
+        "title": "The Show Must Go On",
+        "duration": "1:36",
+        "type": "track"
+      },
+      {
+        "position": "D2",
+        "title": "In The Flesh",
+        "duration": "4:06",
+        "type": "track"
+      },
+      {
+        "position": "D3",
+        "title": "Run Like Hell",
+        "duration": "4:14",
+        "type": "track"
+      },
+      {
+        "position": "D4",
+        "title": "Waiting For The Worms",
+        "duration": "3:50",
+        "type": "track"
+      },
+      {
+        "position": "D5",
+        "title": "Stop",
+        "duration": "0:29",
+        "type": "track"
+      },
+      {
+        "position": "D6",
+        "title": "The Trial",
+        "duration": "5:09",
+        "type": "track"
+      },
+      {
+        "position": "D7",
+        "title": "Outside The Wall",
+        "duration": "1:39",
+        "type": "track"
+      }
+    ],
+    "extraartists": [
+      {
+        "name": "Gerald Scarfe",
+        "role": "Design [Sleeve Design]",
+        "id": 1831200
+      },
+      {
+        "name": "Brian Christian",
+        "role": "Engineer [Other Engineer]",
+        "id": 329354
+      },
+      {
+        "name": "John McClure",
+        "role": "Engineer [Other Engineer]",
+        "id": 381298
+      },
+      {
+        "name": "Nick Griffiths",
+        "role": "Engineer [Other Engineer]",
+        "id": 259621
+      },
+      {
+        "name": "Patrice Quef",
+        "role": "Engineer [Other Engineer]",
+        "id": 386606
+      },
+      {
+        "name": "Rick Hart",
+        "role": "Engineer [Other Engineer]",
+        "id": 376979
+      },
+      {
+        "name": "Bernie Grundman",
+        "role": "Lacquer Cut By",
+        "id": 307942
+      },
+      {
+        "name": "Michael Kamen",
+        "role": "Orchestra [Arranged By]",
+        "id": 106802
+      },
+      {
+        "name": "Phil Taylor (5)",
+        "role": "Other [Sound Equipment]",
+        "id": 0
+      },
+      {
+        "name": "David Gilmour",
+        "role": "Producer",
+        "id": 110863
+      },
+      {
+        "name": "Bob Ezrin",
+        "role": "Producer, Orchestra [Arranged By]",
+        "id": 125350
+      },
+      {
+        "name": "Bernie Grundman",
+        "role": "Remastered By",
+        "id": 307942
+      },
+      {
+        "name": "Joel Plante",
+        "role": "Remastered By",
+        "id": 409280
+      },
+      {
+        "name": "James Guthrie",
+        "role": "Remastered By, Co-producer, Engineer",
+        "id": 171450
+      },
+      {
+        "name": "Roger Waters",
+        "role": "Written-By, Producer, Design [Sleeve Design]",
+        "id": 110862
+      }
+    ],
+    "identifiers": [
+      {
+        "type": "Barcode",
+        "value": "8 88751 84281 6",
+        "description": "Text"
+      },
+      {
+        "type": "Barcode",
+        "value": "888751842816",
+        "description": "String & Scanned"
+      },
+      {
+        "type": "Rights Society",
+        "value": "BUM/STE",
+        "description": null
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "PFRLP11-A",
+        "description": "Side A Label"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "PFRLP11-B",
+        "description": "Side B Label"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "PFRLP11-C",
+        "description": "Side C Label"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "PFRLP11-D",
+        "description": "Side D Label"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "88875184281A",
+        "description": "Side A Label"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "88875184281B",
+        "description": "Side B Label"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "88875184281C",
+        "description": "Side C Label"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "88875184281D",
+        "description": "Side D Label"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "18009 8A 88875184281-A BG",
+        "description": "Side A runout - variant 1"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "18009 5B 88875184281-B BG",
+        "description": "Side B runout - variant 1"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "18009 4C 88875184281-C BG",
+        "description": "Side C runout - variant 1"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "18009 4D88875184281-D BG",
+        "description": "Side D runout - variant 1"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "18009 6A 88875184281-A BG",
+        "description": "Side A runout - variant 2"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "18009 4B 88875184281-B BG",
+        "description": "Side B runout - variant 2"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "18009 3C 88875184281-C BG",
+        "description": "Side C runout - variant 2"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "18009 3D88875184281-D BG",
+        "description": "Side D runout - variant 2"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "18009 9A 88875184281-A BG",
+        "description": "Side A runout - variant 4"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "18009 6B 88875184281-B BG",
+        "description": "Side B runout - variant 4"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "18009 4C 88875184281-C BG",
+        "description": "Side C runout - variant 4"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "18009 5D 88875184281-D BG",
+        "description": "Side D runout - variant 4"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "18009 9A 88875184281-A BG",
+        "description": "Side A runout - variant 5"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "18009 6B 88875184281-B BG",
+        "description": "Side B runout - variant 5"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "18009 5C 88875184281-C BG",
+        "description": "Side C runout - variant 5"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "18009 5D 88875184281-D BG",
+        "description": "Side D runout - variant 5"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "18009 9A 88875184281-A BG",
+        "description": "Side A runout - variant 6"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "18009 6B 88875184281-B BG",
+        "description": "Side B runout - variant 6"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "18009 4C 88875184281-C BG",
+        "description": "Side C runout - variant 6"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "18009 4D 88875184281-D BG",
+        "description": "Side D runout - variant 6"
+      }
+    ],
+    "notes": "2018 Repressing of 2016 Remaster\nRemastered from the original analogue tapes\n\nThis is a 2018 US Repressing of the 2016 Grundman Stereo Remaster. Pressing year shown by Record Industry code of \"18009\" in Runout. The 2016 US version which is almost identical is here: [r8957729]\n\n℗ 2016 The copyright in this sound recording is owned by Pink Floyd Music Ltd., marketed and distributed by Sony Music Entertainment. © 2016 Pink Floyd Music Ltd.\n\nRunouts are hand-etched and stamped as follows: \"18009 #$\" stamped while \"88875184281-$ BG\" are etched. \"$\" is an alpha character, while \"#\" is a number.",
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/CVLaYPM3hsvXDV7XsMC3yuLuqwc9Dnnos-uB227eJBU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTQw/Nzk5LTE1OTMyODM2/OTAtODQ5NS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/WBr77XoDsaFs5jR7YHVmx7nIHF09aqoZ-s7MalJBFRc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTQw/Nzk5LTE1OTMyODM2/OTAtODQ5NS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/cHgOs5JEmtKByvieeIvSqYyJUb7C3c5b6Uz7D1faNx0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTQw/Nzk5LTE1OTMyODM2/ODktNTQ2Ny5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/GsWmCHGhhH_WqmP4cj_Au56_mvAzF7zb1oBdx1z4F4c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTQw/Nzk5LTE1OTMyODM2/ODktNTQ2Ny5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/cmLdtQHYMaimibJyvxpxOg53jqmEIpaOI8VxZcub8ac/rs:fit/g:sm/q:90/h:292/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTQw/Nzk5LTE1OTMyODM2/ODctNDI4My5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/OQ_wsf0IGirPAXbtnCruB64tZVJ2_jsV3Ck4iHoqVZQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTQw/Nzk5LTE1OTMyODM2/ODctNDI4My5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/QA4ng7U6KHSyAWXptQf1KPkZu8TTy0G7j8INaQ1X-9Q/rs:fit/g:sm/q:90/h:293/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTQw/Nzk5LTE1OTMyODM2/ODktMzkyOC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/w_gyJw7hcBdxzXKExGNmmicXujZP8E8u3V40Bqphpfk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTQw/Nzk5LTE1OTMyODM2/ODktMzkyOC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/WzpELhTwdja-xHaRTvPKBjniBCYgCey-HikSWBRDDTs/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTQw/Nzk5LTE1OTMyODM2/OTAtNzc4NS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/L74Ov4vWIkuiENCf_pMASgE9KUzWVwbXefekXhYn6P8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTQw/Nzk5LTE1OTMyODM2/OTAtNzc4NS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/n2V2tjuwYQW7MW_gVh6xF7hR3ba_Iw3od4P_B8Cetus/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTQw/Nzk5LTE1OTMyODM2/OTAtNzEyNi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/IcGrPss0t1KO_3_FtRqhCt7gm5isIThaZ1Aky9u3gLo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTQw/Nzk5LTE1OTMyODM2/OTAtNzEyNi5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/b-u_Yw0p3Cs6bbOEeNj0pHmVxwgHR1LzFtWtdgh3d7Q/rs:fit/g:sm/q:90/h:598/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTQw/Nzk5LTE1OTMyODM2/OTAtMTU4OS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/bRB8W-LZMELuRsf5r8ANq_zF3gNT4j7U8xTcs8DECRg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTQw/Nzk5LTE1OTMyODM2/OTAtMTU4OS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/qQ005pjxGZC9y3r2kIQFEuIiRk2fVyrkrY5kG4VEFkA/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTQw/Nzk5LTE1OTMyODM2/OTAtNDU1MC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/2X1BmmyXET5pQvKvqGM6wYbxUZtk4qxawO0BocqGNVM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTQw/Nzk5LTE1OTMyODM2/OTAtNDU1MC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/MJZKO5iCbEYSyCP0ChqJrxXA2VMSrMlySGhQ8QZ_BFA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTQw/Nzk5LTE1OTMyODM2/OTAtODIyMC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/GGWePVQF1tx-gzR-_FEyom0WpF6-oWSyAr6yEHQNhx4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTQw/Nzk5LTE1OTMyODM2/OTAtODIyMC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/U6giLI6l8vlIsH2KtvBkM0ckhzXO-SheBQZoVDge-s8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTQw/Nzk5LTE1OTMyODM2/OTAtODA4MC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/mGWOGOHhhtV3UluhswEHY1qhYN_RWGwlnpaICH5qBlk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTQw/Nzk5LTE1OTMyODM2/OTAtODA4MC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/33QxIlDLitHja68HpQyRlfMiiVk6f3lf_wfSfdmL-k0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTQw/Nzk5LTE1OTMyODM2/OTAtNDA4OC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/a6hUb8NEcEW6O0qTBNSMdSEtSJhVwNPC-n9TBXCeEo0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTQw/Nzk5LTE1OTMyODM2/OTAtNDA4OC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/vY9vJH8DzYLhUBZMhh7i4lAabY_sTvJsfhkieK1gFrs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTQw/Nzk5LTE1OTMyODM2/OTAtODk3MS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/yL_JErK5ba74WAGrSVQWU55uOmRZMICdc5uQFQ7cCE0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTQw/Nzk5LTE1OTMyODM2/OTAtODk3MS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/Z1h3mDBQZ3JIC8xpWVMuVgkh68wB2qqEvx8jBD2-U6s/rs:fit/g:sm/q:90/h:600/w:303/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTQw/Nzk5LTE1OTMyODM2/OTEtMzc4Ni5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/CM1Y2-n-3bOLSXNq8lydlFJzVspvkgof9bpuTWDqib8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTQw/Nzk5LTE1OTMyODM2/OTEtMzc4Ni5qcGVn.jpeg"
+      }
+    ],
+    "community": {
+      "rating": {
+        "count": 857,
+        "average": 4.72
+      },
+      "have": 10924,
+      "want": 1693
+    },
+    "master": {
+      "id": 11329,
+      "title": "The Wall",
+      "main_release": 27371856,
+      "year": 1979,
+      "uri": "https://www.discogs.com/master/11329-Pink-Floyd-The-Wall",
+      "num_for_sale": 5380
+    }
+  },
+  "apple_music": {
+    "id": 1065975633,
+    "url": "https://music.apple.com/us/album/the-wall/1065975633?uo=4",
+    "name": "The Wall",
+    "artist": "Pink Floyd",
+    "artist_id": 487143,
+    "artwork_url_100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3e/17/ec/3e17ec6d-f980-c64f-19e0-a6fd8bbf0c10/886445635850.jpg/100x100bb.jpg",
+    "artwork_url_600": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3e/17/ec/3e17ec6d-f980-c64f-19e0-a6fd8bbf0c10/886445635850.jpg/600x600bb.jpg",
+    "release_date": "1979-11-30T08:00:00Z",
+    "track_count": 27,
+    "copyright": "℗ 2016 The copyright in this sound recording is owned by Pink Floyd Music Ltd., marketed and distributed by Sony Music Entertainment",
+    "primary_genre": "Rock",
+    "country": "USA",
+    "tracks": [
+      {
+        "track_number": 1,
+        "disc_number": 1,
+        "name": "In the Flesh?",
+        "duration_ms": 198800,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/9e/00/ce/9e00ce3f-e24b-c933-2906-57c9c6adbe64/mzaf_8206572726959166944.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/in-the-flesh/1065975633?i=1065975634&uo=4"
+      },
+      {
+        "track_number": 2,
+        "disc_number": 1,
+        "name": "The Thin Ice",
+        "duration_ms": 146933,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/ee/0e/d6/ee0ed6b1-9b7b-2315-f352-0a484e2ffc7a/mzaf_6534653370309112636.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/the-thin-ice/1065975633?i=1065975635&uo=4"
+      },
+      {
+        "track_number": 3,
+        "disc_number": 1,
+        "name": "Another Brick In the Wall, Pt. 1",
+        "duration_ms": 191293,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/7f/0a/b2/7f0ab2de-c58f-ab90-aaa7-69e76ea1614e/mzaf_13903338154361109472.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/another-brick-in-the-wall-pt-1/1065975633?i=1065975636&uo=4"
+      },
+      {
+        "track_number": 4,
+        "disc_number": 1,
+        "name": "The Happiest Days of Our Lives",
+        "duration_ms": 111107,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/6a/94/bc/6a94bcd6-8a5a-c7cb-d633-e1152dfcdd34/mzaf_17081166823592607777.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/the-happiest-days-of-our-lives/1065975633?i=1065975637&uo=4"
+      },
+      {
+        "track_number": 5,
+        "disc_number": 1,
+        "name": "Another Brick In the Wall, Pt. 2",
+        "duration_ms": 238947,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/f8/a2/cd/f8a2cd4a-2af9-f34f-3684-89e3304c102c/mzaf_376000686139681175.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/another-brick-in-the-wall-pt-2/1065975633?i=1065975638&uo=4"
+      },
+      {
+        "track_number": 6,
+        "disc_number": 1,
+        "name": "Mother",
+        "duration_ms": 334880,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/0a/fa/a1/0afaa116-5108-ebf2-f2b3-9d7e0afa9075/mzaf_6396232943440433611.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/mother/1065975633?i=1065976152&uo=4"
+      },
+      {
+        "track_number": 7,
+        "disc_number": 1,
+        "name": "Goodbye Blue Sky",
+        "duration_ms": 167293,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/cd/6b/90/cd6b902b-58d6-92e3-23b8-73806ead85c4/mzaf_15564784983603777155.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/goodbye-blue-sky/1065975633?i=1065976153&uo=4"
+      },
+      {
+        "track_number": 8,
+        "disc_number": 1,
+        "name": "Empty Spaces",
+        "duration_ms": 127787,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/f1/a2/39/f1a239f0-19f3-9138-f3da-27ec91af1c73/mzaf_17079476583582930162.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/empty-spaces/1065975633?i=1065976154&uo=4"
+      },
+      {
+        "track_number": 9,
+        "disc_number": 1,
+        "name": "Young Lust",
+        "duration_ms": 209787,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/74/a1/61/74a1613a-0538-afd8-d425-b7e3a2d87815/mzaf_15083185785106020855.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/young-lust/1065975633?i=1065976155&uo=4"
+      },
+      {
+        "track_number": 10,
+        "disc_number": 1,
+        "name": "One of My Turns",
+        "duration_ms": 216947,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/63/c6/b5/63c6b591-b046-38c1-79a3-cffa63239875/mzaf_16319769771609696767.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/one-of-my-turns/1065975633?i=1065976159&uo=4"
+      },
+      {
+        "track_number": 11,
+        "disc_number": 1,
+        "name": "Don't Leave Me Now",
+        "duration_ms": 255813,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/3b/41/35/3b41359c-ec27-06f7-139d-3bf1f5f2f47b/mzaf_14306272745913211721.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/dont-leave-me-now/1065975633?i=1065976160&uo=4"
+      },
+      {
+        "track_number": 12,
+        "disc_number": 1,
+        "name": "Another Brick In the Wall, Pt. 3",
+        "duration_ms": 74533,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/0b/48/c6/0b48c6b4-f3a3-7158-ad4e-cfb3b71cc5aa/mzaf_10533122211583635152.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/another-brick-in-the-wall-pt-3/1065975633?i=1065976161&uo=4"
+      },
+      {
+        "track_number": 13,
+        "disc_number": 1,
+        "name": "Goodbye Cruel World",
+        "duration_ms": 74307,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/cf/f8/31/cff831d2-a0f5-b767-72d2-da5b7e193a15/mzaf_10120418368130687063.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/goodbye-cruel-world/1065975633?i=1065976162&uo=4"
+      },
+      {
+        "track_number": 1,
+        "disc_number": 2,
+        "name": "Hey You",
+        "duration_ms": 279640,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/b9/fd/c8/b9fdc82e-07a0-56b7-40d2-ca30540b1516/mzaf_18128670058523403289.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/hey-you/1065975633?i=1065976163&uo=4"
+      },
+      {
+        "track_number": 2,
+        "disc_number": 2,
+        "name": "Is There Anybody Out There?",
+        "duration_ms": 161787,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/6f/37/99/6f379960-0ba0-5be6-ba71-701616aa1053/mzaf_14770994261006181754.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/is-there-anybody-out-there/1065975633?i=1065976164&uo=4"
+      },
+      {
+        "track_number": 3,
+        "disc_number": 2,
+        "name": "Nobody Home",
+        "duration_ms": 202640,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/b1/44/7b/b1447b54-a08e-9219-4f27-08cf827f77b3/mzaf_15898104863874072273.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/nobody-home/1065975633?i=1065976165&uo=4"
+      },
+      {
+        "track_number": 4,
+        "disc_number": 2,
+        "name": "Vera",
+        "duration_ms": 93147,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/40/d4/1e/40d41ef9-208b-2269-15d6-36342f192dfc/mzaf_12749720877812999437.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/vera/1065975633?i=1065976166&uo=4"
+      },
+      {
+        "track_number": 5,
+        "disc_number": 2,
+        "name": "Bring the Boys Back Home",
+        "duration_ms": 87573,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/f1/13/ed/f113ed1f-a553-8d58-8217-9973b54e1693/mzaf_1006567261111392294.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/bring-the-boys-back-home/1065975633?i=1065976167&uo=4"
+      },
+      {
+        "track_number": 6,
+        "disc_number": 2,
+        "name": "Comfortably Numb",
+        "duration_ms": 382280,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/fe/44/11/fe441140-ff52-28ef-d7c4-d87b3084d959/mzaf_9494577035851753023.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/comfortably-numb/1065975633?i=1065976170&uo=4"
+      },
+      {
+        "track_number": 7,
+        "disc_number": 2,
+        "name": "The Show Must Go On",
+        "duration_ms": 96333,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/57/4a/f8/574af864-88a4-16d4-c64e-d9857adc8b9a/mzaf_12375970921451753152.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/the-show-must-go-on/1065975633?i=1065976171&uo=4"
+      },
+      {
+        "track_number": 8,
+        "disc_number": 2,
+        "name": "In the Flesh",
+        "duration_ms": 255907,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/1f/77/03/1f7703d5-4adf-b207-69a1-92e2523a14b7/mzaf_8141171389362838363.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/in-the-flesh/1065975633?i=1065976172&uo=4"
+      },
+      {
+        "track_number": 9,
+        "disc_number": 2,
+        "name": "Run Like Hell",
+        "duration_ms": 263387,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/58/03/cf/5803cfbc-f27f-a1ef-a55b-dd4bc0993dbc/mzaf_14125362445130198402.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/run-like-hell/1065975633?i=1065976173&uo=4"
+      },
+      {
+        "track_number": 10,
+        "disc_number": 2,
+        "name": "Waiting for the Worms",
+        "duration_ms": 237133,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/8f/85/71/8f857136-3285-d9c2-18f3-9fc11c99b5b2/mzaf_18212995088536362482.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/waiting-for-the-worms/1065975633?i=1065976174&uo=4"
+      },
+      {
+        "track_number": 11,
+        "disc_number": 2,
+        "name": "Stop",
+        "duration_ms": 30733,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/7e/b3/23/7eb32303-9966-9fff-e74b-d812db4afe06/mzaf_872179588633858960.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/stop/1065975633?i=1065976175&uo=4"
+      },
+      {
+        "track_number": 12,
+        "disc_number": 2,
+        "name": "The Trial",
+        "duration_ms": 318640,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/be/8a/4e/be8a4eb9-fc0b-3695-d8c8-d7a86fcb410a/mzaf_16711526069530791059.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/the-trial/1065975633?i=1065976176&uo=4"
+      },
+      {
+        "track_number": 13,
+        "disc_number": 2,
+        "name": "Outside the Wall",
+        "duration_ms": 103747,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/1d/b4/45/1db445f0-5657-189d-07de-c0794b7bcd2f/mzaf_13560913112561824223.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/outside-the-wall/1065975633?i=1065976177&uo=4"
+      }
+    ]
+  },
+  "discrepancies": [
+    "Total runtime differs by 149s (Discogs=4697s, Apple Music=4846s) — likely a different master/remaster.",
+    "Release year differs: your pressing=2018, Apple Music edition=1979. Apple Music typically streams the most recent remaster."
+  ],
+  "local_cover": "images/15540799.jpg"
+}

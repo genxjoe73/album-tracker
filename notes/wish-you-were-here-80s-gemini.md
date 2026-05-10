@@ -1,0 +1,1 @@
+Released in 1975, *Wish You Were Here* is Pink Floyd's tribute to Syd Barrett and a critique of the music industry. This specific pressing is an 80s reissue, identifiable by the barcode on the back cover and the JC/PC prefix on the spine and labels.

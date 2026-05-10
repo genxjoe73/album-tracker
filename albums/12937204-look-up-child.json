@@ -1,0 +1,589 @@
+{
+  "captured_at": "2026-05-10T02:15:27+00:00",
+  "schema_version": 3,
+  "artist": "Lauren Daigle",
+  "title": "Look Up Child",
+  "original_release_year": 2018,
+  "pressing_year": 2018,
+  "upgrade_suggestion": "2018 US 45 RPM 180g 2LP is already the audiophile-tier pressing for this title; no meaningful sonic upgrade exists. The Apple Music Deluxe Edition (id 1658627139) adds bonus tracks not on the LP but at lossy AAC quality.",
+  "commentary": "Released September 7, 2018 by Centricity Music, *Look Up Child* is Lauren Daigle's third studio album and the record that broke her into mainstream pop visibility. *You Say*, the album's lead single, became the longest-running number-one on the Billboard Hot Christian Songs chart in the chart's history (132 weeks) and crossed over to mainstream pop radio — a rare crossover for a contemporary Christian release.\n\nThe album was produced by Jason Ingram and Paul Mabury (the same team behind Daigle's earlier *How Can It Be*). Recorded primarily in Nashville, the production sits at the intersection of contemporary Christian, adult-pop, and Americana — Daigle's voice (a husky alto often compared to Adele's) is consistently the centerpiece, with arrangements built around it rather than competing with it.\n\nThe album won Best Contemporary Christian Music Album at the 2019 Grammys and was certified Platinum by the RIAA, with *You Say* certified 4× Platinum. *Look Up Child* has been the commercial high-water mark of contemporary Christian music in the post-streaming era — Daigle's success on this record opened doors for Christian artists to reach mainstream pop audiences without re-recording or re-releasing material in a \"secular\" form.\n\n**About this 2018 US pressing (2×LP, 45 RPM, 180g):** Centricity Music issued this on **45 RPM** — an audiophile-tier choice. 45 RPM cuts use roughly twice the linear groove length per minute compared to standard 33⅓, which means wider grooves, more headroom for dynamic range, and lower distortion. The trade-off is shorter playable time per side, hence the 2×LP format. Combined with **180g** vinyl weight (better surface stability, less warp risk over time), this is a deliberate audiophile-grade pressing rather than a budget reissue.\n\nThe vinyl release was delayed from the album's September 2018 launch until December 2018 — the gap was production capacity, not a problem with the cut. The package includes a gatefold cover and separate lyric inserts for sides A/B and C/D. Song titles are deliberately omitted from the vinyl labels themselves (only the album title, artist, and side letter appear) — a stylistic choice, common on prestige pressings.\n\n### Gemini Notes\n\nReleased in 2018, *Look Up Child* is the Grammy-winning sophomore album by Lauren Daigle. With its reggae-tinged pop and soulful ballads like the crossover smash \"You Say,\" the album dominated both the Christian and mainstream Billboard charts.\n\n**About this pressing:**",
+  "discogs": {
+    "release_id": 12937204,
+    "master_id": 1427337,
+    "uri": "https://www.discogs.com/release/12937204-Lauren-Daigle-Look-Up-Child",
+    "title": "Look Up Child",
+    "artists": [
+      {
+        "name": "Lauren Daigle",
+        "id": 4558153,
+        "role": null
+      }
+    ],
+    "year": 2018,
+    "released": "2018-12-14",
+    "country": "US",
+    "labels": [
+      {
+        "name": "Centricity Music",
+        "catno": "9619175721",
+        "id": 128222
+      }
+    ],
+    "formats": [
+      {
+        "name": "Vinyl",
+        "qty": "2",
+        "descriptions": [
+          "LP",
+          "45 RPM",
+          "Album",
+          "Stereo"
+        ],
+        "text": "180g"
+      }
+    ],
+    "genres": [
+      "Pop"
+    ],
+    "styles": [
+      "Gospel",
+      "Acoustic",
+      "Soul"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Still Rolling Stones",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "A2",
+        "title": "Rescue",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "A3",
+        "title": "This Girl",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B1",
+        "title": "Your Wings",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B2",
+        "title": "You Say",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B3",
+        "title": "Everything",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B4",
+        "title": "Love Like This",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "C1",
+        "title": "Look Up Child",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "C2",
+        "title": "Losing My Religion",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "C3",
+        "title": "Remember",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "D1",
+        "title": "Rebel Heart",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "D2",
+        "title": "Inevitable",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "D3",
+        "title": "Turn Your Eyes Upon Jesus",
+        "duration": "",
+        "type": "track"
+      }
+    ],
+    "extraartists": [
+      {
+        "name": "Brett Mabury",
+        "role": "Arranged By [Strings]",
+        "id": 5093409
+      },
+      {
+        "name": "Lauren Daigle",
+        "role": "Backing Vocals [Background Vocals]",
+        "id": 4558153
+      },
+      {
+        "name": "Morgan Harper Nichols",
+        "role": "Backing Vocals [Background Vocals]",
+        "id": 3950818
+      },
+      {
+        "name": "Tony Lucido",
+        "role": "Bass",
+        "id": 626241
+      },
+      {
+        "name": "WME",
+        "role": "Booking",
+        "id": 4263416
+      },
+      {
+        "name": "Connor Dwyer",
+        "role": "Design",
+        "id": 5678993
+      },
+      {
+        "name": "Paul Mabury",
+        "role": "Drums",
+        "id": 1810394
+      },
+      {
+        "name": "John Mays",
+        "role": "Executive-Producer",
+        "id": 2107220
+      },
+      {
+        "name": "Akil Thompson",
+        "role": "Guitar",
+        "id": 445431
+      },
+      {
+        "name": "Dwayne Larring",
+        "role": "Guitar",
+        "id": 458205
+      },
+      {
+        "name": "Redjett Management",
+        "role": "Management",
+        "id": 6853805
+      },
+      {
+        "name": "Joe LaPorta",
+        "role": "Mastered By",
+        "id": 600237
+      },
+      {
+        "name": "Mark Endert",
+        "role": "Mixed By",
+        "id": 266679
+      },
+      {
+        "name": "Sean Moffitt",
+        "role": "Mixed By",
+        "id": 3276183
+      },
+      {
+        "name": "Dwan Hill",
+        "role": "Organ",
+        "id": 4028879
+      },
+      {
+        "name": "Jeremy Cowart",
+        "role": "Photography By",
+        "id": 2217832
+      },
+      {
+        "name": "Dwan Hill",
+        "role": "Piano",
+        "id": 4028879
+      },
+      {
+        "name": "Jason Ingram",
+        "role": "Piano",
+        "id": 626236
+      },
+      {
+        "name": "Paul Mabury",
+        "role": "Piano",
+        "id": 1810394
+      },
+      {
+        "name": "Jason Ingram",
+        "role": "Producer",
+        "id": 626236
+      },
+      {
+        "name": "Paul Mabury",
+        "role": "Producer",
+        "id": 1810394
+      },
+      {
+        "name": "Jason Ingram",
+        "role": "Programmed By",
+        "id": 626236
+      },
+      {
+        "name": "Joe Williams (27)",
+        "role": "Programmed By",
+        "id": 3957003
+      },
+      {
+        "name": "Paul Mabury",
+        "role": "Programmed By",
+        "id": 1810394
+      },
+      {
+        "name": "Alicia Enstrom",
+        "role": "Strings",
+        "id": 4348508
+      },
+      {
+        "name": "Alison Hoffman",
+        "role": "Strings",
+        "id": 9221191
+      },
+      {
+        "name": "Carolyn Bailey",
+        "role": "Strings",
+        "id": 1523323
+      },
+      {
+        "name": "Certaine Booker",
+        "role": "Strings",
+        "id": 6933249
+      },
+      {
+        "name": "Conni Ellisor",
+        "role": "Strings",
+        "id": 542244
+      },
+      {
+        "name": "Craig Nelson",
+        "role": "Strings",
+        "id": 485746
+      },
+      {
+        "name": "David Angell",
+        "role": "Strings",
+        "id": 506954
+      },
+      {
+        "name": "David Davidson",
+        "role": "Strings",
+        "id": 271174
+      },
+      {
+        "name": "Elizabeth Lamb",
+        "role": "Strings",
+        "id": 902208
+      },
+      {
+        "name": "Emily Nelson (2)",
+        "role": "Strings",
+        "id": 4855896
+      },
+      {
+        "name": "Jack Jezzro",
+        "role": "Strings",
+        "id": 1060863
+      },
+      {
+        "name": "Janet Darnall",
+        "role": "Strings",
+        "id": 901949
+      },
+      {
+        "name": "Jenny Bifano",
+        "role": "Strings",
+        "id": 867490
+      },
+      {
+        "name": "Julie Tanner",
+        "role": "Strings",
+        "id": 602826
+      },
+      {
+        "name": "July Tanner",
+        "role": "Strings",
+        "id": 6933250
+      },
+      {
+        "name": "Karen Winkelmann",
+        "role": "Strings",
+        "id": 564298
+      },
+      {
+        "name": "Kristin Wilkinson",
+        "role": "Strings",
+        "id": 477740
+      },
+      {
+        "name": "Mary Kathryn Vanosdale",
+        "role": "Strings",
+        "id": 586504
+      },
+      {
+        "name": "Matt Walker (4)",
+        "role": "Strings",
+        "id": 602831
+      },
+      {
+        "name": "Monisa Angell",
+        "role": "Strings",
+        "id": 586503
+      },
+      {
+        "name": "Quentin Flowers",
+        "role": "Strings",
+        "id": 6933252
+      },
+      {
+        "name": "Sarighani Reist",
+        "role": "Strings",
+        "id": 586501
+      },
+      {
+        "name": "Seanad Chang",
+        "role": "Strings",
+        "id": 3514409
+      },
+      {
+        "name": "Wei Tsun Chang",
+        "role": "Strings",
+        "id": 1954622
+      },
+      {
+        "name": "Zach Casebolt",
+        "role": "Strings",
+        "id": 1307898
+      },
+      {
+        "name": "Zeneba Bowers",
+        "role": "Strings",
+        "id": 1244251
+      },
+      {
+        "name": "Roland Barber",
+        "role": "Trombone",
+        "id": 3891649
+      }
+    ],
+    "identifiers": [
+      {
+        "type": "Barcode",
+        "value": "829619175721",
+        "description": null
+      }
+    ],
+    "notes": "Vinyl production was delayed, from the album's release in early Sept 2018, until December 2018. It is a double vinyl with gatefold cover and separate lyric inserts for sides A/B and C/D. There are no song titles listed on the vinyl labels. only the Album Title/Artist/Side letter. Gatefold.",
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/piqkaHs9Tp76JGocXArQWkE4X6MzL9oZ7DyEWs7Npbg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTM3/MjA0LTE1NzkyMTYw/OTMtMTg1Ny5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/hIq35tBLnhaidxDh3JZCJCScGHWhIs3eD8o6wANInP8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTM3/MjA0LTE1NzkyMTYw/OTMtMTg1Ny5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/j3ixoPowXmTE63nUAQLvg0uo-OlXm-QCaRnha5khMdE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTM3/MjA0LTE1NDQ5MDE2/NjItODk5NC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/Tj2mHIw_y-0mZ1kzHGcd6WYb0N96zcoHJ15POMFLNGU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTM3/MjA0LTE1NDQ5MDE2/NjItODk5NC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/Rs-K0CBlWDVi_EFjtJj6N2Z_5UzxV3Qv1sAc5czGKdA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTM3/MjA0LTE1NDQ5MDE2/NjQtNDE0OS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/_pLPrQ46KKc88Esto9pSN8cRR7s7epPn6X_mKyJGWVo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTM3/MjA0LTE1NDQ5MDE2/NjQtNDE0OS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/GqJ7asdLjcnqcsNPEqFj162YKhhftU--iJtuKfkpGSc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTM3/MjA0LTE1NDQ5MDE2/NzUtNTAzNy5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/A33HCNM2RdT6gnKcbRZR7a_-wtI6YQoUwAh6jmIaQnw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTM3/MjA0LTE1NDQ5MDE2/NzUtNTAzNy5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/dzPFo-YRaBASJwaunFVtTwv0IMelnCAi83zSw2DR-C4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTM3/MjA0LTE1NDQ5MDE2/NzEtMTU1Ny5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/s5DhFRio0d7Ipb5DuVxDzRfyS2nKEuuExfYK3VPVrhM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTM3/MjA0LTE1NDQ5MDE2/NzEtMTU1Ny5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/6MavSAPnScSA8MWEWHZeOyzKRbeNMAsrTwBoe1gOB9E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTM3/MjA0LTE1NDQ5MDE2/NzMtNDI4MC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/GsUjiAFGouxhSvAKlLGf-yL0WzQ7tRmmzoSHBeGQXOk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTM3/MjA0LTE1NDQ5MDE2/NzMtNDI4MC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/4XeLt19rdpT52g9jW1AB_uZN3n-VdieOIpimk4Fv0Bo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTM3/MjA0LTE1NDQ5MDE2/OTAtMjk0NS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/Q5dhlnHJvUr-HBITOWITn-p8kXD9CzB463gjrD4Hxpk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTM3/MjA0LTE1NDQ5MDE2/OTAtMjk0NS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/K19anU1GbDekm_mNTQ2RkWruKtXHWOwWSye-97xylSs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTM3/MjA0LTE1NDQ5MDE2/ODktNTA2OS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/qN7tJnZ9bXMXuaZ3WDJmncAp21PY_LMhDc7TMd8SJ-g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTM3/MjA0LTE1NDQ5MDE2/ODktNTA2OS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/inql7hxyUnd0jmxYdEckRRO5mb40JbkMu26ccjr2fD4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTM3/MjA0LTE1NDQ5MDE2/OTItODQwMC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/I9lgh_VwuqkuLtrYQfETaV-1lgJQtoQ_DR5e1viuAQc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTM3/MjA0LTE1NDQ5MDE2/OTItODQwMC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/S7JYjpGKNldHehLmfr4xrbRDHOfJZsMPrF086OXOi2k/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTM3/MjA0LTE1NDQ5MDE2/OTUtOTQzNC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/Pz0X3bQx_1lK0gCbfDTismR2JxQ32kCDPJ5T7U2Cjjw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTM3/MjA0LTE1NDQ5MDE2/OTUtOTQzNC5qcGVn.jpeg"
+      }
+    ],
+    "community": {
+      "rating": {
+        "count": 82,
+        "average": 4.5
+      },
+      "have": 1277,
+      "want": 259
+    },
+    "master": {
+      "id": 1427337,
+      "title": "Look Up Child",
+      "main_release": 12561832,
+      "year": 2018,
+      "uri": "https://www.discogs.com/master/1427337-Lauren-Daigle-Look-Up-Child",
+      "num_for_sale": 105
+    }
+  },
+  "apple_music": {
+    "id": 1447184494,
+    "url": "https://music.apple.com/us/album/look-up-child/1447184494?uo=4",
+    "name": "Look Up Child",
+    "artist": "Lauren Daigle",
+    "artist_id": 722177758,
+    "artwork_url_100": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/aa/2b/b9/aa2bb92a-4ace-da16-5118-21b78935e185/829619167054.jpg/100x100bb.jpg",
+    "artwork_url_600": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/aa/2b/b9/aa2bb92a-4ace-da16-5118-21b78935e185/829619167054.jpg/600x600bb.jpg",
+    "release_date": "2018-09-07T07:00:00Z",
+    "track_count": 13,
+    "copyright": "℗ 2018 Centricity Music",
+    "primary_genre": "Christian",
+    "country": "USA",
+    "tracks": [
+      {
+        "track_number": 1,
+        "disc_number": 1,
+        "name": "Still Rolling Stones",
+        "duration_ms": 248387,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/47/19/b7/4719b732-d12d-6fad-e1cb-04f937248064/mzaf_7846815429222651713.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/still-rolling-stones/1447184494?i=1447184831&uo=4"
+      },
+      {
+        "track_number": 2,
+        "disc_number": 1,
+        "name": "Rescue",
+        "duration_ms": 215613,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/5d/86/d8/5d86d8b8-d3e5-becb-b283-cc01d0eefb7a/mzaf_6355750243331012386.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/rescue/1447184494?i=1447184838&uo=4"
+      },
+      {
+        "track_number": 3,
+        "disc_number": 1,
+        "name": "This Girl",
+        "duration_ms": 273867,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c6/21/a3/c621a3eb-767e-e91c-9016-91271a054423/mzaf_1610619622465711895.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/this-girl/1447184494?i=1447184841&uo=4"
+      },
+      {
+        "track_number": 4,
+        "disc_number": 1,
+        "name": "Your Wings",
+        "duration_ms": 148027,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f3/c9/f6/f3c9f623-858d-81ee-77af-9a56d1108129/mzaf_999445813031953906.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/your-wings/1447184494?i=1447184842&uo=4"
+      },
+      {
+        "track_number": 5,
+        "disc_number": 1,
+        "name": "You Say",
+        "duration_ms": 274693,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/9d/d9/38/9dd938fd-481c-a979-5933-0809bf0708d3/mzaf_15551743598176915350.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/you-say/1447184494?i=1447184844&uo=4"
+      },
+      {
+        "track_number": 6,
+        "disc_number": 1,
+        "name": "Everything",
+        "duration_ms": 258587,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e1/e1/cd/e1e1cd65-7922-aef2-7b5a-5fd7f0cc9d16/mzaf_14947714538127549122.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/everything/1447184494?i=1447184845&uo=4"
+      },
+      {
+        "track_number": 7,
+        "disc_number": 1,
+        "name": "Love Like This",
+        "duration_ms": 254987,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/1f/c5/75/1fc575fb-fdda-ceab-28e5-3f5fc5609054/mzaf_16696460562987914871.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/love-like-this/1447184494?i=1447184846&uo=4"
+      },
+      {
+        "track_number": 8,
+        "disc_number": 1,
+        "name": "Look Up Child",
+        "duration_ms": 183013,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/87/a7/8f/87a78ff1-a7e3-dd88-448a-f78f563a82ff/mzaf_13668299828909376487.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/look-up-child/1447184494?i=1447184847&uo=4"
+      },
+      {
+        "track_number": 9,
+        "disc_number": 1,
+        "name": "Losing My Religion",
+        "duration_ms": 209827,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ba/e3/a0/bae3a083-f03b-f3c5-5288-9687fe534ae1/mzaf_6159460508913198308.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/losing-my-religion/1447184494?i=1447184849&uo=4"
+      },
+      {
+        "track_number": 10,
+        "disc_number": 1,
+        "name": "Remember",
+        "duration_ms": 238600,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/89/ae/84/89ae84b4-faf0-ca01-9456-cb90f506308e/mzaf_11345281411712527723.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/remember/1447184494?i=1447184851&uo=4"
+      },
+      {
+        "track_number": 11,
+        "disc_number": 1,
+        "name": "Rebel Heart",
+        "duration_ms": 246760,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d4/bb/70/d4bb70a5-7770-a275-468c-0b01719af179/mzaf_4870141977260649249.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/rebel-heart/1447184494?i=1447184858&uo=4"
+      },
+      {
+        "track_number": 12,
+        "disc_number": 1,
+        "name": "Inevitable",
+        "duration_ms": 160587,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c0/82/59/c0825919-be07-39a4-4936-a7500b9ad75a/mzaf_17009790692654140671.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/inevitable/1447184494?i=1447184951&uo=4"
+      },
+      {
+        "track_number": 13,
+        "disc_number": 1,
+        "name": "Turn Your Eyes Upon Jesus",
+        "duration_ms": 389760,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ae/0e/75/ae0e75b1-419d-4237-a4b5-32c8f91dc206/mzaf_5324194976718123703.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/turn-your-eyes-upon-jesus/1447184494?i=1447184967&uo=4"
+      }
+    ]
+  },
+  "discrepancies": [],
+  "local_cover": "images/12937204.jpg"
+}

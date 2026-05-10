@@ -1,0 +1,4 @@
+Recorded during Pink Floyd’s winter 1974 tour, *The Dark Side Of The Moon (Live At Wembley 1974)* captures the band at the peak of their live prowess, performing their magnum opus in its entirety just a year after its studio release. The live performance offers a rawer, more improvisational take on the heavily layered studio album, featuring extended solos and a slightly different atmosphere.
+
+**About this pressing:**
+Released in 2023 as part of the 50th Anniversary celebrations for *The Dark Side of the Moon*, this is the first time this legendary concert has been available as a standalone vinyl release. It features the gatefold sleeve and original poster reproductions.

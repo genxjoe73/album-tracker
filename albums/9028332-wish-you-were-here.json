@@ -1,0 +1,321 @@
+{
+  "captured_at": "2026-05-10T02:53:35+00:00",
+  "schema_version": 3,
+  "artist": "Pink Floyd",
+  "title": "Wish You Were Here",
+  "original_release_year": 1975,
+  "pressing_year": 1980,
+  "upgrade_suggestion": "For modern fidelity, upgrade to the 2016 Pink Floyd Records remaster (PFRLP9, BG24222 cut) — the European Optimal Media pressing (r25885156) is already in this collection. For a better vintage copy, seek an original 1975 US Columbia first pressing (JC 33453, HRM/Hauppauge plant) with first-generation stampers and an earlier lacquer cut.",
+  "commentary": "Released in September 1975, *Wish You Were Here* explores themes of alienation and the dehumanizing nature of the music industry. The album’s conceptual focus on \"absence\" is mirrored in its packaging, which originally featured a black shrink-wrap hiding the cover art, and in its lyrical content, particularly the title track and the multi-part \"Shine On You Crazy Diamond.\"\n\n**About this pressing:**\nThis is a 1980s US Columbia reissue, identifiable by the barcode printed on the back cover and the JC/PC prefix on the spine and labels. *Deadwax TBD — check runouts for mastering engineers or pressing plant symbols. Update this section once details are logged.*\n\n### Gemini Notes\n\nReleased in 1975, *Wish You Were Here* is Pink Floyd's tribute to Syd Barrett and a critique of the music industry. This specific pressing is an 80s reissue, identifiable by the barcode on the back cover and the JC/PC prefix on the spine and labels.\n\n**About this pressing:**",
+  "discogs": {
+    "release_id": 9028332,
+    "master_id": 11703,
+    "uri": "https://www.discogs.com/release/9028332-Pink-Floyd-Wish-You-Were-Here",
+    "title": "Wish You Were Here",
+    "artists": [
+      {
+        "name": "Pink Floyd",
+        "id": 45467,
+        "role": null
+      }
+    ],
+    "year": 0,
+    "released": null,
+    "country": "US",
+    "labels": [
+      {
+        "name": "Columbia",
+        "catno": "JC 33453",
+        "id": 1866
+      },
+      {
+        "name": "Columbia",
+        "catno": "PC 33453",
+        "id": 1866
+      }
+    ],
+    "formats": [
+      {
+        "name": "Vinyl",
+        "qty": "1",
+        "descriptions": [
+          "LP",
+          "Album",
+          "Reissue"
+        ],
+        "text": null
+      }
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Prog Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "",
+        "title": "Shine On You Crazy Diamond (1-5)",
+        "duration": "",
+        "type": "index"
+      },
+      {
+        "position": "A2",
+        "title": "Welcome To The Machine",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B1",
+        "title": "Have A Cigar",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B2",
+        "title": "Wish You Were Here",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "",
+        "title": "Shine On You Crazy Diamond (6-9)",
+        "duration": "",
+        "type": "index"
+      }
+    ],
+    "extraartists": [
+      {
+        "name": "Carlena Williams",
+        "role": "Backing Vocals",
+        "id": 260448
+      },
+      {
+        "name": "Venetta Fields",
+        "role": "Backing Vocals",
+        "id": 258113
+      },
+      {
+        "name": "Howard Bartrop",
+        "role": "Design [Assistant]",
+        "id": 1832642
+      },
+      {
+        "name": "Jeff Smith (17)",
+        "role": "Design [Assistant]",
+        "id": 1832640
+      },
+      {
+        "name": "Peter Christopherson",
+        "role": "Design [Assistant]",
+        "id": 34069
+      },
+      {
+        "name": "Richard Manning (3)",
+        "role": "Design [Assistant]",
+        "id": 1832641
+      },
+      {
+        "name": "Hipgnosis (2)",
+        "role": "Design [Sleeve], Photography By",
+        "id": 1826972
+      },
+      {
+        "name": "Brian Humphries",
+        "role": "Engineer",
+        "id": 258792
+      },
+      {
+        "name": "Peter James",
+        "role": "Engineer [Assistant]",
+        "id": 277864
+      },
+      {
+        "name": "George Hardie",
+        "role": "Graphics [Sleeve]",
+        "id": 1826981
+      },
+      {
+        "name": "Roger Waters",
+        "role": "Lyrics By",
+        "id": 110862
+      },
+      {
+        "name": "Pink Floyd",
+        "role": "Producer",
+        "id": 45467
+      }
+    ],
+    "identifiers": [
+      {
+        "type": "Barcode",
+        "value": "0 7464-33453-1",
+        "description": "Printed"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "AL 33453",
+        "description": "Label A"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BL 33453",
+        "description": "Label B"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "P AL 33453-4AH COLUMBIA NY",
+        "description": "Runout A, variant 1"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BL 33453-5AB COLUMBIA NY",
+        "description": "Runout B, variant 1"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "P AL 33453-4AH COLUMBIA NY",
+        "description": "Runout A, variant 2"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BL 33453-5AD COLUMBIA NY",
+        "description": "Runout B, variant 2"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "P AL 33453-4AH COLUMBIA NY",
+        "description": "Runout A, variant 3"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BL 33453-5AE COLUMBIA NY",
+        "description": "Runout B, variant 3"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "P AL 33453-4AJ COLUMBIA NY",
+        "description": "Runout A, variant 4"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BL 33453-5AA COLUMBIA NY",
+        "description": "Runout B, variant 4"
+      }
+    ],
+    "notes": "80's reissue with barcode printed on back cover, JC prefix printed on spine, PC on labels.    \n \nCover has a brown tinted picture.  Round \"Wish You Were Here\" sticker on clear shrink wrap. \n\nRunouts are stamped.\n\nRecorded at Abbey Road Studios January to July 1975.\nAll selections © 1975 Pink Floyd Music Publishers Inc. (BMI)\n℗ 1975 Pink Floyd Music Limited\n© 1975 Pink Floyd Music Limited\nPrinted in U.S.A.",
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/RUGsszn-XYROyw6QfQYpaLQGRnKEtVqZT9hAb_HPvJ0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMjgz/MzItMTQ3MzUzMzAx/Mi0xOTU5LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/iErtgCgdlBw9NW-GH7DdzUK-etYjaVm050gg2XujxKU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMjgz/MzItMTQ3MzUzMzAx/Mi0xOTU5LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/N1mJ8EO1agyqFr9AH9PS2KzEKsQZMjhVma9MhuQdxGg/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMjgz/MzItMTQ3MzUzMTE0/OC04MDkwLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/PzgqH8Gy5OOIRl2B5W-OxuXSnhfNYjmE-ukc6lnJeWs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMjgz/MzItMTQ3MzUzMTE0/OC04MDkwLmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/x7MBCTVEXThK19cCHUNJ2HrKDzdW7btwvBYaqmsDBpE/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMjgz/MzItMTQ3MzUzMTIx/NS05MTc5LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/gskFm6fLNsezDLlaTuIT9yfi1Z7QE9PMFu1GXbY3xHQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMjgz/MzItMTQ3MzUzMTIx/NS05MTc5LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/JXKJdgPJtZJ6uC6Oq7BWJPJjGSjDeMpew92lsBolQb4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMjgz/MzItMTQ3MzUzMTIz/MS02ODk4LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/GyROIqW5_yTs25ZYYieX0vTxLrrzgmJWJ8C9GvJjBaw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMjgz/MzItMTQ3MzUzMTIz/MS02ODk4LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/BuKQXXCAVSlLQLnv6Bhl7XirVujvXiQUOlyrsdwxHHg/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMjgz/MzItMTQ3MzUzMTE3/NC03NzIzLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/dyblGpfzJyI7Op7aw8R8DDQ9jVggMI5sHmDSzD6JtCc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMjgz/MzItMTQ3MzUzMTE3/NC03NzIzLmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/W0fDAwjPg7SYvGrPIJCKHa6tzA56Godv_K7O2dWMJ6c/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMjgz/MzItMTQ3MzUzMTE5/NS03MzIwLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/HAhH42ojgF6cgYHQnOkoP4buT6bTv6xyZ7NOgkaJxgo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMjgz/MzItMTQ3MzUzMTE5/NS03MzIwLmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/sYOtcA-9Syw1neZb_7BKbwFyJtYpINj7oyPh1QiWc1E/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMjgz/MzItMTcwMTYwMTYx/Mi0zNzAzLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/c8_xhdEd8tMOawxhzYwsU3Cy9IMg77jC-TNWHhHEUTo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMjgz/MzItMTcwMTYwMTYx/Mi0zNzAzLmpwZWc.jpeg"
+      }
+    ],
+    "community": {
+      "rating": {
+        "count": 51,
+        "average": 4.63
+      },
+      "have": 515,
+      "want": 1086
+    },
+    "master": {
+      "id": 11703,
+      "title": "Wish You Were Here",
+      "main_release": 463597,
+      "year": 1975,
+      "uri": "https://www.discogs.com/master/11703-Pink-Floyd-Wish-You-Were-Here",
+      "num_for_sale": 6475
+    }
+  },
+  "apple_music": {
+    "id": 1065973975,
+    "url": "https://music.apple.com/us/album/wish-you-were-here/1065973975?uo=4",
+    "name": "Wish You Were Here",
+    "artist": "Pink Floyd",
+    "artist_id": 487143,
+    "artwork_url_100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/aa/e0/ab/aae0ab6a-d906-a189-81bf-70b56aa43f7a/886445635843.jpg/100x100bb.jpg",
+    "artwork_url_600": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/aa/e0/ab/aae0ab6a-d906-a189-81bf-70b56aa43f7a/886445635843.jpg/600x600bb.jpg",
+    "release_date": "1975-09-12T07:00:00Z",
+    "track_count": 6,
+    "copyright": "℗ 2016 The copyright in this sound recording is owned by Pink Floyd Music Ltd., marketed and distributed by Sony Music Entertainment",
+    "primary_genre": "Rock",
+    "country": "USA",
+    "tracks": [
+      {
+        "track_number": 1,
+        "disc_number": 1,
+        "name": "Shine On You Crazy Diamond, Pts. 1-5",
+        "duration_ms": 814800,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/6f/c7/bc/6fc7bcef-3c82-e53b-5402-8e0316ac5f23/mzaf_18220615966453940006.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/shine-on-you-crazy-diamond-pts-1-5/1065973975?i=1065973977&uo=4"
+      },
+      {
+        "track_number": 2,
+        "disc_number": 1,
+        "name": "Welcome to the Machine",
+        "duration_ms": 450707,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/fd/49/95/fd49955d-7269-4084-b073-3e8313839087/mzaf_7321575167949722134.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/welcome-to-the-machine/1065973975?i=1065973978&uo=4"
+      },
+      {
+        "track_number": 3,
+        "disc_number": 1,
+        "name": "Have a Cigar",
+        "duration_ms": 307400,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/72/0f/01/720f0147-f864-fad9-a158-42cfc8d0e518/mzaf_11355316395977863089.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/have-a-cigar/1065973975?i=1065973979&uo=4"
+      },
+      {
+        "track_number": 4,
+        "disc_number": 1,
+        "name": "Wish You Were Here",
+        "duration_ms": 338467,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/5e/4b/35/5e4b3554-282d-12dd-e420-728287a1d3b1/mzaf_14938061551507100947.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/wish-you-were-here/1065973975?i=1065973980&uo=4"
+      },
+      {
+        "track_number": 5,
+        "disc_number": 1,
+        "name": "Shine On You Crazy Diamond, Pts. 6-9",
+        "duration_ms": 745080,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f9/a5/ac/f9a5ac33-4f94-9a25-8405-ff1695c4a866/mzaf_1082447733339151151.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/shine-on-you-crazy-diamond-pts-6-9/1065973975?i=1065973981&uo=4"
+      }
+    ]
+  },
+  "discrepancies": [
+    "Track count differs: Discogs=3, Apple Music=5"
+  ],
+  "local_cover": "images/9028332.jpg"
+}

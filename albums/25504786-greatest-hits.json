@@ -1,0 +1,412 @@
+{
+  "captured_at": "2026-05-10T02:11:05+00:00",
+  "schema_version": 3,
+  "artist": "Creed",
+  "title": "Greatest Hits",
+  "original_release_year": 2004,
+  "pressing_year": 2022,
+  "upgrade_suggestion": "2022 Walmart Exclusive Blue Marble is a colored-vinyl collector pressing rather than an audiophile cut; the original 2004 issue was CD/DVD only (no LP). The cleanest digital source is the 2025 'The Best Of Creed (Remastered 2025)' on Apple Music (album id 1835543875).",
+  "commentary": "Released November 2004 by Wind-up Records, *Greatest Hits* is the compilation that closed Creed's first chapter — coming out roughly 18 months after the band's 2004 dissolution and before the 2009 reunion. The original 2004 issue was a CD/DVD package; the DVD held the music videos and a documentary on the band's rise and fall.\n\nThe 13 tracks collect the singles from the three studio albums: four from *My Own Prison* (1997) on side A, four from *Human Clay* (1999) on side B, and five from *Weathered* (2001) on side C. No previously-unreleased material — this is a straight singles compilation, not a \"with bonus tracks\" reissue.\n\nThe album draws from the post-grunge moment when Creed was the third-best-selling US act of the early 2000s — *Human Clay* alone is RIAA-certified Diamond (10× platinum). Scott Stapp's vocal mannerisms (the deep-timbre quasi-Vedder phrasing) and Mark Tremonti's guitar approach (drop-D power chords with melodic-minor lead lines) defined a specific sound that became inescapable on US rock radio from 1998 through about 2002. The compilation is the easiest single-disc summary of why that sound dominated.\n\n**About this 2022 Walmart Exclusive Blue Marble pressing (2×LP, side D etched):** Craft Recordings issued this as a limited reissue with catalog `CR04979`. The 13 tracks fit across three sides (A/B/C); side D is a decorative etching rather than music — a common move for compilations whose runtime doesn't justify a full 4-side fill. The Blue Marble color variant was Walmart-exclusive at release.\n\nThe pressing was done at MPO (`MPO Logo 21240131` stamped on the runouts) — a French plant Universal Music Group uses for repress jobs. The cut catno (`CR-00272`) in the runout differs from the release catno (`CR04979`) — the cut was originally made for an earlier issue and reused for this Walmart variant, which is standard cost-saving practice for reissues.\n\n### Gemini Notes\n\nReleased in 2004, this compilation captures the massive post-grunge dominance of Creed. Featuring sweeping arena-rock anthems like \"Higher\" and \"With Arms Wide Open,\" it highlights their peak commercial era.\n\n**About this pressing:**",
+  "discogs": {
+    "release_id": 25504786,
+    "master_id": 106064,
+    "uri": "https://www.discogs.com/release/25504786-Creed-3-Greatest-Hits",
+    "title": "Greatest Hits",
+    "artists": [
+      {
+        "name": "Creed (3)",
+        "id": 261665,
+        "role": null
+      }
+    ],
+    "year": 2022,
+    "released": "2022-12-16",
+    "country": "US",
+    "labels": [
+      {
+        "name": "Craft Recordings",
+        "catno": "CR04979",
+        "id": 1266884
+      }
+    ],
+    "formats": [
+      {
+        "name": "Vinyl",
+        "qty": "1",
+        "descriptions": [
+          "LP"
+        ],
+        "text": null
+      },
+      {
+        "name": "Vinyl",
+        "qty": "1",
+        "descriptions": [
+          "LP",
+          "Single Sided",
+          "Etched"
+        ],
+        "text": null
+      },
+      {
+        "name": "All Media",
+        "qty": "1",
+        "descriptions": [
+          "Album",
+          "Compilation",
+          "Limited Edition",
+          "Reissue",
+          "Stereo"
+        ],
+        "text": "Blue Marble"
+      }
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Heavy Metal"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Torn",
+        "duration": "6:26",
+        "type": "track"
+      },
+      {
+        "position": "A2",
+        "title": "My Own Prison",
+        "duration": "5:00",
+        "type": "track"
+      },
+      {
+        "position": "A3",
+        "title": "What's This Life For",
+        "duration": "3:32",
+        "type": "track"
+      },
+      {
+        "position": "A4",
+        "title": "One",
+        "duration": "5:02",
+        "type": "track"
+      },
+      {
+        "position": "B1",
+        "title": "Are You Ready",
+        "duration": "4:47",
+        "type": "track"
+      },
+      {
+        "position": "B2",
+        "title": "Higher",
+        "duration": "5:26",
+        "type": "track"
+      },
+      {
+        "position": "B3",
+        "title": "With Arms Wide Open",
+        "duration": "4:38",
+        "type": "track"
+      },
+      {
+        "position": "B4",
+        "title": "What If",
+        "duration": "5:19",
+        "type": "track"
+      },
+      {
+        "position": "C1",
+        "title": "One Last Breath",
+        "duration": "3:59",
+        "type": "track"
+      },
+      {
+        "position": "C2",
+        "title": "Don't Stop Dancing",
+        "duration": "4:31",
+        "type": "track"
+      },
+      {
+        "position": "C3",
+        "title": "Bullets",
+        "duration": "3:51",
+        "type": "track"
+      },
+      {
+        "position": "C4",
+        "title": "My Sacrifice",
+        "duration": "4:56",
+        "type": "track"
+      },
+      {
+        "position": "C5",
+        "title": "Weathered",
+        "duration": "5:30",
+        "type": "track"
+      }
+    ],
+    "extraartists": [],
+    "identifiers": [
+      {
+        "type": "Barcode",
+        "value": "888072452640",
+        "description": "Printed"
+      },
+      {
+        "type": "Barcode",
+        "value": "888072452640",
+        "description": "Printed (Scanned)"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "CR-00272 A 19-0468 A  A-MS",
+        "description": "Side A Etched"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "CR-00272 B 19-0468 B  A-MS",
+        "description": "Side B Etched"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "CR-00272 C 19-0468 C  A-MS",
+        "description": "Side C Etched"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "MPO Logo 21240131",
+        "description": "Stamped On Sides A,B, And C"
+      }
+    ],
+    "notes": "Walmart Exclusive\nBlue Marble",
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/mFdHKNX-GeTqqjr0OsrByUjDTt4WpuK69G8-NLEvO9U/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NTA0/Nzg2LTE3NDA1NDg4/NTQtODQ4Mi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/8yqxrYbuLig-byWC9DnnxZ4mgLljZgXQNfPQh3VEQdo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NTA0/Nzg2LTE3NDA1NDg4/NTQtODQ4Mi5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/T6L9EDpUTNt8VcH6KcEuVWDpT6va---8x63d4rDAhQw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NTA0/Nzg2LTE2NzE0MDkw/MTEtNTQxNS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/-DSruioxTjyHEWYAmZNkEWVnEkfbjUKzb9X0a91iyRE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NTA0/Nzg2LTE2NzE0MDkw/MTEtNTQxNS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/-49fVehgUwIWnjkEQc_A41WlKbfqXO-e3km6sD72U5Y/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NTA0/Nzg2LTE2NzE0MDkw/MTItODE3NS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/bKLGEhfYKCeQssc7oEw8klcqQbOAs-QBg7iZ7UDiYPo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NTA0/Nzg2LTE2NzE0MDkw/MTItODE3NS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/CZkFWq0dus4KNOFeNJpf6MFOWN4mZ9Ta1NNE5lihZsA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NTA0/Nzg2LTE2NzE0MDkw/MTQtOTQ2Ni5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/Out7Lgou_XfQIssDqQ9K3WkQRgDPSccdfzrQ6F0Ec28/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NTA0/Nzg2LTE2NzE0MDkw/MTQtOTQ2Ni5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/QgQ-7Im6BdZ_AFuepKkRlX9yUlKzrIb8svV_FQKNvmE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NTA0/Nzg2LTE2NzE0MDkw/MDgtNDk1NC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/s5i_P8whgHVT6n-5HuOPxNm_C7ljfyMeMd5XNE0dvCY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NTA0/Nzg2LTE2NzE0MDkw/MDgtNDk1NC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/dWjjDKu52TcB5ariWAXjo7wC5BYcgFWFV_j2mShlxko/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NTA0/Nzg2LTE2NzE0MDkw/MDEtOTQzOS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/6hu--YyNfQ7-VYOqMnxp3nzN78kisR3pcC512AremVM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NTA0/Nzg2LTE2NzE0MDkw/MDEtOTQzOS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/fo6AMjffBIoN-FAEmV1ge7mU2ANwBKPRt4ifjj0urto/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NTA0/Nzg2LTE2NzE0MDkw/MTAtNDYxNy5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/P5nz33QIPa2P6LyWIktRMyVtHj7OH_Lm09wr27yz-kY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NTA0/Nzg2LTE2NzE0MDkw/MTAtNDYxNy5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/HycsX8bU0J8ZqZmJYvhYtZKwvfO9JfeSO_3xbTEybyI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NTA0/Nzg2LTE2NzE0MDkw/MDUtMjUwOC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/oHwBmg1vKJpYnVZL_zWoUhRL3fg4HAFoqGISM40a-88/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NTA0/Nzg2LTE2NzE0MDkw/MDUtMjUwOC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/nTbDOhKOe0uX_NinenjpaXptuS9M6lUygNYdzbWFe6c/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NTA0/Nzg2LTE2NzE0MDkw/MTUtNTUyNy5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/uTzLBHxdpec0lDugwRaJY2J4n18IAXms-EvrVKXRG2E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NTA0/Nzg2LTE2NzE0MDkw/MTUtNTUyNy5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/SbPXKKvgxYWavC3gfmmplMcHykbaHt4Z59b8XxQfZxk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NTA0/Nzg2LTE2NzE0MDkw/MTYtNTI5MS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/fX5zsH3CR2YSyzX4xvjS0dBeehLD1J7i8kgQ9VaKXR4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NTA0/Nzg2LTE2NzE0MDkw/MTYtNTI5MS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/Ts4K5R8XCFmps2gw7vjB7tlT-jYxrye295f9DhQF7G0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NTA0/Nzg2LTE2NzE0MDkw/MTYtNzk2Ny5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/Kpt3w0ki9lV9-dG7G90_kU9NVce67nYvq06LjIB_HOw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NTA0/Nzg2LTE2NzE0MDkw/MTYtNzk2Ny5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/I085w4eMgGxGjEGSDaADzA-9nwcEQ_qyco3Eg3puRMY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NTA0/Nzg2LTE2NzE0MDkw/MTYtNzczMi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/6k-ijWLRUD3mFhOg38BK4EORosQ0cKQKnMjyizMC9v0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NTA0/Nzg2LTE2NzE0MDkw/MTYtNzczMi5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/5RzBqlrYs5lm0UrWKjVtPSuePAMWB53m5IjecLV4Bq0/rs:fit/g:sm/q:90/h:600/w:584/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NTA0/Nzg2LTE2NzE0MzE1/OTUtOTY1NS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/WvjOIwUdR28oHnrv2e7B5GNy_QXi4W-qZ1ZvFSQz8zU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NTA0/Nzg2LTE2NzE0MzE1/OTUtOTY1NS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/0SLhqeXLNGLiWdYdqofrvL2zniPzbioArucg-0xuE_8/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NTA0/Nzg2LTE2NzE0MDAy/MzItMTgwMi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/bORd_RP6rVyxEL_Iu-VUqGegAQm1mee-rS3LNM5rc7c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NTA0/Nzg2LTE2NzE0MDAy/MzItMTgwMi5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/2j_Ld1kZjRLZz5wfe1bb5xAkoBPwy4AJHevZhSoUc5U/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NTA0/Nzg2LTE2NzE0MDAz/MDQtNjU1MC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/YWYkErNx8zxDUPDKpmEBuJ8kRxbO3e1B6Fe9edcL5nc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NTA0/Nzg2LTE2NzE0MDAz/MDQtNjU1MC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/bQEkAD9Oqhl99kSJ-C5UGXprjRMmBU5Lcpq7CiMO9zc/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NTA0/Nzg2LTE2NzE0MDAy/MzItMzAyNS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/MFPPap6U_U0I-Dkc-0u85m9HBxSd6OVtnzD4yJo0PMs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NTA0/Nzg2LTE2NzE0MDAy/MzItMzAyNS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/0oz8o5puo_P48OrOgu-Zxc5A2pdIO4IpJTaQPAZnmlU/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NTA0/Nzg2LTE2NzE0MDAy/MzItOTY5MC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/sdq04gMXZUmAeKp9_ZB-gPGW_iaW6vuk5oyKBmO8sQE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NTA0/Nzg2LTE2NzE0MDAy/MzItOTY5MC5qcGVn.jpeg"
+      }
+    ],
+    "community": {
+      "rating": {
+        "count": 91,
+        "average": 4.56
+      },
+      "have": 1943,
+      "want": 185
+    },
+    "master": {
+      "id": 106064,
+      "title": "Greatest Hits",
+      "main_release": 556213,
+      "year": 2004,
+      "uri": "https://www.discogs.com/master/106064-Creed-3-Greatest-Hits",
+      "num_for_sale": 293
+    }
+  },
+  "apple_music": {
+    "id": 1440717897,
+    "url": "https://music.apple.com/us/album/greatest-hits/1440717897?uo=4",
+    "name": "Greatest Hits",
+    "artist": "Creed",
+    "artist_id": 2861519,
+    "artwork_url_100": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d5/b4/ef/d5b4ef8a-a68f-223b-df91-16294395ffce/00601501410321.rgb.jpg/100x100bb.jpg",
+    "artwork_url_600": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d5/b4/ef/d5b4ef8a-a68f-223b-df91-16294395ffce/00601501410321.rgb.jpg/600x600bb.jpg",
+    "release_date": "2004-01-01T08:00:00Z",
+    "track_count": 13,
+    "copyright": "This Compilation ℗ 2004 The Bicycle Music Company",
+    "primary_genre": "Rock",
+    "country": "USA",
+    "tracks": [
+      {
+        "track_number": 1,
+        "disc_number": 1,
+        "name": "Torn",
+        "duration_ms": 385747,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/18/f5/18/18f518b9-ea25-af87-945e-b1e17dd89dfc/mzaf_17071953936015579542.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/torn/1440717897?i=1440718006&uo=4"
+      },
+      {
+        "track_number": 2,
+        "disc_number": 1,
+        "name": "My Own Prison",
+        "duration_ms": 300320,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/76/21/10/762110f4-7e0e-8248-63fa-e74d0576531e/mzaf_985569398297436841.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/my-own-prison/1440717897?i=1440718018&uo=4"
+      },
+      {
+        "track_number": 3,
+        "disc_number": 1,
+        "name": "What's This Life For",
+        "duration_ms": 212200,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/68/67/aa/6867aa25-d775-b91d-0239-44c5d86aa1f8/mzaf_7829020505680187384.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/whats-this-life-for/1440717897?i=1440718023&uo=4"
+      },
+      {
+        "track_number": 4,
+        "disc_number": 1,
+        "name": "One",
+        "duration_ms": 302427,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/21/69/e5/2169e50f-0b48-4726-3bd3-1d4950025bee/mzaf_11687677996581129615.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/one/1440717897?i=1440718029&uo=4"
+      },
+      {
+        "track_number": 5,
+        "disc_number": 1,
+        "name": "Are You Ready?",
+        "duration_ms": 286733,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/83/c1/91/83c1919a-3619-e193-ce7d-de63b60c6aaa/mzaf_6945863955031578150.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/are-you-ready/1440717897?i=1440718214&uo=4"
+      },
+      {
+        "track_number": 6,
+        "disc_number": 1,
+        "name": "Higher",
+        "duration_ms": 326293,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/61/9e/a3/619ea37d-b1dd-fa44-b8f1-2be65635e99c/mzaf_15935885582505549683.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/higher/1440717897?i=1440718218&uo=4"
+      },
+      {
+        "track_number": 7,
+        "disc_number": 1,
+        "name": "With Arms Wide Open",
+        "duration_ms": 278440,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/17/ff/da/17ffda1f-a5dd-abec-007b-5948087bf3a4/mzaf_10688224071552598741.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/with-arms-wide-open/1440717897?i=1440718229&uo=4"
+      },
+      {
+        "track_number": 8,
+        "disc_number": 1,
+        "name": "What If",
+        "duration_ms": 318560,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/a7/28/aa/a728aa27-7f9e-776f-e422-df0600cef693/mzaf_7468083251481754651.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/what-if/1440717897?i=1440718233&uo=4"
+      },
+      {
+        "track_number": 9,
+        "disc_number": 1,
+        "name": "One Last Breath",
+        "duration_ms": 239373,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/3d/1d/04/3d1d04a3-c080-7b91-ab04-41b4bdc97844/mzaf_3269239222401189101.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/one-last-breath/1440717897?i=1440718237&uo=4"
+      },
+      {
+        "track_number": 10,
+        "disc_number": 1,
+        "name": "Don't Stop Dancing",
+        "duration_ms": 270907,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/eb/54/36/eb5436ac-dde1-78d2-a369-3d6f0f335c49/mzaf_15632325494307705734.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/dont-stop-dancing/1440717897?i=1440718238&uo=4"
+      },
+      {
+        "track_number": 11,
+        "disc_number": 1,
+        "name": "Bullets",
+        "duration_ms": 231413,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/44/ee/56/44ee5633-bbd5-fc74-6f03-84286527c0b6/mzaf_12424953333918182166.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/bullets/1440717897?i=1440718240&uo=4"
+      },
+      {
+        "track_number": 12,
+        "disc_number": 1,
+        "name": "My Sacrifice",
+        "duration_ms": 295800,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/bf/63/1b/bf631b54-8e90-33ea-b810-547490eafb28/mzaf_11143664187258954121.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/my-sacrifice/1440717897?i=1440718451&uo=4"
+      },
+      {
+        "track_number": 13,
+        "disc_number": 1,
+        "name": "Weathered",
+        "duration_ms": 330133,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/e5/a7/06/e5a706b9-69c1-8c70-639a-231899599104/mzaf_6544169393719166271.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/weathered/1440717897?i=1440718453&uo=4"
+      }
+    ]
+  },
+  "discrepancies": [
+    "Release year differs: your pressing=2022, Apple Music edition=2004. Apple Music typically streams the most recent remaster."
+  ],
+  "local_cover": "images/25504786.jpg"
+}

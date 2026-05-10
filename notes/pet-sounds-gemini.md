@@ -1,0 +1,1 @@
+Released in 1966, *Pet Sounds* is Brian Wilson's pocket symphony and one of the most influential albums ever recorded. Abandoning surf rock for complex vocal harmonies and unconventional instruments, it elevated pop music to high art.

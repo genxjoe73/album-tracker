@@ -1,0 +1,1 @@
+Released in 1979, *The Wall* is Roger Waters' sweeping rock opera about isolation, trauma, and societal breakdown. Produced with Bob Ezrin, it features the iconic hit "Another Brick in the Wall, Part 2" and remains a landmark of theatrical rock.
