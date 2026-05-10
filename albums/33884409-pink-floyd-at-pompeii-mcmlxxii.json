@@ -1,0 +1,780 @@
+{
+  "captured_at": "2026-05-10T23:09:09+00:00",
+  "schema_version": 3,
+  "artist": "Pink Floyd",
+  "title": "Pink Floyd At Pompeii MCMLXXII",
+  "original_release_year": 1981,
+  "pressing_year": 2025,
+  "upgrade_suggestion": null,
+  "commentary": "**Pink Floyd at Pompeii** stands as one of the most iconic and consequential live rock performances ever captured on film. The concert was recorded in August 1971 at the ancient Roman amphitheater in Pompeii, Italy — a location chosen for its visual and acoustic properties, with the band performing to an empty audience save for the film crew, making it a live-to-film performance rather than a traditional concert. The original film, released in 1974 on VHS and later as a theatrical release, became a touchstone artifact of 1970s rock cinema, capturing Pink Floyd at the absolute peak of their *Dark Side of the Moon* era, just months before that album's November 1973 release.\n\nThe Pompeii performance is distinguished by its setlist — primarily material from *Dark Side of the Moon* in its pre-release form (the album was still in development when the performance was recorded), alongside selections from earlier albums and extended instrumental passages. The sound — recorded on multitrack tape — was later mixed for the original film release, creating a sonic document of extraordinary clarity and spatial presence that complemented the visual grandeur of the venue. For decades, this remains the definitive live document of Pink Floyd in their experimental studio-as-instrument phase.\n\nThe **2025 reissue**, titled **Pink Floyd at Pompeii MCMLXXII** (using Roman numerals for 1972, though the concert was recorded in 1971), represents a comprehensive restoration and remastering project. The film was remastered to **4K resolution** with a fresh **2025 stereo mix** overseen by **Nigel Godrich** — one of contemporary rock's most respected mix engineers, known for his work with Radiohead and others. A separate **Dolby Atmos mix** was also prepared for immersive playback systems. The **Blu-ray** format allows for high-bitrate delivery of both video and audio, preserving the dynamic and spatial ambitions of the original performance and the contemporary restoration work.\n\nThis 2025 edition is the first major reissue of Pompeii in the streaming and physical media era, making it newly accessible to listeners who may not have encountered the original theatrical or VHS release.\n\n**About this 2025 US pressing (Blu-ray, 4K):** Parlophone / Pink Floyd Music catalog **198028762595**, 2025 Blu-ray reissue of the 1971 concert film at Pompeii, Italy. 4K video restoration with 2025 stereo mix and Dolby Atmos mix by **Nigel Godrich**. Concert recorded August 1971; film originally released 1974.\n",
+  "discogs": {
+    "release_id": 33884409,
+    "master_id": 48788,
+    "uri": "https://www.discogs.com/release/33884409-Pink-Floyd-Pink-Floyd-At-Pompeii-MCMLXXII",
+    "title": "Pink Floyd At Pompeii MCMLXXII",
+    "artists": [
+      {
+        "name": "Pink Floyd",
+        "id": 45467,
+        "role": null
+      }
+    ],
+    "year": 2025,
+    "released": "2025-05-02",
+    "country": "US",
+    "labels": [
+      {
+        "name": "Columbia",
+        "catno": "19802876259",
+        "id": 1866
+      }
+    ],
+    "formats": [
+      {
+        "name": "Blu-ray",
+        "qty": "1",
+        "descriptions": [
+          "Reissue",
+          "Remastered",
+          "Stereo",
+          "Multichannel"
+        ],
+        "text": null
+      }
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Psychedelic Rock",
+      "Prog Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "",
+        "title": "Feature Film",
+        "duration": "",
+        "type": "heading"
+      },
+      {
+        "position": "1",
+        "title": "Pompeii Intro",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "2",
+        "title": "Echoes - Part 1",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "3",
+        "title": "Careful With That Axe, Eugene",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "4",
+        "title": "A Saucerful Of Secrets",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "5",
+        "title": "Us And Them",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "6",
+        "title": "One Of These Days",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "7",
+        "title": "Set The Controls For The Heart Of The Sun",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "8",
+        "title": "Brain Damage",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "9",
+        "title": "Mademoiselle Nobs",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "10",
+        "title": "Echoes - Part 2",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "",
+        "title": "Concert",
+        "duration": "",
+        "type": "heading"
+      },
+      {
+        "position": "11",
+        "title": "Pompeii Intro",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "12",
+        "title": "Echoes - Part 1",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "13",
+        "title": "Careful With That Axe, Eugene",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "14",
+        "title": "A Saucerful Of Secrets",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "15",
+        "title": "One Of These Days",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "16",
+        "title": "Set The Controls For The Heart Of The Sun",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "17",
+        "title": "Echoes - Part 2",
+        "duration": "",
+        "type": "track"
+      }
+    ],
+    "extraartists": [
+      {
+        "name": "CTR (6)",
+        "role": "CGI Artist [Trucages Générique]",
+        "id": 16092411
+      },
+      {
+        "name": "Michel François (3)",
+        "role": "CGI Artist [Trucages Générique]",
+        "id": 3238787
+      },
+      {
+        "name": "Claude Agostini",
+        "role": "Camera Operator [Film Cameramen]",
+        "id": 1887405
+      },
+      {
+        "name": "Gerard Hameline",
+        "role": "Camera Operator [Film Cameramen]",
+        "id": 1887411
+      },
+      {
+        "name": "Henri Czap",
+        "role": "Camera Operator [Film Cameramen]",
+        "id": 1887407
+      },
+      {
+        "name": "Jacques Boumendil",
+        "role": "Camera Operator [Film Cameramen]",
+        "id": 1887406
+      },
+      {
+        "name": "Josh Cheuse",
+        "role": "Creative Director [Creative Direction]",
+        "id": 672595
+      },
+      {
+        "name": "Michel Ygouf",
+        "role": "Crew [Transflex]",
+        "id": 7468910
+      },
+      {
+        "name": "Julian House",
+        "role": "Design, Art Direction",
+        "id": 665965
+      },
+      {
+        "name": "Gabor Pogany",
+        "role": "Director Of Photography",
+        "id": 1887404
+      },
+      {
+        "name": "Willy Kurant",
+        "role": "Director Of Photography",
+        "id": 1840194
+      },
+      {
+        "name": "Charles Raucher",
+        "role": "Engineer [Sound Engineer]",
+        "id": 547890
+      },
+      {
+        "name": "Peter Watts (2)",
+        "role": "Engineer [Sound Engineer]",
+        "id": 366698
+      },
+      {
+        "name": "Michèle Arnaud",
+        "role": "Executive-Producer",
+        "id": 466230
+      },
+      {
+        "name": "Reiner Moritz",
+        "role": "Executive-Producer",
+        "id": 1579914
+      },
+      {
+        "name": "Adrian Maben",
+        "role": "Film Director [Directed By]",
+        "id": 1579915
+      },
+      {
+        "name": "Jose Pinheiro",
+        "role": "Film Editor",
+        "id": 1675013
+      },
+      {
+        "name": "Marie Claire Perret",
+        "role": "Film Editor",
+        "id": 1884274
+      },
+      {
+        "name": "Clayton Baker",
+        "role": "Film Technician [4K Film Scan]",
+        "id": 4729277
+      },
+      {
+        "name": "Marie-Noël Zurstrassen",
+        "role": "Film Technician [Continuity]",
+        "id": 3238789
+      },
+      {
+        "name": "Elena Bello",
+        "role": "Management [David Gilmour Management, With]",
+        "id": 2220715
+      },
+      {
+        "name": "One Fifteen",
+        "role": "Management [David Gilmour Management]",
+        "id": 3091459
+      },
+      {
+        "name": "Paul Loasby",
+        "role": "Management [David Gilmour Management]",
+        "id": 1708502
+      },
+      {
+        "name": "Tony Smith Personal Management",
+        "role": "Management [Nick Mason Management, For]",
+        "id": 4958333
+      },
+      {
+        "name": "Tony Smith (13)",
+        "role": "Management [Nick Mason Management]",
+        "id": 1324446
+      },
+      {
+        "name": "Andrew Gummer",
+        "role": "Management [Richard Wright Management]",
+        "id": 7683048
+      },
+      {
+        "name": "Kate Watkins",
+        "role": "Management [Roger Waters Management]",
+        "id": 4614517
+      },
+      {
+        "name": "Mark Fenwick",
+        "role": "Management [Roger Waters Management]",
+        "id": 1784660
+      },
+      {
+        "name": "Steven Wilson",
+        "role": "Mixed By [2025 Audio Mix By]",
+        "id": 227943
+      },
+      {
+        "name": "Paul Berthault",
+        "role": "Mixed By [Dubbing Mixer]",
+        "id": 853459
+      },
+      {
+        "name": "Roger Waters",
+        "role": "Performer [Pink Floyd], Bass, Vocals",
+        "id": 110862
+      },
+      {
+        "name": "Nick Mason",
+        "role": "Performer [Pink Floyd], Drums",
+        "id": 246097
+      },
+      {
+        "name": "Richard Wright",
+        "role": "Performer [Pink Floyd], Keyboards, Vocals",
+        "id": 110861
+      },
+      {
+        "name": "David Gilmour",
+        "role": "Performer [Pink Floyd], Vocals, Guitar",
+        "id": 110863
+      },
+      {
+        "name": "Jacques Boumendil",
+        "role": "Photography By [Cover Image From An Original Photograph By]",
+        "id": 1887406
+      },
+      {
+        "name": "Morgan Hood (2)",
+        "role": "Post Production [Onsight Post Production], Film Technician [Digital Asset Coordinator]",
+        "id": 16092414
+      },
+      {
+        "name": "Andy Coles (2)",
+        "role": "Post Production [Onsight Post Production], Film Technician [Re-recording Mixer]",
+        "id": 3929028
+      },
+      {
+        "name": "Andy Lee (14)",
+        "role": "Post Production [Onsight Post Production], Film Technician [Senior Colourist]",
+        "id": 3809000
+      },
+      {
+        "name": "Jeffrey Halsey",
+        "role": "Post Production [Onsight Post Production], Video Producer [Lead Post Producer]",
+        "id": 5654647
+      },
+      {
+        "name": "Pink Floyd",
+        "role": "Producer [Produced By]",
+        "id": 45467
+      },
+      {
+        "name": "Hans Thorner",
+        "role": "Production Manager",
+        "id": 1884277
+      },
+      {
+        "name": "Leonardo Pescarolo",
+        "role": "Production Manager",
+        "id": 1884276
+      },
+      {
+        "name": "Marc Laurore",
+        "role": "Production Manager",
+        "id": 1884275
+      },
+      {
+        "name": "Angelina Capodanno",
+        "role": "Project Manager [2025 Reissue Credits]",
+        "id": 3893317
+      },
+      {
+        "name": "Charlie Stanford",
+        "role": "Project Manager [2025 Reissue Credits]",
+        "id": 1762749
+      },
+      {
+        "name": "Claire Anders",
+        "role": "Project Manager [2025 Reissue Credits]",
+        "id": 16088712
+      },
+      {
+        "name": "Elliot Stubbs",
+        "role": "Project Manager [2025 Reissue Credits]",
+        "id": 835911
+      },
+      {
+        "name": "Frank Harkins",
+        "role": "Project Manager [2025 Reissue Credits]",
+        "id": 1831301
+      },
+      {
+        "name": "Greg Linn",
+        "role": "Project Manager [2025 Reissue Credits]",
+        "id": 1998210
+      },
+      {
+        "name": "Gretchen Brennison",
+        "role": "Project Manager [2025 Reissue Credits]",
+        "id": 402667
+      },
+      {
+        "name": "John Conroy (9)",
+        "role": "Project Manager [2025 Reissue Credits]",
+        "id": 8344653
+      },
+      {
+        "name": "Rob Santos",
+        "role": "Project Manager [2025 Reissue Credits]",
+        "id": 224555
+      },
+      {
+        "name": "Scott Carter (3)",
+        "role": "Project Manager [2025 Reissue Credits]",
+        "id": 1661560
+      },
+      {
+        "name": "Tony Faske",
+        "role": "Project Manager [2025 Reissue Credits]",
+        "id": 3414106
+      },
+      {
+        "name": "Victor Campanile",
+        "role": "Project Manager [2025 Reissue Credits]",
+        "id": 16088715
+      },
+      {
+        "name": "Tom Barrett (6)",
+        "role": "Restoration [Digital Picture Restoration]",
+        "id": 5654642
+      },
+      {
+        "name": "Lana Topham",
+        "role": "Restoration [Project Manager]",
+        "id": 419236
+      },
+      {
+        "name": "John Pegg (4)",
+        "role": "Restoration [Supervisor]",
+        "id": 16092417
+      },
+      {
+        "name": "Marie-Louise Fieldman",
+        "role": "Restoration, Film Technician",
+        "id": 5654644
+      },
+      {
+        "name": "Brian Scott (12)",
+        "role": "Tour Manager [Road Manager]",
+        "id": 4997998
+      },
+      {
+        "name": "Chris Adamson",
+        "role": "Tour Manager [Road Manager]",
+        "id": 1244553
+      },
+      {
+        "name": "Robert Richardson (2)",
+        "role": "Tour Manager [Road Manager]",
+        "id": 4997999
+      }
+    ],
+    "identifiers": [
+      {
+        "type": "Barcode",
+        "value": "1 98028 76259 5",
+        "description": "Text"
+      },
+      {
+        "type": "Barcode",
+        "value": "198028762595",
+        "description": "Scanned"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "58574054/19802876259RD1 D 21",
+        "description": "Outer ring, variant 1"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "58574055/19802876259RD1 DO 23",
+        "description": "Inner ring, variant 1"
+      },
+      {
+        "type": "Mastering SID Code",
+        "value": "IFPI L030",
+        "description": "Outer ring, variant 1"
+      },
+      {
+        "type": "Mastering SID Code",
+        "value": "IFPI L030",
+        "description": "Inner ring, variant 1"
+      },
+      {
+        "type": "Mould SID Code",
+        "value": "IFPI 073B",
+        "description": "Label side, variant 1"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "58574054/19802876259RD1 D 21",
+        "description": "Outer ring, variant 2"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "58574055/19802876259RD1 DO 22",
+        "description": "Inner ring, variant 2"
+      },
+      {
+        "type": "Mastering SID Code",
+        "value": "IFPI L030",
+        "description": "Outer ring, variant 2"
+      },
+      {
+        "type": "Mastering SID Code",
+        "value": "IFPI L030",
+        "description": "Inner ring, variant 2"
+      },
+      {
+        "type": "Mould SID Code",
+        "value": "IFPI 072C",
+        "description": "Label side, variant 2"
+      }
+    ],
+    "notes": "Recorded in the Roman Amphitheatre at Pompeii, 4-7 October 1971, for 'Pink Floyd At Pompeii'\n\nPompeii Intro; Echoes - Part 1 & 2; Us and Them; One of These Days; Mademoiselle Nobs: Published by Pink Floyd Music Publishers Ltd., administered by Concord Copyrights Limited / Roger Waters Music Overseas Ltd., administered by BMG Rights Management (UK) Ltd. for the World excluding USA & Canada. USA & Canada: TRO-Hampshire House Publishing Corp.\n\nCareful With That Axe, Eugene; A Saucerful of Secrets: Published by Lupus Music Co. Ltd. for the World excluding USA & Canada. USA & Canada: TRO-Hampshire House Publishing Corp.\n\nSet the Controls for the Heart of the Sun: Published by Westminster Music Ltd. for the World excluding USA & Canada. USA & Canada: TRO-Hampshire House Publishing Corp.\n\nBrain Damage: Published by Roger Waters Music Overseas Ltd., administered by BMG Rights Management (UK) Ltd. for the World excluding USA & Canada. USA & Canada: TRO-Hampshire House Music Publishing Corp.\n\nDesign and Art Direction: House @ INTRO\nCover image from an original photograph by © Jacques Boumendil\nAdditional images courtesy of Pink Floyd/Sony Music/Jacques Boumendil\n\nTransflex\nStudios de Boulogne\nEuropasonor\nLaboratoires Éclair\n\n℗&© 2025 Pink Floyd Music Ltd., distributed by Sony Music Entertainment\nManufactured in Germany\n\n- 96kHz / 24bit LPCM uncompressed\n- 96kHz / 24bit 5.1 Dolby TrueHD\n- Dolby Atmos (Feature Film Only)\n\n",
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/dBEDKC2M_HIGIF-RC6qoUDTuyEXImwoYvR-GxjKbFow/rs:fit/g:sm/q:90/h:600/w:537/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzODg0/NDA5LTE3NDY0NTg3/MjAtNzg5NS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/qcRCChxudZxdE80h9Cnb2vGP2yt4Ay_u26vGUBRKAqg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzODg0/NDA5LTE3NDY0NTg3/MjAtNzg5NS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/ypr6svb7ZZAMQpfqAm0y9tFfu3fhYH_hjvLYVXzHcqA/rs:fit/g:sm/q:90/h:600/w:561/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzODg0/NDA5LTE3NDY0NTg3/MTctNDk1NS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/wUnnqEIiebu0XNsrCd3X7SD9031X9-8brCwNpLAhvCg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzODg0/NDA5LTE3NDY0NTg3/MTctNDk1NS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/nbRtmnK5If6j9OdLpD6jDq809npwNk9gI_-ZcQ43Co0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzODg0/NDA5LTE3NDY0NTg3/MTYtNjY0NC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/016KUyTgB5Cj77jTQDCj6UBYVgm9-l8rkO1jxq7RtHw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzODg0/NDA5LTE3NDY0NTg3/MTYtNjY0NC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/A-Uzp5ruSV8f62sSJzgPjabITblWpvw5JFFc3mfIIJ8/rs:fit/g:sm/q:90/h:448/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzODg0/NDA5LTE3NTIxNDAy/NDMtNDk3Ny5wbmc.jpeg",
+        "uri150": "https://i.discogs.com/KgMlNHPgWV6KzlT8bVsp8y_07Ykc4W9z1krVWU0x6lw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzODg0/NDA5LTE3NTIxNDAy/NDMtNDk3Ny5wbmc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/WV6i_YlR8T_bnYM8Vb3vwlmP0agohO2tE2QoVZbjpkE/rs:fit/g:sm/q:90/h:600/w:532/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzODg0/NDA5LTE3NDY0NTg3/MTYtMTgzMS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/VZojeH6AT5FYaR4CHKt8c7ZOj1gNQ2nZ077EhZd50I8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzODg0/NDA5LTE3NDY0NTg3/MTYtMTgzMS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/Uqnb_w0jEm6XpA5o8wR2usAol0XTRHl5x922FDaUsjA/rs:fit/g:sm/q:90/h:600/w:558/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzODg0/NDA5LTE3NDY0NTg3/MTYtMTAxMC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/VHYKZtfXrCG_X4XsEdiqur7Ki0UTRerYFhnQdU0r7bE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzODg0/NDA5LTE3NDY0NTg3/MTYtMTAxMC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/rcAmDEuAzv9iTLP4Dka6hDRluVSoPM3MLk-HlrxB5ss/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzODg0/NDA5LTE3NDY0NTg3/MDUtMzIyOC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/0JQvf11Vcd5UzmKZ-dS8VBE0Efx0LnbxSRdPatgSojY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzODg0/NDA5LTE3NDY0NTg3/MDUtMzIyOC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/ymox31JWuJZcJLD5Vwn4wl_aHNRPxBAPjdXxI0pWO-w/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzODg0/NDA5LTE3NDY0NTg3/MTYtOTUyNS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/a9-CyiLnB3uVXXq-9v0ahcN-QVcz_fGbNII5I6qP7SY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzODg0/NDA5LTE3NDY0NTg3/MTYtOTUyNS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/qk3zrz2x5BR7RX3PBCtIhYlAGjpkl5XYML6zDgr_WgA/rs:fit/g:sm/q:90/h:600/w:482/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzODg0/NDA5LTE3NDY0NTg3/MTItNDA5NS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/MHXpD5BaFDzt_yaXpulNMl_2iZPxIzGKq1RJupEFi3o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzODg0/NDA5LTE3NDY0NTg3/MTItNDA5NS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/5vWPQgoO3ICP_ZLmYwP7xX8eITfM3ibJgMWjzav2Kyk/rs:fit/g:sm/q:90/h:600/w:477/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzODg0/NDA5LTE3NDY0NTg3/MTEtMTM2MS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/bV0Mj-MVqlX7ShKPgxYt7gonz6K0nZ5zMhn-7lJEFeU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzODg0/NDA5LTE3NDY0NTg3/MTEtMTM2MS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/EsoA0f22EZhd4VtxAf8HL31W16pJuJx7foddwnHbvbQ/rs:fit/g:sm/q:90/h:600/w:481/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzODg0/NDA5LTE3NDY0NTg3/MTctMjU5Ny5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/AFxloFkc4XgYAn9r1_eMsjWq8u_K8oaoAw52F4ILH4E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzODg0/NDA5LTE3NDY0NTg3/MTctMjU5Ny5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/7QES2Z2ZuYB3P4JbO5W5W9b_aCGFilsdRHqNz-YwqtA/rs:fit/g:sm/q:90/h:600/w:478/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzODg0/NDA5LTE3NDY0NTg3/MTYtMzc2OS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/37WT0S-pgGND-r_IMcNSnwCHycy8c__FpkUqEOo5ep0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzODg0/NDA5LTE3NDY0NTg3/MTYtMzc2OS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/yyif6-5wgDKgXO7hVMGhiO3iL01i9gN5SY6ShOSsnXE/rs:fit/g:sm/q:90/h:600/w:480/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzODg0/NDA5LTE3NDY0NTg3/MTktOTkxMC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/4sJPyz3ycYHufKdHWLiyhVr1TmAR1vz583-WiBH8xiI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzODg0/NDA5LTE3NDY0NTg3/MTktOTkxMC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/tQcD7mDF_HjqdEdoe8qAc5burcFOLwcFCmFg_UWpGbs/rs:fit/g:sm/q:90/h:600/w:481/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzODg0/NDA5LTE3NDY0NTg3/MTctNjExMy5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/B2TqxGRamjzi1JHceYK8VR9KSVEgnLMpq4n0WuNeANE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzODg0/NDA5LTE3NDY0NTg3/MTctNjExMy5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/Iu65vVs-l2QU1Iauu02gVgdCk-tmLK50qKM2jYs0zq4/rs:fit/g:sm/q:90/h:600/w:479/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzODg0/NDA5LTE3NDY0NTg3/MTgtMjg3Ny5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/dyeCYzzgb9l2w4VwXO2O-zeN2wRFPJegWrFGjb3JP0Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzODg0/NDA5LTE3NDY0NTg3/MTgtMjg3Ny5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/OtWZYhej5q_2YuhOuoY-cWqdfZAGu0cIXGlUlYeAP9Y/rs:fit/g:sm/q:90/h:600/w:476/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzODg0/NDA5LTE3NDY0NTg3/MTgtNTA1Mi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/dFHhG3BuFUhGsE_7r8bIoUEamD0J033nl8l1-Q2vIa0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzODg0/NDA5LTE3NDY0NTg3/MTgtNTA1Mi5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/lhTydmfhtMXY5Fmrmgb8BLemceoTO_pp5f5IkHyVcdQ/rs:fit/g:sm/q:90/h:600/w:481/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzODg0/NDA5LTE3NDY0NTg3/MTktNTY0My5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/SOG720UkKYgLlN2KNj-KpXpC90_m7uUCWICTYL2G7iA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzODg0/NDA5LTE3NDY0NTg3/MTktNTY0My5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/SRcEyDyOKKLXQHnn2-KdEy1AvHzxwfs1KQSFFFmm97g/rs:fit/g:sm/q:90/h:600/w:478/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzODg0/NDA5LTE3NDY0NTg3/MTktNjEzOC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/THDYwhynhilml1lqJKm-SzB9vAU0Q4wWzq-8CURBWl8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzODg0/NDA5LTE3NDY0NTg3/MTktNjEzOC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/p7AsRgfueXF3OvgTsYmp3pm1jxmX3AKB7-Nznu3y9XE/rs:fit/g:sm/q:90/h:600/w:480/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzODg0/NDA5LTE3NDY0NTg3/MjAtMjk2MC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/x--w-SHyJbgA5ECExRKxJIPpWxgyBacgPSbo6UlMA3Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzODg0/NDA5LTE3NDY0NTg3/MjAtMjk2MC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/vKg8t8E3W33ADUplYAFYEqAzNkRbndsRUYPlXFaQzLc/rs:fit/g:sm/q:90/h:600/w:479/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzODg0/NDA5LTE3NDY0NTg3/MTMtODg4MS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/BCzxD4e1j5nrZJWGq4Bm9BgHe_tZJlxRl-kEE1avghA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzODg0/NDA5LTE3NDY0NTg3/MTMtODg4MS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/MPZynUaamtDkHwGV0m6Ic5fCbV4YNpCohpqbBEJ2zTE/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzODg0/NDA5LTE3NDY0NTg3/MTgtMjgwOS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/bI_EPkS8sfpIomQ-hz7JdaAnLxXV57pGX5k-u6taaXY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzODg0/NDA5LTE3NDY0NTg3/MTgtMjgwOS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/vkwpsTS7mnHX0rZCQeKADmydhUq6D-smjioQPo4Fqz4/rs:fit/g:sm/q:90/h:600/w:541/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzODg0/NDA5LTE3NDc2MjM4/NTctMjg1MS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/tp6S4wl-IXEE_ChMn_brkAn-oW8_sSsSYQ-rijgyZ40/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzODg0/NDA5LTE3NDc2MjM4/NTctMjg1MS5qcGVn.jpeg"
+      }
+    ],
+    "community": {
+      "rating": {
+        "count": 75,
+        "average": 4.93
+      },
+      "have": 921,
+      "want": 116
+    },
+    "master": {
+      "id": 48788,
+      "title": "Live At Pompeii",
+      "main_release": 6364338,
+      "year": 1981,
+      "uri": "https://www.discogs.com/master/48788-Pink-Floyd-Live-At-Pompeii",
+      "num_for_sale": 1030
+    }
+  },
+  "apple_music": {
+    "id": 1797084920,
+    "url": "https://music.apple.com/us/album/pink-floyd-at-pompeii-mcmlxxii-2025-mix/1797084920?uo=4",
+    "name": "Pink Floyd at Pompeii - MCMLXXII (2025 Mix)",
+    "artist": "Pink Floyd",
+    "artist_id": 487143,
+    "artwork_url_100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b8/a9/6a/b8a96a2d-00d4-a5f1-70e7-68476b7cdcc8/196872874983.jpg/100x100bb.jpg",
+    "artwork_url_600": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b8/a9/6a/b8a96a2d-00d4-a5f1-70e7-68476b7cdcc8/196872874983.jpg/600x600bb.jpg",
+    "release_date": "2025-05-02T07:00:00Z",
+    "track_count": 11,
+    "copyright": "℗ 2025 Pink Floyd Music, distributed by Sony Music Entertainment",
+    "primary_genre": "Rock",
+    "country": "USA",
+    "tracks": [
+      {
+        "track_number": 1,
+        "disc_number": 1,
+        "name": "Pompeii Intro (Live at Pompeii - MCMLXXII - 2025 Mix)",
+        "duration_ms": 210569,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f8/71/26/f87126a9-22f6-b1ea-bd52-687fd30b95d4/mzaf_14092454669553490458.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/pompeii-intro-live-at-pompeii-mcmlxxii-2025-mix/1797084920?i=1797084932&uo=4"
+      },
+      {
+        "track_number": 2,
+        "disc_number": 1,
+        "name": "Echoes - Part 1 (Live at Pompeii - MCMLXXII - 2025 Mix)",
+        "duration_ms": 715080,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/17/fd/ea/17fdea22-03a9-6c13-31e7-88303604da33/mzaf_10604327760863218239.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/echoes-part-1-live-at-pompeii-mcmlxxii-2025-mix/1797084920?i=1797084938&uo=4"
+      },
+      {
+        "track_number": 3,
+        "disc_number": 1,
+        "name": "Careful with That Axe, Eugene (Live at Pompeii - MCMLXXII - 2025 Mix)",
+        "duration_ms": 397594,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/0b/6d/4c/0b6d4ce1-7178-77c2-07bf-f5a64611e49e/mzaf_2376077047185229989.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/careful-with-that-axe-eugene-live-at-pompeii-mcmlxxii/1797084920?i=1797084941&uo=4"
+      },
+      {
+        "track_number": 4,
+        "disc_number": 1,
+        "name": "A Saucerful of Secrets (Live at Pompeii - MCMLXXII - 2025 Mix)",
+        "duration_ms": 610026,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/45/f9/23/45f923e7-64f3-6e6d-fcf5-7d1b06687c2c/mzaf_15677310741438539064.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/a-saucerful-of-secrets-live-at-pompeii-mcmlxxii-2025-mix/1797084920?i=1797084944&uo=4"
+      },
+      {
+        "track_number": 5,
+        "disc_number": 1,
+        "name": "One of These Days (Live at Pompeii - MCMLXXII - 2025 Mix)",
+        "duration_ms": 355875,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f2/c5/10/f2c510a4-6e40-c0c2-86ed-7516a45cb95e/mzaf_12088969897898436900.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/one-of-these-days-live-at-pompeii-mcmlxxii-2025-mix/1797084920?i=1797085159&uo=4"
+      },
+      {
+        "track_number": 6,
+        "disc_number": 1,
+        "name": "Set the Controls for the Heart of the Sun (Live at Pompeii - MCMLXXII - 2025 Mix)",
+        "duration_ms": 629257,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2b/2d/c8/2b2dc89a-14b7-2653-4a4a-f62b276474b8/mzaf_15499620919434302142.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/set-the-controls-for-the-heart-of-the-sun/1797084920?i=1797085161&uo=4"
+      },
+      {
+        "track_number": 7,
+        "disc_number": 1,
+        "name": "Mademoiselle Nobs (Live at Pompeii - MCMLXXII - 2025 Mix)",
+        "duration_ms": 109834,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a0/fa/c1/a0fac191-9051-83b3-39b3-7c6292c53d00/mzaf_2193343876313975625.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/mademoiselle-nobs-live-at-pompeii-mcmlxxii-2025-mix/1797084920?i=1797085165&uo=4"
+      },
+      {
+        "track_number": 8,
+        "disc_number": 1,
+        "name": "Echoes - Part 2 (Live at Pompeii - MCMLXXII - 2025 Mix)",
+        "duration_ms": 803812,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ae/d9/1a/aed91afb-8e57-3c34-3c83-1d2075522009/mzaf_8082853602649119424.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/echoes-part-2-live-at-pompeii-mcmlxxii-2025-mix/1797084920?i=1797085171&uo=4"
+      },
+      {
+        "track_number": 1,
+        "disc_number": 2,
+        "name": "Careful with That Axe, Eugene - Alternate Take (Live at Pompeii - MCMLXXII - 2025 Mix)",
+        "duration_ms": 362812,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/4f/11/9f/4f119fb4-a681-e4c6-414f-4c59c33fca7b/mzaf_8137840317791206546.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/careful-with-that-axe-eugene-alternate-take-live-at/1797084920?i=1797085174&uo=4"
+      },
+      {
+        "track_number": 2,
+        "disc_number": 2,
+        "name": "A Saucerful of Secrets - Unedited (Live at Pompeii - MCMLXXII - 2025 Mix)",
+        "duration_ms": 764625,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a2/4a/ad/a24aad1f-63f7-d0d2-4529-8e8292a37b3d/mzaf_5587037959338325293.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/a-saucerful-of-secrets-unedited-live-at/1797084920?i=1797085179&uo=4"
+      },
+      {
+        "track_number": 3,
+        "disc_number": 2,
+        "name": "Echoes - Part 1 - Edit (Live at Pompeii - MCMLXXII - 2025 Mix)",
+        "duration_ms": 350000,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f7/f6/37/f7f6377a-5b6e-5bc1-e023-d062a06f130e/mzaf_9682082669011627615.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/echoes-part-1-edit-live-at-pompeii-mcmlxxii-2025-mix/1797084920?i=1797085187&uo=4"
+      }
+    ]
+  },
+  "discrepancies": [
+    "Track count differs: Discogs=17, Apple Music=11"
+  ],
+  "local_cover": "images/33884409.jpg"
+}

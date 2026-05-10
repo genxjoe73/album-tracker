@@ -1,0 +1,681 @@
+{
+  "captured_at": "2026-05-10T23:08:16+00:00",
+  "schema_version": 3,
+  "artist": "David Gilmour",
+  "title": "Live At The Circus Maximus",
+  "original_release_year": 2025,
+  "pressing_year": 2025,
+  "upgrade_suggestion": null,
+  "commentary": "**Live at the Circus Maximus** is a concert film and recording by **David Gilmour**, capturing a solo performance at the Circus Maximus in Rome in 2024. Gilmour, the primary guitarist and one of the surviving principal members of Pink Floyd, has maintained an active solo touring schedule since the early 1990s, balancing original material with carefully selected Pink Floyd repertoire. The Circus Maximus venue — an ancient Roman amphitheater — is one of the world's most storied concert destinations, and its use for this performance signals the gravitas and scale of Gilmour's touring operation.\n\nThe concert showcases Gilmour's signature guitar-centric approach to both his original compositions and the Pink Floyd material he's chosen to carry forward in his solo context. His touring band typically includes longtime collaborators and brings a distinct sonic identity to these performances — less symphonic than some Pink Floyd arrangements, more focused on Gilmour's distinctive guitar work and his evolution as a solo artist.\n\nThe **2025 release** is issued by **Sony Music Entertainment** under exclusive license from **David Gilmour Music Ltd.**, suggesting a formal partnership between Gilmour's independent label operation and Sony's distribution and marketing infrastructure. The Blu-ray format delivers the performance in high-resolution video and audio, allowing for the dynamic range and spatial presentation befitting Gilmour's carefully crafted sonic aesthetic. **Made in Germany** indicates pressing plant origin, likely reflecting European manufacturing and distribution logistics.\n\n**About this 2025 US pressing (Blu-ray):** Sony Music / David Gilmour Music Ltd. catalog **19802927039**, Blu-ray release of live performance at Circus Maximus, Rome, 2024. Made in Germany. ℗ © 2025 David Gilmour Music Ltd.\n",
+  "discogs": {
+    "release_id": 35424418,
+    "master_id": 4005925,
+    "uri": "https://www.discogs.com/release/35424418-David-Gilmour-Live-At-The-Circus-Maximus",
+    "title": "Live At The Circus Maximus",
+    "artists": [
+      {
+        "name": "David Gilmour",
+        "id": 110863,
+        "role": null
+      }
+    ],
+    "year": 2025,
+    "released": "2025-10-17",
+    "country": "US",
+    "labels": [
+      {
+        "name": "Sony Music",
+        "catno": "19802927039",
+        "id": 25487
+      }
+    ],
+    "formats": [
+      {
+        "name": "Blu-ray",
+        "qty": "2",
+        "descriptions": [
+          "Stereo",
+          "Multichannel"
+        ],
+        "text": "Dolby Atmos"
+      }
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Art Rock",
+      "Prog Rock",
+      "Concert Film",
+      "Music Video"
+    ],
+    "tracklist": [
+      {
+        "position": "",
+        "title": "Live At The Circus Maximus",
+        "duration": "",
+        "type": "heading"
+      },
+      {
+        "position": "1-1",
+        "title": "5 A.M.",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "1-2",
+        "title": "Black Cat",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "1-3",
+        "title": "Luck And Strange",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "1-4",
+        "title": "Breathe (In The Air)",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "1-5",
+        "title": "Time",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "1-6",
+        "title": "Fat Old Sun",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "1-7",
+        "title": "Marooned",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "1-8",
+        "title": "Wish You Were Here",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "1-9",
+        "title": "Vita Brevis",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "1-10",
+        "title": "Between Two Points",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "1-11",
+        "title": "High Hopes",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "1-12",
+        "title": "Sorrow",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "1-13",
+        "title": "The Piper's Call",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "1-14",
+        "title": "A Great Day For Freedom",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "1-15",
+        "title": "In Any Tongue",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "1-16",
+        "title": "The Great Gig In The Sky",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "1-17",
+        "title": "A Boat Lies Waiting",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "1-18",
+        "title": "Coming Back To Life",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "1-19",
+        "title": "Dark And Velvet Nights",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "1-20",
+        "title": "Sings",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "1-21",
+        "title": "Scattered",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "1-22",
+        "title": "Comfortably Numb",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "1-23",
+        "title": "Credits",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "",
+        "title": "Audio - The Luck And Strange Concerts",
+        "duration": "",
+        "type": "heading"
+      },
+      {
+        "position": "2-1",
+        "title": "5 A.M.",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "2-2",
+        "title": "Black Cat",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "2-3",
+        "title": "Luck And Strange",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "2-4",
+        "title": "Breathe (In The Air)",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "2-5",
+        "title": "Time",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "2-6",
+        "title": "Fat Old Sun",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "2-7",
+        "title": "Marooned",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "2-8",
+        "title": "A Single Spark",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "2-9",
+        "title": "Wish You Were Here",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "2-10",
+        "title": "Vita Brevis",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "2-11",
+        "title": "Between Two Points",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "2-12",
+        "title": "High Hopes",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "2-13",
+        "title": "Sorrow",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "2-14",
+        "title": "The Piper's Call",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "2-15",
+        "title": "A Great Day For Freedom",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "2-16",
+        "title": "In Any Tongue",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "2-17",
+        "title": "The Great Gig In The Sky",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "2-18",
+        "title": "A Boat Lies Waiting",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "2-19",
+        "title": "Coming Back To Life",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "2-20",
+        "title": "Dark And Velvet Nights",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "2-21",
+        "title": "Sings",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "2-22",
+        "title": "Scattered",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "2-23",
+        "title": "Comfortably Numb",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "",
+        "title": "Extras",
+        "duration": "",
+        "type": "heading"
+      },
+      {
+        "position": "",
+        "title": "Luck And Strange Tour Rehearsals",
+        "duration": "",
+        "type": "heading"
+      },
+      {
+        "position": "2-24",
+        "title": "Between Two Points",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "2-25",
+        "title": "Breathe (In The Air) / Time",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "2-26",
+        "title": "Dark And Velvet Nights",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "2-27",
+        "title": "Luck And Strange",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "",
+        "title": "Documentaries",
+        "duration": "",
+        "type": "heading"
+      },
+      {
+        "position": "2-28",
+        "title": "Rain In Rome",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "2-29",
+        "title": "Backstage At The Royal Albert Hall",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "2-30",
+        "title": "Backstage In America",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "2-31",
+        "title": "The Making Of Luck And Strange",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "",
+        "title": "Music Videos",
+        "duration": "",
+        "type": "heading"
+      },
+      {
+        "position": "2-32",
+        "title": "A Single Spark Live",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "2-33",
+        "title": "Between Two Points",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "2-34",
+        "title": "Between Two Points - GENTRY Remix - Editor's Cut",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "2-35",
+        "title": "Wesley On Patrol",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "2-36",
+        "title": "The Piper's Call",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "2-37",
+        "title": "The Piper's Call Live Around The World",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "2-38",
+        "title": "Luck And Strange",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "2-39",
+        "title": "Dark And Velvet Nights",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "2-40",
+        "title": "Dark And Velvet Nights (Animated)",
+        "duration": "",
+        "type": "track"
+      }
+    ],
+    "extraartists": [
+      {
+        "name": "Steve Knee",
+        "role": "Artwork",
+        "id": 3808951
+      },
+      {
+        "name": "Guy Pratt",
+        "role": "Bass Guitar, Double Bass, Vocals",
+        "id": 112875
+      },
+      {
+        "name": "Marc Brickman",
+        "role": "Creative Director, Lighting Director",
+        "id": 1744578
+      },
+      {
+        "name": "Adam Betts",
+        "role": "Drums, Percussion",
+        "id": 824324
+      },
+      {
+        "name": "Damon Iddins",
+        "role": "Engineer",
+        "id": 326715
+      },
+      {
+        "name": "Matt Glasbey",
+        "role": "Engineer, Mixed By",
+        "id": 3886549
+      },
+      {
+        "name": "Gavin Elder",
+        "role": "Film Director",
+        "id": 2232305
+      },
+      {
+        "name": "Dione Orrom",
+        "role": "Film Producer",
+        "id": 433625
+      },
+      {
+        "name": "Anton Corbijn",
+        "role": "Graphics",
+        "id": 325010
+      },
+      {
+        "name": "Ben Worsley",
+        "role": "Guitar, Vocals",
+        "id": 15485379
+      },
+      {
+        "name": "Greg Phillinganes",
+        "role": "Keyboards, Piano, Vocals",
+        "id": 108475
+      },
+      {
+        "name": "Rob Gentry",
+        "role": "Keyboards, Vocals",
+        "id": 1635697
+      },
+      {
+        "name": "Chris Salmon (7)",
+        "role": "Marketing",
+        "id": 10047133
+      },
+      {
+        "name": "Dick Beetham",
+        "role": "Mastered By",
+        "id": 299375
+      },
+      {
+        "name": "Anna Włoch",
+        "role": "Photography By",
+        "id": 2361143
+      },
+      {
+        "name": "Gavin Elder",
+        "role": "Photography By",
+        "id": 2232305
+      },
+      {
+        "name": "Jill Furmanovsky",
+        "role": "Photography By",
+        "id": 640446
+      },
+      {
+        "name": "Polly Samson",
+        "role": "Photography By",
+        "id": 467425
+      },
+      {
+        "name": "Charlie Andrew",
+        "role": "Producer, Engineer, Mixed By",
+        "id": 1145238
+      },
+      {
+        "name": "David Gilmour",
+        "role": "Producer, Engineer, Mixed By, Guitar, Vocals",
+        "id": 110863
+      },
+      {
+        "name": "Roger Searle",
+        "role": "Production Manager",
+        "id": 3727088
+      },
+      {
+        "name": "Phil Taylor (5)",
+        "role": "Technician",
+        "id": 563958
+      },
+      {
+        "name": "Charley Webb",
+        "role": "Vocals, Guitar, Ukulele, Percussion",
+        "id": 555277
+      },
+      {
+        "name": "Hattie Webb",
+        "role": "Vocals, Harp, Percussion",
+        "id": 1423438
+      },
+      {
+        "name": "Romany Gilmour",
+        "role": "Vocals, Harp, Percussion",
+        "id": 7991698
+      },
+      {
+        "name": "Louise Clare Marshall",
+        "role": "Vocals, Piano, Percussion",
+        "id": 36046
+      }
+    ],
+    "identifiers": [
+      {
+        "type": "Barcode",
+        "value": "1 98029 27039 6",
+        "description": null
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "58633836/19802927039RD1 D 21",
+        "description": "BD 1"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "58633837/19802927039D1 DO 22",
+        "description": "BD 1"
+      },
+      {
+        "type": "Mastering SID Code",
+        "value": "IFPI L021",
+        "description": "BD 1"
+      },
+      {
+        "type": "Mould SID Code",
+        "value": "IFPI 073B",
+        "description": "BD 1"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "58633845/19802927039RD2 D 22",
+        "description": "BD 2"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "58633846/19802927039RD2 DO 21",
+        "description": "BD 2"
+      },
+      {
+        "type": "Mastering SID Code",
+        "value": "IFPI L021",
+        "description": "BD 2"
+      },
+      {
+        "type": "Mould SID Code",
+        "value": "IFPI 079C",
+        "description": "BD 2"
+      }
+    ],
+    "notes": "℗ 2025 Sony Music Entertainment, under exclusive licence from David Gilmour Music Ltd.\n© 2025 David Gilmour Music Ltd.\n\nMade in Germany",
+    "images": [
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/NiBRaK1nutTxPFuCtUf8oLohbh5Xam_YmMWol_6wMvw/rs:fit/g:sm/q:90/h:600/w:489/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NDI0/NDE4LTE3NjA5MzA3/NzktMzU5OS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/60LDZfrbbkSwisNynnczgBt-Tq0lt4CXHRQZTOs5EvA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NDI0/NDE4LTE3NjA5MzA3/NzktMzU5OS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/-GBtYkpq333lRdCRGC_4fzQUv_OYkO9IyNtm38W8a50/rs:fit/g:sm/q:90/h:600/w:489/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NDI0/NDE4LTE3NjA5MzA3/ODMtOTk3My5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/Dg8Rlu3IPIvA5iUYZkjqPZGTxB3huPPAGUh31k7gGJM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NDI0/NDE4LTE3NjA5MzA3/ODMtOTk3My5qcGVn.jpeg"
+      }
+    ],
+    "community": {
+      "rating": {
+        "count": 33,
+        "average": 4.73
+      },
+      "have": 283,
+      "want": 20
+    },
+    "master": {
+      "id": 4005925,
+      "title": "The Luck And Strange Concerts",
+      "main_release": 35391538,
+      "year": 2025,
+      "uri": "https://www.discogs.com/master/4005925-David-Gilmour-The-Luck-And-Strange-Concerts",
+      "num_for_sale": 235
+    }
+  },
+  "apple_music": null,
+  "discrepancies": [
+    "No Apple Music match found."
+  ]
+}

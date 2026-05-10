@@ -1,0 +1,376 @@
+{
+  "captured_at": "2026-05-10T23:11:03+00:00",
+  "schema_version": 3,
+  "artist": "Pink Floyd",
+  "title": "The Dark Side Of The Moon",
+  "original_release_year": 1973,
+  "pressing_year": 2023,
+  "upgrade_suggestion": null,
+  "commentary": "**The Dark Side of the Moon** is Pink Floyd's 1973 masterpiece and one of the most culturally significant albums in rock history. Released in March 1973, it became a phenomenon of unprecedented scale — the album spent a record-breaking 937 weeks on the Billboard 200 (a record that stood for decades), became the best-selling vinyl album of all time, and established Pink Floyd as stadium-scale artists with a distinctly conceptual, studio-centric approach to rock music. The album is a unified statement: a concept album without explicit narrative, held together by sonic coherence, thematic preoccupations with mortality, time, and human consciousness, and the band's mastery of their instruments and the studio itself as a compositional tool.\n\nThe 2023 reissue was undertaken as part of a comprehensive **50th Anniversary** campaign by Parlophone / Pink Floyd Records. The **Blu-ray format** presents the album in both **audio-only Blu-ray Audio** and **Blu-ray disc** configurations, allowing for high-resolution delivery of the stereo mix as well as a newly prepared **Dolby Atmos immersive mix**. This Atmos mix represents a contemporary reconceptualization of the stereo mix into a spatial field, sourced from the original multitrack session tapes. The remastering was undertaken using modern transfer equipment and the original analog masters, with attention to preserving the dynamic envelope and sonic character of the original 1973 release.\n\nThe **2023 Blu-ray audio edition** — released for \"the world outside of Europe\" — reflects the global distribution strategy for this reissue campaign, with separate regional editions optimized for different markets. The Blu-ray format choice underscores the ambitions of this reissue: to present *Dark Side of the Moon* to contemporary listeners with maximum fidelity and immersive capability, ensuring that the album's production values — which were state-of-the-art in 1973 and remain sophisticated by contemporary standards — are fully realized.\n\n**About this 2023 Worldwide pressing (Blu-ray Audio / Blu-ray):** Parlophone / Pink Floyd Records, 2023 50th Anniversary reissue. Blu-ray Audio + Blu-ray disc with stereo mix and **Dolby Atmos immersive mix**. Remastered from the original analog masters. For world outside Europe.\n",
+  "discogs": {
+    "release_id": 28614841,
+    "master_id": 10362,
+    "uri": "https://www.discogs.com/release/28614841-Pink-Floyd-The-Dark-Side-Of-The-Moon",
+    "title": "The Dark Side Of The Moon",
+    "artists": [
+      {
+        "name": "Pink Floyd",
+        "id": 45467,
+        "role": null
+      }
+    ],
+    "year": 2023,
+    "released": "2023-10-13",
+    "country": "Worldwide",
+    "labels": [
+      {
+        "name": "Pink Floyd Records",
+        "catno": "PFR50BD3",
+        "id": 983890
+      },
+      {
+        "name": "Pink Floyd Records",
+        "catno": "19658813779",
+        "id": 983890
+      }
+    ],
+    "formats": [
+      {
+        "name": "Blu-ray",
+        "qty": "1",
+        "descriptions": [
+          "Blu-ray Audio",
+          "Album",
+          "Reissue",
+          "Remastered",
+          "Stereo",
+          "Multichannel"
+        ],
+        "text": "Dolby Atmos"
+      }
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Prog Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "1",
+        "title": "Speak To Me",
+        "duration": "1:08",
+        "type": "track"
+      },
+      {
+        "position": "2",
+        "title": "Breathe (In The Air)",
+        "duration": "2:45",
+        "type": "track"
+      },
+      {
+        "position": "3",
+        "title": "On The Run",
+        "duration": "3:34",
+        "type": "track"
+      },
+      {
+        "position": "4",
+        "title": "Time",
+        "duration": "7:04",
+        "type": "track"
+      },
+      {
+        "position": "5",
+        "title": "The Great Gig In The Sky",
+        "duration": "4:43",
+        "type": "track"
+      },
+      {
+        "position": "6",
+        "title": "Money",
+        "duration": "6:17",
+        "type": "track"
+      },
+      {
+        "position": "7",
+        "title": "Us And Them",
+        "duration": "7:47",
+        "type": "track"
+      },
+      {
+        "position": "8",
+        "title": "Any Colour You Like",
+        "duration": "3:26",
+        "type": "track"
+      },
+      {
+        "position": "9",
+        "title": "Brain Damage",
+        "duration": "3:51",
+        "type": "track"
+      },
+      {
+        "position": "10",
+        "title": "Eclipse",
+        "duration": "2:24",
+        "type": "track"
+      }
+    ],
+    "extraartists": [
+      {
+        "name": "Tim Carroll",
+        "role": "Authoring [Atmos File Format Encoding]",
+        "id": 437503
+      },
+      {
+        "name": "Joel Plante",
+        "role": "Authoring [Blu-ray Disc Authored By]",
+        "id": 409280
+      },
+      {
+        "name": "Barry St. John",
+        "role": "Backing Vocals",
+        "id": 340639
+      },
+      {
+        "name": "Doris Troy",
+        "role": "Backing Vocals",
+        "id": 251578
+      },
+      {
+        "name": "Lesley Duncan",
+        "role": "Backing Vocals",
+        "id": 246096
+      },
+      {
+        "name": "Liza Strike",
+        "role": "Backing Vocals",
+        "id": 251579
+      },
+      {
+        "name": "Roger Waters",
+        "role": "Bass Guitar, Vocals, Synthesizer [VCS3], Effects [Tape]",
+        "id": 110862
+      },
+      {
+        "name": "Alan Parsons",
+        "role": "Engineer [Abbey Road Studios]",
+        "id": 157075
+      },
+      {
+        "name": "Joel Plante",
+        "role": "Engineer [Assistant Engineer, 5.1 Surround And Dolby Atmos Mixes]",
+        "id": 409280
+      },
+      {
+        "name": "Peter James",
+        "role": "Engineer [Assistant, Abbey Road Studios]",
+        "id": 277864
+      },
+      {
+        "name": "Richard Wright",
+        "role": "Keyboards, Vocals, Synthesizer [VCS3]",
+        "id": 110861
+      },
+      {
+        "name": "Roger Waters",
+        "role": "Lyrics By",
+        "id": 110862
+      },
+      {
+        "name": "Doug Sax",
+        "role": "Mastered By [5.1 Mix]",
+        "id": 365860
+      },
+      {
+        "name": "James Guthrie",
+        "role": "Mastered By [5.1 Mix]",
+        "id": 171450
+      },
+      {
+        "name": "Joel Plante",
+        "role": "Mastered By [5.1 Mix]",
+        "id": 409280
+      },
+      {
+        "name": "James Guthrie",
+        "role": "Mastered By [Stereo And Atmos Mixes]",
+        "id": 171450
+      },
+      {
+        "name": "Joel Plante",
+        "role": "Mastered By [Stereo And Atmos Mixes]",
+        "id": 409280
+      },
+      {
+        "name": "James Guthrie",
+        "role": "Mixed By [5.1 Surround And Dolby Atmos Mixes]",
+        "id": 171450
+      },
+      {
+        "name": "Chris Thomas",
+        "role": "Mixed By [Mixing Supervised By, Abbey Road Studios]",
+        "id": 31213
+      },
+      {
+        "name": "Nick Mason",
+        "role": "Percussion, Effects [Tape]",
+        "id": 246097
+      },
+      {
+        "name": "Pink Floyd",
+        "role": "Producer",
+        "id": 45467
+      },
+      {
+        "name": "David Gilmour",
+        "role": "Vocals, Guitar [Guitars], Synth [VCS3]",
+        "id": 110863
+      }
+    ],
+    "identifiers": [
+      {
+        "type": "Barcode",
+        "value": "196588137792",
+        "description": "Scanned, sticker"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "[One-Blue logo] PF-17 L0 2 01",
+        "description": null
+      },
+      {
+        "type": "Mastering SID Code",
+        "value": "IFPI L279",
+        "description": null
+      }
+    ],
+    "notes": "'The Dark Side Of The Moon Dolby Atmos': The title of this version, as appears on the spine, the disc label, rear cover and on the hype sticker as well\n\nBarcode without numbers. \n\nDolby ATMOS Mix (Reads on BD Players as TrueHD 7.1)\n5.1 Surround mix 24bit/96kHz PCM uncompressed / dts-HD MA\nRemastered stereo mix 24-bit/192kHz uncompressed / dts-HD MA\n\n- Die-Cut Digisleeve\n- Postcard\n- Stickerd set\n- 24-Page Booklet\n- Paper sleeve containing the disc\n\nMarketed and distributed by Parlophone Records Ltd., a Warner Music Group company, for Europe and by Sony Entertainment for the world outside Europe.\n\nSleeve made in Italy, disc made in Japan.",
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/gm4fSfm09PKupEYNGNR11FlU-f6TAZo6hy-D7iYdkOY/rs:fit/g:sm/q:90/h:600/w:476/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjE0/ODQxLTE2OTc1MTI4/ODYtMjM2NS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/0VHwQIR_2P4f2XcGwpYmp7RphS2EcuLzmaa7sxxQQ9g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjE0/ODQxLTE2OTc1MTI4/ODYtMjM2NS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/020zxr_LZM3M_rBTUUUizu4YhsN3POyx7Xzwefc4B6w/rs:fit/g:sm/q:90/h:600/w:480/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjE0/ODQxLTE2OTc1MTI4/OTMtNzQyOS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/WVBNYofLfFxu7wSDhxrsn_zPX1B6JY19fS2QI27JqQM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjE0/ODQxLTE2OTc1MTI4/OTMtNzQyOS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/bO6GtNlCdBQ-PhjC6yrTjB2LfJh0YVJoQyR7us0NrLY/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjE0/ODQxLTE2OTc3OTk5/MTYtNDI4NC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/l__BppDjvuW3_KXA_riAmtFliA8hkIedCm7-bYywYPo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjE0/ODQxLTE2OTc3OTk5/MTYtNDI4NC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/sA2oVpFHg37IonTgS64w0mTXm06TTPrbzxUuRTjkQLA/rs:fit/g:sm/q:90/h:38/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjE0/ODQxLTE2OTc3OTk5/MTQtMjg4OC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/_FP8bT2AVgnGVMD5uqeVrmGABmLgeW1P42zZ4N6AK-Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjE0/ODQxLTE2OTc3OTk5/MTQtMjg4OC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/_q35KkCIGiGD7sUY2vxql0Tc8rR6kXlzvEe2RhlrvZk/rs:fit/g:sm/q:90/h:600/w:395/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjE0/ODQxLTE2OTc0OTY4/NDItNjY4My5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/Osuwg6BS7QObhZTCQu6ozZ8FbDxQpb23pV-9KtiRdyQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjE0/ODQxLTE2OTc0OTY4/NDItNjY4My5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/yYsH6AEJ0BrO-Yg569lMjvA1h7PatjU_n8xleHj7XO0/rs:fit/g:sm/q:90/h:600/w:476/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjE0/ODQxLTE2OTc3OTk5/MTUtNzMzNS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/HGLfoawwqU0fqkXUgjuREWoJZSRNfnf_RcloPdPW288/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjE0/ODQxLTE2OTc3OTk5/MTUtNzMzNS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/4JiSLu3MZaamXnpuekgDqCsX3CxpzfsmTEXn57_DkV4/rs:fit/g:sm/q:90/h:600/w:464/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjE0/ODQxLTE2OTc3OTk5/MTUtMTIxNi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/YR9zwx8_-nL4KlvIpXnY6W8YzKt2pNLUSPkWkLG410I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjE0/ODQxLTE2OTc3OTk5/MTUtMTIxNi5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/qfdZKRm68MdAsvbD8UWajgbgXMBTy2P6jD9wVOlE620/rs:fit/g:sm/q:90/h:459/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjE0/ODQxLTE2OTc3OTk5/MTUtOTg0Ni5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/iFYhB7XGaCRc_1NvcNJyRACcmmQeevzFZnCOdagUSi8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjE0/ODQxLTE2OTc3OTk5/MTUtOTg0Ni5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/JszdrG8HzJpvNnirnZqyx0w2AaeCCwaR4ZFo8kyaskU/rs:fit/g:sm/q:90/h:600/w:472/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjE0/ODQxLTE2OTc3OTk5/MTUtOTA4OS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/a6RmyLTQCYA11iA4qOXp7b7btviM3mFvUokHD_TMXUE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjE0/ODQxLTE2OTc3OTk5/MTUtOTA4OS5qcGVn.jpeg"
+      }
+    ],
+    "community": {
+      "rating": {
+        "count": 91,
+        "average": 4.96
+      },
+      "have": 1051,
+      "want": 307
+    },
+    "master": {
+      "id": 10362,
+      "title": "The Dark Side Of The Moon",
+      "main_release": 1873013,
+      "year": 1973,
+      "uri": "https://www.discogs.com/master/10362-Pink-Floyd-The-Dark-Side-Of-The-Moon",
+      "num_for_sale": 8840
+    }
+  },
+  "apple_music": {
+    "id": 1065973975,
+    "url": "https://music.apple.com/us/album/wish-you-were-here/1065973975?uo=4",
+    "name": "Wish You Were Here",
+    "artist": "Pink Floyd",
+    "artist_id": 487143,
+    "artwork_url_100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/aa/e0/ab/aae0ab6a-d906-a189-81bf-70b56aa43f7a/886445635843.jpg/100x100bb.jpg",
+    "artwork_url_600": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/aa/e0/ab/aae0ab6a-d906-a189-81bf-70b56aa43f7a/886445635843.jpg/600x600bb.jpg",
+    "release_date": "1975-09-12T07:00:00Z",
+    "track_count": 6,
+    "copyright": "℗ 2016 The copyright in this sound recording is owned by Pink Floyd Music Ltd., marketed and distributed by Sony Music Entertainment",
+    "primary_genre": "Rock",
+    "country": "USA",
+    "tracks": [
+      {
+        "track_number": 1,
+        "disc_number": 1,
+        "name": "Shine On You Crazy Diamond, Pts. 1-5",
+        "duration_ms": 814800,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/6f/c7/bc/6fc7bcef-3c82-e53b-5402-8e0316ac5f23/mzaf_18220615966453940006.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/shine-on-you-crazy-diamond-pts-1-5/1065973975?i=1065973977&uo=4"
+      },
+      {
+        "track_number": 2,
+        "disc_number": 1,
+        "name": "Welcome to the Machine",
+        "duration_ms": 450707,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/fd/49/95/fd49955d-7269-4084-b073-3e8313839087/mzaf_7321575167949722134.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/welcome-to-the-machine/1065973975?i=1065973978&uo=4"
+      },
+      {
+        "track_number": 3,
+        "disc_number": 1,
+        "name": "Have a Cigar",
+        "duration_ms": 307400,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/72/0f/01/720f0147-f864-fad9-a158-42cfc8d0e518/mzaf_11355316395977863089.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/have-a-cigar/1065973975?i=1065973979&uo=4"
+      },
+      {
+        "track_number": 4,
+        "disc_number": 1,
+        "name": "Wish You Were Here",
+        "duration_ms": 338467,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/5e/4b/35/5e4b3554-282d-12dd-e420-728287a1d3b1/mzaf_14938061551507100947.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/wish-you-were-here/1065973975?i=1065973980&uo=4"
+      },
+      {
+        "track_number": 5,
+        "disc_number": 1,
+        "name": "Shine On You Crazy Diamond, Pts. 6-9",
+        "duration_ms": 745080,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f9/a5/ac/f9a5ac33-4f94-9a25-8405-ff1695c4a866/mzaf_1082447733339151151.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/shine-on-you-crazy-diamond-pts-6-9/1065973975?i=1065973981&uo=4"
+      }
+    ]
+  },
+  "discrepancies": [
+    "Track count differs: Discogs=10, Apple Music=5",
+    "Total runtime differs by 75s (Discogs=2579s, Apple Music=2654s) — likely a different master/remaster.",
+    "Release year differs: your pressing=2023, Apple Music edition=1975. Apple Music typically streams the most recent remaster."
+  ],
+  "local_cover": "images/28614841.jpg"
+}
