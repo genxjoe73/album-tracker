@@ -1,0 +1,9 @@
+{
+  "build": {
+    "builder": "nixpacks"
+  },
+  "deploy": {
+    "startCommand": "python -m http.server 8000 --directory library --bind 0.0.0.0",
+    "port": 8000
+  }
+}
