@@ -3,16 +3,29 @@ import os
 import sys
 from pathlib import Path
 
-try:
-    import google.generativeai as genai
-except ImportError:
-    print("Please install google-generativeai: pip install google-generativeai")
-    sys.exit(1)
-
 from dotenv import load_dotenv
 
 ROOT = Path(__file__).resolve().parent.parent
 load_dotenv(ROOT / ".env")
+
+
+def note_slug(title: str, year: object) -> str:
+    slug = f"{title.lower().replace(' ', '-')}-{year}-gemini.md"
+    slug = "".join(c for c in slug if c.isalnum() or c in ("-", "."))
+    slug = slug.replace("--", "-")
+    if not slug.endswith("-gemini.md"):
+        slug = slug.replace(".md", "") + "-gemini.md"
+    return slug
+
+
+def load_gemini():
+    try:
+        import google.generativeai as genai
+    except ImportError:
+        print("Please install google-generativeai: pip install google-generativeai")
+        sys.exit(1)
+    return genai
+
 
 def generate_note_for_album(json_path: Path):
     with json_path.open() as f:
@@ -21,6 +34,11 @@ def generate_note_for_album(json_path: Path):
     artist = data.get("artist", "Unknown Artist")
     title = data.get("title", "Unknown Title")
     year = data.get("original_release_year", data.get("year", ""))
+
+    note_path = ROOT / "notes" / note_slug(title, year)
+    if note_path.exists():
+        print(f"Gemini note already exists at {note_path.name}, skipping generation.")
+        return note_path
     
     prompt = f"""
     Write a short, professional, and interesting album note (about 2-3 paragraphs) for the album "{title}" by {artist} (released in {year}).
@@ -35,23 +53,9 @@ def generate_note_for_album(json_path: Path):
         print("GEMINI_API_KEY is not set in .env")
         sys.exit(1)
 
+    genai = load_gemini()
     genai.configure(api_key=api_key)
     model = genai.GenerativeModel('gemini-2.5-flash')
-    
-    print(f"Generating note for {artist} - {title}...")
-    response = model.generate_content(prompt)
-    
-    slug = f"{title.lower().replace(' ', '-')}-{year}-gemini.md"
-    # Keep alphanumeric and dashes only for slug
-    slug = "".join(c for c in slug if c.isalnum() or c == '-')
-    slug = slug.replace('--', '-')
-    if not slug.endswith('-gemini.md'):
-        slug = slug.replace('.md', '') + '-gemini.md'
-    
-    note_path = ROOT / "notes" / slug
-    if note_path.exists():
-        print(f"Gemini note already exists at {note_path.name}, skipping generation.")
-        return note_path
         
     print(f"Generating note for {artist} - {title}...")
     response = model.generate_content(prompt)
@@ -74,7 +78,7 @@ def generate_note_for_album(json_path: Path):
     print(f"Injected commentary into {json_path.name}")
     
     # Rebuild HTML Library
-    from build_library import build as build_library
+    from scripts.build_library import build as build_library
     build_library()
     
     return note_path
@@ -98,14 +102,8 @@ if __name__ == "__main__":
             artist = data.get("artist", "Unknown Artist")
             title = data.get("title", "Unknown Title")
             year = data.get("original_release_year", data.get("year", ""))
-            
-            slug = f"{title.lower().replace(' ', '-')}-{year}-gemini.md"
-            slug = "".join(c for c in slug if c.isalnum() or c == '-')
-            slug = slug.replace('--', '-')
-            if not slug.endswith('-gemini.md'):
-                slug = slug.replace('.md', '') + '-gemini.md'
                 
-            note_path = ROOT / "notes" / slug
+            note_path = ROOT / "notes" / note_slug(title, year)
             
             # Skip if the Gemini note file already exists
             if note_path.exists():
