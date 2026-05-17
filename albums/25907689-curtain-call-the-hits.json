@@ -1,0 +1,591 @@
+{
+  "captured_at": "2026-05-17T19:34:30+00:00",
+  "schema_version": 3,
+  "artist": "Eminem",
+  "title": "Curtain Call - The Hits",
+  "original_release_year": 2005,
+  "pressing_year": 2021,
+  "upgrade_suggestion": "No significant audiophile reissue exists. The 2005 original pressing (B0005881-01) is the first vinyl edition if an original is preferred over this 2021 reissue.",
+  "commentary": "**Curtain Call: The Hits** is Eminem's first greatest hits compilation, released in December 2005 on Aftermath Entertainment / Interscope Records. It draws from his commercial peak period \u2014 *The Slim Shady LP*, *The Marshall Mathers LP*, *The Eminem Show*, and *Encore* \u2014 compiling the singles and standout tracks that made him the best-selling rap artist of all time and one of the best-selling musicians in any genre. The album includes two new recordings: \"Shake That\" featuring Nate Dogg and \"When I'm Gone,\" the latter framed as a farewell letter to his daughter Hailie. The compilation went on to sell over 30 million copies worldwide.\n\nThe selection is remarkably strong \u2014 \"Lose Yourself,\" \"Without Me,\" \"The Real Slim Shady,\" \"Cleanin' Out My Closet,\" \"Stan,\" \"Mockingbird\" \u2014 and represents a coherent survey of Eminem's commercial dominance of the early 2000s hip-hop landscape. His technical skill as an MC, combined with Dr. Dre's production aesthetic and Eminem's own emerging production chops, defined a sound that dominated radio and album sales for nearly a decade.\n\nThe **2021 US reissue** is a double LP pressing by Interscope/UMe, catalog **602498878965**, with matrix codes `10-96636 / B000588101`. This pressing makes the compilation accessible on vinyl for a new generation of listeners, presented in standard weight vinyl with the original compilation artwork.\n\n**About this 2021 US pressing (2\u00d7 Vinyl, LP, Compilation, Reissue):** Aftermath / Interscope / UMe catalog **602498878965**, 2021 reissue. Double LP. Matrix 10-96636 / B000588101.\n",
+  "discogs": {
+    "release_id": 25907689,
+    "master_id": 19951,
+    "uri": "https://www.discogs.com/release/25907689-Eminem-Curtain-Call-The-Hits",
+    "title": "Curtain Call - The Hits",
+    "artists": [
+      {
+        "name": "Eminem",
+        "id": 38661,
+        "role": null
+      }
+    ],
+    "year": 2021,
+    "released": "2021",
+    "country": "US",
+    "labels": [
+      {
+        "name": "Aftermath Entertainment",
+        "catno": "602498878965",
+        "id": 2310
+      },
+      {
+        "name": "Shady Records",
+        "catno": "602498878965",
+        "id": 12321
+      },
+      {
+        "name": "Interscope Records",
+        "catno": "602498878965",
+        "id": 2311
+      },
+      {
+        "name": "Goliath Artists",
+        "catno": "602498878965",
+        "id": 847983
+      },
+      {
+        "name": "Web Entertainment",
+        "catno": "602498878965",
+        "id": 22082
+      }
+    ],
+    "formats": [
+      {
+        "name": "Vinyl",
+        "qty": "2",
+        "descriptions": [
+          "LP",
+          "Compilation",
+          "Reissue",
+          "Stereo"
+        ],
+        "text": null
+      }
+    ],
+    "genres": [
+      "Hip Hop"
+    ],
+    "styles": [
+      "Pop Rap"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Intro",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "A2",
+        "title": "Fack",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "A3",
+        "title": "The Way I Am",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "A4",
+        "title": "My Name Is",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "A5",
+        "title": "Stan",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B1",
+        "title": "Lose Yourself",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B2",
+        "title": "Shake That",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B3",
+        "title": "Sing For The Moment",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B4",
+        "title": "Without Me",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "C1",
+        "title": "Like Toy Soldiers",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "C2",
+        "title": "The Real Slim Shady",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "C3",
+        "title": "Mockingbird",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "C4",
+        "title": "Guilty Conscience",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "D1",
+        "title": "Cleanin' Out My Closet",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "D2",
+        "title": "Just Lose It",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "D3",
+        "title": "When I'm Gone",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "",
+        "title": "Bonus Track",
+        "duration": "",
+        "type": "heading"
+      },
+      {
+        "position": "D4",
+        "title": "Stan (Live)",
+        "duration": "",
+        "type": "track"
+      }
+    ],
+    "extraartists": [
+      {
+        "name": "Marcus Heisser",
+        "role": "A&R [Interscope]",
+        "id": 2217913
+      },
+      {
+        "name": "Marc Labelle (2)",
+        "role": "A&R [Shady Records]",
+        "id": 1950127
+      },
+      {
+        "name": "Tracy McNew",
+        "role": "A&R [Shady Records]",
+        "id": 1842868
+      },
+      {
+        "name": "Slang Inc.",
+        "role": "Art Direction, Design",
+        "id": 2171972
+      },
+      {
+        "name": "Steve Strange (2)",
+        "role": "Booking [Europe]",
+        "id": 1687004
+      },
+      {
+        "name": "Cara Lewis",
+        "role": "Booking [US]",
+        "id": 2191555
+      },
+      {
+        "name": "Lindsay Collins",
+        "role": "Coordinator [Studio Coordinator For 54 Sound]",
+        "id": 968257
+      },
+      {
+        "name": "Sarah Catlett",
+        "role": "Coordinator [Studio Coordinator For 54 Sound]",
+        "id": 2130282
+      },
+      {
+        "name": "Nicole Frantz",
+        "role": "Creative Director [Creative, Interscope]",
+        "id": 2070864
+      },
+      {
+        "name": "Eminem",
+        "role": "Executive-Producer",
+        "id": 38661
+      },
+      {
+        "name": "Peter Paterno",
+        "role": "Legal [Aftermath Legal]",
+        "id": 1897515
+      },
+      {
+        "name": "Gary Stiffelman",
+        "role": "Legal [Eminem & Shady Records Legal]",
+        "id": 3017567
+      },
+      {
+        "name": "Theo Sedlmayr",
+        "role": "Legal [Eminem & Shady Records Legal]",
+        "id": 2626341
+      },
+      {
+        "name": "Paul Rosenberg",
+        "role": "Management [Eminem Management]",
+        "id": 311612
+      },
+      {
+        "name": "Chris Clancy (2)",
+        "role": "Management [Marketing Director, Interscope]",
+        "id": 1950125
+      },
+      {
+        "name": "Andrew Mains",
+        "role": "Management [New Media, Interscope]",
+        "id": 3184741
+      },
+      {
+        "name": "Brian Gardner",
+        "role": "Mastered By",
+        "id": 70778
+      },
+      {
+        "name": "Anthony Mandler",
+        "role": "Photography By",
+        "id": 593631
+      },
+      {
+        "name": "Jonathan Mannion",
+        "role": "Photography By",
+        "id": 2242249
+      },
+      {
+        "name": "Karin Catt",
+        "role": "Photography By",
+        "id": 2616784
+      },
+      {
+        "name": "Nitin Vadukul",
+        "role": "Photography By",
+        "id": 2266043
+      },
+      {
+        "name": "Joel Martin (8)",
+        "role": "Production Manager [F.B.T. Production Management]",
+        "id": 2242748
+      },
+      {
+        "name": "Kirdis Postelle",
+        "role": "Project Manager [Project Coordinator, Aftermath]",
+        "id": 2218768
+      },
+      {
+        "name": "Larry Chatman",
+        "role": "Project Manager [Project Coordinator, Aftermath]",
+        "id": 965747
+      },
+      {
+        "name": "Les Scurry",
+        "role": "Project Manager [Project Coordinator, Interscope]",
+        "id": 803225
+      },
+      {
+        "name": "Dennis Dennehy",
+        "role": "Public Relations [Publicity, Interscope]",
+        "id": 3248487
+      },
+      {
+        "name": "David Saslow",
+        "role": "Public Relations [Video Promotions, Interscope]",
+        "id": 3184735
+      },
+      {
+        "name": "Randy Sosin (2)",
+        "role": "Public Relations [Video Promotions, Interscope]",
+        "id": 2415035
+      }
+    ],
+    "identifiers": [
+      {
+        "type": "Barcode",
+        "value": "602498878965",
+        "description": "Scan; Format: UPC_A"
+      },
+      {
+        "type": "Barcode",
+        "value": "6 0249887896 5",
+        "description": "Text"
+      },
+      {
+        "type": "Other",
+        "value": "B0005881-01LP01",
+        "description": "LP1, side B label text"
+      },
+      {
+        "type": "Other",
+        "value": "B0005881-01LP02",
+        "description": "LP2, side D label text"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "10-96636 / B000588101 - A 248616E1/A",
+        "description": "Runout side A"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "10-96636 / B000588101 - B 248616E2/A",
+        "description": "Runout side B"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "10-96636 / B000588101 - C 248616E3/A",
+        "description": "Runout side C"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "10-96636 / B000588101 - D 248616E4/A",
+        "description": "Runout side D"
+      }
+    ],
+    "notes": "Back cover has correct tracklisting for each side on this version.\nAn Aftermath Entertainment/Interscope Records Release; \u21172005 \u00a92021 UMG Recordings, Inc. 2220 Colorado Ave., Santa Monica,\nCA 90404 - U.S.A. Distributed by Universal Music Enterprises, a division of UMG Recordings, Inc. All Rights Reserved.\n\n\u2117 \u00a9 2005 Aftermath Records on side B and side D labels.",
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/OSRc67NSz308E07gJW28sChtjKi0Q2CsJru_weKNgV4/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTA3/Njg5LTE2OTA4NTk2/NjItMTM4Ni5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/OZTIUaivj1gf2wCgSR0DDdbZ5lsANChb_1JywiKFXn4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTA3/Njg5LTE2OTA4NTk2/NjItMTM4Ni5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/jDr2_iIQDmeozNaknf3DE6thmh9diMcrxFEW6PT5p-c/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTA3/Njg5LTE2OTA4NTk2/NjItMjEwOS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/p3qpH2a0LIfdN_vfGjnc9NrpWPQbT_zXDqBg6JAgID0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTA3/Njg5LTE2OTA4NTk2/NjItMjEwOS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/bJvrECiTR9Ve0lwtVVQY1i6V8gLnJoNo01sS4i5hghg/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTA3/Njg5LTE2OTA4NTk2/NjItMzA1NS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/qD4hDI39iKpTiEhjf6QOVJ2HDgSAS5HJjhcYSpD8epg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTA3/Njg5LTE2OTA4NTk2/NjItMzA1NS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/XUJdONcwAM3oRknF2EYj-1Knegd8KfXL0vmXypXgeb4/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTA3/Njg5LTE2OTA4NTk2/NjItMjU5MS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/TbHP7biZamfbMY0B1g3F9f7r_bTiuG5CekbFDCo1rlQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTA3/Njg5LTE2OTA4NTk2/NjItMjU5MS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/CyKF7zXFOJlMnNUhSmDl7Lkfps7E9wwvu47p8ZyW1R8/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTA3/Njg5LTE3NTIwMzc4/NDItMzk0My5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/Hc9Jhu26sxU7JUe26uZlDxrlAIm_KeNH75Qk5aWLJT4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTA3/Njg5LTE3NTIwMzc4/NDItMzk0My5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/EwrqK5_6z3De0xAcF4cd_-a8uljOdN03ddfBG3se_LI/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTA3/Njg5LTE2OTA4NTk2/NjEtNTU1MS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/fR7RWgYMiwTaLT9BjktyndqlXbbMInd2slEjIgJe_fA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTA3/Njg5LTE2OTA4NTk2/NjEtNTU1MS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/8uGJaptaoFn4U4b7GFY9-9eEn1Tu7fGIEPEkBQtfOHE/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTA3/Njg5LTE3NTIwMzc4/NDItNDQxNC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/MBvxZCVg1UnFBRLlQUEpk-NpchwmDIn9wbKO0Nz58bQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTA3/Njg5LTE3NTIwMzc4/NDItNDQxNC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/jqYkKi-wiz8xOa7fj2859KzFNu8iH2GQu1kCWOhkx0g/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTA3/Njg5LTE2OTA4NTk2/NjItNDQ1MC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/fnCnemb2Mz_SnCQg86ODcpCdTPJAQfkt73g3qpoHFdc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTA3/Njg5LTE2OTA4NTk2/NjItNDQ1MC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/MJrVy3Br3vGXKvwFCXktIWQXA5t17EqXOwHp94lcfg4/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTA3/Njg5LTE3NTIwMzc4/NDItNzI2MS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/slEitqveT0g_VX_efm7W-W5b0wucGIIxNO6Z-IZVCpo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTA3/Njg5LTE3NTIwMzc4/NDItNzI2MS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/pk6NuGZ0L0H8b8O3dd7Dk5yYmUUCLan6XNlOzLKH0TE/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTA3/Njg5LTE2OTA4NTk2/NjEtOTAxMi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/fAnTC7mIF2ixgTOF6p0wqhSNkKeDMAu1ZyQ75XtOBpo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTA3/Njg5LTE2OTA4NTk2/NjEtOTAxMi5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/sQqcQ64liEhsigzi7odnZMUpxK5D-zdtjWCb-KA3c9U/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTA3/Njg5LTE3NTIwMzc4/NDItNDk0MS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/H68RVIZakjurogPBXjBjnaVgCxMhOGlHfCVunfbyF1M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTA3/Njg5LTE3NTIwMzc4/NDItNDk0MS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/EmMNwbJ6cpnOvBqOgkM3LrMCs8HKVZ-s23QQoWY5g0E/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTA3/Njg5LTE2OTA4NTk2/NjEtNDc1OC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/bRt0pdcqskYy9bZe8XXhXGj8YJIStP1i6_K3coOiH1w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTA3/Njg5LTE2OTA4NTk2/NjEtNDc1OC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/axW-0XG71djwkp1BZXtZK4XsNQe_jRXr4YQihFOqhqw/rs:fit/g:sm/q:90/h:120/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTA3/Njg5LTE2OTAyNTE0/MDktNTE4Ny5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/407mQ6gIsBq9T74CNUcyEFQM9wmZYoez3ySTduHs4H4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTA3/Njg5LTE2OTAyNTE0/MDktNTE4Ny5qcGVn.jpeg"
+      }
+    ],
+    "community": {
+      "rating": {
+        "count": 87,
+        "average": 4.59
+      },
+      "have": 2176,
+      "want": 163
+    },
+    "master": {
+      "id": 19951,
+      "title": "Curtain Call - The Hits",
+      "main_release": 1100102,
+      "year": 2005,
+      "uri": "https://www.discogs.com/master/19951-Eminem-Curtain-Call-The-Hits",
+      "num_for_sale": 686
+    }
+  },
+  "apple_music": {
+    "id": 1440723318,
+    "url": "https://music.apple.com/us/album/curtain-call-the-hits/1440723318?uo=4",
+    "name": "Curtain Call: The Hits",
+    "artist": "Eminem",
+    "artist_id": 111051,
+    "artwork_url_100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/27/79/d5/2779d529-ff10-c15d-1c50-08cd46dd1237/06UMGIM17625.rgb.jpg/100x100bb.jpg",
+    "artwork_url_600": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/27/79/d5/2779d529-ff10-c15d-1c50-08cd46dd1237/06UMGIM17625.rgb.jpg/600x600bb.jpg",
+    "release_date": "2005-01-01T08:00:00Z",
+    "track_count": 15,
+    "copyright": "This Compilation \u2117 2005 Aftermath Entertainment/Interscope Records",
+    "primary_genre": "Hip-Hop/Rap",
+    "country": "USA",
+    "tracks": [
+      {
+        "track_number": 1,
+        "disc_number": 1,
+        "name": "My Name Is",
+        "duration_ms": 268827,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/32/c0/c0/32c0c05d-d776-1de5-0703-e2515f1bda8d/mzaf_17141501350755957518.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/my-name-is/1440723318?i=1440723327&uo=4"
+      },
+      {
+        "track_number": 2,
+        "disc_number": 1,
+        "name": "The Way I Am",
+        "duration_ms": 290880,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/c6/23/ca/c623ca22-c75f-63f8-8e07-4d472e510670/mzaf_9389419332879761513.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/the-way-i-am/1440723318?i=1440723339&uo=4"
+      },
+      {
+        "track_number": 3,
+        "disc_number": 1,
+        "name": "Stan (feat. Dido)",
+        "duration_ms": 402840,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/15/b0/b5/15b0b561-b475-fbfb-0a95-971920c2a4f5/mzaf_14540083115761070710.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/stan-feat-dido/1440723318?i=1440723552&uo=4"
+      },
+      {
+        "track_number": 4,
+        "disc_number": 1,
+        "name": "Lose Yourself (Soundtrack Version) [Edited Version]",
+        "duration_ms": 321213,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/4a/ba/fa/4abafae9-3730-f521-54e3-8449ab0eb937/mzaf_5056083792372572205.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/lose-yourself-soundtrack-version-edited-version/1440723318?i=1440723561&uo=4"
+      },
+      {
+        "track_number": 5,
+        "disc_number": 1,
+        "name": "Shake That",
+        "duration_ms": 274053,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/81/a4/af/81a4af66-4b46-e998-c975-58ae3d2b6632/mzaf_6267679451425055965.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/shake-that/1440723318?i=1440723567&uo=4"
+      },
+      {
+        "track_number": 6,
+        "disc_number": 1,
+        "name": "Sing for the Moment",
+        "duration_ms": 339787,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/71/64/fd/7164fd2d-9f4c-393a-a4ed-c682f86f0e63/mzaf_5202966263340769010.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/sing-for-the-moment/1440723318?i=1440723677&uo=4"
+      },
+      {
+        "track_number": 7,
+        "disc_number": 1,
+        "name": "Without Me",
+        "duration_ms": 290120,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/41/0f/f5/410ff5ef-5f3a-5318-855d-d4b69af63ea7/mzaf_7367671089193160915.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/without-me/1440723318?i=1440723697&uo=4"
+      },
+      {
+        "track_number": 8,
+        "disc_number": 1,
+        "name": "Like Toy Soldiers",
+        "duration_ms": 290333,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/8d/5f/c2/8d5fc253-91be-b543-85b2-49452dc24b10/mzaf_12476865434772734566.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/like-toy-soldiers/1440723318?i=1440723732&uo=4"
+      },
+      {
+        "track_number": 9,
+        "disc_number": 1,
+        "name": "The Real Slim Shady",
+        "duration_ms": 283693,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/1b/3d/00/1b3d00b2-c867-7209-b71b-77999824f5c2/mzaf_14827913920639981715.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/the-real-slim-shady/1440723318?i=1440723739&uo=4"
+      },
+      {
+        "track_number": 10,
+        "disc_number": 1,
+        "name": "Mockingbird",
+        "duration_ms": 250813,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/be/07/78/be077892-4a77-d929-85a9-76dbad9bc7c4/mzaf_9497500682559418910.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/mockingbird/1440723318?i=1440723744&uo=4"
+      },
+      {
+        "track_number": 11,
+        "disc_number": 1,
+        "name": "Guilty Conscience (feat. Dr. Dre) [Radio Version]",
+        "duration_ms": 198907,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/87/dc/17/87dc1730-b1f6-5b5f-1344-83bdc9813752/mzaf_8679239458021966670.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/guilty-conscience-feat-dr-dre-radio-version/1440723318?i=1440723749&uo=4"
+      },
+      {
+        "track_number": 12,
+        "disc_number": 1,
+        "name": "Cleanin' Out My Closet",
+        "duration_ms": 298120,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/fc/f1/0e/fcf10e1f-4ac9-d086-0371-7db7820fe4bd/mzaf_3719312849613926941.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/cleanin-out-my-closet/1440723318?i=1440723751&uo=4"
+      },
+      {
+        "track_number": 13,
+        "disc_number": 1,
+        "name": "Just Lose It",
+        "duration_ms": 247693,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/d7/c5/aa/d7c5aa00-914c-ef68-dd5a-7ffd7805cf15/mzaf_5239957868650566838.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/just-lose-it/1440723318?i=1440723753&uo=4"
+      },
+      {
+        "track_number": 14,
+        "disc_number": 1,
+        "name": "When I'm Gone",
+        "duration_ms": 280093,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/0f/d0/5e/0fd05e34-d51d-9d59-6a6f-dac00267c250/mzaf_13869495104378036170.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/when-im-gone/1440723318?i=1440723757&uo=4"
+      },
+      {
+        "track_number": 15,
+        "disc_number": 1,
+        "name": "Stan (Live)",
+        "duration_ms": 380480,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a4/20/63/a4206390-81b7-cec8-6e37-e653759ef97b/mzaf_4171067435015036243.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/stan-live/1440723318?i=1440723759&uo=4"
+      }
+    ]
+  },
+  "discrepancies": [
+    "Track count differs: Discogs=17, Apple Music=15",
+    "Release year differs: your pressing=2021, Apple Music edition=2005. Apple Music typically streams the most recent remaster."
+  ],
+  "local_cover": "images/25907689.jpg"
+}

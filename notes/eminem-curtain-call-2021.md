@@ -1,0 +1,7 @@
+**Curtain Call: The Hits** is Eminem's first greatest hits compilation, released in December 2005 on Aftermath Entertainment / Interscope Records. It draws from his commercial peak period — *The Slim Shady LP*, *The Marshall Mathers LP*, *The Eminem Show*, and *Encore* — compiling the singles and standout tracks that made him the best-selling rap artist of all time and one of the best-selling musicians in any genre. The album includes two new recordings: "Shake That" featuring Nate Dogg and "When I'm Gone," the latter framed as a farewell letter to his daughter Hailie. The compilation went on to sell over 30 million copies worldwide.
+
+The selection is remarkably strong — "Lose Yourself," "Without Me," "The Real Slim Shady," "Cleanin' Out My Closet," "Stan," "Mockingbird" — and represents a coherent survey of Eminem's commercial dominance of the early 2000s hip-hop landscape. His technical skill as an MC, combined with Dr. Dre's production aesthetic and Eminem's own emerging production chops, defined a sound that dominated radio and album sales for nearly a decade.
+
+The **2021 US reissue** is a double LP pressing by Interscope/UMe, catalog **602498878965**, with matrix codes `10-96636 / B000588101`. This pressing makes the compilation accessible on vinyl for a new generation of listeners, presented in standard weight vinyl with the original compilation artwork.
+
+**About this 2021 US pressing (2× Vinyl, LP, Compilation, Reissue):** Aftermath / Interscope / UMe catalog **602498878965**, 2021 reissue. Double LP. Matrix 10-96636 / B000588101.

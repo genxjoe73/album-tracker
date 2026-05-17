@@ -1,0 +1,400 @@
+{
+  "captured_at": "2026-05-17T19:46:55+00:00",
+  "schema_version": 3,
+  "artist": "Fleetwood Mac",
+  "title": "Rumours",
+  "original_release_year": 1977,
+  "pressing_year": 1977,
+  "upgrade_suggestion": "Mobile Fidelity MFSL 1-064 (Original Master Recording, 1979) is the audiophile benchmark \u2014 half-speed mastered from the original analog masters. Also worth seeking: early LW stamper pressings (LW1-LW3) from the same 1977 run, which represent the earliest lacquer generations.",
+  "commentary": "**Rumours** is Fleetwood Mac's eleventh studio album, released in February 1977 on Warner Bros. Records, and one of the best-selling albums in history \u2014 with over 40 million copies sold worldwide, it remains among the top five best-selling albums of all time. Recorded amid the personal turmoil of multiple simultaneous relationship breakups within the band (Buckingham/Nicks, McVie/McVie), the album channels that emotional upheaval into an extraordinarily polished suite of pop-rock songs. Every track connects \u2014 \"Go Your Own Way,\" \"The Chain,\" \"Dreams,\" \"Gold Dust Woman,\" \"Don't Stop,\" \"You Make Loving Fun\" \u2014 and the album's production, handled by the band with Cris Morris and Ken Caillat, set a new standard for studio craft in the late 1970s.\n\n**Rumours** is particularly notable for the way it balances emotional rawness with sonic sophistication. The band's internal chaos never disrupts the album's surface perfection \u2014 but that surface perfection is precisely what makes the underlying tension so powerful. It is one of the defining artifacts of the California rock era and remains in regular rotation on streaming platforms decades after its release.\n\nThis **1977 original US Warner Bros. pressing** (catalog BSK 3010) was pressed at Capitol Records' pressing plant and mastered by **Ken Perry (KP)** \u2014 one of the most respected mastering engineers of the era, responsible for countless classic rock pressings. The matrix codes `BSK-2-3010 JW6 F38 #6 MASTERED BY CAPITOL KP` identify this as a **JW stamper** pressing, with the `F38` indicating a later stamper generation from the original lacquer. Ken Perry's Capitol mastering consistently delivered warm, dynamic pressings that hold up extremely well today.\n\n**About this 1977 US pressing (Vinyl, LP):** Warner Bros. Records catalog **BSK 3010**, original 1977 US pressing. Mastered by Ken Perry (KP) at Capitol. JW stamper, F38 lacquer generation.\n",
+  "discogs": {
+    "release_id": 8626822,
+    "master_id": 38722,
+    "uri": "https://www.discogs.com/release/8626822-Fleetwood-Mac-Rumours",
+    "title": "Rumours",
+    "artists": [
+      {
+        "name": "Fleetwood Mac",
+        "id": 47333,
+        "role": null
+      }
+    ],
+    "year": 1977,
+    "released": "1977-02-04",
+    "country": "US",
+    "labels": [
+      {
+        "name": "Warner Bros. Records",
+        "catno": "BSK 3010",
+        "id": 1000
+      }
+    ],
+    "formats": [
+      {
+        "name": "Vinyl",
+        "qty": "1",
+        "descriptions": [
+          "LP",
+          "Album",
+          "Stereo"
+        ],
+        "text": "Jacksonville Pressing, Textured Sleeve"
+      }
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Pop Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Second Hand News",
+        "duration": "2:43",
+        "type": "track"
+      },
+      {
+        "position": "A2",
+        "title": "Dreams",
+        "duration": "4:14",
+        "type": "track"
+      },
+      {
+        "position": "A3",
+        "title": "Never Going Back Again",
+        "duration": "2:02",
+        "type": "track"
+      },
+      {
+        "position": "A4",
+        "title": "Don't Stop",
+        "duration": "3:11",
+        "type": "track"
+      },
+      {
+        "position": "A5",
+        "title": "Go Your Own Way",
+        "duration": "3:38",
+        "type": "track"
+      },
+      {
+        "position": "A6",
+        "title": "Songbird",
+        "duration": "3:20",
+        "type": "track"
+      },
+      {
+        "position": "B1",
+        "title": "The Chain",
+        "duration": "4:28",
+        "type": "track"
+      },
+      {
+        "position": "B2",
+        "title": "You Make Loving Fun",
+        "duration": "3:31",
+        "type": "track"
+      },
+      {
+        "position": "B3",
+        "title": "I Don't Want To Know",
+        "duration": "3:11",
+        "type": "track"
+      },
+      {
+        "position": "B4",
+        "title": "Oh Daddy",
+        "duration": "3:54",
+        "type": "track"
+      },
+      {
+        "position": "B5",
+        "title": "Gold Dust Woman",
+        "duration": "4:51",
+        "type": "track"
+      }
+    ],
+    "extraartists": [
+      {
+        "name": "John McVie",
+        "role": "Bass",
+        "id": 273840
+      },
+      {
+        "name": "Larry Vigon",
+        "role": "Calligraphy [Hand Lettering]",
+        "id": 450261
+      },
+      {
+        "name": "Jeff Jacobs",
+        "role": "Crew [Studio Crew]",
+        "id": 273589
+      },
+      {
+        "name": "Ray Lindsey",
+        "role": "Crew [Studio Crew]",
+        "id": 338813
+      },
+      {
+        "name": "Rhyno",
+        "role": "Crew [Studio Crew]",
+        "id": 1401502
+      },
+      {
+        "name": "Desmond Strobel",
+        "role": "Design [Album]",
+        "id": 441677
+      },
+      {
+        "name": "Mick Fleetwood",
+        "role": "Drums, Percussion",
+        "id": 273841
+      },
+      {
+        "name": "Chris Morris (2)",
+        "role": "Engineer [Assistant]",
+        "id": 338783
+      },
+      {
+        "name": "Ken Caillat",
+        "role": "Engineer, Co-producer [With]",
+        "id": 257502
+      },
+      {
+        "name": "Richard Dashut",
+        "role": "Engineer, Co-producer [With]",
+        "id": 257503
+      },
+      {
+        "name": "Lindsey Buckingham",
+        "role": "Guitar, Vocals",
+        "id": 264436
+      },
+      {
+        "name": "Christine McVie",
+        "role": "Keyboards, Synthesizer, Vocals",
+        "id": 205020
+      },
+      {
+        "name": "Seedy Management",
+        "role": "Management",
+        "id": 1806597
+      },
+      {
+        "name": "Ken Perry",
+        "role": "Mastered By [KP in runouts]",
+        "id": 368321
+      },
+      {
+        "name": "Herbert Wheeler Worthington III",
+        "role": "Photography By, Design Concept",
+        "id": 2023937
+      },
+      {
+        "name": "Fleetwood Mac",
+        "role": "Producer, Design Concept",
+        "id": 47333
+      },
+      {
+        "name": "Stevie Nicks",
+        "role": "Vocals",
+        "id": 13735
+      }
+    ],
+    "identifiers": [
+      {
+        "type": "Rights Society",
+        "value": "BMI",
+        "description": null
+      },
+      {
+        "type": "Price Code",
+        "value": "0798",
+        "description": "Spine"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BSK-1-3010 JW10 F57\u2022 #2  MASTERED BY CAPITOL  \u2732  KP",
+        "description": "Runout A"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BSK-2-3010 JW6 F38 #6  MASTERED BY CAPITOL  KP  0",
+        "description": "Runout B"
+      }
+    ],
+    "notes": "[l314605] pressing, with Side A stamper from [l313266].\nIssued with 11\" x 22\" foldout lyric/credit/photo insert. Textured cover.\n\nWriting credits taken from insert.\n\nNote that this pressing differs from other Capitol, Jacksonville pressings [r6681095] and [r7435430] in that it uses one stamper from Los Angeles, and another from Jacksonville.\n\nA version with similarly mixed Jacksonville / LA plates, pressed at [l403953] with a different label layout, is here: [r=9886516].",
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/YDNVTjKwem96ixY8BWeBZQVUsmQJNcp6simGcVyXeE8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MjY4/MjItMTQ2NTQyNDgw/Mi00MzM1LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/YasJjWFodUBSu2CkHX7idUGpl_YS9q8zzNJElRUQoFg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MjY4/MjItMTQ2NTQyNDgw/Mi00MzM1LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/Mb-OlDjr1L_1QrO52bXKC8uZF72SAvHebm4A41qG2vM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MjY4/MjItMTQ2NTQyNDgx/My04MDkwLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/5PNCGEzmH-azPzMGAGn9q8d2J8WAcjUIFLoDF1D0K18/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MjY4/MjItMTQ2NTQyNDgx/My04MDkwLmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/Je2wSnemqbzWlmfcYKFNnTQHUZ7D_BdfhLYKEHsqhr4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MjY4/MjItMTQ2NTQyNDgx/OC0yMDc3LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/qrEYLfZXVcYa0Ohk61fk0NDvXLM9aitn0whqd9QOANQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MjY4/MjItMTQ2NTQyNDgx/OC0yMDc3LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/nLHEF9Bwii3ixKhCvtBTbEGGDD3X7gjYpsj6mroZBGo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MjY4/MjItMTQ2NTQyNDgw/Ni02OTY3LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/0cmqLsWteSXh9Fd23ufCAqXjfcGX3QAMnl3QCHMoB0c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MjY4/MjItMTQ2NTQyNDgw/Ni02OTY3LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/x9v-0vYde_vbu7yjhtpdaHhVv-zzF7liwz3d2e4a1rw/rs:fit/g:sm/q:90/h:300/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MjY4/MjItMTQ2NTQyNDgx/My04MDA2LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/pxh4slTNLhgWgkpCBI28ArGxsg6w0lOknbVkL7QoLus/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MjY4/MjItMTQ2NTQyNDgx/My04MDA2LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/I6j8hX13SVNYxp_EAAfTfBLy7XcuFHAfVcS7ld7Ixf4/rs:fit/g:sm/q:90/h:299/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MjY4/MjItMTQ2NTQyNDgx/OC03Mzg0LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/9A6xMqoyWj6k5EsZsEld2eE-JBc-yfXQz_XKn1IdwJU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MjY4/MjItMTQ2NTQyNDgx/OC03Mzg0LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/4NH7RhmjeEVCmt1Yf2Z4SI01zaONBgYZDFiuEWrbPKk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MjY4/MjItMTQ2NTQyNDgx/NS04NzExLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/O2OhBaemZW5GX3fwG772TYRgNWdw_7qm-nOp1Xqd75o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MjY4/MjItMTQ2NTQyNDgx/NS04NzExLmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/uZVo3dSVmZZXgwXvtKJYJ99vSXdC0WKMi-2LR0M5IyE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MjY4/MjItMTQ2NTQyNDgx/Ny0yMDk2LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/FcJTLvCTQmUVDt88-jYjoClJYPpUSPpSytmgwvwie74/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MjY4/MjItMTQ2NTQyNDgx/Ny0yMDk2LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/OjYhEv-gTLneoUsAuP47-jUsQGoZHb4gjAXDd0XU_-Y/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MjY4/MjItMTU3MTUzMTU1/OS05NTE3LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/g78n8xYPQw5L0EO_rDndgB_mIi0VAuAqS5bWU0p8QRY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MjY4/MjItMTU3MTUzMTU1/OS05NTE3LmpwZWc.jpeg"
+      }
+    ],
+    "community": {
+      "rating": {
+        "count": 1203,
+        "average": 4.52
+      },
+      "have": 20504,
+      "want": 6265
+    },
+    "master": {
+      "id": 38722,
+      "title": "Rumours",
+      "main_release": 526351,
+      "year": 1977,
+      "uri": "https://www.discogs.com/master/38722-Fleetwood-Mac-Rumours",
+      "num_for_sale": 4261
+    }
+  },
+  "apple_music": {
+    "id": 594061854,
+    "url": "https://music.apple.com/us/album/rumours/594061854?uo=4",
+    "name": "Rumours",
+    "artist": "Fleetwood Mac",
+    "artist_id": 158038,
+    "artwork_url_100": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/4d/13/ba/4d13bac3-d3d5-7581-2c74-034219eadf2b/081227970949.jpg/100x100bb.jpg",
+    "artwork_url_600": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/4d/13/ba/4d13bac3-d3d5-7581-2c74-034219eadf2b/081227970949.jpg/600x600bb.jpg",
+    "release_date": "1977-02-04T08:00:00Z",
+    "track_count": 11,
+    "copyright": "\u2117 2004 Warner Records Inc.",
+    "primary_genre": "Rock",
+    "country": "USA",
+    "tracks": [
+      {
+        "track_number": 1,
+        "disc_number": 1,
+        "name": "Second Hand News",
+        "duration_ms": 176307,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/4f/69/e6/4f69e68c-224c-39ce-e80c-6015940fb338/mzaf_8292619002307513028.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/second-hand-news/594061854?i=594061855&uo=4"
+      },
+      {
+        "track_number": 2,
+        "disc_number": 1,
+        "name": "Dreams",
+        "duration_ms": 257800,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d4/37/e7/d437e72a-c41b-332c-f196-bee295a9d673/mzaf_11574904347171701919.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/dreams/594061854?i=594061856&uo=4"
+      },
+      {
+        "track_number": 3,
+        "disc_number": 1,
+        "name": "Never Going Back Again",
+        "duration_ms": 134400,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/cc/40/a3/cc40a34c-abd6-9d92-0550-334961e8d97f/mzaf_3772783327912029759.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/never-going-back-again/594061854?i=594061857&uo=4"
+      },
+      {
+        "track_number": 4,
+        "disc_number": 1,
+        "name": "Don't Stop",
+        "duration_ms": 193347,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e4/ca/f0/e4caf07f-d12b-798a-8575-955769b944c8/mzaf_15645522731642409606.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/dont-stop/594061854?i=594061858&uo=4"
+      },
+      {
+        "track_number": 5,
+        "disc_number": 1,
+        "name": "Go Your Own Way",
+        "duration_ms": 223613,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d1/37/68/d1376853-ec1e-cce0-4ac9-2e98fc9d9c51/mzaf_7672022765745493173.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/go-your-own-way/594061854?i=594061859&uo=4"
+      },
+      {
+        "track_number": 6,
+        "disc_number": 1,
+        "name": "Songbird",
+        "duration_ms": 200813,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e2/e3/ed/e2e3edd6-396e-af02-2f25-a1d782a3c9ad/mzaf_17496093408504582747.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/songbird/594061854?i=594061860&uo=4"
+      },
+      {
+        "track_number": 7,
+        "disc_number": 1,
+        "name": "The Chain",
+        "duration_ms": 268200,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/9e/f8/31/9ef83126-c5cf-f526-c26d-0c25895e4d9b/mzaf_9883179573566934970.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/the-chain/594061854?i=594061861&uo=4"
+      },
+      {
+        "track_number": 8,
+        "disc_number": 1,
+        "name": "You Make Loving Fun",
+        "duration_ms": 213693,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/cb/f1/5e/cbf15e46-6ec5-3ece-c618-cc89cf782d81/mzaf_16883027089202369242.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/you-make-loving-fun/594061854?i=594061862&uo=4"
+      },
+      {
+        "track_number": 9,
+        "disc_number": 1,
+        "name": "I Don't Want to Know",
+        "duration_ms": 196853,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/fc/25/17/fc2517ca-af33-0270-ec21-38f9e337716c/mzaf_12026291331578309195.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/i-dont-want-to-know/594061854?i=594061863&uo=4"
+      },
+      {
+        "track_number": 10,
+        "disc_number": 1,
+        "name": "Oh Daddy",
+        "duration_ms": 236240,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/19/ef/b6/19efb6a6-7ae2-a223-f94d-926a96972b61/mzaf_4427680510731131816.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/oh-daddy/594061854?i=594061864&uo=4"
+      },
+      {
+        "track_number": 11,
+        "disc_number": 1,
+        "name": "Gold Dust Woman",
+        "duration_ms": 295627,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/66/53/04/6653043a-1f8f-24c0-5b34-d0ecc585a290/mzaf_16896501534090061915.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/gold-dust-woman/594061854?i=594061865&uo=4"
+      }
+    ]
+  },
+  "discrepancies": [
+    "Total runtime differs by 48s (Discogs=2343s, Apple Music=2391s) \u2014 likely a different master/remaster."
+  ],
+  "local_cover": "images/8626822.jpg"
+}
