@@ -1,0 +1,495 @@
+{
+  "captured_at": "2026-05-17T19:25:02+00:00",
+  "schema_version": 3,
+  "artist": "Eagles",
+  "title": "Eagles Live",
+  "original_release_year": 1980,
+  "pressing_year": 1980,
+  "upgrade_suggestion": "This original pressing is the authentic artifact. No significant audiophile reissue exists for Eagles Live \u2014 the original Asylum pressing is the reference.",
+  "commentary": "**Eagles Live** is the Eagles' first official live album, released in November 1980 on Asylum Records. Recorded across multiple concert dates from 1976 to 1980 \u2014 including shows from the *Hotel California* and *The Long Run* tours \u2014 it served as the band's farewell document before their breakup following the tensions that had fractured the lineup throughout the late 1970s. The double album captures the Eagles at full live command, delivering polished but powerful renditions of their biggest hits alongside album cuts, with the vocal harmonies and guitar interplay that made them one of the defining live acts of the era.\n\n**Eagles Live** is notable for including some of the only live recordings of *Hotel California*-era material from that specific touring period, and for featuring **Joe Walsh** in full flight as a live performer \u2014 his guitar work on tracks like \"Life's Been Good\" and \"In the City\" showcases a harder-rocking dimension of the band that studio recordings sometimes underplayed. The album also includes a remarkable live version of \"Seven Bridges Road,\" an a cappella harmony showcase that became one of the band's signature live moments.\n\nThis **1980 original US Asylum Records pressing** (catalog BB-705) is a two-LP set pressed at the time of release. The deadwax codes `BB 705 A ... ED SP` identify the pressing as originating from **Specialty Records Corporation (SP)** with engineer initials **ED** cutting. The famously humorous deadwax messages \u2014 *\"Is it illegal to yell 'MOVIE' in a firehouse?\"* and *\"Hello Federal?... Ship it!!\"* \u2014 are a signature of Eagles/Asylum pressings from this era, added by the mastering engineers as inside jokes.\n\n**About this 1980 US pressing (2\u00d7 Vinyl, LP):** Asylum Records catalog **BB-705**, original 1980 US pressing. Double LP. Matrix BB 705 A/B/C/D with SP (Specialty Records) stampers.\n",
+  "discogs": {
+    "release_id": 808486,
+    "master_id": 59525,
+    "uri": "https://www.discogs.com/release/808486-Eagles-Eagles-Live",
+    "title": "Eagles Live",
+    "artists": [
+      {
+        "name": "Eagles",
+        "id": 255680,
+        "role": null
+      }
+    ],
+    "year": 1980,
+    "released": "1980-11-07",
+    "country": "US",
+    "labels": [
+      {
+        "name": "Asylum Records",
+        "catno": "BB-705",
+        "id": 33574
+      }
+    ],
+    "formats": [
+      {
+        "name": "Vinyl",
+        "qty": "2",
+        "descriptions": [
+          "LP",
+          "Album"
+        ],
+        "text": "SP - Specialty Pressing, Gatefold"
+      }
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Classic Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Hotel California",
+        "duration": "6:55",
+        "type": "track"
+      },
+      {
+        "position": "A2",
+        "title": "Heartache Tonight",
+        "duration": "4:35",
+        "type": "track"
+      },
+      {
+        "position": "A3",
+        "title": "I Can't Tell You Why",
+        "duration": "5:24",
+        "type": "track"
+      },
+      {
+        "position": "B1",
+        "title": "The Long Run",
+        "duration": "5:35",
+        "type": "track"
+      },
+      {
+        "position": "B2",
+        "title": "New Kid In Town",
+        "duration": "5:45",
+        "type": "track"
+      },
+      {
+        "position": "B3",
+        "title": "Life's Been Good",
+        "duration": "9:38",
+        "type": "track"
+      },
+      {
+        "position": "C1",
+        "title": "Seven Bridges Road",
+        "duration": "3:25",
+        "type": "track"
+      },
+      {
+        "position": "C2",
+        "title": "Wasted Time",
+        "duration": "5:40",
+        "type": "track"
+      },
+      {
+        "position": "C3",
+        "title": "Take It To The Limit",
+        "duration": "5:20",
+        "type": "track"
+      },
+      {
+        "position": "C4",
+        "title": "Doolin-Dalton (Reprise II)",
+        "duration": "0:44",
+        "type": "track"
+      },
+      {
+        "position": "C5",
+        "title": "Desperado",
+        "duration": "4:04",
+        "type": "track"
+      },
+      {
+        "position": "D1",
+        "title": "Saturday Night",
+        "duration": "3:55",
+        "type": "track"
+      },
+      {
+        "position": "D2",
+        "title": "All Night Long",
+        "duration": "5:40",
+        "type": "track"
+      },
+      {
+        "position": "D3",
+        "title": "Life In The Fast Lane",
+        "duration": "5:10",
+        "type": "track"
+      },
+      {
+        "position": "D4",
+        "title": "Take It Easy",
+        "duration": "5:20",
+        "type": "track"
+      }
+    ],
+    "extraartists": [
+      {
+        "name": "Ted Jensen",
+        "role": "Mastered By",
+        "id": 259758
+      },
+      {
+        "name": "Bill Szymczyk",
+        "role": "Producer",
+        "id": 255681
+      }
+    ],
+    "identifiers": [
+      {
+        "type": "Rights Society",
+        "value": "ASCAP",
+        "description": null
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BB 705 A ED SP TJ IS IT ILLEGAL TO YELL MOVIE IN A FIREHOUSE?",
+        "description": "Side 1 variant 1"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BB 705 B SP \"HELLO FEDERAL?...SHIP IT!!\" 1-1 SM2-1",
+        "description": "Side 2 variant 1"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BB 705 C 7 ED SP 0-2 SM4-2 \"NOT TONIGHT, THANKS...",
+        "description": "Side 3 variant 1"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BB 705 D 4 ED SP 0-1 SM1-1 ...I'VE GOT TO REST UP FOR MY MONSTER.\"",
+        "description": "Side 4 variant 1"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BB 705 A  5 ED SP  TJ   IS IT ILLEGAL TO YELL \"MOVIE\" IN A FIREHOUSE?  0 - 1SM1 - 2",
+        "description": "Side 1 variant 2"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BB 705 B  SP  \"HELLO FEDERAL?...SHIP IT!! \"  1 - 1SM1 - 1",
+        "description": "Side 2 variant 2"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BB 705 C  7 ED SP   \"NOT TONIGHT, THANKS...  0 - 1Sm3 - 2",
+        "description": "Side 3 variant 2"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BB 705 D  4 ED SP   0 - 1Sm1 - 3  ...I'VE GOTTA REST UP FOR MY MONSTER.\"",
+        "description": "Side 4 variant 2"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BB 705 A 4 ED SP 0-1 TJ IS IT ILLEGAL TO YELL \"MOVIE\" IN A FIREHOUSE?",
+        "description": "Side 1 variant 3"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BB 705 B5 ED SP 0-4 \"HELLO FEDERAL?...SHIP IT!!\"",
+        "description": "Side 2 variant 3"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BB 705 C 6 ED SP 0-2 \"NOT TONIGHT, THANKS...",
+        "description": "Side 3 variant 3"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BB 705 D 5 ED SP 0-3 ...I'VE GOT TO REST UP FOR MY MONSTER.\"",
+        "description": "Side 4 variant 3"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BB 705 A 5 ED SP 0-1SM-5 IS IT ILLEGAL TO YELL \"MOVIE\" IN A FIREHOUSE?",
+        "description": "Side 1 variant 4"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BB 705 B6 ED SP 0-1SM1-3 SP \"HELLO FEDERAL?...SHIP IT!!\"",
+        "description": "Side 2 variant 4"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BB 705 C 7 ED \"NOT TONIGHT, THANKS... 02SM 1-1",
+        "description": "Side 3 variant 4"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BB 705 D 4 ED SP 0-1SM1-3 ...I'VE GOT TO REST UP FOR MY MONSTER.\"",
+        "description": "Side 4 variant 4"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BB 705 A 4 ED SP EDP 0-1SM2-2  STERLING TJ IS IT ILLEGAL TO YELL \"MOVIE\" IN A FIREHOUSE?",
+        "description": "Side 1 variant 5"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BB 705 B5 ED SP EDP STERLING \"HELLO FEDERAL?...SHIP IT!!\" 0-1SM1-2",
+        "description": "Side 2 variant 5"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BB 705 C 6 ED SP EDP STERLING \"NOT TONIGHT, THANKS... ",
+        "description": "Side 3 variant 5"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BB 705 D 7 ED SP EDP STERLING  ...I'VE GOTTA REST UP FOR MY MONSTER.\"",
+        "description": "Side 4 variant 5"
+      }
+    ],
+    "notes": "Fold-out poster insert Included.\nGatefold cover has \"embossed\" metal parts of trunk.\nIssued with custom printed inner sleeves with additional photos and song titles.\n\n\"SP\" in label matrix denotes a [l27576] pressing.\n\nCopy with runouts \"variant 2\" has disc 1 with on Side 2 the same label as Side 1, but plays with the correct tracks.\n\nRunouts: all versions have the text etched, except for the following ones that are stamped.\n- Side 1: STERLING (EDP);\n- Side 2: STERLING SRC;\n- Side 3: STERLING (EDP);\n- Side 4: (EDP) STERLING.",
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/4EiWxKwuId0CBDCSweKiBH4k5Gu6s3YW88cL8JqU0gU/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwODQ4/Ni0xMzcxOTYzMjEx/LTk5MzQuanBlZw.jpeg",
+        "uri150": "https://i.discogs.com/K7e0_7HeuP2vx59On30PO2cNKak_SgBlq05SiuohhdE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwODQ4/Ni0xMzcxOTYzMjEx/LTk5MzQuanBlZw.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/L5R4ss5KdGu73RUOxJdNONrIzAsedfy0qqpzNsf4b3k/rs:fit/g:sm/q:90/h:301/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwODQ4/Ni0xMzcxOTYzMjQz/LTE1NjMuanBlZw.jpeg",
+        "uri150": "https://i.discogs.com/XWGDZrIESj2JXCCF0qPxHe4pd8LVQokyoG_ziGMPQbE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwODQ4/Ni0xMzcxOTYzMjQz/LTE1NjMuanBlZw.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/-vjIJMrcZFerAALlYEOH3PFHQwWN6BBvA9CYAyH4AUs/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwODQ4/Ni0xMzcxOTYzMjI5/LTY4NzAuanBlZw.jpeg",
+        "uri150": "https://i.discogs.com/ec1T-_3_GUL2Lj9QE9IRyPsTc0oHJGVHV905vwywuFo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwODQ4/Ni0xMzcxOTYzMjI5/LTY4NzAuanBlZw.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/xA2wOSjsuPdufVOPt2MANeB75l_wpHd5g3nh0CtBg6w/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwODQ4/Ni0xMzcxOTYzMjYz/LTE0MDMuanBlZw.jpeg",
+        "uri150": "https://i.discogs.com/US1hlUYg_7ayT5CqbZcmx5ViO85vfjd7OGmLqoRUchw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwODQ4/Ni0xMzcxOTYzMjYz/LTE0MDMuanBlZw.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/9DMohNZZw9ktX1oAmkk42qlsp22FcDRF3MruN78HlAM/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwODQ4/Ni0xMzcxOTYzMjc0/LTc0MTMuanBlZw.jpeg",
+        "uri150": "https://i.discogs.com/pmPwjWMmL3G39UHbQzTzh81fyzyBvVvftwA39g3kcKs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwODQ4/Ni0xMzcxOTYzMjc0/LTc0MTMuanBlZw.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/8IdFbT99BS71Ta-ZRsHX3FYIOrTKj7gcuEwLm1fHVYU/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwODQ4/Ni0xMzcxOTYzMjg1/LTYxMzEuanBlZw.jpeg",
+        "uri150": "https://i.discogs.com/OZ9SyLJqunowubWKuOCv_KEhg52vN_NMiHM1zpr1oJE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwODQ4/Ni0xMzcxOTYzMjg1/LTYxMzEuanBlZw.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/I1OnfOhuz-pmV4z8u3bPpeZVo5aF4N5qmGgUEzrkLBQ/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwODQ4/Ni0xMzcxOTYzMjk1/LTM5MjQuanBlZw.jpeg",
+        "uri150": "https://i.discogs.com/JXC5YRrEyJ8o1Mme7yGfxgUhWJmaUGNHxwiRwiBZ_js/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwODQ4/Ni0xMzcxOTYzMjk1/LTM5MjQuanBlZw.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/PL84pJbOo9wE2ZtbPQpKPkWM5bLop6RxStl1Bq0prVU/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwODQ4/Ni0xMzcxOTYzMzA1/LTk5ODQuanBlZw.jpeg",
+        "uri150": "https://i.discogs.com/_4mHqK9n86KpfB8_gONhnKXXHu3gUCiyxNpQXjZgNec/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwODQ4/Ni0xMzcxOTYzMzA1/LTk5ODQuanBlZw.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/eYGan3wXKbyjmvcj_UP3PnfTfzwFm7luuhMCa1lNIzw/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwODQ4/Ni0xMzcxOTYzMzE1/LTcxMzUuanBlZw.jpeg",
+        "uri150": "https://i.discogs.com/PCfyxvJs7mVuva7DLgdWFXXxMRChwGkfj-RDxWsdl8I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwODQ4/Ni0xMzcxOTYzMzE1/LTcxMzUuanBlZw.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/Y-Wel_tkorK5aSj14QnP7xGK_cZqE-fAQoaqerGicmM/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwODQ4/Ni0xMzcxOTYzMzI1/LTMxMzMuanBlZw.jpeg",
+        "uri150": "https://i.discogs.com/vIdAOqnai8inffxUe7GgWOHdp64c1L88_wlVsiQEHmo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwODQ4/Ni0xMzcxOTYzMzI1/LTMxMzMuanBlZw.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/mE9y3FSpAuBYkAzdCb9mbRR0sKMFwRJSD9kolAVU28o/rs:fit/g:sm/q:90/h:582/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwODQ4/Ni0xMzcxOTYzMzM4/LTc3MzIuanBlZw.jpeg",
+        "uri150": "https://i.discogs.com/KmVqvqUR2eUIoy1O0z-myQgq2s9CV9MA5KDXUDvBf-U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwODQ4/Ni0xMzcxOTYzMzM4/LTc3MzIuanBlZw.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/0im2CD6Dmsd6_71O1o1cLkLF2daTmCtofeYsuwYHZTs/rs:fit/g:sm/q:90/h:520/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwODQ4/Ni0xMzcxOTYzMzUz/LTE0NjYuanBlZw.jpeg",
+        "uri150": "https://i.discogs.com/yBvMi454ctcDNfiSPSpzxdBdPTSQ67ra3Gb6q1ED_Iw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwODQ4/Ni0xMzcxOTYzMzUz/LTE0NjYuanBlZw.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/gDX0lGyQBjzU01u7FM43b9l_RufzFZeeNxydFOptC94/rs:fit/g:sm/q:90/h:600/w:362/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwODQ4/Ni0xMzcxOTYzMzYz/LTcwNTAuanBlZw.jpeg",
+        "uri150": "https://i.discogs.com/L3QIfM9YodTrVgSx1CJrF_mbGbcL0BSw2cS6QhuUNQY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwODQ4/Ni0xMzcxOTYzMzYz/LTcwNTAuanBlZw.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/V0jIz71yn-4lv2dh8ifHzP2saAR45nsNd_h-EUV6vZI/rs:fit/g:sm/q:90/h:600/w:379/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwODQ4/Ni0xMzcxOTYzMzc0/LTk0NzkuanBlZw.jpeg",
+        "uri150": "https://i.discogs.com/m1Q7-u-eHkjBewvoe-Rd75c3RWdY4cjcOTwlBQr6T30/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwODQ4/Ni0xMzcxOTYzMzc0/LTk0NzkuanBlZw.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/AIQ8ib1cBy5Q8f3JCZ7a5gDCgRvD-vgTX5fBiiVny9c/rs:fit/g:sm/q:90/h:600/w:437/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwODQ4/Ni0xNjIxNTQ3MTE4/LTYwODkucG5n.jpeg",
+        "uri150": "https://i.discogs.com/j2cPVkKkfwjHcMBVAgAg_t550XKmCph_JwQlDq38_-U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwODQ4/Ni0xNjIxNTQ3MTE4/LTYwODkucG5n.jpeg"
+      }
+    ],
+    "community": {
+      "rating": {
+        "count": 763,
+        "average": 4.2
+      },
+      "have": 13988,
+      "want": 702
+    },
+    "master": {
+      "id": 59525,
+      "title": "Eagles Live",
+      "main_release": 808486,
+      "year": 1980,
+      "uri": "https://www.discogs.com/master/59525-Eagles-Eagles-Live",
+      "num_for_sale": 1580
+    }
+  },
+  "apple_music": {
+    "id": 193434857,
+    "url": "https://music.apple.com/us/album/eagles-live/193434857?uo=4",
+    "name": "Eagles Live",
+    "artist": "Eagles",
+    "artist_id": 1053549,
+    "artwork_url_100": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/e4/6c/3d/e46c3d30-9a32-b984-ee6f-ea473723a651/contsched.tidyyafg.jpg/100x100bb.jpg",
+    "artwork_url_600": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/e4/6c/3d/e46c3d30-9a32-b984-ee6f-ea473723a651/contsched.tidyyafg.jpg/600x600bb.jpg",
+    "release_date": "1980-11-07T08:00:00Z",
+    "track_count": 15,
+    "copyright": "\u2117 1980 Elektra/Asylum Records for the United States and WEA International for the world outside of the US",
+    "primary_genre": "Rock",
+    "country": "USA",
+    "tracks": [
+      {
+        "track_number": 1,
+        "disc_number": 1,
+        "name": "Hotel California (Live)",
+        "duration_ms": 420440,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/0b/4b/53/0b4b53bf-5b6a-cfd2-6934-b04e3edd8405/mzaf_17599871654252309753.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/hotel-california-live/193434857?i=193434880&uo=4"
+      },
+      {
+        "track_number": 2,
+        "disc_number": 1,
+        "name": "Heartache Tonight (Live)",
+        "duration_ms": 273933,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/67/63/41/6763411d-0725-dd06-7faf-603325b1f672/mzaf_14244548269666011322.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/heartache-tonight-live/193434857?i=193434944&uo=4"
+      },
+      {
+        "track_number": 3,
+        "disc_number": 1,
+        "name": "I Can't Tell You Why (Live)",
+        "duration_ms": 317933,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/8d/16/ab/8d16ab4b-19c4-93ac-f199-266d0e3ce9bc/mzaf_10324929569418096712.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/i-cant-tell-you-why-live/193434857?i=193435084&uo=4"
+      },
+      {
+        "track_number": 4,
+        "disc_number": 1,
+        "name": "The Long Run (Live)",
+        "duration_ms": 351493,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/42/8e/d9/428ed947-2675-fa63-0b6d-728410396376/mzaf_3370851393726228168.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/the-long-run-live/193434857?i=193435236&uo=4"
+      },
+      {
+        "track_number": 5,
+        "disc_number": 1,
+        "name": "New Kid In Town (Live)",
+        "duration_ms": 353467,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/33/27/49/33274923-aec3-c05b-deb7-a927bcf70e20/mzaf_8860850726752444238.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/new-kid-in-town-live/193434857?i=193435363&uo=4"
+      },
+      {
+        "track_number": 6,
+        "disc_number": 1,
+        "name": "Life's Been Good (Live)",
+        "duration_ms": 536333,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/76/e4/0b/76e40b36-01a3-af08-b879-d6d496dc0ef6/mzaf_16945286723422559683.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/lifes-been-good-live/193434857?i=193435630&uo=4"
+      },
+      {
+        "track_number": 1,
+        "disc_number": 2,
+        "name": "Seven Bridges Road (Live)",
+        "duration_ms": 184640,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/52/ee/cc/52eecc3a-1141-813d-59c2-47d1555f121a/mzaf_3720101215345899252.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/seven-bridges-road-live/193434857?i=193435823&uo=4"
+      },
+      {
+        "track_number": 2,
+        "disc_number": 2,
+        "name": "Wasted Time (Live)",
+        "duration_ms": 321067,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/69/1e/24/691e2499-8b01-bfd5-405f-a7b72849001d/mzaf_14280903090709160815.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/wasted-time-live/193434857?i=193435885&uo=4"
+      },
+      {
+        "track_number": 3,
+        "disc_number": 2,
+        "name": "Take It to the Limit (Live)",
+        "duration_ms": 314040,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/d4/7f/2c/d47f2ca9-ac6b-f1c9-ca00-c989fe516a6f/mzaf_15175834730748520675.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/take-it-to-the-limit-live/193434857?i=193435951&uo=4"
+      },
+      {
+        "track_number": 4,
+        "disc_number": 2,
+        "name": "Doolin-Dalton (Reprise II) [Live]",
+        "duration_ms": 41933,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/19/d2/0d/19d20dbc-3a7e-5f55-599c-f5743171927b/mzaf_17002497463847613621.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/doolin-dalton-reprise-ii-live/193434857?i=193436040&uo=4"
+      },
+      {
+        "track_number": 5,
+        "disc_number": 2,
+        "name": "Desperado (Live)",
+        "duration_ms": 237760,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/0f/73/a8/0f73a80c-a8db-f6da-2db5-d1a601b8e142/mzaf_15909967825432418031.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/desperado-live/193434857?i=193436094&uo=4"
+      },
+      {
+        "track_number": 6,
+        "disc_number": 2,
+        "name": "Saturday Night (Live)",
+        "duration_ms": 227267,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/65/d9/b4/65d9b430-55ef-7877-c755-940c0fe9df71/mzaf_11544770084138142261.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/saturday-night-live/193434857?i=193436179&uo=4"
+      },
+      {
+        "track_number": 7,
+        "disc_number": 2,
+        "name": "All Night Long (Live)",
+        "duration_ms": 334773,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/d1/c7/5f/d1c75f7b-e5a1-28a8-0860-3e932ff0d579/mzaf_13900576058364865803.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/all-night-long-live/193434857?i=193436226&uo=4"
+      },
+      {
+        "track_number": 8,
+        "disc_number": 2,
+        "name": "Life In the Fast Lane (Live)",
+        "duration_ms": 309467,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/41/b6/d7/41b6d7e7-ab1b-cb0d-75fb-e3f411a2829c/mzaf_4795234768763051408.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/life-in-the-fast-lane-live/193434857?i=193436366&uo=4"
+      },
+      {
+        "track_number": 9,
+        "disc_number": 2,
+        "name": "Take It Easy (Live)",
+        "duration_ms": 316627,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/b5/9b/3b/b59b3ba6-aec8-0076-35ad-246a0b403161/mzaf_1752518965222484013.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/take-it-easy-live/193434857?i=193436507&uo=4"
+      }
+    ]
+  },
+  "discrepancies": [
+    "Total runtime differs by 97s (Discogs=4630s, Apple Music=4533s) \u2014 likely a different master/remaster."
+  ],
+  "local_cover": "images/808486.jpg"
+}

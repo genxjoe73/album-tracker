@@ -1,0 +1,338 @@
+{
+  "captured_at": "2026-05-17T19:04:42+00:00",
+  "schema_version": 3,
+  "artist": "Eagles",
+  "title": "Their Greatest Hits 1971-1975",
+  "original_release_year": 1976,
+  "pressing_year": 2011,
+  "upgrade_suggestion": "Mobile Fidelity MFSL 1-307 (Original Master Recording, 1983) is the audiophile benchmark. Alternatively, the original 1976 Asylum 7E-1052 US pressing with early CSM or PRC stampers is a desirable original.",
+  "commentary": "**Their Greatest Hits 1971\u20131975** is one of the best-selling albums in US history \u2014 certified 38\u00d7 platinum by the RIAA, it held the record as the best-selling album of all time in the United States for decades (eventually surpassed by Michael Jackson's *Thriller* in 2018). Released in February 1976 on Asylum Records, it compiled the Eagles' hit singles from their first four albums: *Eagles*, *Desperado*, *On the Border*, and *One of These Nights*. The album captures the band at the height of their commercial and artistic dominance of mid-1970s American rock, spanning their early country-rock sound through the harder-edged FM rock that would define *Hotel California*.\n\nThe compilation is notable for what it represents historically: a snapshot of a band that had, by 1976, already sold tens of millions of records and were on the verge of releasing *Hotel California* (1977), which would cement their legacy as one of the defining acts of the decade. The track selection is impeccable \u2014 every song here was a hit, and the sequencing flows naturally from softer country-rock (\"Take It Easy,\" \"Peaceful Easy Feeling\") through the band's growing confidence (\"Already Gone,\" \"Lyin' Eyes\") and tougher rock (\"Take It to the Limit,\" \"One of These Nights\").\n\nThe **2011 Rhino remastered reissue** presents the album with a fresh remaster from the original analog tapes, pressed on standard-weight vinyl with updated catalog artwork. The matrix codes `R1-1052-A 19436.1(3) TML` identify this as the Rhino/Asylum pressing, mastered at **Turtletone Mastering Lab** (TML) in 2011. This is a clean, contemporary remaster that brings the album's production clarity to modern playback systems without the surface noise concerns of original 1976 pressings.\n\n**About this 2011 US pressing (Vinyl, LP, Remastered):** Rhino Records / Asylum catalog **7E-1052**, 2011 remastered reissue. Barcode 081227979379. Matrix R1-1052-A / R1-1052-B, mastered at Turtletone Mastering Lab (TML).\n",
+  "discogs": {
+    "release_id": 2711858,
+    "master_id": 59509,
+    "uri": "https://www.discogs.com/release/2711858-Eagles-Their-Greatest-Hits-1971-1975",
+    "title": "Their Greatest Hits 1971-1975",
+    "artists": [
+      {
+        "name": "Eagles",
+        "id": 255680,
+        "role": null
+      }
+    ],
+    "year": 2011,
+    "released": "2011-02-08",
+    "country": "US",
+    "labels": [
+      {
+        "name": "Rhino Records (2)",
+        "catno": "7E-1052",
+        "id": 33244
+      }
+    ],
+    "formats": [
+      {
+        "name": "Vinyl",
+        "qty": "1",
+        "descriptions": [
+          "LP",
+          "Compilation",
+          "Remastered",
+          "Album",
+          "Reissue"
+        ],
+        "text": "180 Gram"
+      }
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Classic Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Take It Easy",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "A2",
+        "title": "Witchy Woman",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "A3",
+        "title": "Lyin' Eyes",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "A4",
+        "title": "Already Gone",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "A5",
+        "title": "Desperado",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B1",
+        "title": "One Of These Nights",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B2",
+        "title": "Tequila Sunrise",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B3",
+        "title": "Take It To The Limit",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B4",
+        "title": "Peaceful Easy Feeling",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B5",
+        "title": "Best Of My Love",
+        "duration": "",
+        "type": "track"
+      }
+    ],
+    "extraartists": [
+      {
+        "name": "Bill Szymczyk",
+        "role": "Producer",
+        "id": 255681
+      },
+      {
+        "name": "Glyn Johns",
+        "role": "Producer",
+        "id": 52230
+      },
+      {
+        "name": "Bernie Leadon",
+        "role": "Written-By",
+        "id": 482142
+      },
+      {
+        "name": "Don Henley",
+        "role": "Written-By",
+        "id": 249597
+      },
+      {
+        "name": "Glenn Frey",
+        "role": "Written-By",
+        "id": 102333
+      },
+      {
+        "name": "Jack Tempchin",
+        "role": "Written-By",
+        "id": 640325
+      },
+      {
+        "name": "Jackson Browne",
+        "role": "Written-By",
+        "id": 200567
+      },
+      {
+        "name": "John David Souther",
+        "role": "Written-By",
+        "id": 379742
+      },
+      {
+        "name": "Randy Meisner",
+        "role": "Written-By",
+        "id": 350510
+      },
+      {
+        "name": "Robb Strandlund",
+        "role": "Written-By",
+        "id": 1007917
+      }
+    ],
+    "identifiers": [
+      {
+        "type": "Barcode",
+        "value": "0 81227 97937 9",
+        "description": "Printed"
+      },
+      {
+        "type": "Barcode",
+        "value": "081227979379",
+        "description": "UPC-A, Scanned"
+      },
+      {
+        "type": "Barcode",
+        "value": "0081227979379",
+        "description": "EAN-Code, Scanned"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "R1-1052-A 19436.1(3)...TML ",
+        "description": "Side A runout, etched / stamped"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "R1-1052-B 19437.1(3)...TML ",
+        "description": "Side B runout, etched / stamped"
+      }
+    ],
+    "notes": "\u2022 Premium HQ 180 Gram Vinyl\n\u2022 Cut from the Original Analog Master Tapes!\n\u2022 Mastered at The Mastering Lab\n\u2022 Pressed at RTI\n\u2022 Original packaging with Embossed Cover!\n\nBarcode sticker on outer plastic.",
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/3S-KHkt7JTrDdxgeKA4oEa1ktqMMzPADkEoiX-LIOko/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTE4/NTgtMTU5MjA3MzY0/NC00Njg1LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/t_EVOaZJLzNHZqjuA5xfIhtuTXrtLjhSclvIv9soN9I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTE4/NTgtMTU5MjA3MzY0/NC00Njg1LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/j2I3B_lHHwP-bCJFmqs2FnfM6VWmth9QoTrxxi3tG7M/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTE4/NTgtMTU5MjA3MzY0/Ni02MDkxLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/QWL9Ua5FvIYyMdWILaC-wt1QPqPqULib27TyoeH-1qY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTE4/NTgtMTU5MjA3MzY0/Ni02MDkxLmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/813zURrWUD-S60ZhasF2Nizeg-QUDGQVX7bik2QQgM8/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTE4/NTgtMTU5MjA3MzY0/Ni01NDc2LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/r699J6APE8_Qr1EU5-E_zv_-XoSBPD1k6Rg6X1b_n7U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTE4/NTgtMTU5MjA3MzY0/Ni01NDc2LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/Bhr-ovRf1N2obIfF6o9y9N_AkL3pXNzC8cWdNTVg4ow/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTE4/NTgtMTU5MjA3MzY0/Ny05NDE0LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/o56SclHlSIPhO71HzLrBy2zZr0u4YIx1Oi8cJbwH8SA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTE4/NTgtMTU5MjA3MzY0/Ny05NDE0LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/vSFgYZo_8pcsvveyBj9G5iw6oLvnQUim7UTSRHve5UI/rs:fit/g:sm/q:90/h:405/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTE4/NTgtMTM4MjM1MDM3/Ny0yNjQxLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/XuqErAalsaMllnJKP26GPl4Xi11YVLWwzwFckhH7NAo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTE4/NTgtMTM4MjM1MDM3/Ny0yNjQxLmpwZWc.jpeg"
+      }
+    ],
+    "community": {
+      "rating": {
+        "count": 314,
+        "average": 4.64
+      },
+      "have": 3595,
+      "want": 256
+    },
+    "master": {
+      "id": 59509,
+      "title": "Their Greatest Hits 1971-1975",
+      "main_release": 2665875,
+      "year": 1976,
+      "uri": "https://www.discogs.com/master/59509-Eagles-Their-Greatest-Hits-1971-1975",
+      "num_for_sale": 3605
+    }
+  },
+  "apple_music": {
+    "id": 635829435,
+    "url": "https://music.apple.com/us/album/their-greatest-hits-1971-1975/635829435?uo=4",
+    "name": "Their Greatest Hits 1971-1975",
+    "artist": "Eagles",
+    "artist_id": 1053549,
+    "artwork_url_100": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f0/c7/c8/f0c7c8f4-4319-d357-ddaf-566ef8e2194e/081227979379.jpg/100x100bb.jpg",
+    "artwork_url_600": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f0/c7/c8/f0c7c8f4-4319-d357-ddaf-566ef8e2194e/081227979379.jpg/600x600bb.jpg",
+    "release_date": "1976-02-17T08:00:00Z",
+    "track_count": 10,
+    "copyright": "\u2117 1976 Elektra Records",
+    "primary_genre": "Rock",
+    "country": "USA",
+    "tracks": [
+      {
+        "track_number": 1,
+        "disc_number": 1,
+        "name": "Take It Easy",
+        "duration_ms": 211579,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/9d/59/76/9d59760b-8a26-8135-aab0-acfc5e562299/mzaf_7801428242367310016.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/take-it-easy/635829435?i=635829446&uo=4"
+      },
+      {
+        "track_number": 2,
+        "disc_number": 1,
+        "name": "Witchy Woman",
+        "duration_ms": 250889,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/5c/ed/16/5ced16c3-45c0-849e-fe8e-9d998b5a53ba/mzaf_9045703377170281658.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/witchy-woman/635829435?i=635829447&uo=4"
+      },
+      {
+        "track_number": 3,
+        "disc_number": 1,
+        "name": "Lyin' Eyes",
+        "duration_ms": 381897,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/d5/de/61/d5de61bc-456d-223e-4b6c-f4dafd60ad9d/mzaf_18409835884878876921.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/lyin-eyes/635829435?i=635829448&uo=4"
+      },
+      {
+        "track_number": 4,
+        "disc_number": 1,
+        "name": "Already Gone",
+        "duration_ms": 255106,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/31/bf/92/31bf92fb-1d07-9d7a-20ef-a25d3fc27dc4/mzaf_15645445919221589328.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/already-gone/635829435?i=635829529&uo=4"
+      },
+      {
+        "track_number": 5,
+        "disc_number": 1,
+        "name": "Desperado",
+        "duration_ms": 213713,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/49/d3/18/49d318a7-2ab0-518c-7f70-28fd51b18b42/mzaf_16118616865383635310.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/desperado/635829435?i=635829530&uo=4"
+      },
+      {
+        "track_number": 6,
+        "disc_number": 1,
+        "name": "One of These Nights",
+        "duration_ms": 291409,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/e1/c9/b3/e1c9b3af-66f2-aa26-ff34-0ec1f90a7804/mzaf_9042538700083254827.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/one-of-these-nights/635829435?i=635829531&uo=4"
+      },
+      {
+        "track_number": 7,
+        "disc_number": 1,
+        "name": "Tequila Sunrise",
+        "duration_ms": 173057,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/6b/69/2d/6b692d9b-bded-ee40-b83c-9209be41fc5d/mzaf_903828061519902646.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/tequila-sunrise/635829435?i=635829532&uo=4"
+      },
+      {
+        "track_number": 8,
+        "disc_number": 1,
+        "name": "Take It to the Limit",
+        "duration_ms": 287082,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/ca/86/8b/ca868bbc-84ed-3bed-7ac7-7ecdf1ae47ca/mzaf_14549492838631723567.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/take-it-to-the-limit/635829435?i=635829533&uo=4"
+      },
+      {
+        "track_number": 9,
+        "disc_number": 1,
+        "name": "Peaceful Easy Feeling",
+        "duration_ms": 257957,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/e0/c8/fb/e0c8fb75-868d-0446-1797-f23cb5ff032f/mzaf_5214049507478141944.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/peaceful-easy-feeling/635829435?i=635829534&uo=4"
+      },
+      {
+        "track_number": 10,
+        "disc_number": 1,
+        "name": "The Best of My Love",
+        "duration_ms": 274905,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/4b/62/3b/4b623b79-686e-16aa-a28a-c7f2a8f0cf49/mzaf_1870033173464183314.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/the-best-of-my-love/635829435?i=635829535&uo=4"
+      }
+    ]
+  },
+  "discrepancies": [
+    "Release year differs: your pressing=2011, Apple Music edition=1976. Apple Music typically streams the most recent remaster."
+  ],
+  "local_cover": "images/2711858.jpg"
+}
