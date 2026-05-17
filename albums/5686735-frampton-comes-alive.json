@@ -1,0 +1,517 @@
+{
+  "captured_at": "2026-05-17T20:26:50+00:00",
+  "schema_version": 3,
+  "artist": "Peter Frampton",
+  "title": "Frampton Comes Alive!",
+  "original_release_year": 1976,
+  "pressing_year": 1976,
+  "upgrade_suggestion": "The 2008 remastered reissue (750 216 505-1) offers cleaner surfaces. For the definitive version, the original A&M SP-3703 retail pressing with early TML (Turtletone) stampers is preferred over this Club Edition.",
+  "commentary": "**Frampton Comes Alive!** is Peter Frampton's landmark 1976 double live album, recorded at various concerts in 1975 and released on A&M Records in January 1976. It became one of the best-selling live albums in history \u2014 selling over 8 million copies in the US alone in its first year \u2014 and launched Frampton from a respected but modestly successful solo artist into a global superstar almost overnight. The album captures Frampton at his live peak: an instinctive, charismatic performer with a gift for guitar melody and crowd connection, deploying the talk box effect on \"Do You Feel Like We Do\" and \"Show Me the Way\" to iconic effect.\n\nThe album's success is inseparable from its timing \u2014 1976 was peak arena rock, and Frampton's blend of melodic hard rock, accessible songwriting, and showmanship translated perfectly to the format. The double LP format allowed the live experience to breathe, with extended versions of songs that expanded well beyond their studio counterparts.\n\nThis pressing is a **1976 US Club Edition** (Columbia House / A&M, catalog **R223558** / **SP-3703**), distributed through the Columbia Record Club \u2014 a mail-order subscription service that pressed its own variants of popular albums for its members. Club editions were pressed simultaneously with the commercial release and are genuine period pressings, though sometimes on slightly thinner vinyl than the standard retail issue. The `WW` stamper marking identifies the cutting engineer or pressing plant lacquer cutter for this specific variant.\n\n**About this 1976 US pressing (2\u00d7 Vinyl, LP, Club Edition):** A&M Records / Columbia House catalog **R223558** / **SP-3703**, 1976 Club Edition pressing. Double LP. Matrix R-223558 A/B/C/D with WW stamper.\n",
+  "discogs": {
+    "release_id": 5686735,
+    "master_id": 101332,
+    "uri": "https://www.discogs.com/release/5686735-Peter-Frampton-Frampton-Comes-Alive",
+    "title": "Frampton Comes Alive!",
+    "artists": [
+      {
+        "name": "Peter Frampton",
+        "id": 228859,
+        "role": null
+      }
+    ],
+    "year": 1976,
+    "released": "1976",
+    "country": "US",
+    "labels": [
+      {
+        "name": "A&M Records",
+        "catno": "R223558",
+        "id": 904
+      },
+      {
+        "name": "A&M Records",
+        "catno": "R-223558",
+        "id": 904
+      },
+      {
+        "name": "A&M Records",
+        "catno": "SP-3703",
+        "id": 904
+      }
+    ],
+    "formats": [
+      {
+        "name": "Vinyl",
+        "qty": "2",
+        "descriptions": [
+          "LP",
+          "Album",
+          "Club Edition",
+          "Reissue"
+        ],
+        "text": null
+      }
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Rock & Roll",
+      "Pop Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Something's Happening",
+        "duration": "5:54",
+        "type": "track"
+      },
+      {
+        "position": "A2",
+        "title": "Doobie Wah",
+        "duration": "5:28",
+        "type": "track"
+      },
+      {
+        "position": "A3",
+        "title": "Show Me The Way",
+        "duration": "4:42",
+        "type": "track"
+      },
+      {
+        "position": "A4",
+        "title": "It's A Plain Shame",
+        "duration": "4:21",
+        "type": "track"
+      },
+      {
+        "position": "B1",
+        "title": "All I Want To Be (Is By Your Side)",
+        "duration": "3:27",
+        "type": "track"
+      },
+      {
+        "position": "B2",
+        "title": "Wind Of Change",
+        "duration": "2:47",
+        "type": "track"
+      },
+      {
+        "position": "B3",
+        "title": "Baby, I Love Your Way",
+        "duration": "4:43",
+        "type": "track"
+      },
+      {
+        "position": "B4",
+        "title": "I Wanna Go To The Sun",
+        "duration": "7:02",
+        "type": "track"
+      },
+      {
+        "position": "C1",
+        "title": "Penny For Your Thoughts",
+        "duration": "1:23",
+        "type": "track"
+      },
+      {
+        "position": "C2",
+        "title": "(I'll Give You) Money",
+        "duration": "5:39",
+        "type": "track"
+      },
+      {
+        "position": "C3",
+        "title": "Shine On",
+        "duration": "3:35",
+        "type": "track"
+      },
+      {
+        "position": "C4",
+        "title": "Jumping Jack Flash",
+        "duration": "7:45",
+        "type": "track"
+      },
+      {
+        "position": "D1",
+        "title": "Lines On My Face",
+        "duration": "7:06",
+        "type": "track"
+      },
+      {
+        "position": "D2",
+        "title": "Do You Feel Like We Do",
+        "duration": "14:15",
+        "type": "track"
+      }
+    ],
+    "extraartists": [
+      {
+        "name": "Roland Young (3)",
+        "role": "Art Direction",
+        "id": 1830041
+      },
+      {
+        "name": "Stanley Sheldon",
+        "role": "Bass Guitar, Vocals",
+        "id": 453267
+      },
+      {
+        "name": "Stan Evenson",
+        "role": "Design",
+        "id": 1846951
+      },
+      {
+        "name": "John Siomos",
+        "role": "Drums",
+        "id": 453266
+      },
+      {
+        "name": "Corky Stasiak",
+        "role": "Engineer [Assistant]",
+        "id": 390254
+      },
+      {
+        "name": "Dave Wittman",
+        "role": "Engineer [Assistant]",
+        "id": 182464
+      },
+      {
+        "name": "Frankie D'Augusta",
+        "role": "Engineer [Assistant]",
+        "id": 88513
+      },
+      {
+        "name": "Jay Messina",
+        "role": "Engineer [Assistant]",
+        "id": 303728
+      },
+      {
+        "name": "Neal Teeman",
+        "role": "Engineer [Assistant]",
+        "id": 426284
+      },
+      {
+        "name": "Eddie Kramer",
+        "role": "Engineer [Live Recording]",
+        "id": 253216
+      },
+      {
+        "name": "Ray Thompson",
+        "role": "Engineer [Live Recording]",
+        "id": 386532
+      },
+      {
+        "name": "Chris Kimsey",
+        "role": "Engineer [Live Recording], Remix",
+        "id": 85730
+      },
+      {
+        "name": "Bob Mayo",
+        "role": "Guitar, Vocals, Electric Piano [Fender Rhodes Piano], Organ, Grand Piano",
+        "id": 298784
+      },
+      {
+        "name": "Cameron Crowe",
+        "role": "Liner Notes",
+        "id": 334098
+      },
+      {
+        "name": "Mike Reese",
+        "role": "Mastered By",
+        "id": 454007
+      },
+      {
+        "name": "Richard E. Aaron",
+        "role": "Photography By [Except John Siomos]",
+        "id": 2255333
+      },
+      {
+        "name": "Michael Zagaris",
+        "role": "Photography By [John Siomos]",
+        "id": 2269710
+      },
+      {
+        "name": "Peter Frampton",
+        "role": "Producer, Arranged By, Guitar, Vocals, Talkbox, Remix",
+        "id": 228859
+      }
+    ],
+    "identifiers": [
+      {
+        "type": "Matrix / Runout",
+        "value": "SP-3709",
+        "description": "Side A Label"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "R-223558 A-1",
+        "description": "Side A Label"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "SP-3710",
+        "description": "Side B Label"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "R-223558 B-1",
+        "description": "Side B Label"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "SP-3711",
+        "description": "Side C Label"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "R-223558 C-1",
+        "description": "Side C Label"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "SP-3712",
+        "description": "Side D Label"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "R-223558 D-1",
+        "description": "Side D Label"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "R223558A 1 I",
+        "description": "Runout Side A, Variant 1"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "R-223558B-2 I",
+        "description": "Runout Side B, Variant 1"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "R223558c 1 I",
+        "description": "Runout Side C, Variant 1"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "R223558d 2 I",
+        "description": "Runout Side D, Variant 1"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "R  223558A 1 I A1F",
+        "description": "Runout Side A, Variant 2"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "R 223558B 1 I A1M",
+        "description": "Runout Side B, Variant 2"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "R 223558C 1 I A1N",
+        "description": "Runout Side C, Variant 2"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "R 223558d 2 I A1H",
+        "description": "Runout Side D, Variant 2"
+      }
+    ],
+    "notes": "Recorded at Winterland, San Francisco; Marin Civic Center, San Rafael, California; Island Music Center, Commack, Long Island, New York; State University nof New York, Plattsburgh, Wally Heider's Mobile Recording Truck, California and the Fedco Recording Truck, New York.\n\nComes in a gatefold sleeve.\nR223558 back cover, R-223558 on labels, SP-3703 on both cover and labels.\nAuto-coupled release.\n\nRunouts are stamped.\n",
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/n7nzsRlhl9Kih6Eo7snx2a4AuS8q35kUb207JAHliX8/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2ODY3/MzUtMTM5OTkxNzIx/NC00MjgyLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/Jth17PpnPxZtGJWiSyPhJKt9jJ5IMwWA7mCbSRZNDWc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2ODY3/MzUtMTM5OTkxNzIx/NC00MjgyLmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/Dolhj2d-NfdfVDEdPCDKeYyvCiedXR7XuzwKXGCCMqY/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2ODY3/MzUtMTM5OTkxNzIx/NC05MzM5LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/7_1ftkZ0G-8Zg_8UVCNEV0oWEqXU-SldkrZxOHOOJec/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2ODY3/MzUtMTM5OTkxNzIx/NC05MzM5LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/TS6-JHtjh8RCBp3TBB_J9-O5poU_fQ2eL-ZxNkRe9OM/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2ODY3/MzUtMTM5OTkxNzIx/NC0zMDk1LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/hPYvdhJO16HesN0B0Gn86i5M6yiRNYGCkfKk9vuIU-M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2ODY3/MzUtMTM5OTkxNzIx/NC0zMDk1LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/ypZh5X-MB5le05QW66ELo31NjqJJL98mlMjEo98CHk8/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2ODY3/MzUtMTM5OTkxNzIx/NC02MjMzLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/oMqODD3xLEzpqxaYvN6wy0Y8pIKXrFvbMAQo1LXLE5I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2ODY3/MzUtMTM5OTkxNzIx/NC02MjMzLmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/LtFrI4FoQkI-fHDEg3VbTDkRzfGpeZjZam8KNJcfr5U/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2ODY3/MzUtMTM5OTkxNzIx/NC02Nzk5LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/gmMIvmKp-72vJ5EkUVQzeAyZ6EYV4bk-xP1hfcUyPis/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2ODY3/MzUtMTM5OTkxNzIx/NC02Nzk5LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/XGR9Mg7dfGcvJTjlfGwnGvtVztJbeS_jBiNixQmBOiI/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2ODY3/MzUtMTM5OTkxNzIz/Ny0xOTc3LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/ot3Dc2-EROiXYhGlNvVx2RBkcDBCoKhO-pwJahyDQok/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2ODY3/MzUtMTM5OTkxNzIz/Ny0xOTc3LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/Bl67pgsirOHTd5yYZn9xBOEwEbffpyhaLL22flhKoU8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2ODY3/MzUtMTM5OTkxNzIz/OC0xMTg5LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/Gwp1WDcEvi5W_9oH-lSfeIS7aAmLLGpcOzyr8URP0tg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2ODY3/MzUtMTM5OTkxNzIz/OC0xMTg5LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/cJDvEz3tyETNAnn6FM7Y4CrBSYICO3pTrSfYzqUMahk/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2ODY3/MzUtMTM5OTkxNzIz/Ny05NDA2LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/cZ9FjmKF8tqS0nRcXcTijsrEyUtHyHv4iYJM7bCypcw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2ODY3/MzUtMTM5OTkxNzIz/Ny05NDA2LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/KLxcI4A91jevabo9blvhH1_OKWZhEqw0x0RHGylimO0/rs:fit/g:sm/q:90/h:600/w:297/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2ODY3/MzUtMTM5OTkxNzIx/NC00NjE5LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/s-oV8Su7KXnyvy_6va40QsLRXuQbWvaz1D9ibywyVPY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2ODY3/MzUtMTM5OTkxNzIx/NC00NjE5LmpwZWc.jpeg"
+      }
+    ],
+    "community": {
+      "rating": {
+        "count": 102,
+        "average": 4.05
+      },
+      "have": 2226,
+      "want": 146
+    },
+    "master": {
+      "id": 101332,
+      "title": "Frampton Comes Alive!",
+      "main_release": 401512,
+      "year": 1976,
+      "uri": "https://www.discogs.com/master/101332-Peter-Frampton-Frampton-Comes-Alive",
+      "num_for_sale": 3332
+    }
+  },
+  "apple_music": {
+    "id": 1737516352,
+    "url": "https://music.apple.com/us/album/frampton-comes-alive/1737516352?uo=4",
+    "name": "Frampton Comes Alive!",
+    "artist": "Peter Frampton",
+    "artist_id": 106848,
+    "artwork_url_100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/21/e3/1e/21e31e14-362a-29b5-ceb5-71da0bdf911a/06UMGIM00652.rgb.jpg/100x100bb.jpg",
+    "artwork_url_600": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/21/e3/1e/21e31e14-362a-29b5-ceb5-71da0bdf911a/06UMGIM00652.rgb.jpg/600x600bb.jpg",
+    "release_date": "1976-01-06T08:00:00Z",
+    "track_count": 14,
+    "copyright": "An A&M Records Release; \u2117 2024 UMG Recordings, Inc.",
+    "primary_genre": "Rock",
+    "country": "USA",
+    "tracks": [
+      {
+        "track_number": 1,
+        "disc_number": 1,
+        "name": "Something's Happening (Live)",
+        "duration_ms": 352782,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d4/cb/0c/d4cb0c0c-e665-b6be-6bcd-6370f83873b5/mzaf_6210237001574701486.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/somethings-happening-live/1737516352?i=1737516355&uo=4"
+      },
+      {
+        "track_number": 2,
+        "disc_number": 1,
+        "name": "Doobie Wah (Live)",
+        "duration_ms": 324922,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/17/0b/61/170b61de-a4aa-c788-73ed-8873f7792db4/mzaf_8606860024176132492.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/doobie-wah-live/1737516352?i=1737516359&uo=4"
+      },
+      {
+        "track_number": 3,
+        "disc_number": 1,
+        "name": "Show Me The Way (Live)",
+        "duration_ms": 286968,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b9/96/8b/b9968bb2-9783-3362-8670-4f2b9af0ff26/mzaf_17609594425942062166.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/show-me-the-way-live/1737516352?i=1737516365&uo=4"
+      },
+      {
+        "track_number": 4,
+        "disc_number": 1,
+        "name": "It's A Plain Shame (Live)",
+        "duration_ms": 263618,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b2/62/ea/b262ea14-abca-a52f-bd10-c23b4522336d/mzaf_16312935337416159467.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/its-a-plain-shame-live/1737516352?i=1737516366&uo=4"
+      },
+      {
+        "track_number": 5,
+        "disc_number": 1,
+        "name": "All I Want To Be (Is By Your Side) [Live]",
+        "duration_ms": 208358,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/3e/40/b6/3e40b677-ac7f-fcd2-6901-cfd88be692d6/mzaf_2551562024399700897.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/all-i-want-to-be-is-by-your-side-live/1737516352?i=1737516368&uo=4"
+      },
+      {
+        "track_number": 6,
+        "disc_number": 1,
+        "name": "Wind Of Change (Live)",
+        "duration_ms": 164998,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f5/6f/eb/f56feb4b-fff1-024a-a115-38c94fb52248/mzaf_4378897058982324858.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/wind-of-change-live/1737516352?i=1737516369&uo=4"
+      },
+      {
+        "track_number": 7,
+        "disc_number": 1,
+        "name": "Baby, I Love Your Way (Live)",
+        "duration_ms": 275902,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a2/d4/d5/a2d4d512-e304-43f3-e6d7-9ce995bb0e34/mzaf_16534931738155604926.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/baby-i-love-your-way-live/1737516352?i=1737516370&uo=4"
+      },
+      {
+        "track_number": 8,
+        "disc_number": 1,
+        "name": "I Wanna Go To The Sun (Live)",
+        "duration_ms": 436830,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d5/e6/1e/d5e61e13-f7f8-1125-f400-cfde6402af2a/mzaf_2969948993638826279.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/i-wanna-go-to-the-sun-live/1737516352?i=1737516371&uo=4"
+      },
+      {
+        "track_number": 9,
+        "disc_number": 1,
+        "name": "Penny For Your Thoughts (Live)",
+        "duration_ms": 82980,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b4/c8/98/b4c898eb-dc4c-a4e6-05ce-c90ea2f9ecdd/mzaf_14954825371592965756.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/penny-for-your-thoughts-live/1737516352?i=1737516372&uo=4"
+      },
+      {
+        "track_number": 10,
+        "disc_number": 1,
+        "name": "(I'll Give You) Money (Live)",
+        "duration_ms": 345833,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ae/a3/ab/aea3abd0-0b8e-df0f-4451-c494c4df87c1/mzaf_13388734275180391946.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/ill-give-you-money-live/1737516352?i=1737516373&uo=4"
+      },
+      {
+        "track_number": 11,
+        "disc_number": 1,
+        "name": "Shine On (Live)",
+        "duration_ms": 206527,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/17/33/17/1733173c-0908-5821-a5f3-96ddc49e9761/mzaf_4853074999518348007.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/shine-on-live/1737516352?i=1737516374&uo=4"
+      },
+      {
+        "track_number": 12,
+        "disc_number": 1,
+        "name": "Jumping Jack Flash (Live)",
+        "duration_ms": 472271,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1b/b0/33/1bb033af-9083-6b5c-5909-029c39bf61e0/mzaf_1021828188186889057.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/jumping-jack-flash-live/1737516352?i=1737516375&uo=4"
+      },
+      {
+        "track_number": 13,
+        "disc_number": 1,
+        "name": "Lines On My Face (Live)",
+        "duration_ms": 425880,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b3/50/76/b350769e-b379-6b05-ce75-446e7dc91be6/mzaf_9745947451872071600.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/lines-on-my-face-live/1737516352?i=1737516376&uo=4"
+      },
+      {
+        "track_number": 14,
+        "disc_number": 1,
+        "name": "Do You Feel Like We Do (Live)",
+        "duration_ms": 856475,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ce/c6/2e/cec62e5d-1d30-2803-b31a-bd48c324fecc/mzaf_8011632721902314886.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/do-you-feel-like-we-do-live/1737516352?i=1737516529&uo=4"
+      }
+    ]
+  },
+  "discrepancies": [],
+  "local_cover": "images/5686735.jpg"
+}

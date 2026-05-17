@@ -1,0 +1,7 @@
+**Greatest Hits** is Fleetwood Mac's 1988 compilation on Warner Bros. Records, covering the band's commercial peak from 1975 through 1988 — the Buckingham/Nicks era that transformed them from a British blues band into one of the best-selling acts in history. The compilation draws from *Fleetwood Mac* (1975), *Rumours* (1977), *Tusk* (1979), *Mirage* (1982), and *Tango in the Night* (1987), making it an ideal single-disc survey of the band's pop-rock dominance. Tracks like "Go Your Own Way," "Dreams," "The Chain," "Little Lies," "Everywhere," and "Big Love" represent some of the most enduring radio staples of the era.
+
+The compilation arrived as the band was fragmenting again — Lindsey Buckingham had just departed — and serves as both a commercial summary and an inadvertent farewell to the classic lineup. It became one of the best-selling compilations of its era, introducing *Rumours*-era material to a new generation of listeners in the late 1980s.
+
+This **2020 US reissue** is a contemporary vinyl pressing of the 1988 compilation, catalog **R1 25801** / barcode **081227959357**. The matrix codes `10205 6A 0081227959357 [224064E1] EXP` identify this as an **EXP (Erika Records / Record Industry)** pressing — a European pressing plant that handles many US major-label reissues. Standard weight vinyl with updated reissue packaging.
+
+**About this 2020 US pressing (Vinyl, LP, Compilation, Reissue):** Warner Bros. / Rhino catalog **R1 25801**, 2020 reissue of the 1988 compilation. Matrix 10205 / 0081227959357 / 224064E1, pressed by EXP (Record Industry).

@@ -1,0 +1,7 @@
+**Guardians of the Galaxy: Awesome Mix Vol. 1** is the soundtrack to Marvel's 2014 film, compiled by director James Gunn from his personal playlist of 1970s pop and rock favorites. The conceit — that the mixtape is a treasured artifact left to Peter Quill by his dying mother — elevated what could have been a throwaway needle-drop soundtrack into an emotionally resonant part of the film's DNA. Tracks by Redbone, David Bowie, Marvin Gaye, The Runaways, The Jackson 5, Blue Swede, and others were suddenly recontextualized for a new generation, and the soundtrack became one of the best-selling albums of 2014 despite consisting entirely of decades-old recordings.
+
+The album is a masterclass in curation — every track lands emotionally in the context of the film, and the sequencing works beautifully as a standalone listening experience. It revived mainstream interest in several classic tracks and demonstrated that a superhero film could have a genuinely great soundtrack rather than a generic orchestral score.
+
+The **2019 Deluxe Edition** (Hollywood Records / Disney catalog **D003242101**) is a double LP pressing combining the Awesome Mix Vol. 1 and additional score material by Tyler Bates, pressed on standard weight vinyl. The matrix codes `138662E1` identify the pressing as a contemporary US pressing with standard lacquer cutting.
+
+**About this 2019 US pressing (2× Vinyl, LP, Compilation, Deluxe Edition):** Hollywood Records / Disney catalog **D003242101**, 2019 Deluxe Edition double LP. Barcode 050087429829. Matrix 138662E1.

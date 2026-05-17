@@ -1,0 +1,588 @@
+{
+  "captured_at": "2026-05-17T21:05:59+00:00",
+  "schema_version": 3,
+  "artist": "Journey",
+  "title": "Greatest Hits",
+  "original_release_year": 1988,
+  "pressing_year": 2024,
+  "upgrade_suggestion": "This 2024 Chris Bellman remaster is the current definitive vinyl version. No Mobile Fidelity or Analogue Productions edition exists for this title.",
+  "commentary": "**Greatest Hits** is Journey's definitive compilation, originally released in 1988 on Columbia Records and one of the best-selling greatest hits albums in US history \u2014 certified 15\u00d7 platinum by the RIAA. It surveys the band's commercial peak from the late 1970s through the mid-1980s, capturing the Steve Perry-fronted lineup at the height of their arena rock dominance. \"Don't Stop Believin',\" \"Anyway You Want It,\" \"Open Arms,\" \"Faithfully,\" \"Wheel in the Sky,\" \"Lovin', Touchin', Squeezin'\" \u2014 the sequencing is nearly flawless, and Perry's tenor remains one of the most distinctive and powerful voices in rock history.\n\nThe album's longevity is remarkable \u2014 \"Don't Stop Believin'\" in particular has transcended its era entirely, becoming one of the most streamed classic rock tracks in the streaming age following its use in *The Sopranos* finale and *Glee*. Journey's brand of melodic hard rock and power ballads defined FM radio in the early 1980s, and this compilation distills that era perfectly.\n\nThe **2024 remastered reissue** (Columbia / Legacy catalog **19658823041**) presents the compilation with a fresh 2024 remaster, pressed as a double LP on standard weight vinyl. The matrix codes `19658823041-A III CB 42840.1(3)` identify the **CB** cutting engineer \u2014 likely **Chris Bellman** of Bernie Grundman Mastering, one of the most respected mastering engineers in the business, known for his work on countless classic rock and audiophile reissues.\n\n**About this 2024 US pressing (2\u00d7 Vinyl, LP, Compilation, Remastered):** Columbia / Legacy catalog **19658823041**, 2024 remastered reissue. Double LP. Matrix 42840.1 / CB (Chris Bellman, Bernie Grundman Mastering). Barcode 196588230417.\n",
+  "discogs": {
+    "release_id": 29620654,
+    "master_id": 92802,
+    "uri": "https://www.discogs.com/release/29620654-Journey-Greatest-Hits",
+    "title": "Greatest Hits",
+    "artists": [
+      {
+        "name": "Journey",
+        "id": 128395,
+        "role": null
+      }
+    ],
+    "year": 2024,
+    "released": "2024-01-26",
+    "country": "US",
+    "labels": [
+      {
+        "name": "Legacy",
+        "catno": "19658823041",
+        "id": 15491
+      },
+      {
+        "name": "Columbia",
+        "catno": "19658823041",
+        "id": 1866
+      }
+    ],
+    "formats": [
+      {
+        "name": "Vinyl",
+        "qty": "2",
+        "descriptions": [
+          "LP",
+          "Compilation",
+          "Reissue",
+          "Remastered",
+          "Stereo"
+        ],
+        "text": "Gatefold, 180g"
+      }
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "AOR",
+      "Arena Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Only the Young",
+        "duration": "4:03",
+        "type": "track"
+      },
+      {
+        "position": "A2",
+        "title": "Don't Stop Believin'",
+        "duration": "4:09",
+        "type": "track"
+      },
+      {
+        "position": "A3",
+        "title": "Wheel In The Sky",
+        "duration": "4:10",
+        "type": "track"
+      },
+      {
+        "position": "A4",
+        "title": "Faithfully",
+        "duration": "4:25",
+        "type": "track"
+      },
+      {
+        "position": "B1",
+        "title": "I'll Be Alright Without You",
+        "duration": "4:33",
+        "type": "track"
+      },
+      {
+        "position": "B2",
+        "title": "Any Way You Want It",
+        "duration": "3:21",
+        "type": "track"
+      },
+      {
+        "position": "B3",
+        "title": "Ask The Lonely",
+        "duration": "3:53",
+        "type": "track"
+      },
+      {
+        "position": "B4",
+        "title": "Who's Crying Now",
+        "duration": "5:00",
+        "type": "track"
+      },
+      {
+        "position": "C1",
+        "title": "Separate Ways (World's Apart)",
+        "duration": "5:23",
+        "type": "track"
+      },
+      {
+        "position": "C2",
+        "title": "Lights",
+        "duration": "3:09",
+        "type": "track"
+      },
+      {
+        "position": "C3",
+        "title": "Lovin', Touchin', Squeezin'",
+        "duration": "3:49",
+        "type": "track"
+      },
+      {
+        "position": "C4",
+        "title": "Open Arms",
+        "duration": "3:17",
+        "type": "track"
+      },
+      {
+        "position": "D1",
+        "title": "Girl Can't Help It",
+        "duration": "3:49",
+        "type": "track"
+      },
+      {
+        "position": "D2",
+        "title": "Send Her My Love",
+        "duration": "3:53",
+        "type": "track"
+      },
+      {
+        "position": "D3",
+        "title": "Be Good To Yourself",
+        "duration": "3:50",
+        "type": "track"
+      },
+      {
+        "position": "D4",
+        "title": "When You Love A Woman",
+        "duration": "4:10",
+        "type": "track"
+      }
+    ],
+    "extraartists": [
+      {
+        "name": "Alton Kelley",
+        "role": "Artwork, Cover",
+        "id": 1894474
+      },
+      {
+        "name": "Kevin Elson",
+        "role": "Coordinator [Production Coordinator]",
+        "id": 232153
+      },
+      {
+        "name": "Neal Schon",
+        "role": "Guitar",
+        "id": 351619
+      },
+      {
+        "name": "Chris Bellman",
+        "role": "Lacquer Cut By",
+        "id": 359447
+      },
+      {
+        "name": "Frank Harkins",
+        "role": "Layout, Design",
+        "id": 1831301
+      },
+      {
+        "name": "Steve Perry",
+        "role": "Lead Vocals",
+        "id": 85101
+      },
+      {
+        "name": "Herbie Herbert Management Inc.",
+        "role": "Management",
+        "id": 2394569
+      },
+      {
+        "name": "Bob Ludwig",
+        "role": "Mastered By [Original Compilation]",
+        "id": 271098
+      },
+      {
+        "name": "Hiro Ito",
+        "role": "Photography By",
+        "id": 2235683
+      },
+      {
+        "name": "Jim Welch (4)",
+        "role": "Photography By",
+        "id": 3948719
+      },
+      {
+        "name": "John Werner",
+        "role": "Photography By",
+        "id": 1129084
+      },
+      {
+        "name": "Journey Archives",
+        "role": "Photography By",
+        "id": 7906897
+      },
+      {
+        "name": "Mark Weiss (3)",
+        "role": "Photography By",
+        "id": 2263485
+      },
+      {
+        "name": "Michael Marks (2)",
+        "role": "Photography By",
+        "id": 2641499
+      },
+      {
+        "name": "Michael Ochs Archives",
+        "role": "Photography By",
+        "id": 2236801
+      },
+      {
+        "name": "Neil Zlozower",
+        "role": "Photography By",
+        "id": 1959657
+      },
+      {
+        "name": "Paul Natkin",
+        "role": "Photography By",
+        "id": 1905461
+      },
+      {
+        "name": "Photo Reserve Inc.",
+        "role": "Photography By",
+        "id": 4672988
+      },
+      {
+        "name": "Sam Emerson",
+        "role": "Photography By",
+        "id": 2082959
+      },
+      {
+        "name": "William Hames",
+        "role": "Photography By",
+        "id": 1651132
+      },
+      {
+        "name": "Geoff Workman",
+        "role": "Producer",
+        "id": 253053
+      },
+      {
+        "name": "Kevin Elson",
+        "role": "Producer",
+        "id": 232153
+      },
+      {
+        "name": "Mike Stone",
+        "role": "Producer",
+        "id": 94526
+      },
+      {
+        "name": "Roy Thomas Baker",
+        "role": "Producer",
+        "id": 164557
+      },
+      {
+        "name": "John Jackson (11)",
+        "role": "Reissue Producer",
+        "id": 706515
+      },
+      {
+        "name": "Steve Perry",
+        "role": "Reissue Producer",
+        "id": 85101
+      },
+      {
+        "name": "Adam Ayan",
+        "role": "Remastered By",
+        "id": 406456
+      },
+      {
+        "name": "Cyndy Poon",
+        "role": "Research [Memorabilia And Expertise Courtesy Of]",
+        "id": 7618035
+      },
+      {
+        "name": "Lora Beard",
+        "role": "Research [Memorabilia And Expertise Courtesy Of]",
+        "id": 7618036
+      }
+    ],
+    "identifiers": [
+      {
+        "type": "Barcode",
+        "value": "1 96588 23041 7",
+        "description": "Text"
+      },
+      {
+        "type": "Barcode",
+        "value": "196588230417",
+        "description": "Scanned"
+      },
+      {
+        "type": "Rights Society",
+        "value": "ASCAP",
+        "description": null
+      },
+      {
+        "type": "Rights Society",
+        "value": "BMI",
+        "description": null
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "19658823041-A III CB 42840.1(3)...",
+        "description": "Side A Runout, Variant 1"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "19658823041-B III CB 42840.2(3)...",
+        "description": "Side B Runout, Variant 1"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "19658823041-C I\u0336I\u0336I\u0336IV CB 42840.3(3)...",
+        "description": "Side C Runout, Variant 1"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "19658823041-D V CB 42840.4(3)...",
+        "description": "Side D Runout, Variant 1"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "19658823041-A III CB 42840.1(3)...",
+        "description": "Side A Runout, Variant 2"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "19658823041-B III CB 42840.2(3)...",
+        "description": "Side B Runout, Variant 2"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "19658823041-C II CB 42840.3(3)...",
+        "description": "Side C Runout, Variant 2"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "19658823041-D I CB 42840.4(3)...",
+        "description": "Side D Runout, Variant 2"
+      }
+    ],
+    "notes": "\"Remastered 2024 for vinyl from the original stereo flat master tapes\".\n\nFrom the Albums:\n[m80582] (1978)\n[m80587] (1979)\n[m80585] (1980)\n[m80583] (1981)\n[m80594] (1983)\n[m92806] (1983)\n[m82462] (1985)\n[m80600] (1986)\n[m356862] (1996)",
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/QPW8BYSslSHkeHecYJJacHn9Yr9_b7ioMX3mPCL_og8/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NjIw/NjU0LTE3MDY0MDIy/ODgtMTgxNC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/QsjI7ZuTipQDdPXEUbhE37xao8J4GpBDGFZ4hKDr4Xk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NjIw/NjU0LTE3MDY0MDIy/ODgtMTgxNC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/dZPLqKaBoK4mdjfMeHYq6voaDKXvrbF1r0f37_38kf8/rs:fit/g:sm/q:90/h:578/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NjIw/NjU0LTE3MDY0MDIy/OTEtNjk2MS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/QexWXZzyn6EfXhK7MmVSUi8rPWTUSuF97eWQzTqm__w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NjIw/NjU0LTE3MDY0MDIy/OTEtNjk2MS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/Wpx__GE0pD24w4TcFDKei5RUx1LYX_wlESaPS8-g1pc/rs:fit/g:sm/q:90/h:586/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NjIw/NjU0LTE3NjU5MDY0/NDktODg1Ny5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/e8hhFudKiXfkVpSOfw1S4LoduUU66PpIdXRdx7nyFVo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NjIw/NjU0LTE3NjU5MDY0/NDktODg1Ny5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/lsRPK8Zf-92lakXTlTH2YDbpFz4g6mXc2qSK9drAuEo/rs:fit/g:sm/q:90/h:584/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NjIw/NjU0LTE3NjU5MDY0/NDktODA4NS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/IZhle5WVFHJey1kPNfdxZMR3ejFbFv-zZs2-1FgAu6Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NjIw/NjU0LTE3NjU5MDY0/NDktODA4NS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/iCKkuM6BpUGyf6xpo46wdQ9sxfof8GzIb1SiWoIGCpg/rs:fit/g:sm/q:90/h:572/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NjIw/NjU0LTE3NjU5MDYy/OTctODkzMC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/kjU7gNgFcaAkB5imSccLBfQ64qdrl7jd8atEhq4_Tlo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NjIw/NjU0LTE3NjU5MDYy/OTctODkzMC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/G1RSclDJ8AWk7Q3njRiPUucvHLK1OKvgGzYaPseeRQw/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NjIw/NjU0LTE3NjU5MDYy/OTctNDc0Mi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/TjEGWu22gMUccH1l_jm3h0m3bT6NkCOkt8uLNnk9uuA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NjIw/NjU0LTE3NjU5MDYy/OTctNDc0Mi5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/JU6COqiT9FK23I1p40CGKVD51Tv8E-J_7ImOAxxyORo/rs:fit/g:sm/q:90/h:583/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NjIw/NjU0LTE3NjU5MDYy/OTctNDg1Mi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/9K-b1eXbVIV-Cpb0juYk335dXaayw9Hu3vC284fthhU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NjIw/NjU0LTE3NjU5MDYy/OTctNDg1Mi5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/Sy2TODVlEHhYady6zexvk6ioObsD0iHQP3SWl5a-n3s/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NjIw/NjU0LTE3NjU5MDYy/OTctNzk3OS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/KqL2l61p0Asii7Lr0Tunaz_vmhR6if3eQN4rSSuzIEU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NjIw/NjU0LTE3NjU5MDYy/OTctNzk3OS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/yVM2gd_yUBcXpt2y55x2Jr0Z3opSpt4H44iwgKWNaug/rs:fit/g:sm/q:90/h:482/w:404/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NjIw/NjU0LTE3MDY3NTgw/MjktODk3My5wbmc.jpeg",
+        "uri150": "https://i.discogs.com/CzmfmTBBIBZvz6bR4LdkkIxM8wkYQHgRS-X8H0Yps9Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NjIw/NjU0LTE3MDY3NTgw/MjktODk3My5wbmc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/cPuMl8OCL8DlCGExg0Edv8-yyt5yQ0CIzPaGIVlaKA8/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NjIw/NjU0LTE3MDY3NTgx/OTYtMjY5Ny5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/Jb_EqWZQ0I6x6VZQOiRsWaMH_rM5Ss_6L8lN7DP_n4c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NjIw/NjU0LTE3MDY3NTgx/OTYtMjY5Ny5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/wK6vbRKYVUqytAhdKa1NjrO6kvUGndKpn6Krjf_DbwY/rs:fit/g:sm/q:90/h:600/w:563/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NjIw/NjU0LTE3MDY3NTgx/OTgtMjgxOC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/YLMmwsjtQycP3CaLaws9cfWxb_ITkDhMHnsaAZJEEn4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NjIw/NjU0LTE3MDY3NTgx/OTgtMjgxOC5qcGVn.jpeg"
+      }
+    ],
+    "community": {
+      "rating": {
+        "count": 311,
+        "average": 4.68
+      },
+      "have": 4684,
+      "want": 340
+    },
+    "master": {
+      "id": 92802,
+      "title": "Greatest Hits",
+      "main_release": 1700136,
+      "year": 1988,
+      "uri": "https://www.discogs.com/master/92802-Journey-Greatest-Hits",
+      "num_for_sale": 926
+    }
+  },
+  "apple_music": {
+    "id": 169003304,
+    "url": "https://music.apple.com/us/album/greatest-hits-2024-remaster/169003304?uo=4",
+    "name": "Greatest Hits (2024 Remaster)",
+    "artist": "Journey",
+    "artist_id": 486597,
+    "artwork_url_100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/71/2d/61/712d617d-f4a4-5904-1b11-d4b4b45c47c5/828768588925.jpg/100x100bb.jpg",
+    "artwork_url_600": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/71/2d/61/712d617d-f4a4-5904-1b11-d4b4b45c47c5/828768588925.jpg/600x600bb.jpg",
+    "release_date": "1988-11-29T08:00:00Z",
+    "track_count": 16,
+    "copyright": "\u2117 This compilation (P) 1988 Sony Music Entertainment",
+    "primary_genre": "Rock",
+    "country": "USA",
+    "tracks": [
+      {
+        "track_number": 1,
+        "disc_number": 1,
+        "name": "Only the Young (2024 Remaster)",
+        "duration_ms": 244493,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/3f/86/73/3f867355-1f1e-edd5-ae3e-760ed22fc851/mzaf_15254520088354416651.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/only-the-young-2024-remaster/169003304?i=169003337&uo=4"
+      },
+      {
+        "track_number": 2,
+        "disc_number": 1,
+        "name": "Don't Stop Believin' (2024 Remaster)",
+        "duration_ms": 250835,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/5c/72/97/5c72974f-6022-f760-ad82-35964fb636b5/mzaf_12752096049347330756.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/dont-stop-believin-2024-remaster/169003304?i=169003415&uo=4"
+      },
+      {
+        "track_number": 3,
+        "disc_number": 1,
+        "name": "Wheel In the Sky (2024 Remaster)",
+        "duration_ms": 254717,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/62/37/e9/6237e9a1-4d56-d711-7193-029b80b7a8ac/mzaf_17948824967461646405.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/wheel-in-the-sky-2024-remaster/169003304?i=169003481&uo=4"
+      },
+      {
+        "track_number": 4,
+        "disc_number": 1,
+        "name": "Faithfully (2024 Remaster)",
+        "duration_ms": 266843,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/7e/68/eb/7e68eb32-250b-9fc7-7894-4053344acc41/mzaf_13951334332308889067.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/faithfully-2024-remaster/169003304?i=169003626&uo=4"
+      },
+      {
+        "track_number": 5,
+        "disc_number": 1,
+        "name": "I'll Be Alright Without You (2024 Remaster)",
+        "duration_ms": 274416,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/b3/5a/10/b35a105a-7d38-0e07-b683-024163bba289/mzaf_1111288062491272980.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/ill-be-alright-without-you-2024-remaster/169003304?i=169003869&uo=4"
+      },
+      {
+        "track_number": 6,
+        "disc_number": 1,
+        "name": "Any Way You Want It (2024 Remaster)",
+        "duration_ms": 203725,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/ec/d2/92/ecd29214-c908-698c-a201-d0d2e7b627fa/mzaf_5349560264004585732.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/any-way-you-want-it-2024-remaster/169003304?i=169004107&uo=4"
+      },
+      {
+        "track_number": 7,
+        "disc_number": 1,
+        "name": "Ask the Lonely (2024 Remaster)",
+        "duration_ms": 234675,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/5e/11/51/5e115125-db7f-7e6f-f956-b3466cbd8313/mzaf_542833213915674977.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/ask-the-lonely-2024-remaster/169003304?i=169004346&uo=4"
+      },
+      {
+        "track_number": 8,
+        "disc_number": 1,
+        "name": "Who's Crying Now",
+        "duration_ms": 301951,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/82/12/f7/8212f71d-087e-497f-9ca6-a09979fdb005/mzaf_12592893606107889108.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/whos-crying-now/169003304?i=169004538&uo=4"
+      },
+      {
+        "track_number": 9,
+        "disc_number": 1,
+        "name": "Separate Ways (Worlds Apart) [2024 Remaster]",
+        "duration_ms": 326230,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/a1/d0/47/a1d04749-621b-c117-3791-f8cc61f1f677/mzaf_10925686221374562657.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/separate-ways-worlds-apart-2024-remaster/169003304?i=169004756&uo=4"
+      },
+      {
+        "track_number": 10,
+        "disc_number": 1,
+        "name": "Lights (2024 Remaster)",
+        "duration_ms": 190953,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/e0/da/83/e0da834d-32c0-7967-b447-7928d6962e22/mzaf_11753158808538285475.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/lights-2024-remaster/169003304?i=169004832&uo=4"
+      },
+      {
+        "track_number": 11,
+        "disc_number": 1,
+        "name": "Lovin', Touchin', Squeezin' (2024 Remaster)",
+        "duration_ms": 232480,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/73/12/3b/73123bee-3db9-ea56-d68d-b529874a53e2/mzaf_14273368689108583538.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/lovin-touchin-squeezin-2024-remaster/169003304?i=169004870&uo=4"
+      },
+      {
+        "track_number": 12,
+        "disc_number": 1,
+        "name": "Open Arms (2024 Remaster)",
+        "duration_ms": 199113,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/25/93/2c/25932c4c-855c-59f5-5738-09d512c13ed1/mzaf_14301666747634870027.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/open-arms-2024-remaster/169003304?i=169004972&uo=4"
+      },
+      {
+        "track_number": 13,
+        "disc_number": 1,
+        "name": "Girl Can't Help It (2024 Remaster)",
+        "duration_ms": 231190,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/6c/f3/99/6cf39980-cf7f-c90f-641f-192fdc938c7b/mzaf_17379484259919390395.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/girl-cant-help-it-2024-remaster/169003304?i=169005085&uo=4"
+      },
+      {
+        "track_number": 14,
+        "disc_number": 1,
+        "name": "Send Her My Love (2024 Remaster)",
+        "duration_ms": 234935,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/4d/9d/71/4d9d7152-7886-aaae-24dc-f1d9207020d2/mzaf_8097262372566273134.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/send-her-my-love-2024-remaster/169003304?i=169005180&uo=4"
+      },
+      {
+        "track_number": 15,
+        "disc_number": 1,
+        "name": "Be Good to Yourself (2024 Remaster)",
+        "duration_ms": 232609,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/fe/83/ae/fe83aef0-e776-da75-f106-1aa5fed9a33d/mzaf_11173831671274575273.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/be-good-to-yourself-2024-remaster/169003304?i=169005529&uo=4"
+      },
+      {
+        "track_number": 16,
+        "disc_number": 1,
+        "name": "When You Love a Woman (2024 Remaster)",
+        "duration_ms": 248266,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/2b/78/7c/2b787cd1-046d-980b-21af-10dd9a3eccaf/mzaf_18121807742624820815.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/when-you-love-a-woman-2024-remaster/169003304?i=169005711&uo=4"
+      }
+    ]
+  },
+  "discrepancies": [
+    "Release year differs: your pressing=2024, Apple Music edition=1988. Apple Music typically streams the most recent remaster."
+  ],
+  "local_cover": "images/29620654.jpg"
+}

@@ -1,0 +1,412 @@
+{
+  "captured_at": "2026-05-17T21:02:04+00:00",
+  "schema_version": 3,
+  "artist": "Michael Jackson",
+  "title": "Thriller",
+  "original_release_year": 1982,
+  "pressing_year": 2016,
+  "upgrade_suggestion": "Mobile Fidelity MFSL 1-168 (Original Master Recording, 1984) is the audiophile benchmark \u2014 half-speed mastered from the original analog masters. This MPO/Sterling pressing is a strong modern alternative at a fraction of the cost.",
+  "commentary": "**Thriller** is Michael Jackson's sixth studio album, released in November 1982 on Epic Records, and the best-selling album of all time \u2014 with over 70 million copies sold worldwide. Produced by Quincy Jones, it redefined pop music on every level: production, choreography, music video, and commercial reach. Seven of its nine tracks were released as singles, an unprecedented feat. \"Billie Jean,\" \"Beat It,\" \"Wanna Be Startin' Somethin',\" \"Human Nature,\" and the title track are among the most recognizable recordings in pop history. The album broke racial barriers in MTV's early programming and cemented Jackson as the defining pop artist of the 20th century.\n\nSonically, *Thriller* is a masterpiece of studio craft \u2014 Quincy Jones and recording engineer Bruce Swedien created a dense, warm, and precisely controlled sound that holds up exceptionally well on vinyl. The low end is authoritative, the midrange is rich, and Jackson's vocals sit perfectly in the mix.\n\nThis **2016 Europe reissue** was pressed at **MPO** (Moulages Plastiques de l'Ouest), a French pressing plant widely regarded as one of the finest in the world for quality control and vinyl consistency. The matrix codes `16-0055 NL A 88875143731 MPO Kr SST` confirm MPO pressing with **SST** (Sterling Sound) lacquer cutting \u2014 Sterling Sound is one of New York's premier mastering facilities. A well-pressed, well-mastered contemporary reissue of one of the great pop recordings.\n\n**About this 2016 Europe pressing (Vinyl, LP, Reissue):** Epic / Sony catalog **88875143731**, 2016 reissue pressed at MPO (France). Sterling Sound lacquer. Barcode 888751437319.\n",
+  "discogs": {
+    "release_id": 8505310,
+    "master_id": 8883,
+    "uri": "https://www.discogs.com/release/8505310-Michael-Jackson-Thriller",
+    "title": "Thriller",
+    "artists": [
+      {
+        "name": "Michael Jackson",
+        "id": 15885,
+        "role": null
+      }
+    ],
+    "year": 2016,
+    "released": "2016-04-15",
+    "country": "Europe",
+    "labels": [
+      {
+        "name": "Epic",
+        "catno": "88875-143731",
+        "id": 1005
+      },
+      {
+        "name": "MJJ Productions",
+        "catno": "88875-143731",
+        "id": 143537
+      }
+    ],
+    "formats": [
+      {
+        "name": "Vinyl",
+        "qty": "1",
+        "descriptions": [
+          "LP",
+          "Album",
+          "Reissue",
+          "Stereo"
+        ],
+        "text": "Gatefold"
+      }
+    ],
+    "genres": [
+      "Rock",
+      "Funk / Soul",
+      "Pop"
+    ],
+    "styles": [
+      "Disco",
+      "Funk",
+      "Soft Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Wanna Be Startin' Somethin'",
+        "duration": "6:02",
+        "type": "track"
+      },
+      {
+        "position": "A2",
+        "title": "Baby Be Mine",
+        "duration": "4:20",
+        "type": "track"
+      },
+      {
+        "position": "A3",
+        "title": "The Girl Is Mine",
+        "duration": "3:42",
+        "type": "track"
+      },
+      {
+        "position": "A4",
+        "title": "Thriller",
+        "duration": "5:57",
+        "type": "track"
+      },
+      {
+        "position": "B1",
+        "title": "Beat It",
+        "duration": "4:17",
+        "type": "track"
+      },
+      {
+        "position": "B2",
+        "title": "Billie Jean",
+        "duration": "4:57",
+        "type": "track"
+      },
+      {
+        "position": "B3",
+        "title": "Human Nature",
+        "duration": "4:05",
+        "type": "track"
+      },
+      {
+        "position": "B4",
+        "title": "P.Y.T. (Pretty Young Thing)",
+        "duration": "3:58",
+        "type": "track"
+      },
+      {
+        "position": "B5",
+        "title": "The Lady In My Life",
+        "duration": "4:57",
+        "type": "track"
+      }
+    ],
+    "extraartists": [
+      {
+        "name": "Lane/Donald",
+        "role": "Art Direction",
+        "id": 1870889
+      },
+      {
+        "name": "Mark Ettel",
+        "role": "Engineer [Assistant]",
+        "id": 262287
+      },
+      {
+        "name": "Steve Bates",
+        "role": "Engineer [Assistant]",
+        "id": 91298
+      },
+      {
+        "name": "Matt Forger",
+        "role": "Engineer [Technical]",
+        "id": 198516
+      },
+      {
+        "name": "Michael Jackson",
+        "role": "Illustration [Inner Sleeve Drawings]",
+        "id": 15885
+      },
+      {
+        "name": "Daniel Krieger",
+        "role": "Lacquer Cut By",
+        "id": 716158
+      },
+      {
+        "name": "Mac James",
+        "role": "Lettering",
+        "id": 1854383
+      },
+      {
+        "name": "Joe Jackson (5)",
+        "role": "Management",
+        "id": 2188778
+      },
+      {
+        "name": "Weisner-DeMann Entertainment",
+        "role": "Management",
+        "id": 1850594
+      },
+      {
+        "name": "Bernie Grundman",
+        "role": "Mastered By",
+        "id": 307942
+      },
+      {
+        "name": "Dick Zimmerman (3)",
+        "role": "Photography By",
+        "id": 2158806
+      },
+      {
+        "name": "Quincy Jones",
+        "role": "Producer",
+        "id": 17546
+      },
+      {
+        "name": "Humberto Gatica",
+        "role": "Recorded By [Additional Sound Sources]",
+        "id": 176998
+      },
+      {
+        "name": "Matt Forger",
+        "role": "Recorded By [Additional Sound Sources]",
+        "id": 198516
+      },
+      {
+        "name": "Bruce Swedien",
+        "role": "Recorded By, Mixed By",
+        "id": 101354
+      },
+      {
+        "name": "Design Pool",
+        "role": "Stylist [Styling]",
+        "id": 13615957
+      },
+      {
+        "name": "Valad\u00e9",
+        "role": "Stylist [Styling]",
+        "id": 13615960
+      }
+    ],
+    "identifiers": [
+      {
+        "type": "Barcode",
+        "value": "0888751437319",
+        "description": "Scanned"
+      },
+      {
+        "type": "Barcode",
+        "value": "8 88751 43731 9",
+        "description": "Printed"
+      },
+      {
+        "type": "Label Code",
+        "value": "LC00199",
+        "description": null
+      },
+      {
+        "type": "Rights Society",
+        "value": "BIEM/GEMA",
+        "description": null
+      },
+      {
+        "type": "Rights Society",
+        "value": "BMI",
+        "description": "Tracks: A1, A3, B1, B2, B4"
+      },
+      {
+        "type": "Rights Society",
+        "value": "PRS",
+        "description": "Tracks: A2, A4, B5"
+      },
+      {
+        "type": "Rights Society",
+        "value": "ASCAP",
+        "description": "Tracks: A2, A4, B3 to B5"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "88875143731A",
+        "description": "Label side A"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "88875143731B",
+        "description": "Label side B"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "16-0055 NL A 88875143731 MPO Kr SST",
+        "description": "Side A runout"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "16-0055 NL B 88875143731 MPO Kr SST",
+        "description": "Side B runout"
+      }
+    ],
+    "notes": "Made in the EU\n\nThis release differs from the other European versions due to the fact that this version contains a barcode and the pressing information written by hand on the deadsides of the vinyl.",
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/vKlK3B4g-KL74s0NSnGZlE2Ur_Sw7RT9CJ3oPOo2BBM/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MDUz/MTAtMTQ2Mjk2ODAz/OS04OTkwLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/5Y3niFxJbcuzx7pwqW6OruKJt56QKAUBA7bBhFcWSUc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MDUz/MTAtMTQ2Mjk2ODAz/OS04OTkwLmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/C9DVrFnC_4Qt8sO8RuK-HhVLSiXl5LfuCSo0xvFvvXs/rs:fit/g:sm/q:90/h:294/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MDUz/MTAtMTUzOTcxNzM5/OS00MTM0LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/FdQfOTx4CP172QrXL6SOp3il36jVAbfibj7Z1GSrHrE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MDUz/MTAtMTUzOTcxNzM5/OS00MTM0LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/3v0xNr3wdnXniNEXYnY-PXa6JvQtmmsPn8RSVfaOkaY/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MDUz/MTAtMTUzOTcxNzM5/OS0zOTczLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/5LCjT2YIRAvisb7OEt6LWoMgXRKKQknZQhIJDCsYUAI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MDUz/MTAtMTUzOTcxNzM5/OS0zOTczLmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/MFy2KUMKepRXU_LgtdyOv45o2zIuvKYtJee5b2zs7tE/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MDUz/MTAtMTUzOTcxNzM5/OS05MTQyLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/LyvhzSYjjaoT0mLZgxPALm-s3Wn6Ixd40nY6lxZYOqc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MDUz/MTAtMTUzOTcxNzM5/OS05MTQyLmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/d945Lo4Tjkdaf0CkE3XrI9XqIbHQnIn11A6IGaxv8nk/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MDUz/MTAtMTUzOTcxNzQw/MC00MDQ4LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/7W_yorqrUDLq6jK1_JjEqVmzHGLq196iclDJcviHgWo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MDUz/MTAtMTUzOTcxNzQw/MC00MDQ4LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/6eC7gAuNKx8HewntTelk0LN4jKW1uPuTewcqo3PIFd4/rs:fit/g:sm/q:90/h:437/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MDUz/MTAtMTUzOTcxNzQw/MC00Mzk4LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/EllsJzS6o0k02RUtlrwSMTc55n1CW3PIarlulEcUG4o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MDUz/MTAtMTUzOTcxNzQw/MC00Mzk4LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/wf46fnZNeMxPyTkxM307dcBmAcT3DMpZoZ7vSoVNGBg/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MDUz/MTAtMTUzOTcxNzM5/OS00MzE2LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/iIrwWMZNdwilvxcHAy_gxbqUF0q9PO7GmWr_Ar5DJXs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MDUz/MTAtMTUzOTcxNzM5/OS00MzE2LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/dT1-jS87lGQ8I20xpfRGH4_pSoGbsKErWTmTX8DsOew/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MDUz/MTAtMTUzOTcxNzM5/OS04Mzk5LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/CnD8C8AbgIUOmg08FWQvkFGVa82ZwAkRPtF-o0oo4Gc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MDUz/MTAtMTUzOTcxNzM5/OS04Mzk5LmpwZWc.jpeg"
+      }
+    ],
+    "community": {
+      "rating": {
+        "count": 1310,
+        "average": 4.76
+      },
+      "have": 16074,
+      "want": 1183
+    },
+    "master": {
+      "id": 8883,
+      "title": "Thriller",
+      "main_release": 2911293,
+      "year": 1982,
+      "uri": "https://www.discogs.com/master/8883-Michael-Jackson-Thriller",
+      "num_for_sale": 6040
+    }
+  },
+  "apple_music": {
+    "id": 269572838,
+    "url": "https://music.apple.com/us/album/thriller/269572838?uo=4",
+    "name": "Thriller",
+    "artist": "Michael Jackson",
+    "artist_id": 32940,
+    "artwork_url_100": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/32/4f/fd/324ffda2-9e51-8f6a-0c2d-c6fd2b41ac55/074643811224.jpg/100x100bb.jpg",
+    "artwork_url_600": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/32/4f/fd/324ffda2-9e51-8f6a-0c2d-c6fd2b41ac55/074643811224.jpg/600x600bb.jpg",
+    "release_date": "1982-11-29T08:00:00Z",
+    "track_count": 9,
+    "copyright": "\u2117 1982 MJJ Productions Inc.",
+    "primary_genre": "Pop",
+    "country": "USA",
+    "tracks": [
+      {
+        "track_number": 1,
+        "disc_number": 1,
+        "name": "Wanna Be Startin' Somethin'",
+        "duration_ms": 363400,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/81/9a/e4/819ae4ff-12b7-35c4-6fca-2923fb16852c/mzaf_10788836398273150393.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/wanna-be-startin-somethin/269572838?i=269572927&uo=4"
+      },
+      {
+        "track_number": 2,
+        "disc_number": 1,
+        "name": "Baby Be Mine",
+        "duration_ms": 260368,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b3/9c/8b/b39c8b6b-7a9f-8944-25c2-1348eaadeaac/mzaf_2663676543764471086.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/baby-be-mine/269572838?i=269573042&uo=4"
+      },
+      {
+        "track_number": 3,
+        "disc_number": 1,
+        "name": "The Girl Is Mine",
+        "duration_ms": 222153,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2d/38/1e/2d381e88-68e9-2bb9-7b00-d0c6366f8db6/mzaf_12594152365957446372.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/the-girl-is-mine/269572838?i=269573208&uo=4"
+      },
+      {
+        "track_number": 4,
+        "disc_number": 1,
+        "name": "Thriller",
+        "duration_ms": 358807,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/58/8c/cb/588ccb9a-ab79-4a38-43b5-d4c24ea42859/mzaf_2083607504726567992.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/thriller/269572838?i=269573303&uo=4"
+      },
+      {
+        "track_number": 5,
+        "disc_number": 1,
+        "name": "Beat It",
+        "duration_ms": 258297,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/88/cd/46/88cd46bd-dba7-1dc2-a63b-e8c111ac4fc3/mzaf_4042555053237612653.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/beat-it/269572838?i=269573341&uo=4"
+      },
+      {
+        "track_number": 6,
+        "disc_number": 1,
+        "name": "Billie Jean",
+        "duration_ms": 293802,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/dc/bc/8a/dcbc8a3e-4ce1-c00d-cc02-eda2212053c7/mzaf_8347559338388601510.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/billie-jean/269572838?i=269573364&uo=4"
+      },
+      {
+        "track_number": 7,
+        "disc_number": 1,
+        "name": "Human Nature",
+        "duration_ms": 245838,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ba/4c/2a/ba4c2a0a-18ff-1350-4ec6-c4e75e053600/mzaf_9049310839196982005.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/human-nature/269572838?i=269573405&uo=4"
+      },
+      {
+        "track_number": 8,
+        "disc_number": 1,
+        "name": "P.Y.T. (Pretty Young Thing)",
+        "duration_ms": 238334,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b4/b4/24/b4b42455-0fcc-7e16-52ad-f896de9bc88d/mzaf_14227056241100382943.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/p-y-t-pretty-young-thing/269572838?i=269573447&uo=4"
+      },
+      {
+        "track_number": 9,
+        "disc_number": 1,
+        "name": "The Lady in My Life",
+        "duration_ms": 298251,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c1/1d/f9/c11df9ff-ae6a-7c39-9102-62e0b83b14b4/mzaf_10649929995235674377.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/the-lady-in-my-life/269572838?i=269573478&uo=4"
+      }
+    ]
+  },
+  "discrepancies": [
+    "Release year differs: your pressing=2016, Apple Music edition=1982. Apple Music typically streams the most recent remaster."
+  ],
+  "local_cover": "images/8505310.jpg"
+}

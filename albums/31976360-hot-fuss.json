@@ -1,0 +1,494 @@
+{
+  "captured_at": "2026-05-17T21:07:28+00:00",
+  "schema_version": 3,
+  "artist": "The Killers",
+  "title": "Hot Fuss",
+  "original_release_year": 2004,
+  "pressing_year": 2024,
+  "upgrade_suggestion": "No significant audiophile reissue exists. The original 2004 Island pressing is the first vinyl edition if an original is preferred over this 2024 reissue.",
+  "commentary": "**Hot Fuss** is The Killers' debut album, released in June 2004 on Island / Lizard King Records, and one of the defining rock albums of the 2000s. Produced by Flood and Alan Moulder, it blends post-punk revival energy with new wave synthesizer aesthetics and anthemic songwriting, creating a sound that was simultaneously retro and utterly fresh for its moment. \"Mr. Brightside,\" \"Somebody Told Me,\" \"All These Things That I've Done,\" and \"Smile Like You Mean It\" launched the Las Vegas band into international stardom and established them as one of the most commercially successful rock acts of their generation.\n\n\"Mr. Brightside\" in particular has become one of the most enduring rock singles of the 21st century \u2014 it has never left the UK Singles Chart since its release, a record that stands to this day. The album's combination of Brandon Flowers' theatrical vocal delivery, Dave Keuning's angular guitar work, and the band's instinct for enormous melodic hooks gave it a timelessness that most debut albums never achieve.\n\nThe **2024 Limited Edition reissue** (Island / UMe catalog **602465945317**) is a contemporary pressing of the album on standard weight vinyl. The matrix codes `10-99453 / B002697901 - A 261736E1/H` identify this as a UMe-distributed pressing with standard lacquer cutting.\n\n**About this 2024 US pressing (Vinyl, LP, Limited Edition, Reissue):** Island / UMe catalog **602465945317**, 2024 Limited Edition reissue. Barcode 602465945317. Matrix 261736E1/H.\n",
+  "discogs": {
+    "release_id": 31976360,
+    "master_id": 71471,
+    "uri": "https://www.discogs.com/release/31976360-The-Killers-Hot-Fuss",
+    "title": "Hot Fuss",
+    "artists": [
+      {
+        "name": "The Killers",
+        "id": 220651,
+        "role": null
+      }
+    ],
+    "year": 2024,
+    "released": "2024-10-11",
+    "country": "US",
+    "labels": [
+      {
+        "name": "Island Records",
+        "catno": "602465945317",
+        "id": 8377
+      },
+      {
+        "name": "UMe",
+        "catno": "602465945317",
+        "id": 68029
+      }
+    ],
+    "formats": [
+      {
+        "name": "Vinyl",
+        "qty": "1",
+        "descriptions": [
+          "LP",
+          "Album",
+          "Limited Edition",
+          "Reissue",
+          "Repress"
+        ],
+        "text": "White [Bone], Obi Strip, 20th Anniversary"
+      }
+    ],
+    "genres": [
+      "Electronic",
+      "Rock"
+    ],
+    "styles": [
+      "New Wave",
+      "Synth-pop",
+      "Indie Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Jenny Was A Friend Of Mine",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "A2",
+        "title": "Mr Brightside",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "A3",
+        "title": "Smile Like You Mean It",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "A4",
+        "title": "Somebody Told Me",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "A5",
+        "title": "All These Things That I've Done",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B1",
+        "title": "Andy, You're A Star",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B2",
+        "title": "On Top",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B3",
+        "title": "Change Your Mind",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B4",
+        "title": "Believe Me Natalie",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B5",
+        "title": "Midnight Show",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B6",
+        "title": "Everything Will Be Alright",
+        "duration": "",
+        "type": "track"
+      }
+    ],
+    "extraartists": [
+      {
+        "name": "Robert Stevenson (3)",
+        "role": "A&R",
+        "id": 1851455
+      },
+      {
+        "name": "Tara Podolsky",
+        "role": "Administrator [A&R Administration]",
+        "id": 1851643
+      },
+      {
+        "name": "Tony Vanias",
+        "role": "Administrator [Recording Administration]",
+        "id": 2886172
+      },
+      {
+        "name": "Louis Marino",
+        "role": "Art Direction",
+        "id": 139197
+      },
+      {
+        "name": "Mark Stoermer",
+        "role": "Bass",
+        "id": 427836
+      },
+      {
+        "name": "Photonica",
+        "role": "Cover [Cover Photo]",
+        "id": 2270502
+      },
+      {
+        "name": "Seth Goldfarb",
+        "role": "Cover [Cover Photo]",
+        "id": 2530265
+      },
+      {
+        "name": "Ronnie Vannucci",
+        "role": "Drums",
+        "id": 427830
+      },
+      {
+        "name": "Dario Dendi",
+        "role": "Engineer [Assistant]",
+        "id": 427831
+      },
+      {
+        "name": "Dave Stedronsky",
+        "role": "Engineer [Assistant]",
+        "id": 427832
+      },
+      {
+        "name": "Mark Needham",
+        "role": "Engineer [Assistant]",
+        "id": 261845
+      },
+      {
+        "name": "Will Brierre",
+        "role": "Engineer [Assistant]",
+        "id": 427833
+      },
+      {
+        "name": "Dave Keuning",
+        "role": "Guitar",
+        "id": 427835
+      },
+      {
+        "name": "Callister & Reynolds",
+        "role": "Legal",
+        "id": 7459011
+      },
+      {
+        "name": "Robert Reynolds",
+        "role": "Legal",
+        "id": 1280252
+      },
+      {
+        "name": "Heath Kudler",
+        "role": "Legal [Business Affairs]",
+        "id": 2299694
+      },
+      {
+        "name": "Brian Gardner",
+        "role": "Mastered By",
+        "id": 70778
+      },
+      {
+        "name": "Alan Moulder",
+        "role": "Mixed By",
+        "id": 2768
+      },
+      {
+        "name": "Mark Needham",
+        "role": "Mixed By",
+        "id": 261845
+      },
+      {
+        "name": "Matt Hartman",
+        "role": "Photography By [Band Photography]",
+        "id": 497548
+      },
+      {
+        "name": "Jeff Saltzman (2)",
+        "role": "Producer",
+        "id": 1258957
+      },
+      {
+        "name": "The Killers",
+        "role": "Producer",
+        "id": 220651
+      },
+      {
+        "name": "Jeff Saltzman (2)",
+        "role": "Recorded By",
+        "id": 1258957
+      },
+      {
+        "name": "Brandon Flowers",
+        "role": "Vocals [Vox], Synthesizer",
+        "id": 281050
+      }
+    ],
+    "identifiers": [
+      {
+        "type": "Barcode",
+        "value": "6 02465 94531 7",
+        "description": "Text"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "10-99453 / B002697901 - A 261736E1/A",
+        "description": "Side A runout, variant 1"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "10-99453 / B002697901 - B 261736E2/A",
+        "description": "Side B runout, variant 1"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "10-99453 / B002697901 - A 261736E1/D",
+        "description": "Side A runout, variant 2"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "10-99453 / B002697901 - B 261736E2/A",
+        "description": "Side B runout, variant 2"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "10-99453 / B002697901 - A 261736E1/C",
+        "description": "Side A runout, variant 3"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "10-99453 / B002697901 - B 261736E2/C",
+        "description": "Side B runout, variant 3"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "10-99453 / B002697901 - A 261736E1/H",
+        "description": "Side A runout, variant 4"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "10-99453 / B002697901 - B 261736E2/C",
+        "description": "Side B runout, variant 4"
+      },
+      {
+        "type": "Other",
+        "value": "B0026979-01",
+        "description": "Printed inner sleeve"
+      }
+    ],
+    "notes": "Includes printed inner sleeve and Target exclusive obi strip.\n\nThe runouts are stamped.\n\nMade in Canada - printed on shrink wrap.",
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/so2tpsAMv_am57sG3ru5heVOX6xfwh7OYXk6xc9XZb4/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTc2/MzYwLTE3MzExMDA0/NzctMjcwOC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/ki2oJo3UrHQBl8MzB0m803I00L0Qa2Yz2W4UGVuEAPM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTc2/MzYwLTE3MzExMDA0/NzctMjcwOC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/BPKxH0UFsHqi1Gn2YXGILs8pQnxKoLC9pgLZLHnftEs/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTc2/MzYwLTE3Mjk4ODI3/MTItMjM3OC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/SQ1iodNEDkHlvyUCwA1OIv_17H3VrRhIsLYGpGoYcMw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTc2/MzYwLTE3Mjk4ODI3/MTItMjM3OC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/6JEuSR2e7TXw9ir-uv3Nbk4j9ang4amqGnaijRkfOyo/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTc2/MzYwLTE3MzExMDA0/NzctMTMzOC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/tM-M1WQNIjQJfoTEpN5-YP8DxdDpXEbTSrM0yLl_8m0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTc2/MzYwLTE3MzExMDA0/NzctMTMzOC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/pfCpkgRUbFXG1_DQkq_vjJUbvM2z1mqltJHDUOh4-ok/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTc2/MzYwLTE3Mjk4ODI3/MTItNjcyMy5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/x6PX0T1PFHIXhpJW8iQCSh0Wo5Wmi2fcu92hOY1PxUA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTc2/MzYwLTE3Mjk4ODI3/MTItNjcyMy5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/Pqg736GB12H1C0fT9yBblzrzpE7xItuvnRbwud8seeg/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTc2/MzYwLTE3Mjg5MDk4/MTUtNjU5MC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/iksSGJIcLNLXfvwVY6q0fKhwPicjh_joCfhZyJyMGSY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTc2/MzYwLTE3Mjg5MDk4/MTUtNjU5MC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/v5HxRKTE72nW3rchVEwlkaye8YqlSvI8BiLn3j4t4iw/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTc2/MzYwLTE3Mjg5MDk4/MTYtMzc4NS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/EuQlWnfpyx19CkRFc5UFVXZ6SN1EHTh3IqkLennHzvo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTc2/MzYwLTE3Mjg5MDk4/MTYtMzc4NS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/xTUZMYgkYKuAJIV27gmzY_JxZeuXUoRagTTzXsmn5I8/rs:fit/g:sm/q:90/h:599/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTc2/MzYwLTE3Mjg5MDk4/MTAtMTIwMC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/IuYM0tzpkqDD6i3tijkRs6OWWj2LuRMD0245lsLJVZQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTc2/MzYwLTE3Mjg5MDk4/MTAtMTIwMC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/J-FjsYZ4NGfGGKIR-45gUepx83QWw1VM5lUlMNoavY8/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTc2/MzYwLTE3Mjg5MDk4/MTAtODY1MS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/Ls07FV_OGY4LOJyTON7-dLHgb6esFN2uJpZsMZeG-fo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTc2/MzYwLTE3Mjg5MDk4/MTAtODY1MS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/oaw8XR8oQrdSMTSnOGxKzwMldTeu90yboGMXOFkmfgg/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTc2/MzYwLTE3Mjg5MDk4/MTYtNDc3Ni5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/_tdkSw2_ayGwhZYHC8dkj9ObOb4EDdbjbbrB6luagfA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTc2/MzYwLTE3Mjg5MDk4/MTYtNDc3Ni5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/NvHzzrvBp-7VUWCb9g03N3o64l1mpm6Ac3g1Yc4rOKs/rs:fit/g:sm/q:90/h:306/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTc2/MzYwLTE3NDYzNTA5/MjAtNzg0OC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/lePtwaQTjgDlImiSdqMWHVpsl9BNuWMaK4a6w-stDHE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTc2/MzYwLTE3NDYzNTA5/MjAtNzg0OC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/K7NT1JdpEYVtbaDlS4ybOovCahxydp2PszpckNT-Q5A/rs:fit/g:sm/q:90/h:312/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTc2/MzYwLTE3NDYzNTEw/NjAtODU1OS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/YO03_j2VjF8r8cYn8T8cYtec1igu8lSysT-fwDUJ-hY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTc2/MzYwLTE3NDYzNTEw/NjAtODU1OS5qcGVn.jpeg"
+      }
+    ],
+    "community": {
+      "rating": {
+        "count": 308,
+        "average": 4.6
+      },
+      "have": 4330,
+      "want": 629
+    },
+    "master": {
+      "id": 71471,
+      "title": "Hot Fuss",
+      "main_release": 397167,
+      "year": 2004,
+      "uri": "https://www.discogs.com/master/71471-The-Killers-Hot-Fuss",
+      "num_for_sale": 916
+    }
+  },
+  "apple_music": {
+    "id": 1526194184,
+    "url": "https://music.apple.com/us/album/hot-fuss/1526194184?uo=4",
+    "name": "Hot Fuss",
+    "artist": "The Killers",
+    "artist_id": 6483093,
+    "artwork_url_100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/07/1a/5a/071a5aee-6e42-060c-35b9-6a6e45b9ea59/06UMGIM10441.rgb.jpg/100x100bb.jpg",
+    "artwork_url_600": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/07/1a/5a/071a5aee-6e42-060c-35b9-6a6e45b9ea59/06UMGIM10441.rgb.jpg/600x600bb.jpg",
+    "release_date": "2004-06-07T07:00:00Z",
+    "track_count": 12,
+    "copyright": "An Island Records Release; \u2117 2007 UMG Recordings, Inc.",
+    "primary_genre": "Rock",
+    "country": "USA",
+    "tracks": [
+      {
+        "track_number": 1,
+        "disc_number": 1,
+        "name": "Jenny Was a Friend of Mine",
+        "duration_ms": 243933,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/89/a3/a9/89a3a97f-35c4-578a-ab0a-6db6952c8e41/mzaf_4103707404989541691.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/jenny-was-a-friend-of-mine/1526194184?i=1526194191&uo=4"
+      },
+      {
+        "track_number": 2,
+        "disc_number": 1,
+        "name": "Mr. Brightside",
+        "duration_ms": 222973,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/5c/95/cf/5c95cf3a-bef3-97e7-b6aa-3adde55deb30/mzaf_15328769143459778457.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/mr-brightside/1526194184?i=1526194192&uo=4"
+      },
+      {
+        "track_number": 3,
+        "disc_number": 1,
+        "name": "Smile Like You Mean It",
+        "duration_ms": 234107,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/72/87/ad/7287ad98-6919-79d2-27ab-ae614ab31c7f/mzaf_17132484015775786271.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/smile-like-you-mean-it/1526194184?i=1526194193&uo=4"
+      },
+      {
+        "track_number": 4,
+        "disc_number": 1,
+        "name": "Somebody Told Me",
+        "duration_ms": 197200,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/3f/52/56/3f525606-7cb8-0292-51c1-c617802ba773/mzaf_433193577063250516.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/somebody-told-me/1526194184?i=1526194195&uo=4"
+      },
+      {
+        "track_number": 5,
+        "disc_number": 1,
+        "name": "All These Things That I've Done",
+        "duration_ms": 301867,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/5d/dc/84/5ddc84d2-c386-3351-3080-22079911ba23/mzaf_14477363246605726110.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/all-these-things-that-ive-done/1526194184?i=1526194197&uo=4"
+      },
+      {
+        "track_number": 6,
+        "disc_number": 1,
+        "name": "Andy, You're a Star",
+        "duration_ms": 194080,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f3/10/7e/f3107e58-6b61-c48f-ec54-e20472345565/mzaf_16570185873808061522.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/andy-youre-a-star/1526194184?i=1526194198&uo=4"
+      },
+      {
+        "track_number": 7,
+        "disc_number": 1,
+        "name": "On Top",
+        "duration_ms": 258933,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d5/cd/12/d5cd1214-1fe2-1ce6-df94-ebfa7aab74be/mzaf_14620129957160165317.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/on-top/1526194184?i=1526194199&uo=4"
+      },
+      {
+        "track_number": 8,
+        "disc_number": 1,
+        "name": "Change Your Mind",
+        "duration_ms": 192000,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b9/55/01/b9550146-2589-7b8a-67ed-89ee74c1fd8f/mzaf_17100817075142425659.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/change-your-mind/1526194184?i=1526194201&uo=4"
+      },
+      {
+        "track_number": 9,
+        "disc_number": 1,
+        "name": "Believe Me Natalie",
+        "duration_ms": 305013,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/39/d5/bb/39d5bbe4-1e91-1043-d312-b2ba091211b2/mzaf_5724855029838175086.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/believe-me-natalie/1526194184?i=1526194296&uo=4"
+      },
+      {
+        "track_number": 10,
+        "disc_number": 1,
+        "name": "Midnight Show",
+        "duration_ms": 243293,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0d/f4/ec/0df4ec37-4707-d861-059c-68b886cadea2/mzaf_192036881527222490.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/midnight-show/1526194184?i=1526194297&uo=4"
+      },
+      {
+        "track_number": 11,
+        "disc_number": 1,
+        "name": "Everything Will Be Alright",
+        "duration_ms": 344907,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/20/bf/88/20bf88fe-7865-028b-c33c-2163c31666c2/mzaf_10988263780425168243.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/everything-will-be-alright/1526194184?i=1526194298&uo=4"
+      },
+      {
+        "track_number": 12,
+        "disc_number": 1,
+        "name": "Glamorous Indie Rock & Roll",
+        "duration_ms": 254653,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e4/7f/c2/e47fc270-63ec-6ecb-ee8d-6937aa333c56/mzaf_4248834770578112668.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/glamorous-indie-rock-roll/1526194184?i=1526194299&uo=4"
+      }
+    ]
+  },
+  "discrepancies": [
+    "Track count differs: Discogs=11, Apple Music=12",
+    "Release year differs: your pressing=2024, Apple Music edition=2004. Apple Music typically streams the most recent remaster."
+  ],
+  "local_cover": "images/31976360.jpg"
+}

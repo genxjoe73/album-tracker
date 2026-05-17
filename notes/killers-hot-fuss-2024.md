@@ -1,0 +1,7 @@
+**Hot Fuss** is The Killers' debut album, released in June 2004 on Island / Lizard King Records, and one of the defining rock albums of the 2000s. Produced by Flood and Alan Moulder, it blends post-punk revival energy with new wave synthesizer aesthetics and anthemic songwriting, creating a sound that was simultaneously retro and utterly fresh for its moment. "Mr. Brightside," "Somebody Told Me," "All These Things That I've Done," and "Smile Like You Mean It" launched the Las Vegas band into international stardom and established them as one of the most commercially successful rock acts of their generation.
+
+"Mr. Brightside" in particular has become one of the most enduring rock singles of the 21st century — it has never left the UK Singles Chart since its release, a record that stands to this day. The album's combination of Brandon Flowers' theatrical vocal delivery, Dave Keuning's angular guitar work, and the band's instinct for enormous melodic hooks gave it a timelessness that most debut albums never achieve.
+
+The **2024 Limited Edition reissue** (Island / UMe catalog **602465945317**) is a contemporary pressing of the album on standard weight vinyl. The matrix codes `10-99453 / B002697901 - A 261736E1/H` identify this as a UMe-distributed pressing with standard lacquer cutting.
+
+**About this 2024 US pressing (Vinyl, LP, Limited Edition, Reissue):** Island / UMe catalog **602465945317**, 2024 Limited Edition reissue. Barcode 602465945317. Matrix 261736E1/H.

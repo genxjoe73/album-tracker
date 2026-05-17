@@ -1,0 +1,603 @@
+{
+  "captured_at": "2026-05-17T20:30:43+00:00",
+  "schema_version": 3,
+  "artist": "Genesis",
+  "title": "The Lamb Lies Down On Broadway",
+  "original_release_year": 1974,
+  "pressing_year": 2018,
+  "upgrade_suggestion": "This Miles Showell half-speed master is already the definitive modern reissue. The original 1974 Charisma CAS 101 UK pressing is the audiophile original if you want a period artifact.",
+  "commentary": "**The Lamb Lies Down on Broadway** is Genesis's sixth studio album, released in November 1974 on Charisma Records, and widely considered one of the most ambitious concept albums in progressive rock history. A sprawling double LP built around a surrealist narrative written by Peter Gabriel \u2014 his final album with the band \u2014 it follows Rael, a Puerto Rican street kid from New York City, through a bizarre dreamscape of Kafka-esque encounters, literary allusions, and psychedelic imagery. Musically, the album balances Genesis's trademark intricate instrumental passages with a harder, more visceral edge than their earlier work, reflecting Gabriel's increasing interest in street-level Americana.\n\nThe album represents the apex and endpoint of the Gabriel-era Genesis: after the subsequent tour, Gabriel departed to pursue his solo career, fundamentally changing the band's identity. *The Lamb* remains a touchstone of progressive rock \u2014 demanding, sprawling, and uncompromising \u2014 and has grown in critical stature over the decades as a singular artifact of 1970s rock ambition.\n\nThe **2018 Deluxe Edition reissue** (Rhino / Atlantic, catalog **R1 516782**) was mastered by **Miles Showell** at **Abbey Road Studios** using the **half-speed mastering process** \u2014 the same technique used for the highly regarded Beatles and Led Zeppelin half-speed reissues. Half-speed mastering cuts the lacquer at half the normal speed, allowing the cutting stylus to inscribe finer groove detail and improving high-frequency resolution. Miles Showell is one of the foremost practitioners of this technique, and his Abbey Road half-speed masters are among the most sought-after contemporary reissues. The matrix codes `BI41854-01 A1 V= ABBEY ROAD. MILES. ROOM 30` confirm this provenance.\n\n**About this 2018 US pressing (2\u00d7 Vinyl, LP, Deluxe Edition, Reissue):** Rhino / Atlantic catalog **R1 516782**, 2018 half-speed reissue. Barcode 603497896196. Mastered by Miles Showell at Abbey Road Studios, Room 30, half-speed process.\n",
+  "discogs": {
+    "release_id": 12798403,
+    "master_id": 29256,
+    "uri": "https://www.discogs.com/release/12798403-Genesis-The-Lamb-Lies-Down-On-Broadway",
+    "title": "The Lamb Lies Down On Broadway",
+    "artists": [
+      {
+        "name": "Genesis",
+        "id": 124506,
+        "role": null
+      }
+    ],
+    "year": 2018,
+    "released": "2018-10-08",
+    "country": "US",
+    "labels": [
+      {
+        "name": "Charisma",
+        "catno": "R1 516782",
+        "id": 3109
+      },
+      {
+        "name": "Atlantic",
+        "catno": "R1 516782",
+        "id": 681
+      },
+      {
+        "name": "Rhino Records (2)",
+        "catno": "R1 516782",
+        "id": 33244
+      }
+    ],
+    "formats": [
+      {
+        "name": "Vinyl",
+        "qty": "2",
+        "descriptions": [
+          "LP",
+          "Album",
+          "Deluxe Edition",
+          "Reissue",
+          "Repress",
+          "Stereo"
+        ],
+        "text": "Half-Speed Mastered, 180g"
+      }
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Prog Rock",
+      "Art Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "The Lamb Lies Down On Broadway",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "A2",
+        "title": "Fly On A Windshield",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "A3",
+        "title": "Broadway Melody Of 1974",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "A4",
+        "title": "Cuckoo Cocoon",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "A5",
+        "title": "In The Cage",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "A6",
+        "title": "The Grand Parade Of Lifeless Packaging",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B1",
+        "title": "Back In N.Y.C.",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B2",
+        "title": "Hairless Heart",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B3",
+        "title": "Counting Out Time",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B4",
+        "title": "Carpet Crawlers",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B5",
+        "title": "The Chamber Of 32 Doors",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "C1",
+        "title": "Lilywhite Lilith",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "C2",
+        "title": "The Waiting Room",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "C3",
+        "title": "Anyway",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "C4",
+        "title": "Here Comes The Supernatural Anaesthetist",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "C5",
+        "title": "The Lamia",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "C6",
+        "title": "Silent Sorrow In Empty Boats",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "",
+        "title": "The Colony Of Slippermen",
+        "duration": "",
+        "type": "index"
+      },
+      {
+        "position": "D2",
+        "title": "Ravine",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "D3",
+        "title": "The Light Dies Down On Broadway",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "D4",
+        "title": "Riding The Scree",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "D5",
+        "title": "In The Rapids",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "D6",
+        "title": "It",
+        "duration": "",
+        "type": "track"
+      }
+    ],
+    "extraartists": [
+      {
+        "name": "Richard Manning (3)",
+        "role": "Artwork [Retouching]",
+        "id": 1832641
+      },
+      {
+        "name": "Mike Rutherford",
+        "role": "Bass, Twelve-String Guitar [12-string Guitar]",
+        "id": 296372
+      },
+      {
+        "name": "Graham Bell",
+        "role": "Chorus [Choral Contribution]",
+        "id": 602552
+      },
+      {
+        "name": "Hipgnosis (2)",
+        "role": "Design [Sleeve Design], Photography By [All Photography By]",
+        "id": 1826972
+      },
+      {
+        "name": "Dave Hutchins",
+        "role": "Engineer",
+        "id": 283333
+      },
+      {
+        "name": "George Hardie",
+        "role": "Graphics",
+        "id": 1826981
+      },
+      {
+        "name": "Steve Hackett",
+        "role": "Guitar [Guitars]",
+        "id": 125989
+      },
+      {
+        "name": "Tony Banks",
+        "role": "Keyboards",
+        "id": 336885
+      },
+      {
+        "name": "Miles Showell",
+        "role": "Lacquer Cut By",
+        "id": 383408
+      },
+      {
+        "name": "Peter Gabriel",
+        "role": "Liner Notes",
+        "id": 11136
+      },
+      {
+        "name": "Nick Davis",
+        "role": "Mixed By [2008 Mixes By]",
+        "id": 81417
+      },
+      {
+        "name": "Phil Collins",
+        "role": "Percussion, Vibraphone [Vibing], Voice [Voicing]",
+        "id": 101028
+      },
+      {
+        "name": "Genesis",
+        "role": "Producer [Production]",
+        "id": 124506
+      },
+      {
+        "name": "John Burns",
+        "role": "Producer [Production]",
+        "id": 252811
+      },
+      {
+        "name": "Peter Gabriel",
+        "role": "Voice [Voices], Flute",
+        "id": 11136
+      },
+      {
+        "name": "Genesis",
+        "role": "Written-By [All Titles Written By]",
+        "id": 124506
+      }
+    ],
+    "identifiers": [
+      {
+        "type": "Barcode",
+        "value": "603497896196",
+        "description": "Scanned, UPC-A"
+      },
+      {
+        "type": "Barcode",
+        "value": "6 03497 89619 6",
+        "description": "Text"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BI41854-01 A1 V= 6748985 ABBEY ROAD. MILES. ROOM 30.",
+        "description": "Runout side A"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BI41854-01 B1 6748985 V+ MILES. ABBEY ROAD. ROOM 30.",
+        "description": "Runout side B"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BD00972-01 K1 VI- LPBOX 14 K-2 \u24c2MILES THE PARADIGM 1/2 SPEED PROCESS.",
+        "description": "Runout side C"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BD00972-01 L2 3\u25b3 ABBEY ROAD. MILES. LPBOX 14-L",
+        "description": "Runout side D"
+      }
+    ],
+    "notes": "2018 repress of the 2008 Remix.\n\nSides A and B uses [a383408] [l217694] lacquer cuts. 2018 [l313190] mastering year.\nSide C uses a 2008 [a383408] at [l181778] lacquer cut. 2013 [l313190] mastering year.\nSide D uses a [a383408] [l217694] lacquer cut. 2013 [l313190] mastering year.\n\nRunouts are etched, except for \"\u24c2,\" which is stamped.\n\nOn the back cover:\n\u2117 & \u00a9 2018, 1974 Anthony Banks Ltd, Philip Collins Ltd, Peter Gabriel Ltd, Stephen Hackett Ltd, Michael Rutherford Ltd, under exclusive license to Atlantic Recording Corporation\nManufactured for & Marketed by Rhino Entertainment Company, a Warner Music Group Company\nPublishing: Anthony Banks, Philip Collins Ltd, Stephen Hackett Ltd, Real World Music Ltd, Michael Rutherford Ltd, EMI Music Publishing Ltd, Imagem, Sony ATV\n\nIn the gatefold:\nCopyright Peter Gabriel 1974\nRecorded in Wales with the Island Mobile Studio\n\nOn the labels:\nPublishing: Anthony Banks, Philip Collins Ltd, Stephen Hackett Ltd, Real World Music Ltd, Michael Rutherford Ltd, EMI Music Publishing Ltd, Imagem, Sony ATV\n\u2117 & \u00a9 2018, 1974 Anthony Banks Ltd, Philip Collins Ltd, Peter Gabriel Ltd, Stephen Hackett Ltd, Michael Rutherford Ltd, under exclusive license to Atlantic Recording Corporation\nManufactured for & Marketed by Rhino Entertainment Company, a Warner Music Group Company\nManufactured in E.U.\n\nOn the hype sticker:\nThe Classic Albums\nDeluxe Edition\nFeaturing:\nHalf Speed Mastering\n2008 Mixes\n180 Gram Audiophile Vinyl",
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/Kz_ZVf3Rt3TDsADyRNPgDffS0fHPivr-eGw9i5MEVQ8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzk4/NDAzLTE2NDU5ODcw/OTMtNzUyMy5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/7GVm4h9t3hugX42KiVrcRzIGstbdIhNLCN-JsAJEvXY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzk4/NDAzLTE2NDU5ODcw/OTMtNzUyMy5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/e73x82y5IjSxFaPMpn8JZgdgxNBPECQXlnFTciDH-aU/rs:fit/g:sm/q:90/h:296/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzk4/NDAzLTE2NDU4NTY1/NzgtMjI5Ny5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/3XRnSuybK6Xq-wdcB5Pwbsu7T2YI_X_KLOQ-Z8tl9Ls/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzk4/NDAzLTE2NDU4NTY1/NzgtMjI5Ny5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/IXwQw-g0530DitJTLdj-97_Nl6osPQsMaXJXTEmI_4o/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzk4/NDAzLTE2NDU4NTY1/NzctNDU5Ni5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/GE2pLlHK20nqqbU4CKFldTokiFjxkAD-KjFH-jXwm24/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzk4/NDAzLTE2NDU4NTY1/NzctNDU5Ni5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/te0wEMlemA7KSC9sK5qvQu7jmHGFWrY3AQfUygwvjo0/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzk4/NDAzLTE3NjM4NDg0/NTUtNDU3MC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/FqetbbZ7UD2kU0jdEeAYckjaiVmaOXY8Ahe6EQmgaqQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzk4/NDAzLTE3NjM4NDg0/NTUtNDU3MC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/xCnuDrMDQurCzEFxHp2YhchuCY04AVm2EHHIiWGYxjM/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzk4/NDAzLTE3NjM4NDg0/NTUtMzMyMS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/55G2CMX4F-iqQdRRqJOXVaf-hgpCyEQC2niKGqcJAjI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzk4/NDAzLTE3NjM4NDg0/NTUtMzMyMS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/Pf6KYeVrYBj0nMT8nfiK0VWmBWxCTB_7-UOE8dWZUJE/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzk4/NDAzLTE3NjM4NDg0/NTUtODcyNy5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/CisaeRFQjpHc1rdl0sgMfJbB09lNos2ShLqT6hmsm9E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzk4/NDAzLTE3NjM4NDg0/NTUtODcyNy5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/QRSEUeqM9WcR2mWrVqpCCZULbt7hv05VVyf5_NgWCMI/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzk4/NDAzLTE3NjM4NDg0/NTQtOTU0Mi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/8YsR_FFo1r9XynXaOVMeLo9aVqVXv9TdMVnpY3_7cUA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzk4/NDAzLTE3NjM4NDg0/NTQtOTU0Mi5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/3jowfRBqpr0tmN_zm882neteCJS6Oo8WozFs9zVQr_w/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzk4/NDAzLTE2NDU4NTY1/NzgtOTU0OS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/xRjB22W0xgnDksmZOL0rpiwgFrSIvG4nifXpOj3EO7w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzk4/NDAzLTE2NDU4NTY1/NzgtOTU0OS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/BhqDseW5DEwWHyB_noe0-HJNKXx3z775hEVEfATZpGQ/rs:fit/g:sm/q:90/h:600/w:578/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzk4/NDAzLTE2NDU4NTY1/NzgtOTQxMS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/J6rY0MKEa6UCTopyesngKC1I7sS5DddshKu2LowDTkI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzk4/NDAzLTE2NDU4NTY1/NzgtOTQxMS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/Zx2kdgDc7KBgq18rXQFhGmZs--G62ansxMAzHUgFxIA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzk4/NDAzLTE2NDU4NTY1/NzgtOTQ2MC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/fLqN9PvE-eF__RFYwQwZwR9WDu1aOLkp0P7LN8Kfn_s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzk4/NDAzLTE2NDU4NTY1/NzgtOTQ2MC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/5HYZSosCUU5Gg4OuhNIahIm1giY-JcefCRFO8m9b_Mc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzk4/NDAzLTE2NDU4NTY1/NzgtNDA5Ni5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/YjlExcBdPTJreAmH5_0qDD32U8qpshC4LASrk3LwVm8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzk4/NDAzLTE2NDU4NTY1/NzgtNDA5Ni5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/-uUFmW6GDX8SM1vtikrBGoXiylKqMOQeckBI8L1e7EM/rs:fit/g:sm/q:90/h:363/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzk4/NDAzLTE3NjM4NDg0/ODEtMzMzNi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/rq-9Mn1w9y8iiC_aGWE06pMA94-ZaTyKqNnE97xHAz8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzk4/NDAzLTE3NjM4NDg0/ODEtMzMzNi5qcGVn.jpeg"
+      }
+    ],
+    "community": {
+      "rating": {
+        "count": 147,
+        "average": 4.61
+      },
+      "have": 1144,
+      "want": 341
+    },
+    "master": {
+      "id": 29256,
+      "title": "The Lamb Lies Down On Broadway",
+      "main_release": 4383526,
+      "year": 1974,
+      "uri": "https://www.discogs.com/master/29256-Genesis-The-Lamb-Lies-Down-On-Broadway",
+      "num_for_sale": 2112
+    }
+  },
+  "apple_music": {
+    "id": 358933158,
+    "url": "https://music.apple.com/us/album/the-lamb-lies-down-on-broadway-2007-stereo-mix/358933158?uo=4",
+    "name": "The Lamb Lies Down on Broadway (2007 Stereo Mix)",
+    "artist": "Genesis",
+    "artist_id": 95966,
+    "artwork_url_100": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/44/1d/e7/441de7e6-4e8d-9739-0a94-dc6013263620/mzi.vkykexny.jpg/100x100bb.jpg",
+    "artwork_url_600": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/44/1d/e7/441de7e6-4e8d-9739-0a94-dc6013263620/mzi.vkykexny.jpg/600x600bb.jpg",
+    "release_date": "1974-11-18T08:00:00Z",
+    "track_count": 23,
+    "copyright": "Under exclusive license to Rhino Entertainment Company, a Warner Music Group Company for the United States and Canada and to Warner Music UK Limited for the rest of the world, \u2117 2008 Craft Recordings, Peter Gabriel Ltd",
+    "primary_genre": "Rock",
+    "country": "USA",
+    "tracks": [
+      {
+        "track_number": 1,
+        "disc_number": 1,
+        "name": "The Lamb Lies Down on Broadway (2007 Stereo Mix)",
+        "duration_ms": 293534,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/55/d1/18/55d118c4-aa98-3646-c6f7-74975229c988/mzaf_18328621556199587202.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/the-lamb-lies-down-on-broadway-2007-stereo-mix/358933158?i=358933163&uo=4"
+      },
+      {
+        "track_number": 2,
+        "disc_number": 1,
+        "name": "Fly on a Windshield (2007 Stereo Mix)",
+        "duration_ms": 165053,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/b0/fe/6c/b0fe6c86-9da1-2b48-5dbc-70c640ecce9e/mzaf_16990246600880562652.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/fly-on-a-windshield-2007-stereo-mix/358933158?i=358933165&uo=4"
+      },
+      {
+        "track_number": 3,
+        "disc_number": 1,
+        "name": "Broadway Melody of 1974 (2007 Stereo Mix)",
+        "duration_ms": 131320,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/1d/0c/16/1d0c161e-fb4c-d430-975f-a7c7b0152cfb/mzaf_3057278480468279634.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/broadway-melody-of-1974-2007-stereo-mix/358933158?i=358933166&uo=4"
+      },
+      {
+        "track_number": 4,
+        "disc_number": 1,
+        "name": "Cuckoo Cocoon (2007 Stereo Mix)",
+        "duration_ms": 132520,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/f6/57/2a/f6572ac2-a4f4-7128-41d3-ed9ceb715216/mzaf_4123783637168753055.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/cuckoo-cocoon-2007-stereo-mix/358933158?i=358933167&uo=4"
+      },
+      {
+        "track_number": 5,
+        "disc_number": 1,
+        "name": "In the Cage (2007 Stereo Mix)",
+        "duration_ms": 492467,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/f6/59/be/f659be98-cc52-fc36-164f-133ce3e36984/mzaf_13690756172758935700.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/in-the-cage-2007-stereo-mix/358933158?i=358933173&uo=4"
+      },
+      {
+        "track_number": 6,
+        "disc_number": 1,
+        "name": "The Grand Parade of Lifeless Packaging (2007 Stereo Mix)",
+        "duration_ms": 166307,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/a0/29/d3/a029d314-b771-24ab-72f9-39ecfcbd0b4c/mzaf_7573683751150283752.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/the-grand-parade-of-lifeless-packaging-2007-stereo-mix/358933158?i=358933174&uo=4"
+      },
+      {
+        "track_number": 7,
+        "disc_number": 1,
+        "name": "Back in N.Y.C. (2007 Stereo Mix)",
+        "duration_ms": 339040,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/12/ee/74/12ee7409-1915-36c5-f7a7-9a5f62b3ba11/mzaf_8248764712951330613.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/back-in-n-y-c-2007-stereo-mix/358933158?i=358933179&uo=4"
+      },
+      {
+        "track_number": 8,
+        "disc_number": 1,
+        "name": "Hairless Heart (2007 Stereo Mix)",
+        "duration_ms": 130387,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/87/66/13/87661326-4109-7857-45ae-22fced84ff41/mzaf_1486303109732981963.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/hairless-heart-2007-stereo-mix/358933158?i=358933180&uo=4"
+      },
+      {
+        "track_number": 9,
+        "disc_number": 1,
+        "name": "Counting out Time (2007 Stereo Mix)",
+        "duration_ms": 220813,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/f1/c1/e2/f1c1e22d-3ee6-d5bb-820e-3e2ee808b905/mzaf_17997043632624236029.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/counting-out-time-2007-stereo-mix/358933158?i=358933183&uo=4"
+      },
+      {
+        "track_number": 10,
+        "disc_number": 1,
+        "name": "The Carpet Crawlers (2007 Stereo Mix)",
+        "duration_ms": 314400,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/a9/77/38/a97738f9-e55b-a239-5f54-3ecc1463a568/mzaf_6101937536559175852.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/the-carpet-crawlers-2007-stereo-mix/358933158?i=358933185&uo=4"
+      },
+      {
+        "track_number": 11,
+        "disc_number": 1,
+        "name": "The Chamber of 32 Doors (2007 Stereo Mix)",
+        "duration_ms": 345147,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/aa/65/64/aa656499-e186-d129-b08c-d36a82962717/mzaf_11651557148006308379.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/the-chamber-of-32-doors-2007-stereo-mix/358933158?i=358933190&uo=4"
+      },
+      {
+        "track_number": 12,
+        "disc_number": 1,
+        "name": "Lilywhite Lilith (2007 Stereo Mix)",
+        "duration_ms": 168560,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/94/e0/19/94e01988-76e8-2e97-dac0-c4ca616dafef/mzaf_5381164689654168572.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/lilywhite-lilith-2007-stereo-mix/358933158?i=358933196&uo=4"
+      },
+      {
+        "track_number": 13,
+        "disc_number": 1,
+        "name": "The Waiting Room (2007 Stereo Mix)",
+        "duration_ms": 317333,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/5d/fb/9d/5dfb9d77-2435-c9d0-9b91-d0e2479013c7/mzaf_17431391711695158690.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/the-waiting-room-2007-stereo-mix/358933158?i=358933197&uo=4"
+      },
+      {
+        "track_number": 14,
+        "disc_number": 1,
+        "name": "Anyway (2007 Stereo Mix)",
+        "duration_ms": 197280,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/71/bb/95/71bb9555-91ab-d4c2-1143-1421849c14be/mzaf_7555367410236480466.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/anyway-2007-stereo-mix/358933158?i=358933200&uo=4"
+      },
+      {
+        "track_number": 15,
+        "disc_number": 1,
+        "name": "Here Comes the Supernatural Anaesthetist (2007 Stereo Mix)",
+        "duration_ms": 169133,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/90/0b/0f/900b0fef-bd93-feea-b3c3-2931e9efde9a/mzaf_2608142802627031616.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/here-comes-the-supernatural-anaesthetist-2007-stereo-mix/358933158?i=358933201&uo=4"
+      },
+      {
+        "track_number": 16,
+        "disc_number": 1,
+        "name": "The Lamia (2007 Stereo Mix)",
+        "duration_ms": 417627,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/a7/8f/85/a78f85f6-4d53-124a-9ec4-18f811ea35fe/mzaf_16679624084202289074.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/the-lamia-2007-stereo-mix/358933158?i=358933202&uo=4"
+      },
+      {
+        "track_number": 17,
+        "disc_number": 1,
+        "name": "Silent Sorrow in Empty Boats (2007 Stereo Mix)",
+        "duration_ms": 181453,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/5f/db/7f/5fdb7f1b-1390-b3e1-d8f0-0901547a26b6/mzaf_5632259858373044828.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/silent-sorrow-in-empty-boats-2007-stereo-mix/358933158?i=358933205&uo=4"
+      },
+      {
+        "track_number": 18,
+        "disc_number": 1,
+        "name": "The Colony of Slippermen: I. The Arrival, II. A Visit to the Doktor, III. Raven (2007 Stereo Mix)",
+        "duration_ms": 491747,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/55/81/db/5581dbb7-7c43-6c83-bc2a-57b563c13cef/mzaf_3109341282626471225.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/the-colony-of-slippermen-i-the-arrival-ii-a/358933158?i=358933211&uo=4"
+      },
+      {
+        "track_number": 19,
+        "disc_number": 1,
+        "name": "Ravine (2007 Stereo Mix)",
+        "duration_ms": 125600,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/09/9a/8c/099a8c35-7354-c6d1-6e7e-6448467a5907/mzaf_11248006024866949215.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/ravine-2007-stereo-mix/358933158?i=358933212&uo=4"
+      },
+      {
+        "track_number": 20,
+        "disc_number": 1,
+        "name": "The Light Dies Down on Broadway (2007 Stereo Mix)",
+        "duration_ms": 212427,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/28/87/a6/2887a692-39f7-7cba-84cc-9b2d30f108f9/mzaf_4804836626241011248.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/the-light-dies-down-on-broadway-2007-stereo-mix/358933158?i=358933217&uo=4"
+      },
+      {
+        "track_number": 21,
+        "disc_number": 1,
+        "name": "Riding the Scree (2007 Stereo Mix)",
+        "duration_ms": 247213,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/6d/d7/5a/6dd75a19-24de-d55b-5af3-bec3462b58d7/mzaf_5889488225395418762.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/riding-the-scree-2007-stereo-mix/358933158?i=358933218&uo=4"
+      },
+      {
+        "track_number": 22,
+        "disc_number": 1,
+        "name": "In the Rapids (2007 Stereo Mix)",
+        "duration_ms": 142307,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/28/52/dc/2852dc5c-e608-1e0d-5670-7dfdf831e2b8/mzaf_11365741352492174796.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/in-the-rapids-2007-stereo-mix/358933158?i=358933219&uo=4"
+      },
+      {
+        "track_number": 23,
+        "disc_number": 1,
+        "name": "It (2007 Stereo Mix)",
+        "duration_ms": 258893,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/87/71/9a/87719aa1-7d63-ccbe-211a-786762b82519/mzaf_7511222763114134721.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/it-2007-stereo-mix/358933158?i=358933252&uo=4"
+      }
+    ]
+  },
+  "discrepancies": [
+    "Track count differs: Discogs=22, Apple Music=23",
+    "Release year differs: your pressing=2018, Apple Music edition=1974. Apple Music typically streams the most recent remaster."
+  ],
+  "local_cover": "images/12798403.jpg"
+}

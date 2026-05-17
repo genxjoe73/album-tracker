@@ -1,0 +1,404 @@
+{
+  "captured_at": "2026-05-17T20:57:43+00:00",
+  "schema_version": 3,
+  "artist": "Various / Tyler Bates",
+  "title": "Guardians Of The Galaxy",
+  "original_release_year": 2014,
+  "pressing_year": 2019,
+  "upgrade_suggestion": "No significant audiophile reissue exists. The Hollywood Records pressing is the standard version. Original 2014 pressing (D001668001) is the first vinyl edition if an original is preferred.",
+  "commentary": "**Guardians of the Galaxy: Awesome Mix Vol. 1** is the soundtrack to Marvel's 2014 film, compiled by director James Gunn from his personal playlist of 1970s pop and rock favorites. The conceit \u2014 that the mixtape is a treasured artifact left to Peter Quill by his dying mother \u2014 elevated what could have been a throwaway needle-drop soundtrack into an emotionally resonant part of the film's DNA. Tracks by Redbone, David Bowie, Marvin Gaye, The Runaways, The Jackson 5, Blue Swede, and others were suddenly recontextualized for a new generation, and the soundtrack became one of the best-selling albums of 2014 despite consisting entirely of decades-old recordings.\n\nThe album is a masterclass in curation \u2014 every track lands emotionally in the context of the film, and the sequencing works beautifully as a standalone listening experience. It revived mainstream interest in several classic tracks and demonstrated that a superhero film could have a genuinely great soundtrack rather than a generic orchestral score.\n\nThe **2019 Deluxe Edition** (Hollywood Records / Disney catalog **D003242101**) is a double LP pressing combining the Awesome Mix Vol. 1 and additional score material by Tyler Bates, pressed on standard weight vinyl. The matrix codes `138662E1` identify the pressing as a contemporary US pressing with standard lacquer cutting.\n\n**About this 2019 US pressing (2\u00d7 Vinyl, LP, Compilation, Deluxe Edition):** Hollywood Records / Disney catalog **D003242101**, 2019 Deluxe Edition double LP. Barcode 050087429829. Matrix 138662E1.\n",
+  "discogs": {
+    "release_id": 14592331,
+    "master_id": 724766,
+    "uri": "https://www.discogs.com/release/14592331-Various-Tyler-Bates-Guardians-Of-The-Galaxy",
+    "title": "Guardians Of The Galaxy",
+    "artists": [
+      {
+        "name": "Various",
+        "id": 194,
+        "role": null
+      },
+      {
+        "name": "Tyler Bates",
+        "id": 168946,
+        "role": null
+      }
+    ],
+    "year": 2019,
+    "released": "2019",
+    "country": "US",
+    "labels": [
+      {
+        "name": "Hollywood Records",
+        "catno": "D003242101",
+        "id": 2859
+      }
+    ],
+    "formats": [
+      {
+        "name": "Vinyl",
+        "qty": "1",
+        "descriptions": [
+          "LP",
+          "Compilation"
+        ],
+        "text": "Red"
+      },
+      {
+        "name": "Vinyl",
+        "qty": "1",
+        "descriptions": [
+          "LP",
+          "Album"
+        ],
+        "text": "Yellow"
+      },
+      {
+        "name": "All Media",
+        "qty": "1",
+        "descriptions": [
+          "Deluxe Edition"
+        ],
+        "text": null
+      }
+    ],
+    "genres": [
+      "Rock",
+      "Pop",
+      "Stage & Screen"
+    ],
+    "styles": [
+      "Classic Rock",
+      "Soundtrack",
+      "Soft Rock",
+      "AOR",
+      "Pop Rock",
+      "Punk",
+      "Hard Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "",
+        "title": "Awesome Mix Vol. 1",
+        "duration": "",
+        "type": "heading"
+      },
+      {
+        "position": "A1",
+        "title": "Hooked On A Feeling",
+        "duration": "2:54",
+        "type": "track"
+      },
+      {
+        "position": "A2",
+        "title": "Go All The Way",
+        "duration": "2:32",
+        "type": "track"
+      },
+      {
+        "position": "A3",
+        "title": "Spirit In The Sky",
+        "duration": "4:04",
+        "type": "track"
+      },
+      {
+        "position": "A4",
+        "title": "Moonage Daydream",
+        "duration": "4:43",
+        "type": "track"
+      },
+      {
+        "position": "A5",
+        "title": "Fooled Around And Fell In Love",
+        "duration": "4:37",
+        "type": "track"
+      },
+      {
+        "position": "A6",
+        "title": "I Want You Back",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B1",
+        "title": "I'm Not In Love",
+        "duration": "6:05",
+        "type": "track"
+      },
+      {
+        "position": "B2",
+        "title": "Come And Get Your Love",
+        "duration": "3:28",
+        "type": "track"
+      },
+      {
+        "position": "B3",
+        "title": "Cherry Bomb",
+        "duration": "2:20",
+        "type": "track"
+      },
+      {
+        "position": "B4",
+        "title": "Escape (The Pi\u00f1a Colada Song) ",
+        "duration": "4:39",
+        "type": "track"
+      },
+      {
+        "position": "B5",
+        "title": "O-o-h Child",
+        "duration": "3:16",
+        "type": "track"
+      },
+      {
+        "position": "B6",
+        "title": "Ain't No Mountain High Enough",
+        "duration": "2:31",
+        "type": "track"
+      },
+      {
+        "position": "",
+        "title": "Original Score By Tyler Bates",
+        "duration": "",
+        "type": "heading"
+      },
+      {
+        "position": "C1",
+        "title": "The Final Battle Begins",
+        "duration": "4:41",
+        "type": "track"
+      },
+      {
+        "position": "C2",
+        "title": "Morag",
+        "duration": "1:58",
+        "type": "track"
+      },
+      {
+        "position": "C3",
+        "title": "Everyone's An Idiot",
+        "duration": "1:26",
+        "type": "track"
+      },
+      {
+        "position": "C4",
+        "title": "What A Bunch Of A-Holes",
+        "duration": "2:14",
+        "type": "track"
+      },
+      {
+        "position": "C5",
+        "title": "Sanctuary",
+        "duration": "2:26",
+        "type": "track"
+      },
+      {
+        "position": "C6",
+        "title": "The New Meat",
+        "duration": "0:36",
+        "type": "track"
+      },
+      {
+        "position": "C7",
+        "title": "The Pod Chase",
+        "duration": "3:56",
+        "type": "track"
+      },
+      {
+        "position": "C8",
+        "title": "Don't Mess With My Walkman",
+        "duration": "0:44",
+        "type": "track"
+      },
+      {
+        "position": "C9",
+        "title": "Losers (Bonus Track)",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "D1",
+        "title": "The Ballad of the Nova Corps. (Instrumental)",
+        "duration": "1:48",
+        "type": "track"
+      },
+      {
+        "position": "D2",
+        "title": "The Klyn Escape",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "D3",
+        "title": "Groot Spores",
+        "duration": "1:11",
+        "type": "track"
+      },
+      {
+        "position": "D4",
+        "title": "Guardians United",
+        "duration": "2:46",
+        "type": "track"
+      },
+      {
+        "position": "D5",
+        "title": "The Big Blast",
+        "duration": "3:05",
+        "type": "track"
+      },
+      {
+        "position": "D6",
+        "title": "Black Tears",
+        "duration": "2:46",
+        "type": "track"
+      },
+      {
+        "position": "D7",
+        "title": "A Nova Upgrade",
+        "duration": "2:10",
+        "type": "track"
+      }
+    ],
+    "extraartists": [
+      {
+        "name": "Dave Jordan (4)",
+        "role": "Executive Producer",
+        "id": 0
+      },
+      {
+        "name": "James Gunn (2)",
+        "role": "Executive Producer",
+        "id": 0
+      },
+      {
+        "name": "Kevin Feige",
+        "role": "Executive Producer",
+        "id": 0
+      },
+      {
+        "name": "Wes Garland",
+        "role": "Lacquer Cut By",
+        "id": 2135761
+      }
+    ],
+    "identifiers": [
+      {
+        "type": "Barcode",
+        "value": "050087429829",
+        "description": "Scan"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "D00209 3201-A-RE-2",
+        "description": "Awesome Mix Side A [Etched]"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "D00209 3201-B-RE-3",
+        "description": "Awesome Mix Side B [Etched]"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "D00209 3301-A-RE-2",
+        "description": "Original Score Side A [Etched]"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "D00209 3301-LD-2-B RE 12-13-17",
+        "description": "Original Score Side B [Etched]"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "D002093201-A2-RE-2 IV WG/NRP \u24ca",
+        "description": "Side A runout, variant 2"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "D00209 3201-B-RE-3 IV WG/NRP \u24ca",
+        "description": "Side B runout, variant 2"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "D002093301-A5-RE-2 WG/NRP \u24ca",
+        "description": "Side C runout, variant 2"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "D002093301-LD-2-B RE 12-13-17 4 \u2e2b",
+        "description": "Side D runout, variant 2"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "138662E1/X",
+        "description": "Side A runout, variant 3"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "138662E2/AD",
+        "description": "Side B runout, variant 3"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "138663E1/V",
+        "description": "Side C runout, variant 3"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "138663E2/Z",
+        "description": "Side D runout, variant 3"
+      }
+    ],
+    "notes": null,
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/JOd-1zJjH2bECOxqBWI_qKpdtoX1yHQFUKzx-HvlkD4/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTky/MzMxLTE1ODk4NDk2/NDctNzQ2NC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/WKkqaoOojsALk-D7V-AW6OoxwtI_7uPvSm9uoX2Z3T0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTky/MzMxLTE1ODk4NDk2/NDctNzQ2NC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/MuuyJj9m14Q93lp0ZRThMmzBTXIqhenEHu4rUc2aaGk/rs:fit/g:sm/q:90/h:571/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTky/MzMxLTE1ODk4NDk2/NDctNzI3Ni5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/36ZQj6b7Qt39DMnFU3_EnVHwC-O2elWjl0pJq7JCjvE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTky/MzMxLTE1ODk4NDk2/NDctNzI3Ni5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/pxNC07eUUjZUubjgxmAqCpNDZ3c1fGUDv_Tg-6GLo-g/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTky/MzMxLTE1ODk4NDk2/NDctOTU4OC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/4-52rHs4uWfbbk1MPIe2V6vKlFMU3g-tZ85xrZC8rYQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTky/MzMxLTE1ODk4NDk2/NDctOTU4OC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/mKBoAQeGO5KYTcwkT1G9tEhZfhUxvAt0pIdxbRvZl58/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTky/MzMxLTE1ODk4NDk2/NDctNDIwOC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/HxG-6K2KR43hYoZBt7R6L5hyFxQa20nJFST4yzU3jeM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTky/MzMxLTE1ODk4NDk2/NDctNDIwOC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/4-4S97jTifIEiw-n2EF6d6Urp8gaIlmLOUrQvd6y0eY/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTky/MzMxLTE1ODk4NDk2/NDctODU0Mi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/FXYKc0l13kIwfeBPcv2dN00TyjYauKhR_jMOLNoQLvI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTky/MzMxLTE1ODk4NDk2/NDctODU0Mi5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/IXoI0sZYsPmNu6VHdYP9ScxvzVSE7kfpnaYrNfoIO44/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTky/MzMxLTE1ODk4NDk2/NDctNzI4Mi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/XQEALWsisnPijNssBtlaqxDnlxM6VaU7zJz5u5h6vIA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTky/MzMxLTE1ODk4NDk2/NDctNzI4Mi5qcGVn.jpeg"
+      }
+    ],
+    "community": {
+      "rating": {
+        "count": 340,
+        "average": 4.42
+      },
+      "have": 7238,
+      "want": 338
+    },
+    "master": {
+      "id": 724766,
+      "title": "Guardians Of The Galaxy: Awesome Mix Vol. 1 (Original Motion Picture Soundtrack)",
+      "main_release": 6776503,
+      "year": 2014,
+      "uri": "https://www.discogs.com/master/724766-Various-Guardians-Of-The-Galaxy-Awesome-Mix-Vol-1-Original-Motion-Picture-Soundtrack",
+      "num_for_sale": 796
+    }
+  },
+  "apple_music": null,
+  "discrepancies": [
+    "No Apple Music match found."
+  ]
+}

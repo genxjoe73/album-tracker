@@ -1,0 +1,504 @@
+{
+  "captured_at": "2026-05-17T20:25:34+00:00",
+  "schema_version": 3,
+  "artist": "Fleetwood Mac",
+  "title": "Greatest Hits",
+  "original_release_year": 1988,
+  "pressing_year": null,
+  "upgrade_suggestion": "This reissue is a solid listen. For the ultimate Fleetwood Mac compilation experience, individual album purchases (particularly Rumours on MoFi SACD CMOB 2311 SA) will outperform any compilation pressing.",
+  "commentary": "**Greatest Hits** is Fleetwood Mac's 1988 compilation on Warner Bros. Records, covering the band's commercial peak from 1975 through 1988 \u2014 the Buckingham/Nicks era that transformed them from a British blues band into one of the best-selling acts in history. The compilation draws from *Fleetwood Mac* (1975), *Rumours* (1977), *Tusk* (1979), *Mirage* (1982), and *Tango in the Night* (1987), making it an ideal single-disc survey of the band's pop-rock dominance. Tracks like \"Go Your Own Way,\" \"Dreams,\" \"The Chain,\" \"Little Lies,\" \"Everywhere,\" and \"Big Love\" represent some of the most enduring radio staples of the era.\n\nThe compilation arrived as the band was fragmenting again \u2014 Lindsey Buckingham had just departed \u2014 and serves as both a commercial summary and an inadvertent farewell to the classic lineup. It became one of the best-selling compilations of its era, introducing *Rumours*-era material to a new generation of listeners in the late 1980s.\n\nThis **2020 US reissue** is a contemporary vinyl pressing of the 1988 compilation, catalog **R1 25801** / barcode **081227959357**. The matrix codes `10205 6A 0081227959357 [224064E1] EXP` identify this as an **EXP (Erika Records / Record Industry)** pressing \u2014 a European pressing plant that handles many US major-label reissues. Standard weight vinyl with updated reissue packaging.\n\n**About this 2020 US pressing (Vinyl, LP, Compilation, Reissue):** Warner Bros. / Rhino catalog **R1 25801**, 2020 reissue of the 1988 compilation. Matrix 10205 / 0081227959357 / 224064E1, pressed by EXP (Record Industry).\n",
+  "discogs": {
+    "release_id": 23273714,
+    "master_id": 119888,
+    "uri": "https://www.discogs.com/release/23273714-Fleetwood-Mac-Greatest-Hits",
+    "title": "Greatest Hits",
+    "artists": [
+      {
+        "name": "Fleetwood Mac",
+        "id": 47333,
+        "role": null
+      }
+    ],
+    "year": 0,
+    "released": null,
+    "country": "US",
+    "labels": [
+      {
+        "name": "Warner Records",
+        "catno": "R1 25801",
+        "id": 134882
+      },
+      {
+        "name": "Warner Records",
+        "catno": "081227959357",
+        "id": 134882
+      }
+    ],
+    "formats": [
+      {
+        "name": "Vinyl",
+        "qty": "1",
+        "descriptions": [
+          "LP",
+          "Compilation",
+          "Reissue"
+        ],
+        "text": "GZ Media Pressing"
+      }
+    ],
+    "genres": [
+      "Rock",
+      "Pop"
+    ],
+    "styles": [
+      "Pop Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Rhiannon",
+        "duration": "4:12",
+        "type": "track"
+      },
+      {
+        "position": "A2",
+        "title": "Don't Stop",
+        "duration": "3:12",
+        "type": "track"
+      },
+      {
+        "position": "A3",
+        "title": "Go Your Own Way",
+        "duration": "3:36",
+        "type": "track"
+      },
+      {
+        "position": "A4",
+        "title": "Hold Me",
+        "duration": "3:45",
+        "type": "track"
+      },
+      {
+        "position": "A5",
+        "title": "Everywhere",
+        "duration": "3:42",
+        "type": "track"
+      },
+      {
+        "position": "A6",
+        "title": "Gypsy",
+        "duration": "4:25",
+        "type": "track"
+      },
+      {
+        "position": "A7",
+        "title": "As Long As You Follow",
+        "duration": "4:08",
+        "type": "track"
+      },
+      {
+        "position": "B1",
+        "title": "Say You Love Me",
+        "duration": "4:11",
+        "type": "track"
+      },
+      {
+        "position": "B2",
+        "title": "Dreams",
+        "duration": "4:16",
+        "type": "track"
+      },
+      {
+        "position": "B3",
+        "title": "Little Lies",
+        "duration": "3:39",
+        "type": "track"
+      },
+      {
+        "position": "B4",
+        "title": "Sara",
+        "duration": "6:26",
+        "type": "track"
+      },
+      {
+        "position": "B5",
+        "title": "Tusk",
+        "duration": "3:36",
+        "type": "track"
+      },
+      {
+        "position": "B6",
+        "title": "No Questions Asked",
+        "duration": "4:41",
+        "type": "track"
+      }
+    ],
+    "extraartists": [
+      {
+        "name": "Fleetwood Mac",
+        "role": "Art Direction",
+        "id": 47333
+      },
+      {
+        "name": "John Courage",
+        "role": "Coordinator [Studio]",
+        "id": 1314728
+      },
+      {
+        "name": "Michael Randolph Reed",
+        "role": "Crew [Studio Crew]",
+        "id": 6625625
+      },
+      {
+        "name": "Tim McCarthy",
+        "role": "Crew [Studio Crew]",
+        "id": 970810
+      },
+      {
+        "name": "Larry Vigon Studio",
+        "role": "Design",
+        "id": 450265
+      },
+      {
+        "name": "Dennis Dunstan",
+        "role": "Design Concept [Cover Concept]",
+        "id": 1581872
+      },
+      {
+        "name": "Greg Ladanyi",
+        "role": "Engineer",
+        "id": 258155
+      },
+      {
+        "name": "Greg Droman",
+        "role": "Engineer [Additional]",
+        "id": 338780
+      },
+      {
+        "name": "Duane Seykora",
+        "role": "Engineer [Assistant]",
+        "id": 338976
+      },
+      {
+        "name": "Stephen Davis (3)",
+        "role": "Liner Notes",
+        "id": 1729181
+      },
+      {
+        "name": "Stephen Marcussen",
+        "role": "Mastered By",
+        "id": 254942
+      },
+      {
+        "name": "Herbert Wheeler Worthington III",
+        "role": "Photography By [Back Cover]",
+        "id": 2023937
+      },
+      {
+        "name": "Eastern Light Photography",
+        "role": "Photography By [Sleeve Photos]",
+        "id": 2814816
+      },
+      {
+        "name": "Herbert Wheeler Worthington III",
+        "role": "Photography By [Sleeve Photos]",
+        "id": 2023937
+      },
+      {
+        "name": "Neal Preston",
+        "role": "Photography By [Sleeve Photos]",
+        "id": 680061
+      },
+      {
+        "name": "Norman Seeff",
+        "role": "Photography By [Sleeve Photos]",
+        "id": 1170513
+      },
+      {
+        "name": "Sam Emerson",
+        "role": "Photography By [Sleeve Photos]",
+        "id": 2082959
+      },
+      {
+        "name": "Fleetwood Mac",
+        "role": "Producer",
+        "id": 47333
+      },
+      {
+        "name": "Greg Ladanyi",
+        "role": "Producer",
+        "id": 258155
+      },
+      {
+        "name": "Keith Olsen",
+        "role": "Producer",
+        "id": 125452
+      },
+      {
+        "name": "Lindsey Buckingham",
+        "role": "Producer",
+        "id": 264436
+      },
+      {
+        "name": "Ken Caillat",
+        "role": "Producer [Additional]",
+        "id": 257502
+      },
+      {
+        "name": "Richard Dashut",
+        "role": "Producer [Additional]",
+        "id": 257503
+      },
+      {
+        "name": "Dan Garfield",
+        "role": "Programmed By [Keyboards]",
+        "id": 434783
+      },
+      {
+        "name": "Ray Lindsey",
+        "role": "Technician [Guitar Doctor]",
+        "id": 338813
+      }
+    ],
+    "identifiers": [
+      {
+        "type": "Barcode",
+        "value": "081227959357",
+        "description": "Scanned"
+      },
+      {
+        "type": "Barcode",
+        "value": "0 81227 95935 7",
+        "description": "Printed"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "10205 6A 0081227959357 [224064E1] EXP [1145902] ",
+        "description": "Side A etched [stamped], variant 1"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "10205 5A 0081227959357 [224064E2] EXP [943328] ",
+        "description": "Side B etched [stamped], variant 1"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "EXP [1497033] 10205 6A 0081227959357 [224064E1] ",
+        "description": "Side A etched [stamped], variant 2"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "EXP 10205 5B 0081227959357 [1485060 224064E2] ",
+        "description": "Side B etched [stamped], variant 2"
+      }
+    ],
+    "notes": "Sticker on shrink-wrap reads:\n\"8X Platinum Collection\n13 Tracks Of Classic Fleetwood Mac\n -Including-  \nGo Your Own Way \nDon't Stop \u2022 Gypsy \nRhiannon \u2022 Dreams\nLittle Lies\nR1 25801 / 08122795935\"\n\nCover Spine Label reads \"R1 25801 / 08122795935\"\n\nOn back cover (bottom centered):\n\"Warner Records Inc., a Warner Music Group Company. 777 S. Santa Fe Ave., Los Angeles, CA 90021. \u00a9 1988 Warner Records, Inc. \u2117 1975, 1977, 1979, 1982, 1987, 1988 Warner Records, Inc. \nAll Rights Reserved. Manufactured for & Marketed by Warner Music Group. Unauthorized duplication is a violation of applicable laws. Made in Canada. R1 25801/081227959357\"",
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/0VA_HIz9d3APQb-mCb_Fm6V0TvIhDkBDDRHniIyWQJw/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjcz/NzE0LTE2NTU1MTEy/ODgtMzU0MC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/0f-cKkBHlXiaD_wUn1vvUdwMHNn5eZz3HkqAX95FQhw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjcz/NzE0LTE2NTU1MTEy/ODgtMzU0MC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/zAHEwX2M0AvrQzCSJzlu7Gbg0eXiFjdjEcZ4YgjHEpE/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjcz/NzE0LTE2NzIzOTgy/MzItMTgzMS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/cQ_PcCBCOa9-skU5U_5ISxO0Rp_7f2cB3kK4Ya4hLdA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjcz/NzE0LTE2NzIzOTgy/MzItMTgzMS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/LRxfIRpBskw4YE7bsXEtU48xGrS3v7AwM-1m25zenhM/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjcz/NzE0LTE2NzIzOTgy/MzAtMzcyOS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/Ydtv928i7uDvNhPcqSWRYUztyrwXRzmg75qFSAkT-sE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjcz/NzE0LTE2NzIzOTgy/MzAtMzcyOS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/SsQohESETItwsu7g31CMq6-HJpE4EdJB5rX40tR2cb4/rs:fit/g:sm/q:90/h:582/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjcz/NzE0LTE2NzIzOTgy/MzEtNDYwMS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/zojWxYJCXuqTcsiCW0smO50533hZVUl9m9FgdAQENYc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjcz/NzE0LTE2NzIzOTgy/MzEtNDYwMS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/XhOURIRwLM_JmPBdim_2hqs7oVW6c6xX1qFNuuGd0vw/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjcz/NzE0LTE2NzIzOTgy/MzEtNDQ3MC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/6lccwYPf48YVuMSHhF6fQJN6uq1kuKnJGftv0OwKJVo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjcz/NzE0LTE2NzIzOTgy/MzEtNDQ3MC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/tBuKSSScemvhBLoQh46ej5HM7LRGqF5ZLwHaG3KDE4k/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjcz/NzE0LTE2NzIzOTgy/MzItNDc0Ni5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/hrTT5mcTnnK1YQewtSmKT7RrYckhPkZhpRN8Eo6CA8o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjcz/NzE0LTE2NzIzOTgy/MzItNDc0Ni5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/6u5ozHUmUiSnJFbsJPGS2OjwoLXAxeKwjb7W1DZna14/rs:fit/g:sm/q:90/h:562/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjcz/NzE0LTE2NzIzOTgy/MjktOTcyOC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/U-nRORWHEnQ75m7_fvS-1fEW0QWjOv1rEGXo38zytAs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjcz/NzE0LTE2NzIzOTgy/MjktOTcyOC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/Rkxxrbi8Q7bPdpmCPfhAbfH1vd4q2zx5Vc6p-3AJ1Sw/rs:fit/g:sm/q:90/h:600/w:421/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjcz/NzE0LTE2NTI5MDgz/NjctMjAyNy5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/sw48O6n3pU8k6AHpWJ1wFyadoBm1I0xcKEz32LW4bz8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjcz/NzE0LTE2NTI5MDgz/NjctMjAyNy5qcGVn.jpeg"
+      }
+    ],
+    "community": {
+      "rating": {
+        "count": 129,
+        "average": 4.74
+      },
+      "have": 2405,
+      "want": 94
+    },
+    "master": {
+      "id": 119888,
+      "title": "Greatest Hits",
+      "main_release": 783640,
+      "year": 1988,
+      "uri": "https://www.discogs.com/master/119888-Fleetwood-Mac-Greatest-Hits",
+      "num_for_sale": 1778
+    }
+  },
+  "apple_music": {
+    "id": 202271826,
+    "url": "https://music.apple.com/us/album/greatest-hits/202271826?uo=4",
+    "name": "Greatest Hits",
+    "artist": "Fleetwood Mac",
+    "artist_id": 158038,
+    "artwork_url_100": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d2/48/f4/d248f4ae-a7e4-a48e-1588-6617de3e8d76/mzi.izeorbmm.jpg/100x100bb.jpg",
+    "artwork_url_600": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d2/48/f4/d248f4ae-a7e4-a48e-1588-6617de3e8d76/mzi.izeorbmm.jpg/600x600bb.jpg",
+    "release_date": "1988-11-21T08:00:00Z",
+    "track_count": 16,
+    "copyright": "\u2117 1988 Warner Records Inc.",
+    "primary_genre": "Rock",
+    "country": "USA",
+    "tracks": [
+      {
+        "track_number": 1,
+        "disc_number": 1,
+        "name": "Rhiannon",
+        "duration_ms": 252773,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/5d/5d/bd/5d5dbd1c-b805-2691-2f0c-ddd95549dac9/mzaf_14838277598453356300.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/rhiannon/202271826?i=202271847&uo=4"
+      },
+      {
+        "track_number": 2,
+        "disc_number": 1,
+        "name": "Don't Stop",
+        "duration_ms": 190773,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/42/b6/5f/42b65f57-5de4-3d6a-771e-6b6236622b8e/mzaf_13885274612566381986.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/dont-stop/202271826?i=202271895&uo=4"
+      },
+      {
+        "track_number": 3,
+        "disc_number": 1,
+        "name": "Go Your Own Way",
+        "duration_ms": 218400,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/9e/1a/9f/9e1a9f93-2dcf-9b48-4c1b-169e450410f5/mzaf_14502658835295561694.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/go-your-own-way/202271826?i=202271971&uo=4"
+      },
+      {
+        "track_number": 4,
+        "disc_number": 1,
+        "name": "Hold Me",
+        "duration_ms": 225333,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8f/dc/dc/8fdcdce6-ed56-d45a-d629-ce86f2fb9f77/mzaf_1583315071557384737.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/hold-me/202271826?i=202272100&uo=4"
+      },
+      {
+        "track_number": 5,
+        "disc_number": 1,
+        "name": "Everywhere",
+        "duration_ms": 222733,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/97/00/f4/9700f408-2e26-b14f-d630-64fc9d932df8/mzaf_9035089748670371197.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/everywhere/202271826?i=202272247&uo=4"
+      },
+      {
+        "track_number": 6,
+        "disc_number": 1,
+        "name": "Gypsy",
+        "duration_ms": 264907,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/76/f2/40/76f24069-4515-3038-258d-8bf530e4b177/mzaf_7691899025159645709.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/gypsy/202271826?i=202272422&uo=4"
+      },
+      {
+        "track_number": 7,
+        "disc_number": 1,
+        "name": "You Make Loving Fun",
+        "duration_ms": 211800,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/96/47/f8/9647f868-470e-ccb1-ab10-001290a66dd6/mzaf_11036221034845931373.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/you-make-loving-fun/202271826?i=202272559&uo=4"
+      },
+      {
+        "track_number": 8,
+        "disc_number": 1,
+        "name": "As Long As You Follow",
+        "duration_ms": 258053,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/29/53/f2/2953f269-63c2-9005-363e-720ee7459e60/mzaf_12594426451493869847.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/as-long-as-you-follow/202271826?i=202272605&uo=4"
+      },
+      {
+        "track_number": 9,
+        "disc_number": 1,
+        "name": "Dreams",
+        "duration_ms": 254453,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/cb/87/29/cb872937-bebb-f309-821e-5459a873f1b6/mzaf_13232595752463797281.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/dreams/202271826?i=202272624&uo=4"
+      },
+      {
+        "track_number": 10,
+        "disc_number": 1,
+        "name": "Say You Love Me",
+        "duration_ms": 249947,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/39/c7/c1/39c7c1d1-1ef4-3e7f-f184-53423087b81f/mzaf_6600593227536802946.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/say-you-love-me/202271826?i=202272650&uo=4"
+      },
+      {
+        "track_number": 11,
+        "disc_number": 1,
+        "name": "Tusk",
+        "duration_ms": 210173,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/99/3a/2c/993a2c17-e1a3-bea3-508d-20aab4fc988a/mzaf_5220812327389720403.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/tusk/202271826?i=202272674&uo=4"
+      },
+      {
+        "track_number": 12,
+        "disc_number": 1,
+        "name": "Little Lies",
+        "duration_ms": 218040,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/96/13/02/961302f6-762a-7608-7e96-c2f43ea4bbba/mzaf_2622595405296090494.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/little-lies/202271826?i=202272697&uo=4"
+      },
+      {
+        "track_number": 13,
+        "disc_number": 1,
+        "name": "Sara",
+        "duration_ms": 382373,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/39/e4/b3/39e4b36e-3764-6eeb-763b-91f19bad255d/mzaf_5052466419199190225.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/sara/202271826?i=202272717&uo=4"
+      },
+      {
+        "track_number": 14,
+        "disc_number": 1,
+        "name": "Big Love",
+        "duration_ms": 218840,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0c/ef/b8/0cefb851-de9a-11f6-8309-2cfc90f34703/mzaf_6115428191028075640.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/big-love/202271826?i=202272743&uo=4"
+      },
+      {
+        "track_number": 15,
+        "disc_number": 1,
+        "name": "Over My Head",
+        "duration_ms": 214667,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/64/4b/7c/644b7c18-a998-9e3b-fd2f-11c07809006a/mzaf_13862525271393453035.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/over-my-head/202271826?i=202272777&uo=4"
+      },
+      {
+        "track_number": 16,
+        "disc_number": 1,
+        "name": "No Questions Asked",
+        "duration_ms": 280933,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/3a/70/4b/3a704bf7-9883-fdff-0bb4-f714ecb95fba/mzaf_17668356967331382516.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/no-questions-asked/202271826?i=202272790&uo=4"
+      }
+    ]
+  },
+  "discrepancies": [
+    "Track count differs: Discogs=13, Apple Music=16",
+    "Total runtime differs by 636s (Discogs=3229s, Apple Music=3865s) \u2014 likely a different master/remaster."
+  ],
+  "local_cover": "images/23273714.jpg"
+}
