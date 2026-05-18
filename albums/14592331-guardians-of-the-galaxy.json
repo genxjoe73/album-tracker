@@ -400,5 +400,6 @@
   "apple_music": null,
   "discrepancies": [
     "No Apple Music match found."
-  ]
+  ],
+  "local_cover": "images/14592331.jpg"
 }
