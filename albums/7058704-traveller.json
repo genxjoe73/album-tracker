@@ -1,0 +1,456 @@
+{
+  "captured_at": "2026-05-17T23:58:10+00:00",
+  "schema_version": 3,
+  "artist": "Chris Stapleton",
+  "title": "Traveller",
+  "original_release_year": 2015,
+  "pressing_year": 2015,
+  "upgrade_suggestion": "This original URP pressing is the definitive edition — no audiophile reissue has been produced. The original pressing sounds excellent; keep it.",
+  "commentary": "Chris Stapleton's explosive 2015 debut — raw, blues-soaked country produced by Dave Cobb, recorded live to tape at RCA Studio A Nashville. 'Tennessee Whiskey' made him a household name. Original pressing on Mercury Nashville (B0019405-01), pressed at United Record Pressing (Ⓤ), Nashville. Matrix B0019405-02 LP01 Ⓤ.",
+  "discogs": {
+    "release_id": 7058704,
+    "master_id": 845230,
+    "uri": "https://www.discogs.com/release/7058704-Chris-Stapleton-Traveller",
+    "title": "Traveller",
+    "artists": [
+      {
+        "name": "Chris Stapleton",
+        "id": 805983,
+        "role": null
+      }
+    ],
+    "year": 2015,
+    "released": "2015-05-26",
+    "country": "US",
+    "labels": [
+      {
+        "name": "Mercury Nashville",
+        "catno": "B0019405-01",
+        "id": 115661
+      }
+    ],
+    "formats": [
+      {
+        "name": "Vinyl",
+        "qty": "2",
+        "descriptions": [
+          "LP",
+          "Album",
+          "Stereo"
+        ],
+        "text": null
+      }
+    ],
+    "genres": [
+      "Blues",
+      "Folk, World, & Country"
+    ],
+    "styles": [
+      "Country"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Traveller",
+        "duration": "3:42",
+        "type": "track"
+      },
+      {
+        "position": "A2",
+        "title": "Fire Away",
+        "duration": "4:04",
+        "type": "track"
+      },
+      {
+        "position": "A3",
+        "title": "Tennessee Whiskey",
+        "duration": "4:52",
+        "type": "track"
+      },
+      {
+        "position": "A4",
+        "title": "Parachute",
+        "duration": "4:13",
+        "type": "track"
+      },
+      {
+        "position": "B1",
+        "title": "Whiskey And You",
+        "duration": "3:56",
+        "type": "track"
+      },
+      {
+        "position": "B2",
+        "title": "Nobody To Blame",
+        "duration": "4:04",
+        "type": "track"
+      },
+      {
+        "position": "B3",
+        "title": "More Of You",
+        "duration": "4:37",
+        "type": "track"
+      },
+      {
+        "position": "B4",
+        "title": "When The Stars Come Out",
+        "duration": "4:16",
+        "type": "track"
+      },
+      {
+        "position": "C1",
+        "title": "Daddy Doesn't Pray Anymore",
+        "duration": "4:09",
+        "type": "track"
+      },
+      {
+        "position": "C2",
+        "title": "Might As Well Get Stoned",
+        "duration": "4:37",
+        "type": "track"
+      },
+      {
+        "position": "C3",
+        "title": "Was It 26",
+        "duration": "4:49",
+        "type": "track"
+      },
+      {
+        "position": "D1",
+        "title": "The Devil Named Music",
+        "duration": "6:07",
+        "type": "track"
+      },
+      {
+        "position": "D2",
+        "title": "Outlaw State Of Mind",
+        "duration": "5:37",
+        "type": "track"
+      },
+      {
+        "position": "D3",
+        "title": "Sometimes I Cry",
+        "duration": "4:02",
+        "type": "track"
+      }
+    ],
+    "extraartists": [
+      {
+        "name": "Dave Cobb",
+        "role": "Acoustic Guitar, Percussion",
+        "id": 621782
+      },
+      {
+        "name": "Morgane Stapleton",
+        "role": "Backing Vocals",
+        "id": 3567328
+      },
+      {
+        "name": "J.T. Cure",
+        "role": "Bass",
+        "id": 4396086
+      },
+      {
+        "name": "Mary Hooper",
+        "role": "Design",
+        "id": 3421762
+      },
+      {
+        "name": "Derek Mixon",
+        "role": "Drums, Percussion",
+        "id": 1570783
+      },
+      {
+        "name": "Mickey Raphael",
+        "role": "Harmonica",
+        "id": 408215
+      },
+      {
+        "name": "Chris Stapleton",
+        "role": "Lead Vocals, Electric Guitar, Acoustic Guitar, Mandolin",
+        "id": 805983
+      },
+      {
+        "name": "Pete Lyman",
+        "role": "Mastered By",
+        "id": 382380
+      },
+      {
+        "name": "Robby Turner",
+        "role": "Pedal Steel Guitar",
+        "id": 577199
+      },
+      {
+        "name": "Becky Fluke",
+        "role": "Photography By",
+        "id": 3710609
+      },
+      {
+        "name": "Mike Webb (2)",
+        "role": "Piano, Organ, Mellotron",
+        "id": 1421826
+      },
+      {
+        "name": "Chris Stapleton",
+        "role": "Producer",
+        "id": 805983
+      },
+      {
+        "name": "Dave Cobb",
+        "role": "Producer",
+        "id": 621782
+      }
+    ],
+    "identifiers": [
+      {
+        "type": "Barcode",
+        "value": "6 02547 25522 8",
+        "description": "Text"
+      },
+      {
+        "type": "Barcode",
+        "value": "602547255228",
+        "description": "Scanned"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "B0019405-02 LP01 -A Ⓤ ϤR",
+        "description": "Side A Etched"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "B0019405-02 LP01 - B Ⓤ ϤR",
+        "description": "Side B Etched"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "B0019405-02 LP02 - C RE-2 ϤR Ⓤ",
+        "description": "Side C Etched"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "B0019405-02 LP02 - D RE-2 Ⓤ ϤR",
+        "description": "Side D Etched"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "B0019405-02 LP01 - A RE-5 ϤR",
+        "description": "Side A Etched variant"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "B0019405-02 LP01 - B RE-5 ϤR",
+        "description": "Side B Etched variant"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "B0019405-02 LP02 - C RE-5 ϤR",
+        "description": "Side C Etched variant"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "B0019405-02 LP02 - D RE-5 ϤR",
+        "description": "Side D Etched variant"
+      }
+    ],
+    "notes": "Gatefold sleeve",
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/Zy5maS7zfsB30DpDLbpkWKaaRUiOB7zqaV9go1VrwDQ/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNTg3/MDQtMTUzNTExNjY2/NC01NjIyLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/rGW7QQXvDfBeOHLvqSFDTXoYX20QF3FZA_cGdykywZs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNTg3/MDQtMTUzNTExNjY2/NC01NjIyLmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/ddzVFwTlmJS6RRajp3Z00UOagkILvT4tQ3sgQFkzfVI/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNTg3/MDQtMTUzNDI1ODE0/OS05ODI5LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/wHdjEH5fsOQycK38gy8UL_lhfVY-XBY3J_TguuLuGpA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNTg3/MDQtMTUzNDI1ODE0/OS05ODI5LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/wl0f2kVGkwh9bQWLX8CsZ-wKrT1P8jF-VKcT--BgOYw/rs:fit/g:sm/q:90/h:580/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNTg3/MDQtMTUzNDI1ODE1/MC01MjE5LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/J7yloMki2vwgR0u-jO38EgXfPV4tcWmzyCIumCPI8wo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNTg3/MDQtMTUzNDI1ODE1/MC01MjE5LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/6U9YBSLm6AhwrAQBhWjJ1dzG-tz5JVBWjD-Dshj7Vp4/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNTg3/MDQtMTUzNTExNjY2/NS0zNDk1LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/YCnxhB5Y-fHup1NARD-1wsMflNlj2FabpD-nO8R1p5g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNTg3/MDQtMTUzNTExNjY2/NS0zNDk1LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/4_m5ASK3M_vuvnEWTfBvPueLlaEzhT-QpecZMuy0Fik/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNTg3/MDQtMTQ3MDM0NTIw/My04NjYyLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/Ub8lnrNbBXUQUwpS12Puv1sHbyJV2zddWDM9TPSwyrU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNTg3/MDQtMTQ3MDM0NTIw/My04NjYyLmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/NR7nanjknlYwG_zVm0pjbXLJ0NtLKG7rcN5XfhlN4O4/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNTg3/MDQtMTQ3MDM0NTIw/My03MTkzLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/rBZ6pVvUcqBmieIZU8UqZ0ZNbInjPwLixsBx50EhPTY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNTg3/MDQtMTQ3MDM0NTIw/My03MTkzLmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/jVc4boc5r-busvVHfpUltEroLtmazb5gcfneRrMFOAA/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNTg3/MDQtMTQ3MDM0NTIw/My0yMDEwLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/ebMtU5hNNnOB-Otlxz-Gl9ET2aUSsKP9jLo0PhGRTE4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNTg3/MDQtMTQ3MDM0NTIw/My0yMDEwLmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/QUNSnbEMHyY7ou7BYgQzPIw5c3WV4y6273em2pMqdDE/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNTg3/MDQtMTQ3MDM0NTIw/My0zNDg5LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/b4goiNNtwo6gsNSRhjo5nZhKWd_76wNXetes3yXbWqg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNTg3/MDQtMTQ3MDM0NTIw/My0zNDg5LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/1VM1Z_WIBaHEDcB7BlCw885V6w8O8IAtTpq1pDVU9nA/rs:fit/g:sm/q:90/h:297/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNTg3/MDQtMTc3NjExMjgx/NS03NTE3LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/Q8p8ZiGkdRiOpOwo1vBaw0f_aP7Lc5Qy6DI3EpKgl8Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNTg3/MDQtMTc3NjExMjgx/NS03NTE3LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/l-KbEjsIAadTaJSGOLuCPARGjzWLSVLzecahhWceOIo/rs:fit/g:sm/q:90/h:294/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNTg3/MDQtMTc3NjExMjgx/Ni0xNDUxLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/491rkdCJKiOt9rJyipy3gHpEOCA6dlMzm9fw0whque4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNTg3/MDQtMTc3NjExMjgx/Ni0xNDUxLmpwZWc.jpeg"
+      }
+    ],
+    "community": {
+      "rating": {
+        "count": 774,
+        "average": 4.64
+      },
+      "have": 13049,
+      "want": 1968
+    },
+    "master": {
+      "id": 845230,
+      "title": "Traveller",
+      "main_release": 6987728,
+      "year": 2015,
+      "uri": "https://www.discogs.com/master/845230-Chris-Stapleton-Traveller",
+      "num_for_sale": 288
+    }
+  },
+  "apple_music": {
+    "id": 1440827477,
+    "url": "https://music.apple.com/us/album/traveller/1440827477?uo=4",
+    "name": "Traveller",
+    "artist": "Chris Stapleton",
+    "artist_id": 1752134,
+    "artwork_url_100": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e2/4b/60/e24b6016-8278-bb18-cf5d-d44bf68371da/00602547223838.rgb.jpg/100x100bb.jpg",
+    "artwork_url_600": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e2/4b/60/e24b6016-8278-bb18-cf5d-d44bf68371da/00602547223838.rgb.jpg/600x600bb.jpg",
+    "release_date": "2015-05-05T07:00:00Z",
+    "track_count": 14,
+    "copyright": "℗ 2015 Mercury Records, a Division of UMG Recordings, Inc.",
+    "primary_genre": "Country",
+    "country": "USA",
+    "tracks": [
+      {
+        "track_number": 1,
+        "disc_number": 1,
+        "name": "Traveller",
+        "duration_ms": 222411,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/dc/f6/80/dcf680d3-9dfc-031b-ced0-4d94a6344bb2/mzaf_17614519457598500263.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/traveller/1440827477?i=1440827487&uo=4"
+      },
+      {
+        "track_number": 2,
+        "disc_number": 1,
+        "name": "Fire Away",
+        "duration_ms": 244333,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ec/e6/1c/ece61c7e-3aff-4a73-d0d1-f752d7fbae91/mzaf_13600052113598677259.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/fire-away/1440827477?i=1440827490&uo=4"
+      },
+      {
+        "track_number": 3,
+        "disc_number": 1,
+        "name": "Tennessee Whiskey",
+        "duration_ms": 293291,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e3/7e/a3/e37ea341-37f0-9dcb-4d6a-e3f0a2c1ae26/mzaf_2775390428315622059.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/tennessee-whiskey/1440827477?i=1440827492&uo=4"
+      },
+      {
+        "track_number": 4,
+        "disc_number": 1,
+        "name": "Parachute",
+        "duration_ms": 253200,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f1/a6/fe/f1a6fef5-67ac-64f6-b96b-ad508a8da66f/mzaf_13746381656039156989.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/parachute/1440827477?i=1440827500&uo=4"
+      },
+      {
+        "track_number": 5,
+        "disc_number": 1,
+        "name": "Whiskey and You",
+        "duration_ms": 236327,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/31/37/cf/3137cf28-aca9-8595-7731-a0572e097ba0/mzaf_5965264750957934299.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/whiskey-and-you/1440827477?i=1440827622&uo=4"
+      },
+      {
+        "track_number": 6,
+        "disc_number": 1,
+        "name": "Nobody to Blame",
+        "duration_ms": 244149,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d5/2a/48/d52a4870-b429-3f13-ce52-a90d984004d9/mzaf_15245503222405551799.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/nobody-to-blame/1440827477?i=1440827625&uo=4"
+      },
+      {
+        "track_number": 7,
+        "disc_number": 1,
+        "name": "More of You",
+        "duration_ms": 277562,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a0/db/92/a0db9253-642e-f1db-835b-b83f25cc849b/mzaf_2095626996037465878.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/more-of-you/1440827477?i=1440827629&uo=4"
+      },
+      {
+        "track_number": 8,
+        "disc_number": 1,
+        "name": "When the Stars Come Out",
+        "duration_ms": 256681,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f5/5c/bf/f55cbfaf-c4d8-423f-d68e-84f8eb5f8565/mzaf_15153918800044816548.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/when-the-stars-come-out/1440827477?i=1440827636&uo=4"
+      },
+      {
+        "track_number": 9,
+        "disc_number": 1,
+        "name": "Daddy Doesn't Pray Anymore",
+        "duration_ms": 249718,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/26/c4/ce/26c4ce12-9007-fe2b-399a-fe34177bfa88/mzaf_8700099773591834350.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/daddy-doesnt-pray-anymore/1440827477?i=1440827639&uo=4"
+      },
+      {
+        "track_number": 10,
+        "disc_number": 1,
+        "name": "Might As Well Get Stoned",
+        "duration_ms": 277064,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/8d/da/3a/8dda3a25-e0e8-a6db-913d-805bfeae9ce3/mzaf_13242221239855892573.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/might-as-well-get-stoned/1440827477?i=1440827643&uo=4"
+      },
+      {
+        "track_number": 11,
+        "disc_number": 1,
+        "name": "Was It 26",
+        "duration_ms": 289095,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/40/c5/11/40c51104-c7d8-22f7-8570-d587bfaa5c83/mzaf_263652529447477920.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/was-it-26/1440827477?i=1440827646&uo=4"
+      },
+      {
+        "track_number": 12,
+        "disc_number": 1,
+        "name": "The Devil Named Music",
+        "duration_ms": 367493,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a5/18/cd/a518cdc4-4b57-4ae1-36fd-ecc70fc19a06/mzaf_10699096039812027465.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/the-devil-named-music/1440827477?i=1440827652&uo=4"
+      },
+      {
+        "track_number": 13,
+        "disc_number": 1,
+        "name": "Outlaw State of Mind",
+        "duration_ms": 337285,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/2c/78/b0/2c78b0c0-588d-3c29-a719-2ff2fa73ac76/mzaf_7848447507348293858.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/outlaw-state-of-mind/1440827477?i=1440827657&uo=4"
+      },
+      {
+        "track_number": 14,
+        "disc_number": 1,
+        "name": "Sometimes I Cry",
+        "duration_ms": 240270,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/eb/ce/80/ebce8089-98ee-44d3-7bec-addd9ef97ea0/mzaf_9740613184385509573.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/sometimes-i-cry/1440827477?i=1440827660&uo=4"
+      }
+    ]
+  },
+  "discrepancies": [],
+  "local_cover": "images/7058704.jpg"
+}

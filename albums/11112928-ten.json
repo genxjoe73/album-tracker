@@ -1,0 +1,628 @@
+{
+  "captured_at": "2026-05-17T23:23:03+00:00",
+  "schema_version": 3,
+  "artist": "Pearl Jam",
+  "title": "Ten",
+  "original_release_year": 1991,
+  "pressing_year": 2017,
+  "upgrade_suggestion": "The 2009 Legacy Edition remaster (88697413021) is considered the definitive version. No Mobile Fidelity or Analogue Productions edition exists. This MPO/Sterling pressing is the best currently available.",
+  "commentary": "**Ten** is Pearl Jam's debut studio album, released in August 1991 on Epic Records, and one of the defining documents of the grunge era. Produced by Rick Parashar and Jeff Ament, it arrived weeks after Nirvana's *Nevermind* and together the two albums shifted the entire axis of mainstream rock. \"Alive,\" \"Even Flow,\" \"Black,\" \"Jeremy,\" \"Oceans,\" and \"Release\" introduced Eddie Vedder's extraordinary baritone and the band's muscular, emotionally intense approach to hard rock. The album sold over 13 million copies in the US alone, making it one of the best-selling debut albums in history.\n\nWhat sets *Ten* apart from its grunge contemporaries is its ambition \u2014 Rick Parashar's production is big and anthemic rather than lo-fi and abrasive, giving the album a cinematic quality that made it accessible to a massive audience without diluting its emotional power. Vedder's vocal performances remain some of the most committed in rock history, and Stone Gossard and Mike McCready's guitar interplay defined a template for the decade.\n\nPearl Jam famously keeps their catalog off streaming services, making vinyl the primary way to hear this album outside of CD, which gives physical ownership of *Ten* particular significance for fans.\n\nThe **2017 reissue** (Epic / Legacy catalog **88697413021**) was pressed at **MPO** (France) with lacquer cut at **Sterling Sound** (SST) \u2014 an excellent quality combination. The batch code `\u00ae 21 201792` confirms this specific pressing was manufactured in 2021 from the 2017 lacquers. MPO's quality control and Sterling Sound's mastering make this a superior modern pressing.\n\n**About this 2017/2021 Europe pressing (Vinyl, LP, Reissue):** Epic / Legacy catalog **88697413021**, 2017 reissue pressed at MPO (France) in 2021. Mastered at Sterling Sound (SST). Barcode 889853768714. Matrix 88697413021-A 15-0365 NL Kr SST MPO \u00ae 21.\n",
+  "discogs": {
+    "release_id": 11112928,
+    "master_id": 73824,
+    "uri": "https://www.discogs.com/release/11112928-Pearl-Jam-Ten",
+    "title": "Ten",
+    "artists": [
+      {
+        "name": "Pearl Jam",
+        "id": 175395,
+        "role": null
+      }
+    ],
+    "year": 2017,
+    "released": "2017",
+    "country": "Europe",
+    "labels": [
+      {
+        "name": "Epic Associated",
+        "catno": "88985376871",
+        "id": 57469
+      },
+      {
+        "name": "Sony Music",
+        "catno": "88985376871",
+        "id": 25487
+      }
+    ],
+    "formats": [
+      {
+        "name": "Vinyl",
+        "qty": "1",
+        "descriptions": [
+          "LP",
+          "Album",
+          "Reissue",
+          "Stereo"
+        ],
+        "text": null
+      }
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Alternative Rock",
+      "Grunge"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Once",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "A2",
+        "title": "Even Flow",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "A3",
+        "title": "Alive",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "A4",
+        "title": "Why Go",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "A5",
+        "title": "Black",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "A6",
+        "title": "Jeremy",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B1",
+        "title": "Oceans",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B2",
+        "title": "Porch",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B3",
+        "title": "Garden",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B4",
+        "title": "Deep",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B5",
+        "title": "Release",
+        "duration": "",
+        "type": "track"
+      }
+    ],
+    "extraartists": [
+      {
+        "name": "Michael Goldstone",
+        "role": "A&R",
+        "id": 825011
+      },
+      {
+        "name": "Jeff Ament",
+        "role": "Art Direction, Concept By",
+        "id": 377056
+      },
+      {
+        "name": "Jeff Ament",
+        "role": "Bass",
+        "id": 377056
+      },
+      {
+        "name": "Walter Gray",
+        "role": "Cello",
+        "id": 366929
+      },
+      {
+        "name": "Lisa Sparagano",
+        "role": "Design",
+        "id": 1875368
+      },
+      {
+        "name": "Risa Zaitschek",
+        "role": "Design",
+        "id": 1875370
+      },
+      {
+        "name": "Dave Krusen",
+        "role": "Drums",
+        "id": 712166
+      },
+      {
+        "name": "Adrian Moore (3)",
+        "role": "Engineer [Additional Engineering]",
+        "id": 1117226
+      },
+      {
+        "name": "Dave Hillis",
+        "role": "Engineer [Additional Engineering]",
+        "id": 293624
+      },
+      {
+        "name": "Don Gilmore",
+        "role": "Engineer [Additional Engineering]",
+        "id": 231758
+      },
+      {
+        "name": "Stone Gossard",
+        "role": "Guitar",
+        "id": 377057
+      },
+      {
+        "name": "Daniel Krieger",
+        "role": "Lacquer Cut By",
+        "id": 716158
+      },
+      {
+        "name": "Mike McCready",
+        "role": "Lead Guitar",
+        "id": 275980
+      },
+      {
+        "name": "Eddie Vedder",
+        "role": "Lyrics By",
+        "id": 262214
+      },
+      {
+        "name": "Kelly Curtis",
+        "role": "Management",
+        "id": 1662520
+      },
+      {
+        "name": "Bob Ludwig",
+        "role": "Mastered By",
+        "id": 271098
+      },
+      {
+        "name": "Tim Palmer",
+        "role": "Mixed By",
+        "id": 86622
+      },
+      {
+        "name": "Dave Krusen",
+        "role": "Music By",
+        "id": 712166
+      },
+      {
+        "name": "Eddie Vedder",
+        "role": "Music By",
+        "id": 262214
+      },
+      {
+        "name": "Jeff Ament",
+        "role": "Music By",
+        "id": 377056
+      },
+      {
+        "name": "Mike McCready",
+        "role": "Music By",
+        "id": 275980
+      },
+      {
+        "name": "Stone Gossard",
+        "role": "Music By",
+        "id": 377057
+      },
+      {
+        "name": "Lance Mercer",
+        "role": "Photography By",
+        "id": 2236743
+      },
+      {
+        "name": "Rick Parashar",
+        "role": "Piano, Organ, Percussion",
+        "id": 251556
+      },
+      {
+        "name": "Pearl Jam",
+        "role": "Producer",
+        "id": 175395
+      },
+      {
+        "name": "Rick Parashar",
+        "role": "Producer",
+        "id": 251556
+      },
+      {
+        "name": "Eddie Vedder",
+        "role": "Vocals",
+        "id": 262214
+      }
+    ],
+    "identifiers": [
+      {
+        "type": "Barcode",
+        "value": "8 89853 76871 4",
+        "description": "Printed"
+      },
+      {
+        "type": "Barcode",
+        "value": "0889853768714",
+        "description": "Scanned"
+      },
+      {
+        "type": "Label Code",
+        "value": "LC00199",
+        "description": null
+      },
+      {
+        "type": "Rights Society",
+        "value": "BIEM/GEMA",
+        "description": null
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "MPO 88697413021 - A 15-0365 NL Kr SST [MPO logo]\u00ae 19 101579",
+        "description": "Side A runout, variant 1"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "MPO 88697413021 - B 15-0365 NL Kr SST [MPO logo]\u00ae 18 56741",
+        "description": "Side B runout, variant 1"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "MPO 88697413021 - A 15-0365 NL Kr SST [MPO logo]\u00ae 19 101330",
+        "description": "Side A runout, variant 2"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "MPO 88697413021 - B 15-0365 NL Kr SST [MPO logo]\u00ae 19 101205",
+        "description": "Side B runout, variant 2"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "MPO 88697413021 - A 15-0365 NL Kr SST [MPO logo]\u00ae 19 122081",
+        "description": "Side A runout, variant 3"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "MPO 88697413021 - B 15-0365 NL Kr SST [MPO logo]\u00ae 19 100312",
+        "description": "Side B runout, variant 3"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "MPO 88697413021 - A 15-0365 NL Kr SST [MPO logo]\u00ae 19 145310",
+        "description": "Side A runout, variant 4"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "MPO 88697413021 - B 15-0365 NL Kr SST [MPO logo]\u00ae 19 141888",
+        "description": "Side B runout, variant 4"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "MPO 88697413021 - A 15-0365 NL Kr SST [MPO logo]\u00ae 19 145267",
+        "description": "Side A runout, variant 5"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "MPO 88697413021 - B 15-0365 NL Kr SST [MPO logo]\u00ae 19 145309",
+        "description": "Side B runout, variant 5"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "MPO 88697413021 - A 15-0365 NL Kr SST [MPO logo]\u00ae 19 148933 ",
+        "description": "Side A runout, variant 6"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "MPO 88697413021 - B 15-0365 NL Kr SST [MPO logo]\u00ae 19 148947",
+        "description": "Side B runout, variant 6"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "MPO 88697413021 - A 15-0365 NL Kr SST [MPO logo]\u00ae 19 138610",
+        "description": "Side A runout, variant 7"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "MPO 88697413021 - B 15-0365 NL Kr SST [MPO logo]\u00ae 19 137776",
+        "description": "Side B runout, variant 7"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "MPO 88697413021 - A 15-0365 NL Kr SST [MPO logo]\u00ae 19 122122",
+        "description": "Side A runout, variant 8"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "MPO 88697413021 - B 15-0365 NL Kr SST [MPO logo]\u00ae 19 122168",
+        "description": "Side B runout, variant 8"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "MPO 88697413021 - A 15-0365 NL Kr SST [MPO logo]\u00ae 19",
+        "description": "Side A runout, variant 9"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "MPO 88697413021 - B 15-0365 NL Kr SST [MPO logo]\u00ae 19 102921",
+        "description": "Side B runout, variant 9"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "88697413021-A 15-0365 NL Kr SST [MPO logo] \u00ae 21 201681",
+        "description": "Side A runout, variant 10"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "88697413021-B 15-0365 NL Kr SST [MPO logo] \u00ae 21 200996",
+        "description": "Side B runout, variant 10"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "88697413021-A 15-0365 NL Kr SST [MPO logo] \u00ae 21 201550",
+        "description": "Side A runout, variant 11"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "88697413021-B 15-0365 NL Kr SST [MPO logo] \u00ae 21 200996",
+        "description": "Side B runout, variant 11"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "88697413021-A 15-0365 NL Kr SST [MPO logo] \u00ae 21 204037",
+        "description": "Side A runout, variant 12"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "88697413021-B 15-0365 NL Kr SST [MPO logo] \u00ae 21 204056",
+        "description": "Side B runout, variant 12"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "88697413021-A 15-0365 NL Kr SST [MPO logo] \u00ae 21 201756",
+        "description": "Side A runout, variant 13"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "88697413021-B 15-0365 NL Kr SST [MPO logo] \u00ae 21 201753",
+        "description": "Side B runout, variant 13"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "none",
+        "description": "Side A runout, variant 14"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "88697413021-B 15-0365 NL Kr SST [MPO logo] \u00ae 21 218909",
+        "description": "Side B runout, variant 14"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "88697413021-A 15-0365 NL Kr SST [MPO logo] \u00ae 21 204080",
+        "description": "Side A runout, variant 15"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "88697413021-B 15-0365 NL Kr SST [MPO logo] \u00ae 21 204081",
+        "description": "Side B runout, variant 15"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "none",
+        "description": "Side A runout, variant 16"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "88697413021-B 15-0365 NL Kr SST [MPO logo] \u00ae 21 231232",
+        "description": "Side B runout, variant 16"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "88697413021-A 15-0365 NL Kr SST [MPO logo] \u00ae 21 231234",
+        "description": "Side A runout, variant 17"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "88697413021-B 15-0365 NL Kr SST [MPO logo] \u00ae 21 231234",
+        "description": "Side B runout, variant 17"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "88697413021-A 15-0365 NL Kr SST [MPO logo] \u00ae 22 254692",
+        "description": "Side A runout, variant 18"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "88697413021-B 15-0365 NL Kr SST [MPO logo] \u00ae 22 255683",
+        "description": "Side B runout, variant 18"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "88697413021-A 15-0365 NL Kr SST [MPO logo] \u00ae 22 255681",
+        "description": "Side A runout, variant 19"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "88697413021-B 15-0365 NL Kr SST [MPO logo] \u00ae 22 256404",
+        "description": "Side B runout, variant 19"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "88697413021-A 15-0365 NL Kr SST [MPO logo] \u00ae 20 156734",
+        "description": "Side A runout, variant 20"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "88697413021-B 15-0365 NL Kr SST [MPO logo] \u00ae 20 156735",
+        "description": "Side B runout, variant 20"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "88697413021-A 15-0365 NL Kr SST [MPO logo] \u00ae 20 183556",
+        "description": "Side A runout, variant 21"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "88697413021-B 15-0365 NL Kr SST [MPO logo] \u00ae 20 183527",
+        "description": "Side B runout, variant 21"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "88697413021-A 15-0365 NL Kr SST [MPO logo] \u00ae 18 56352",
+        "description": "Side A runout, variant 22"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "88697413021-B 15-0365 NL Kr SST [MPO logo] \u00ae 18 66353",
+        "description": "Side B runout, variant 22"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "88697413021-A 15-0365 NL Kr SST [MPO logo] \u00ae 18 13381",
+        "description": "Side A runout, variant 23"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "88697413021-B 15-0365 NL Kr SST [MPO logo] \u00ae 18 13380",
+        "description": "Side B runout, variant 23"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "88697413021-A 15-0365 NL Kr SST [MPO logo] \u00ae 18 101348",
+        "description": "Side A runout, variant 24"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "88697413021-B 15-0365 NL Kr SST [MPO logo] \u00ae 18 101349 ",
+        "description": "Side B runout, variant 24"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "88697413021-A 15-0365 NL Kr SST [MPO logo] \u00ae 23 326479",
+        "description": "Side A runout, variant 25"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "88697413021-B 15-0365 NL Kr SST [MPO logo] \u00ae 23 326444",
+        "description": "Side B runout, variant 25"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "88697413021-A 15-0365 NL Kr SST [MPO logo] \u00ae 23 327435",
+        "description": "Side A runout, variant 26"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "88697413021-B 15-0365 NL Kr SST [MPO logo] \u00ae 23 327290",
+        "description": "Side B runout, variant 26"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "88697413021-A 15-0365 NL Kr SST [MPO logo] \u00ae 18 56690",
+        "description": "Side A runout, variant 27"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "88697413021-B 15-0365 NL Kr SST [MPO logo] \u00ae 19 100066",
+        "description": "Side B runout  variant 27"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "MPO 88697413021-A 15-0365 NL Kr SST [MPO logo] \u00ae  20 160449",
+        "description": "Side A runout, variant 28"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "MPO 88697413021-B 15-0365 NL Kr SST [MPO logo] \u00ae 20 160501",
+        "description": "Side B runout  variant 28"
+      }
+    ],
+    "notes": "Contains double-sided printed inner sleeve with lyrics.\n\nMixed by Tim Palmer for Worlds End (America) Inc.\nRecorded at London Bridge Studios, Seatlle - March/April 91\nMixed at Ridge Farm Studios Dorking, England - June 91\nMastered 2008 by Bob Ludwig at Gateway Mastering, Portland, ME\n\nAll songs \u00a9 1991 Write Treatage Music/Innocent Bystander/Jumpin' Cat Music/Scribing C-Ment Songs/3 Kick Heads (GMR)\n\n\u00a9 1991, 2017 Epic Records, a division of Sony Music Entertainment \n\u2117 1991 Epic Records, a division of Sony Music Entertainment\n\nMade in the EU.\n\nRunouts:\n'MPO 88697413021 - A 15-0365 NL Kr SST' & 'MPO 88697413021 - B 15-0365 NL Kr SST' are etched, remainder is stamped.\n\nReleases with a laser-etched MPO pressing number that start with 17 (2017) up until 23 (2023) should be treated as a variant, not as a separate release.",
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/Gs5ge0VKnvKSmba15wtKHcNYcivyxfokHFbpeBFtVIk/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTEy/OTI4LTE1MTA5NDgy/MTctMjY0Mi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/Xups1YLQ-UBR_G1Nm4uS-VFAqnurkobkALQI-ktQVok/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTEy/OTI4LTE1MTA5NDgy/MTctMjY0Mi5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/jp2vxrxMXaUV96YsK1owSgi-NrtwMwL6Uz_O6EZWXVQ/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTEy/OTI4LTE1MTA5NDgy/MTAtMjg0NS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/XflWuWNzJvMSin_X6Qi2FlguD0_70ja4KnEJI29YaKc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTEy/OTI4LTE1MTA5NDgy/MTAtMjg0NS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/WvMmEC5l6z13ZKKuaqFgJ1k-6FF9ggkUT0QIPixtcJ4/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTEy/OTI4LTE1MTA5NDgy/MjItMjE5Ni5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/t-T0lF8_vxWlgOu7EdgO0XHnI3yLrW1PdVpYvPnobGY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTEy/OTI4LTE1MTA5NDgy/MjItMjE5Ni5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/WqPv7EwiUId918a0EC1kJcI5ITodvvjBbBBu6zvHUms/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTEy/OTI4LTE1MTA5NDgy/MTctMzUyMi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/nOQsntsyRZ-1gxP00HzyS3D_h9m62J157mQ0u9lG83o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTEy/OTI4LTE1MTA5NDgy/MTctMzUyMi5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/l-wGjAVbjmqU87D7sW122w06pFh2L1SmKzM0jgPlwVo/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTEy/OTI4LTE1MTA5NDgy/MTYtNTcwNC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/MPNIDCMl8dCufSGeXQ2a-I8rXm0R527PIqtqyVYXYd8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTEy/OTI4LTE1MTA5NDgy/MTYtNTcwNC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/6jzB7UqPn5_zGranb_qHVoJ6LaSzkb6m74jm00ufyV8/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTEy/OTI4LTE1MTA5NDgy/MjItMTk5Ni5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/h0mYPG94mF4jn7apoyKfhy6uhooMQblGFMp64iYAIYU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTEy/OTI4LTE1MTA5NDgy/MjItMTk5Ni5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/ncvmFhcsOg1ntG4UVR9prC6Lrq7epolndmzPjCBAstw/rs:fit/g:sm/q:90/h:285/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTEy/OTI4LTE3NzUwNDgw/MDUtMjUyOS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/VMLyi7Zy_lVRPUm1W5bX5unrI8NFJuNKJq4JapxKtxA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTEy/OTI4LTE3NzUwNDgw/MDUtMjUyOS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/eP2a-ciP2u8FjkkfBLmZzOMFkPmTq76i0_Dr1SJjsks/rs:fit/g:sm/q:90/h:350/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTEy/OTI4LTE3NzUwNDgw/MDQtOTA4Mi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/cHvv0tkhvw0nsoAArAVHZVOQJWhG_pDGi1KBiK0XwME/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTEy/OTI4LTE3NzUwNDgw/MDQtOTA4Mi5qcGVn.jpeg"
+      }
+    ],
+    "community": {
+      "rating": {
+        "count": 2045,
+        "average": 4.66
+      },
+      "have": 28509,
+      "want": 2232
+    },
+    "master": {
+      "id": 73824,
+      "title": "Ten",
+      "main_release": 367664,
+      "year": 1991,
+      "uri": "https://www.discogs.com/master/73824-Pearl-Jam-Ten",
+      "num_for_sale": 1975
+    }
+  },
+  "apple_music": null,
+  "discrepancies": [
+    "No Apple Music match found."
+  ]
+}

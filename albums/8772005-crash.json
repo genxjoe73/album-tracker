@@ -1,0 +1,612 @@
+{
+  "captured_at": "2026-05-17T23:07:36+00:00",
+  "schema_version": 3,
+  "artist": "Dave Matthews Band",
+  "title": "Crash",
+  "original_release_year": 1996,
+  "pressing_year": 2016,
+  "upgrade_suggestion": "This is the definitive vinyl pressing \u2014 first-ever vinyl release, 180g, MPO pressed, Chris Bellman mastered from original analog sources. No upgrade path exists; this is the reference.",
+  "commentary": "**Crash** is Dave Matthews Band's second major-label studio album, released in April 1996 on RCA Records, and the album that transformed them from a college radio phenomenon into one of the best-selling touring and recording acts in America. Produced by Steve Lillywhite, it refines the sprawling improvisational energy of *Under the Table and Dreaming* into something more focused without sacrificing the band's improvisational DNA. \"Crash Into Me,\" \"#41,\" \"Too Much,\" \"So Much to Say,\" and \"Two Step\" represent some of the strongest songwriting of Matthews' career, and the album went on to sell over 9 million copies in the US alone, earning a Grammy for Best Rock Album.\n\nThe album's sonic identity is inseparable from the interplay between Boyd Tinsley's violin, LeRoi Moore's saxophone, Stefan Lessard's melodic bass, Carter Beauford's extraordinarily fluid drumming, and Matthews' percussive acoustic guitar \u2014 a texture unlike virtually any other band in mainstream rock of the era. Lillywhite's production captures the live chemistry of the band while giving the studio versions their own authority.\n\nThe **2016 reissue** (RCA / Legacy catalog **88875189401**) was pressed at **MPO** (France) with matrix codes `MPO 16-0156 A2 88985314591-A RE-1 CB` \u2014 the `CB` indicating **Chris Bellman** of Bernie Grundman Mastering, one of the most respected mastering engineers in the business. An MPO pressing with a Chris Bellman master is a genuinely high-quality reissue combination. Notably, this 2016 release marks the **first time Crash was ever released on vinyl** \u2014 the original 1996 release was CD-only.\n\n**About this 2016 US pressing (2\u00d7 Vinyl, LP, Reissue, Remastered):** RCA / Legacy catalog **88875189401**, 2016 reissue. Double LP, 180-gram Virgin Black Vinyl. Pressed at MPO (France), mastered by Chris Bellman (CB) at Bernie Grundman Mastering. Barcode 88751894013.\n",
+  "discogs": {
+    "release_id": 8772005,
+    "master_id": 271472,
+    "uri": "https://www.discogs.com/release/8772005-Dave-Matthews-Band-Crash",
+    "title": "Crash",
+    "artists": [
+      {
+        "name": "Dave Matthews Band",
+        "id": 30674,
+        "role": null
+      }
+    ],
+    "year": 2016,
+    "released": "2016-07-15",
+    "country": "US",
+    "labels": [
+      {
+        "name": "Bama Rags Records",
+        "catno": "88875189401",
+        "id": 134729
+      },
+      {
+        "name": "RCA",
+        "catno": "88875189401",
+        "id": 895
+      },
+      {
+        "name": "Legacy",
+        "catno": "88875189401",
+        "id": 15491
+      }
+    ],
+    "formats": [
+      {
+        "name": "Vinyl",
+        "qty": "2",
+        "descriptions": [
+          "LP",
+          "Album",
+          "Reissue",
+          "Remastered"
+        ],
+        "text": "180g"
+      }
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Alternative Rock",
+      "Pop Rock",
+      "Jazz-Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "So Much To Say",
+        "duration": "4:07",
+        "type": "track"
+      },
+      {
+        "position": "A2",
+        "title": "Two Step",
+        "duration": "6:27",
+        "type": "track"
+      },
+      {
+        "position": "A3",
+        "title": "Crash Into Me",
+        "duration": "5:16",
+        "type": "track"
+      },
+      {
+        "position": "B1",
+        "title": "Too Much",
+        "duration": "4:21",
+        "type": "track"
+      },
+      {
+        "position": "B2",
+        "title": "#41",
+        "duration": "6:39",
+        "type": "track"
+      },
+      {
+        "position": "B3",
+        "title": "Say Goodbye",
+        "duration": "6:11",
+        "type": "track"
+      },
+      {
+        "position": "C1",
+        "title": "Drive In Drive Out",
+        "duration": "5:54",
+        "type": "track"
+      },
+      {
+        "position": "C2",
+        "title": "Let You Down",
+        "duration": "4:07",
+        "type": "track"
+      },
+      {
+        "position": "C3",
+        "title": "Lie In Our Graves",
+        "duration": "5:42",
+        "type": "track"
+      },
+      {
+        "position": "D1",
+        "title": "Cry Freedom",
+        "duration": "5:53",
+        "type": "track"
+      },
+      {
+        "position": "D2",
+        "title": "Tripping Billies",
+        "duration": "5:00",
+        "type": "track"
+      },
+      {
+        "position": "D3",
+        "title": "Proudest Monkey",
+        "duration": "9:11",
+        "type": "track"
+      }
+    ],
+    "extraartists": [
+      {
+        "name": "Darren Salmieri",
+        "role": "A&R",
+        "id": 554194
+      },
+      {
+        "name": "Bruce Flohr",
+        "role": "A&R [A&R Direction]",
+        "id": 1886686
+      },
+      {
+        "name": "Peter Robinson (5)",
+        "role": "A&R [A&R Direction]",
+        "id": 1886687
+      },
+      {
+        "name": "Dave Matthews",
+        "role": "Art Direction [Assisted By], Design [Assisted By]",
+        "id": 169117
+      },
+      {
+        "name": "Jane Matthews",
+        "role": "Art Direction [Assisted By], Design [Assisted By]",
+        "id": 2021484
+      },
+      {
+        "name": "Thane Kerner",
+        "role": "Art Direction, Design",
+        "id": 1979106
+      },
+      {
+        "name": "Leroi Moore",
+        "role": "Band [Dave Matthews Band], Alto Saxophone, Soprano Saxophone, Tenor Saxophone, Baritone Saxophone, Flute, Whistle",
+        "id": 520177
+      },
+      {
+        "name": "Stefan Lessard",
+        "role": "Band [Dave Matthews Band], Bass, Piano [Tac]",
+        "id": 877486
+      },
+      {
+        "name": "Carter Beauford",
+        "role": "Band [Dave Matthews Band], Drums, Percussion, Backing Vocals",
+        "id": 804227
+      },
+      {
+        "name": "Boyd Tinsley",
+        "role": "Band [Dave Matthews Band], Violin [Acoustic], Electric Violin",
+        "id": 375755
+      },
+      {
+        "name": "Dave Matthews",
+        "role": "Band [Dave Matthews Band], Vocals, Acoustic Guitar",
+        "id": 169117
+      },
+      {
+        "name": "David Gorman",
+        "role": "Design [Package]",
+        "id": 1192942
+      },
+      {
+        "name": "Kassondra Monroe",
+        "role": "Design [Package]",
+        "id": 2683073
+      },
+      {
+        "name": "John Siket",
+        "role": "Engineer",
+        "id": 254844
+      },
+      {
+        "name": "Chris Laidlaw",
+        "role": "Engineer [1st Assistant]",
+        "id": 372001
+      },
+      {
+        "name": "Scott Gormley",
+        "role": "Engineer [1st Assistant]",
+        "id": 581143
+      },
+      {
+        "name": "Paul Higgins",
+        "role": "Engineer [2nd Assistant]",
+        "id": 520470
+      },
+      {
+        "name": "Phil Painson",
+        "role": "Engineer [Assisted By, Green Street]",
+        "id": 373999
+      },
+      {
+        "name": "Tim Reynolds",
+        "role": "Guest [Special Guest], Acoustic Guitar, Electric Guitar",
+        "id": 375745
+      },
+      {
+        "name": "Thane Kerner",
+        "role": "Illustration [Cover]",
+        "id": 1979106
+      },
+      {
+        "name": "Chris Bellman",
+        "role": "Lacquer Cut By",
+        "id": 359447
+      },
+      {
+        "name": "Boyd Tinsley",
+        "role": "Lyrics By",
+        "id": 375755
+      },
+      {
+        "name": "Dave Matthews",
+        "role": "Lyrics By",
+        "id": 169117
+      },
+      {
+        "name": "Peter M. Griesar",
+        "role": "Lyrics By",
+        "id": 1492874
+      },
+      {
+        "name": "Coran Capshaw",
+        "role": "Management",
+        "id": 1707273
+      },
+      {
+        "name": "Ted Jensen",
+        "role": "Mastered By",
+        "id": 259758
+      },
+      {
+        "name": "Alex Case",
+        "role": "Mixed By [Assisted By, Room With A View]",
+        "id": 819960
+      },
+      {
+        "name": "Steve Lillywhite",
+        "role": "Mixed By [Green Street]",
+        "id": 50809
+      },
+      {
+        "name": "Tom Lord-Alge",
+        "role": "Mixed By [Room With A View]",
+        "id": 232766
+      },
+      {
+        "name": "C. Taylor Crothers",
+        "role": "Photography By",
+        "id": 2235700
+      },
+      {
+        "name": "Sam Erickson",
+        "role": "Photography By",
+        "id": 1663180
+      },
+      {
+        "name": "C. Taylor Crothers",
+        "role": "Photography By [Band]",
+        "id": 2235700
+      },
+      {
+        "name": "Steve Lillywhite",
+        "role": "Producer",
+        "id": 50809
+      },
+      {
+        "name": "John Alagia",
+        "role": "Producer [Additional Preproduction]",
+        "id": 299587
+      },
+      {
+        "name": "Lindsay Brown",
+        "role": "Product Manager",
+        "id": 814776
+      },
+      {
+        "name": "Patrick Jordan",
+        "role": "Product Manager",
+        "id": 960657
+      },
+      {
+        "name": "Gretchen Brennison",
+        "role": "Product Manager [Product Direction]",
+        "id": 402667
+      },
+      {
+        "name": "Ambrosia Healy",
+        "role": "Public Relations [Publicity]",
+        "id": 2680746
+      },
+      {
+        "name": "Chris Bellman",
+        "role": "Remastered By [Vinyl]",
+        "id": 359447
+      },
+      {
+        "name": "Tucker Rogers",
+        "role": "Research [Archivist]",
+        "id": 4262684
+      },
+      {
+        "name": "Boyd Tinsley",
+        "role": "Written-By",
+        "id": 375755
+      },
+      {
+        "name": "Carter Beauford",
+        "role": "Written-By",
+        "id": 804227
+      },
+      {
+        "name": "Dave Matthews",
+        "role": "Written-By",
+        "id": 169117
+      },
+      {
+        "name": "Leroi Moore",
+        "role": "Written-By",
+        "id": 520177
+      },
+      {
+        "name": "Peter M. Griesar",
+        "role": "Written-By",
+        "id": 1492874
+      },
+      {
+        "name": "Stefan Lessard",
+        "role": "Written-By",
+        "id": 877486
+      }
+    ],
+    "identifiers": [
+      {
+        "type": "Barcode",
+        "value": "8 88751 89401 3",
+        "description": "Text"
+      },
+      {
+        "type": "Barcode",
+        "value": "888751894013",
+        "description": "Scanned"
+      },
+      {
+        "type": "Other",
+        "value": "88875189401S1",
+        "description": "On hype sticker"
+      },
+      {
+        "type": "Rights Society",
+        "value": "ASCAP",
+        "description": null
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "MPO 16-0156 A2 88985314591-A  RE-1 cB",
+        "description": "Side A, Etched, variant 1"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "MPO 16-0156 B3 88985314591-B  Re-1 cB",
+        "description": "Side B, Etched, variant 1"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "MPO 16-0156 / 888751189401 C 88985314591-C cB",
+        "description": "Side C, Etched, variant 1"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "MPO 16-0156 D3 88985314591-D  Re-1 cB",
+        "description": "Side D, Etched, variant 1"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "MPO 16-0156 A2 88985314591-A  RE-1 CB [MPO logo] 23 303120",
+        "description": "Side A, etched, variant 2"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "MPO 16-0156 B3 88985314591-B  Re-1 CB [MPO logo] 23 302559",
+        "description": "Side B, etched, variant 2"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "MPO 16-0156 / 888751189401 C 88985314591-C CB",
+        "description": "Side C, etched, variant 2"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "MPO 16-0156 D3 88985314591-D Re-1 CB [MPO logo] 23 302853",
+        "description": "Side D, etched, variant 2"
+      }
+    ],
+    "notes": "First Time Ever on Vinyl.\n20th Anniversary 2LP 180 Gram Audiophile Virgin Black Vinyl\nRemastered and Cut from Original Analog Sources by Chris Bellman\nMade in the EU\nIncludes 8-page booklet\nIncludes a free download of the entire album\n\nRecorded at Bearsville Studios, Bearsville, NY\nAdditional Recording at Green Street Recording Studios, NYC",
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/YK9pHFV6QC7umAH4BLqvZMDJiRj96KkLx4MU31q0-Cs/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NzIw/MDUtMTU4ODE5OTY3/OC00MjQ3LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/DdhsHR2SkylddrF_ljVe9u2tqWt6iPIVXtbpA-DDUT0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NzIw/MDUtMTU4ODE5OTY3/OC00MjQ3LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/YAIXf1qDKb9AGh7Eyz76uRIEw7BeizB-ENQcS2r9T08/rs:fit/g:sm/q:90/h:296/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NzIw/MDUtMTQ4MDE4MTEw/NC03MDg0LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/Pyhwatk6W-sckRUhTOhyNCNmB2i6fSTRRvLd_nXU2pI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NzIw/MDUtMTQ4MDE4MTEw/NC03MDg0LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/FvO9hfEyrCwy19EW-vCMMY7BRTMBrl0uSQ1xufbItVc/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NzIw/MDUtMTU4ODE5OTcw/Mi05MTU1LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/D3WXaPcwZAZcr_Gz_lAJCatrHkx59WP1aFsKeWx0YnA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NzIw/MDUtMTU4ODE5OTcw/Mi05MTU1LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/quJm15gZWZjJNUtn-oDvu6Fmq3gQcJYKsVNP17xpnxI/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NzIw/MDUtMTQ4MDE4MTE0/NC01Njg5LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/bocj9ubW8pN0v_YW3k3ZdURTqvGocjmu9h787aV6lis/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NzIw/MDUtMTQ4MDE4MTE0/NC01Njg5LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/N3A5GKumSYRrZLnn2mPPVhgFCSEV3P0-2acnvj9Ef6s/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NzIw/MDUtMTQ4MDE4MTE0/Mi0zMjM1LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/PVSSP5-TT_0oVOimYkpNk1rKM7jBqQTYbA18wuCnBBo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NzIw/MDUtMTQ4MDE4MTE0/Mi0zMjM1LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/VDbca8H-J8n8_b1-PoSH1Ny-fPm5QtCUZQA1zHgbF4g/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NzIw/MDUtMTQ4MDE4MTE0/Mi0zNDQzLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/kZnBzeEk7JedYmsCuKREUv2C8skNOL4l8qw7SYtIEBk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NzIw/MDUtMTQ4MDE4MTE0/Mi0zNDQzLmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/YqUoQ2jSq4Ag6WjI70bwZLW3JLxoF5O3voPPfdBsq4w/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NzIw/MDUtMTQ4MDE4MTE0/Mi05MTg5LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/rRl-0GHoEmn5ATFg6nNDjGL3Lxg3FBwlemqUd2fKY14/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NzIw/MDUtMTQ4MDE4MTE0/Mi05MTg5LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/u4KC13f_20z45mPiJrnIfZTMr3Jq0B9Nt3IDsZ6jA9A/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NzIw/MDUtMTQ2ODQzNzc4/My00MjkzLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/N7fWqt3Lo-0CGubzB9ur1RxMlJhT6NbNPZYuMF6lrNI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NzIw/MDUtMTQ2ODQzNzc4/My00MjkzLmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/zq7UbiyXNrs1A2nFc9lFXKo8nBIPkUP4jrxC7MsjHXs/rs:fit/g:sm/q:90/h:325/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NzIw/MDUtMTQ4MDE4MTE0/Mi0zMjc0LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/dzwyhmN4KHxCDd8v3LmRwg8HDmtMyNHTq5MuCs-_Wk4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NzIw/MDUtMTQ4MDE4MTE0/Mi0zMjc0LmpwZWc.jpeg"
+      }
+    ],
+    "community": {
+      "rating": {
+        "count": 831,
+        "average": 4.72
+      },
+      "have": 12818,
+      "want": 1913
+    },
+    "master": {
+      "id": 271472,
+      "title": "Crash",
+      "main_release": 19298164,
+      "year": 1996,
+      "uri": "https://www.discogs.com/master/271472-Dave-Matthews-Band-Crash",
+      "num_for_sale": 674
+    }
+  },
+  "apple_music": {
+    "id": 388136111,
+    "url": "https://music.apple.com/us/album/crash/388136111?uo=4",
+    "name": "Crash",
+    "artist": "Dave Matthews Band",
+    "artist_id": 60288452,
+    "artwork_url_100": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/1d/4f/38/1d4f38dd-e5ee-a14e-13a2-df60d4e3b431/884977724707.jpg/100x100bb.jpg",
+    "artwork_url_600": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/1d/4f/38/1d4f38dd-e5ee-a14e-13a2-df60d4e3b431/884977724707.jpg/600x600bb.jpg",
+    "release_date": "1996-04-30T07:00:00Z",
+    "track_count": 12,
+    "copyright": "\u2117 1996 Sony Music Entertainment",
+    "primary_genre": "Rock",
+    "country": "USA",
+    "tracks": [
+      {
+        "track_number": 1,
+        "disc_number": 1,
+        "name": "So Much to Say",
+        "duration_ms": 246600,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/ce/bb/b4/cebbb4da-091d-e6c5-5676-b99c5eb82865/mzaf_9271144429470333119.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/so-much-to-say/388136111?i=388136123&uo=4"
+      },
+      {
+        "track_number": 2,
+        "disc_number": 1,
+        "name": "Two Step",
+        "duration_ms": 387267,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/6a/e3/d4/6ae3d47d-18ec-b7ce-b029-917322dafb05/mzaf_14260443106341121390.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/two-step/388136111?i=388136191&uo=4"
+      },
+      {
+        "track_number": 3,
+        "disc_number": 1,
+        "name": "Crash Into Me",
+        "duration_ms": 316467,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/20/4b/8b/204b8ba2-69f4-8d63-9f18-4f9bd4fd367f/mzaf_17751210183334827261.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/crash-into-me/388136111?i=388136331&uo=4"
+      },
+      {
+        "track_number": 4,
+        "disc_number": 1,
+        "name": "Too Much",
+        "duration_ms": 261627,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/40/3a/10/403a108f-cb75-7518-18a2-bb96663632e2/mzaf_13762848650285038637.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/too-much/388136111?i=388136551&uo=4"
+      },
+      {
+        "track_number": 5,
+        "disc_number": 1,
+        "name": "#41",
+        "duration_ms": 399800,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/86/1f/27/861f2726-5ffc-3097-d9c7-39adc17e1aef/mzaf_3882330247118727461.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/41/388136111?i=388136676&uo=4"
+      },
+      {
+        "track_number": 6,
+        "disc_number": 1,
+        "name": "Say Goodbye",
+        "duration_ms": 371040,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/21/cf/24/21cf2461-008e-cc98-72f6-3fd0d4189afe/mzaf_11273811588712942023.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/say-goodbye/388136111?i=388136783&uo=4"
+      },
+      {
+        "track_number": 7,
+        "disc_number": 1,
+        "name": "Drive In Drive Out",
+        "duration_ms": 354600,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/2f/3d/3e/2f3d3e48-ac84-b6d8-3df8-dbea88639911/mzaf_17253113953052738062.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/drive-in-drive-out/388136111?i=388137013&uo=4"
+      },
+      {
+        "track_number": 8,
+        "disc_number": 1,
+        "name": "Let You Down",
+        "duration_ms": 247400,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/5a/05/1a/5a051afe-3cb6-a2ae-71ca-55fac8a4347c/mzaf_18245386700839285638.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/let-you-down/388136111?i=388137166&uo=4"
+      },
+      {
+        "track_number": 9,
+        "disc_number": 1,
+        "name": "Lie In Our Graves",
+        "duration_ms": 342040,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/be/ec/ae/beecae4d-0122-02fa-a252-722a94a92aec/mzaf_17552717940177213091.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/lie-in-our-graves/388136111?i=388137357&uo=4"
+      },
+      {
+        "track_number": 10,
+        "disc_number": 1,
+        "name": "Cry Freedom",
+        "duration_ms": 352667,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/47/11/1c/47111cb0-07ea-583c-9f08-6fd063bcedf6/mzaf_12465135389351931847.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/cry-freedom/388136111?i=388137441&uo=4"
+      },
+      {
+        "track_number": 11,
+        "disc_number": 1,
+        "name": "Tripping Billies",
+        "duration_ms": 300440,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/9d/2a/0d/9d2a0d82-c26e-149d-0967-83810be0a38d/mzaf_9953424186297867666.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/tripping-billies/388136111?i=388137506&uo=4"
+      },
+      {
+        "track_number": 12,
+        "disc_number": 1,
+        "name": "Proudest Monkey",
+        "duration_ms": 550760,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/23/db/5e/23db5e32-7cb3-603d-26e4-e178e5d39e32/mzaf_11995321507773014894.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/proudest-monkey/388136111?i=388137650&uo=4"
+      }
+    ]
+  },
+  "discrepancies": [
+    "Release year differs: your pressing=2016, Apple Music edition=1996. Apple Music typically streams the most recent remaster."
+  ],
+  "local_cover": "images/8772005.jpg"
+}

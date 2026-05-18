@@ -1,0 +1,466 @@
+{
+  "captured_at": "2026-05-18T00:00:17+00:00",
+  "schema_version": 3,
+  "artist": "Styx",
+  "title": "Paradise Theatre",
+  "original_release_year": 1981,
+  "pressing_year": 1981,
+  "upgrade_suggestion": "This original Sterling Sound pressing is an excellent copy. No audiophile reissue has been produced. The original A&M pressing is the recommended version — keep it.",
+  "commentary": "Styx's 1981 commercial peak — first album certified platinum before release, hit #1, produced 'The Best of Times' and 'Too Much Time on My Hands.' Original A&M pressing (SP-03719), mastered at Sterling Sound. Matrix SP 03719 A T2 STERLING. A clean original of one of the great arena rock albums.",
+  "discogs": {
+    "release_id": 20829940,
+    "master_id": 115927,
+    "uri": "https://www.discogs.com/release/20829940-Styx-Paradise-Theatre",
+    "title": "Paradise Theatre",
+    "artists": [
+      {
+        "name": "Styx",
+        "id": 218605,
+        "role": null
+      }
+    ],
+    "year": 1981,
+    "released": "1981",
+    "country": "US",
+    "labels": [
+      {
+        "name": "A&M Records",
+        "catno": "SP-3719",
+        "id": 904
+      }
+    ],
+    "formats": [
+      {
+        "name": "Vinyl",
+        "qty": "1",
+        "descriptions": [
+          "LP",
+          "Album",
+          "Etched",
+          "Stereo"
+        ],
+        "text": null
+      }
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Prog Rock",
+      "Art Rock",
+      "Arena Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "A.D. 1928",
+        "duration": "1:07",
+        "type": "track"
+      },
+      {
+        "position": "A2",
+        "title": "Rockin' The Paradise",
+        "duration": "3:54",
+        "type": "track"
+      },
+      {
+        "position": "A3",
+        "title": "Too Much Time On My Hands",
+        "duration": "4:31",
+        "type": "track"
+      },
+      {
+        "position": "A4",
+        "title": "Nothing Ever Goes As Planned",
+        "duration": "4:46",
+        "type": "track"
+      },
+      {
+        "position": "A5",
+        "title": "The Best Of Times",
+        "duration": "4:17",
+        "type": "track"
+      },
+      {
+        "position": "B1",
+        "title": "Lonely People",
+        "duration": "4:38",
+        "type": "track"
+      },
+      {
+        "position": "B2",
+        "title": "She Cares",
+        "duration": "4:18",
+        "type": "track"
+      },
+      {
+        "position": "B3",
+        "title": "Snowblind",
+        "duration": "4:58",
+        "type": "track"
+      },
+      {
+        "position": "B4",
+        "title": "Half-Penny, Two-Penny",
+        "duration": "4:34",
+        "type": "track"
+      },
+      {
+        "position": "B5",
+        "title": "A.D. 1958",
+        "duration": "2:31",
+        "type": "track"
+      },
+      {
+        "position": "B6",
+        "title": "State Street Sadie",
+        "duration": "0:27",
+        "type": "track"
+      }
+    ],
+    "extraartists": [
+      {
+        "name": "Ed Tossing",
+        "role": "Arranged By [Horns]",
+        "id": 870868
+      },
+      {
+        "name": "Chuck Beeson",
+        "role": "Art Direction, Design",
+        "id": 558667
+      },
+      {
+        "name": "Jeffrey Kent Ayeroff",
+        "role": "Art Direction, Design",
+        "id": 1330054
+      },
+      {
+        "name": "Chuck Panozzo",
+        "role": "Bass Guitar, Pedalboard [Bass]",
+        "id": 414460
+      },
+      {
+        "name": "Dennis DeYoung",
+        "role": "Design Concept [Original Paradise Theater Concept]",
+        "id": 266740
+      },
+      {
+        "name": "John Panozzo",
+        "role": "Drums, Percussion",
+        "id": 414462
+      },
+      {
+        "name": "Gary Loizzo",
+        "role": "Engineer",
+        "id": 414463
+      },
+      {
+        "name": "Rob Kingsland",
+        "role": "Engineer",
+        "id": 383207
+      },
+      {
+        "name": "Will Rascati",
+        "role": "Engineer [Assistant]",
+        "id": 667150
+      },
+      {
+        "name": "James Young (3)",
+        "role": "Guitar, Vocals",
+        "id": 414459
+      },
+      {
+        "name": "Tommy Shaw",
+        "role": "Guitar, Vocals",
+        "id": 414461
+      },
+      {
+        "name": "Bill Simpson (3)",
+        "role": "Horns",
+        "id": 870870
+      },
+      {
+        "name": "Danny Barber (2)",
+        "role": "Horns",
+        "id": 876764
+      },
+      {
+        "name": "John Haynor",
+        "role": "Horns",
+        "id": 870869
+      },
+      {
+        "name": "Mark Ohlsen",
+        "role": "Horns",
+        "id": 869335
+      },
+      {
+        "name": "Mike Halpin",
+        "role": "Horns",
+        "id": 561364
+      },
+      {
+        "name": "Chris Hopkins (2)",
+        "role": "Illustration",
+        "id": 2258593
+      },
+      {
+        "name": "Willardson & White, Inc.",
+        "role": "Illustration",
+        "id": 5094427
+      },
+      {
+        "name": "Dennis DeYoung",
+        "role": "Keyboards, Vocals",
+        "id": 266740
+      },
+      {
+        "name": "Ted Jensen",
+        "role": "Lacquer Cut By",
+        "id": 259758
+      },
+      {
+        "name": "Ted Jensen",
+        "role": "Mastered By",
+        "id": 259758
+      },
+      {
+        "name": "Marc Hauser",
+        "role": "Photography By [Dennis Deyoung & James Young]",
+        "id": 2174896
+      },
+      {
+        "name": "John Welzenbach",
+        "role": "Photography By [John Panozzo & Chuck Panozzo]",
+        "id": 2174897
+      },
+      {
+        "name": "Greg Murry (2)",
+        "role": "Photography By [Tommy Shaw]",
+        "id": 2258610
+      },
+      {
+        "name": "Styx",
+        "role": "Producer, Arranged By",
+        "id": 218605
+      },
+      {
+        "name": "Steve Eisen",
+        "role": "Saxophone, Soloist",
+        "id": 402902
+      },
+      {
+        "name": "Dennis DeYoung",
+        "role": "Written-By",
+        "id": 266740
+      },
+      {
+        "name": "James Young (3)",
+        "role": "Written-By",
+        "id": 414459
+      },
+      {
+        "name": "Tommy Shaw",
+        "role": "Written-By",
+        "id": 414461
+      }
+    ],
+    "identifiers": [
+      {
+        "type": "Pressing Plant ID",
+        "value": "T",
+        "description": "Runouts"
+      },
+      {
+        "type": "Rights Society",
+        "value": "ASCAP",
+        "description": null
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "SP-03719-A",
+        "description": "A Side Label"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "SP-03719-B",
+        "description": "B Side Label"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "T1 SP 03719 A T2 P8 STERLING",
+        "description": "A Side Etch exc Sterling stamp "
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "SP 03719 B EUR 2 EDP PM1 SF1 SM1 ^ STERLING TJ",
+        "description": "B Side Etch exc EDP, Sterling stamp"
+      }
+    ],
+    "notes": "℗ © 1980 A&M Records, Inc.\n\nB Side - play area laser-etched, \"STYX\" logo\n\nGatefold cover is printed in reverse, with front to the left of spine and rear to right.\n\nRecorded and Mixed at Pumpkin Studios, Oak Lawn, Illinois.\n\nAll selections Published by Stygian Songs except B6 by First Time Music",
+    "images": [
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/Y1KjaeEknNNCDsLL05ccSG1mvKp1t5vSWXo19uKidxU/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODI5/OTQwLTE2MzU4OTEx/NTUtMjE1Mi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/s0rsvceMnwQKRfzp2VCq4lG7hBpvw5Kken4bw345Mlc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODI5/OTQwLTE2MzU4OTEx/NTUtMjE1Mi5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/IObp6MN_nJD0-2PfAIgAdqwJJjGbmgk_Vipg_J8Hy5s/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODI5/OTQwLTE2MzU4OTEx/NTYtMzMzNC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/KuDQXGwmBKO9y3bbJ2V6Y0X45c9i7a8Pp82RfuMwwAA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODI5/OTQwLTE2MzU4OTEx/NTYtMzMzNC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/oObZHtXajDCa5ldPGgvwLPWkq2X0ciIwsg0dalqmp5I/rs:fit/g:sm/q:90/h:600/w:299/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODI5/OTQwLTE2MzU4OTEx/NTUtMjY1Ni5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/UEdiJLi0jnWKw3BFEVdWm-ZEbyQ_vHyACrFv-v6jFt8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODI5/OTQwLTE2MzU4OTEx/NTUtMjY1Ni5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/qjsEvuHtcidiCpg8ru-DcCVn6hNm8atdLu8ZFhXMUc4/rs:fit/g:sm/q:90/h:96/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODI5/OTQwLTE2MzU4OTEx/NDktNzU3MS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/QYwGXkHJuEKPdM9gM0QNVX2Rl6ov7qhuxJPqbqn88Ek/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODI5/OTQwLTE2MzU4OTEx/NDktNzU3MS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/uE7u21_8bKQBcJvR8E75Dq69xj_qcS774uodKbE6-_U/rs:fit/g:sm/q:90/h:109/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODI5/OTQwLTE2MzU4OTEx/NDktNjM1Ni5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/_AK0iyoeP519wTjG2nZSFl2IiC3H3a9FHptR5y3LFGM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODI5/OTQwLTE2MzU4OTEx/NDktNjM1Ni5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/OatoflzvzFgvjJbWqY4X01gfqiTiqNtKIdwWZel6sNg/rs:fit/g:sm/q:90/h:521/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODI5/OTQwLTE2MzU4OTEx/NTUtODQzMy5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/P_Zn8Ee0P5WPSMX_CGD1qrQBgFwq3o5AqSTHM9146DU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODI5/OTQwLTE2MzU4OTEx/NTUtODQzMy5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/xtKm6z6uXrdISnMSjfl9H7s0cbmGJg27CEjiTBDOLkw/rs:fit/g:sm/q:90/h:580/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODI5/OTQwLTE2MzU4OTEx/NTMtNDM4MC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/6UuXVuIpvwRZ--CcVHWlh6TuVqMbdhQwfBAO1P5c9B0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODI5/OTQwLTE2MzU4OTEx/NTMtNDM4MC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/6n0h2pswyJ_s8uIs0-gstkscC8ZIOYUWQBuJBPp3dvE/rs:fit/g:sm/q:90/h:600/w:521/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODI5/OTQwLTE2MzU4OTEx/NTMtMTM2NS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/WPIJZ4CA8AEfcwBnIF9YlItY5dWSFQYKAu2hRexv7nE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODI5/OTQwLTE2MzU4OTEx/NTMtMTM2NS5qcGVn.jpeg"
+      }
+    ],
+    "community": {
+      "rating": {
+        "count": 17,
+        "average": 4.18
+      },
+      "have": 985,
+      "want": 68
+    },
+    "master": {
+      "id": 115927,
+      "title": "Paradise Theatre",
+      "main_release": 8631271,
+      "year": 1981,
+      "uri": "https://www.discogs.com/master/115927-Styx-Paradise-Theatre",
+      "num_for_sale": 2027
+    }
+  },
+  "apple_music": {
+    "id": 1746840073,
+    "url": "https://music.apple.com/us/album/paradise-theatre/1746840073?uo=4",
+    "name": "Paradise Theatre",
+    "artist": "Styx",
+    "artist_id": 132659,
+    "artwork_url_100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7b/2c/ba/7b2cba1f-d3f8-a043-b71d-d596f22e6142/06UMGIM18641.rgb.jpg/100x100bb.jpg",
+    "artwork_url_600": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7b/2c/ba/7b2cba1f-d3f8-a043-b71d-d596f22e6142/06UMGIM18641.rgb.jpg/600x600bb.jpg",
+    "release_date": "1981-01-01T08:00:00Z",
+    "track_count": 11,
+    "copyright": "℗ 1981 UMG Recordings, Inc.",
+    "primary_genre": "Rock",
+    "country": "USA",
+    "tracks": [
+      {
+        "track_number": 1,
+        "disc_number": 1,
+        "name": "A.D. 1928",
+        "duration_ms": 67680,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f0/c4/c8/f0c4c8c7-6ab0-3a82-bdc8-49854c410200/mzaf_9900690216510209306.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/a-d-1928/1746840073?i=1746840075&uo=4"
+      },
+      {
+        "track_number": 2,
+        "disc_number": 1,
+        "name": "Rockin' The Paradise",
+        "duration_ms": 215037,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/1b/3d/c5/1b3dc5c6-e067-3399-7ab5-f02ab58a90d9/mzaf_6623629186225236034.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/rockin-the-paradise/1746840073?i=1746840076&uo=4"
+      },
+      {
+        "track_number": 3,
+        "disc_number": 1,
+        "name": "Too Much Time On My Hands",
+        "duration_ms": 271424,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/4d/57/7e/4d577e68-e03a-1f7b-05f4-41f101b948d7/mzaf_112563456639359723.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/too-much-time-on-my-hands/1746840073?i=1746840077&uo=4"
+      },
+      {
+        "track_number": 4,
+        "disc_number": 1,
+        "name": "Nothing Ever Goes As Planned",
+        "duration_ms": 286894,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/42/a6/af/42a6afb7-22da-7fea-1e2d-d0ef32298816/mzaf_10409522857517711045.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/nothing-ever-goes-as-planned/1746840073?i=1746840078&uo=4"
+      },
+      {
+        "track_number": 5,
+        "disc_number": 1,
+        "name": "The Best Of Times",
+        "duration_ms": 257622,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/42/47/3a/42473a4f-e2c2-3ec0-6835-51409f6a4aea/mzaf_8109243112161433213.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/the-best-of-times/1746840073?i=1746840290&uo=4"
+      },
+      {
+        "track_number": 6,
+        "disc_number": 1,
+        "name": "Lonely People",
+        "duration_ms": 321661,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f5/b7/73/f5b773b1-e4d4-86b0-5c09-a9e23d8709ec/mzaf_4006679948820866200.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/lonely-people/1746840073?i=1746840291&uo=4"
+      },
+      {
+        "track_number": 7,
+        "disc_number": 1,
+        "name": "She Cares",
+        "duration_ms": 258163,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/15/e0/d5/15e0d5be-cf03-f48d-7464-9405a9f6e6d7/mzaf_6086617738403784120.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/she-cares/1746840073?i=1746840294&uo=4"
+      },
+      {
+        "track_number": 8,
+        "disc_number": 1,
+        "name": "Snowblind",
+        "duration_ms": 297795,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/76/f2/c7/76f2c7d3-26d9-05b9-0769-ec940616c6fe/mzaf_8228889862669781938.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/snowblind/1746840073?i=1746840295&uo=4"
+      },
+      {
+        "track_number": 9,
+        "disc_number": 1,
+        "name": "Half Penny Two Penny",
+        "duration_ms": 358445,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8a/4c/6f/8a4c6f33-3cfc-2b53-0da5-da02f3161fd3/mzaf_14417849645150169900.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/half-penny-two-penny/1746840073?i=1746840298&uo=4"
+      },
+      {
+        "track_number": 10,
+        "disc_number": 1,
+        "name": "A.D. 1958",
+        "duration_ms": 67419,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/63/e0/7c/63e07cff-8475-9a05-025a-9a6089fd449f/mzaf_10877573071121801895.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/a-d-1958/1746840073?i=1746840300&uo=4"
+      },
+      {
+        "track_number": 11,
+        "disc_number": 1,
+        "name": "State Street Sadie",
+        "duration_ms": 26741,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/54/f8/06/54f806fd-37ab-ebf0-e0b9-22e11803e180/mzaf_6572978215149255749.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/state-street-sadie/1746840073?i=1746840302&uo=4"
+      }
+    ]
+  },
+  "discrepancies": [],
+  "local_cover": "images/20829940.jpg"
+}

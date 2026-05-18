@@ -1,0 +1,546 @@
+{
+  "captured_at": "2026-05-17T23:55:44+00:00",
+  "schema_version": 3,
+  "artist": "Simon & Garfunkel",
+  "title": "The Concert In Central Park",
+  "original_release_year": 1982,
+  "pressing_year": 1982,
+  "upgrade_suggestion": "This original Sterling Sound-mastered pressing is excellent. No audiophile reissue of this title has been issued — this original is the one to keep.",
+  "commentary": "Simon & Garfunkel's legendary 1981 Central Park reunion concert — 500,000 people, one of the great live albums of the era. Original 1982 Warner Bros. pressing (2BSK 3654), mastered at Sterling Sound (SLM stamper). Warner Bros. gun logo in deadwax. Matrix 2BSK·1·3654-S2-RE1 SLM △1156.",
+  "discogs": {
+    "release_id": 6460563,
+    "master_id": 27817,
+    "uri": "https://www.discogs.com/release/6460563-Simon-Garfunkel-The-Concert-In-Central-Park",
+    "title": "The Concert In Central Park",
+    "artists": [
+      {
+        "name": "Simon & Garfunkel",
+        "id": 232157,
+        "role": null
+      }
+    ],
+    "year": 1982,
+    "released": "1982",
+    "country": "US",
+    "labels": [
+      {
+        "name": "Warner Bros. Records",
+        "catno": "2BSK 3654",
+        "id": 1000
+      }
+    ],
+    "formats": [
+      {
+        "name": "Vinyl",
+        "qty": "2",
+        "descriptions": [
+          "LP",
+          "Album"
+        ],
+        "text": null
+      }
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Folk Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Mrs. Robinson",
+        "duration": "3:01",
+        "type": "track"
+      },
+      {
+        "position": "A2",
+        "title": "Homeward Bound",
+        "duration": "3:07",
+        "type": "track"
+      },
+      {
+        "position": "A3",
+        "title": "America",
+        "duration": "4:33",
+        "type": "track"
+      },
+      {
+        "position": "A4",
+        "title": "Me And Julio Down By The Schoolyard",
+        "duration": "3:09",
+        "type": "track"
+      },
+      {
+        "position": "A5",
+        "title": "Scarborough Fair",
+        "duration": "3:34",
+        "type": "track"
+      },
+      {
+        "position": "B1",
+        "title": "April Come She Will",
+        "duration": "2:18",
+        "type": "track"
+      },
+      {
+        "position": "B2",
+        "title": "Wake Up Little Susie",
+        "duration": "2:13",
+        "type": "track"
+      },
+      {
+        "position": "B3",
+        "title": "Still Crazy After All These Years",
+        "duration": "3:25",
+        "type": "track"
+      },
+      {
+        "position": "B4",
+        "title": "American Tune",
+        "duration": "4:11",
+        "type": "track"
+      },
+      {
+        "position": "B5",
+        "title": "Late In The Evening",
+        "duration": "3:57",
+        "type": "track"
+      },
+      {
+        "position": "C1",
+        "title": "Slip Slidin' Away",
+        "duration": "4:32",
+        "type": "track"
+      },
+      {
+        "position": "C2",
+        "title": "A Heart In New York",
+        "duration": "2:23",
+        "type": "track"
+      },
+      {
+        "position": "C3",
+        "title": "Kodachrome / Mabellene",
+        "duration": "5:39",
+        "type": "track"
+      },
+      {
+        "position": "C4",
+        "title": "Bridge Over Troubled Water",
+        "duration": "4:35",
+        "type": "track"
+      },
+      {
+        "position": "D1",
+        "title": "Fifty Ways To Leave Your Lover",
+        "duration": "4:13",
+        "type": "track"
+      },
+      {
+        "position": "D2",
+        "title": "The Boxer",
+        "duration": "4:45",
+        "type": "track"
+      },
+      {
+        "position": "D3",
+        "title": "Old Friends",
+        "duration": "2:46",
+        "type": "track"
+      },
+      {
+        "position": "D4",
+        "title": "The 59th Street Bridge Song (Feelin' Groovy)",
+        "duration": "1:53",
+        "type": "track"
+      },
+      {
+        "position": "D5",
+        "title": "The Sounds Of Silence",
+        "duration": "3:50",
+        "type": "track"
+      }
+    ],
+    "extraartists": [
+      {
+        "name": "Dave Grusin",
+        "role": "Arranged By",
+        "id": 37730
+      },
+      {
+        "name": "Dave Matthews (3)",
+        "role": "Arranged By",
+        "id": 386834
+      },
+      {
+        "name": "Anthony Jackson",
+        "role": "Bass",
+        "id": 135848
+      },
+      {
+        "name": "Grady Tate",
+        "role": "Drums",
+        "id": 45102
+      },
+      {
+        "name": "Steve Gadd",
+        "role": "Drums",
+        "id": 258118
+      },
+      {
+        "name": "Roy Halee",
+        "role": "Engineer, Mixed By",
+        "id": 253430
+      },
+      {
+        "name": "Roy Halee",
+        "role": "Engineer, Remix",
+        "id": 253430
+      },
+      {
+        "name": "David Brown (6)",
+        "role": "Guitar",
+        "id": 377321
+      },
+      {
+        "name": "Pete Carr",
+        "role": "Guitar",
+        "id": 301107
+      },
+      {
+        "name": "Richard Tee",
+        "role": "Keyboards",
+        "id": 255276
+      },
+      {
+        "name": "Greg Calbi",
+        "role": "Mastered By",
+        "id": 244135
+      },
+      {
+        "name": "Broadway Video",
+        "role": "Photography By",
+        "id": 2282824
+      },
+      {
+        "name": "Harrison Funk",
+        "role": "Photography By",
+        "id": 2265857
+      },
+      {
+        "name": "Lynn Goldsmith",
+        "role": "Photography By",
+        "id": 229632
+      },
+      {
+        "name": "Phil Ramone",
+        "role": "Producer",
+        "id": 125450
+      },
+      {
+        "name": "Roy Halee",
+        "role": "Producer",
+        "id": 253430
+      },
+      {
+        "name": "Paul Simon",
+        "role": "Producer, Arranged By, Vocals, Guitar",
+        "id": 106474
+      },
+      {
+        "name": "Art Garfunkel",
+        "role": "Producer, Vocals, Arranged By",
+        "id": 253432
+      },
+      {
+        "name": "Kenneth Topolsky",
+        "role": "Production Manager",
+        "id": 1861846
+      },
+      {
+        "name": "Dave Tofani",
+        "role": "Saxophone",
+        "id": 98889
+      },
+      {
+        "name": "Gerry Niewood",
+        "role": "Saxophone",
+        "id": 336122
+      },
+      {
+        "name": "Rob Mounsey",
+        "role": "Synthesizer",
+        "id": 253349
+      },
+      {
+        "name": "John Eckert",
+        "role": "Trumpet",
+        "id": 375167
+      },
+      {
+        "name": "John Gatchell",
+        "role": "Trumpet",
+        "id": 255794
+      }
+    ],
+    "identifiers": [
+      {
+        "type": "Barcode",
+        "value": "07599-23654-1",
+        "description": null
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "2BSK·1·3654-S2-RE1 + SLM++ △1156",
+        "description": "Runout A"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "2BSK·2·3654-S2-RE1+ SLM + △1156-X",
+        "description": "Runout B"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "2BSK 3 3654-S1-RE1+ SLM++ △1157",
+        "description": "Runout C"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "2BSK·4·3654-S2-RE1 + SLM + △1157-X",
+        "description": "Runout D"
+      },
+      {
+        "type": "Rights Society",
+        "value": "BMI",
+        "description": null
+      }
+    ],
+    "notes": "Recorded live in Central Park, New York City, September 19, 1981.\r\n\r\nRemixed at Soundmixers Studios.",
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/Ggzb6KQhFhMRzrL2wUcGJkW3w_3IbvEMwxfU6t6HJUI/rs:fit/g:sm/q:90/h:432/w:442/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NjA1/NjMtMTQxOTc5NTQ1/NC03MTczLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/9rBDwGJW-IKRiStQeSjX-xOc5Yu35TmkKAUv7SCT-WQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NjA1/NjMtMTQxOTc5NTQ1/NC03MTczLmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/29Ycfm19bwMtKiajGxiYJ5d4QQSz11qbAG3CEuoA224/rs:fit/g:sm/q:90/h:432/w:432/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NjA1/NjMtMTQxOTc5NTQ1/NC01ODIwLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/scXQOVqQpeRHjBGubhZfkMHUHS-MvaOwuEVqrzrNRtk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NjA1/NjMtMTQxOTc5NTQ1/NC01ODIwLmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/-Ctv6BF4qt7J8aKLOE4u4GgZ8vgBz_pmaU24ih7rvDg/rs:fit/g:sm/q:90/h:432/w:432/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NjA1/NjMtMTQxOTc5NTQ1/NC0yNjA2LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/DIUYnLxAKX_LpBSY6orMAat08bSZuMhITCb1IdrKLo4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NjA1/NjMtMTQxOTc5NTQ1/NC0yNjA2LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/RrXekN61iCu7JLVlmrWwQpEJzgta7gqFehWhripn5QU/rs:fit/g:sm/q:90/h:432/w:435/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NjA1/NjMtMTQxOTc5NTQ1/NC00MzA2LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/b2eqxCAMp_5J6igav5AL6W3vFyr9SqlLAwCwnKugzso/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NjA1/NjMtMTQxOTc5NTQ1/NC00MzA2LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/un9U0CO9qTXoD3iu3WRw4ynIqCMkBOxBUyr9EY9oFSE/rs:fit/g:sm/q:90/h:432/w:434/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NjA1/NjMtMTQxOTc5NTQ1/NC00ODU0LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/xnFaAYyp1d02PwR0eZE16Lu3u2vZt_oWIg6pmw6bCAA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NjA1/NjMtMTQxOTc5NTQ1/NC00ODU0LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/roJOYy--rZqblsNo8-vW1u8mLkDwMFB8st8ukp3O0ms/rs:fit/g:sm/q:90/h:432/w:428/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NjA1/NjMtMTQxOTc5NTQ1/NC00NTcxLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/dxyMTwq5PswvqGtYbTfx753vltzLK_bRZQyClCebJSY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NjA1/NjMtMTQxOTc5NTQ1/NC00NTcxLmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/GXJiuShm49yYtf7wvgBeQbtAotiWnsMMs8rQdjFzRJw/rs:fit/g:sm/q:90/h:432/w:426/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NjA1/NjMtMTQxOTc5NTQ1/NC0zNTg0LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/OO3aY2MkfAZHSa6CoOs2GLqrjmaxq8yfMYK2dxyh1OI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NjA1/NjMtMTQxOTc5NTQ1/NC0zNTg0LmpwZWc.jpeg"
+      }
+    ],
+    "community": {
+      "rating": {
+        "count": 27,
+        "average": 4.15
+      },
+      "have": 905,
+      "want": 159
+    },
+    "master": {
+      "id": 27817,
+      "title": "The Concert In Central Park",
+      "main_release": 1274592,
+      "year": 1982,
+      "uri": "https://www.discogs.com/master/27817-Simon-Garfunkel-The-Concert-In-Central-Park",
+      "num_for_sale": 2339
+    }
+  },
+  "apple_music": {
+    "id": 941959321,
+    "url": "https://music.apple.com/us/album/the-concert-in-central-park-live/941959321?uo=4",
+    "name": "The Concert In Central Park (Live)",
+    "artist": "Simon & Garfunkel",
+    "artist_id": 461503,
+    "artwork_url_100": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/79/38/47/79384738-6769-ea03-0541-605c10d6edcc/886444877138.jpg/100x100bb.jpg",
+    "artwork_url_600": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/79/38/47/79384738-6769-ea03-0541-605c10d6edcc/886444877138.jpg/600x600bb.jpg",
+    "release_date": "1982-02-16T08:00:00Z",
+    "track_count": 19,
+    "copyright": "℗ 1982 Sony Music Entertainment",
+    "primary_genre": "Singer/Songwriter",
+    "country": "USA",
+    "tracks": [
+      {
+        "track_number": 1,
+        "disc_number": 1,
+        "name": "Mrs. Robinson (Live)",
+        "duration_ms": 243576,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/59/ce/53/59ce5396-b89d-d5b7-a0be-f6905e4caf49/mzaf_3427583573545431416.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/mrs-robinson-live/941959321?i=941959325&uo=4"
+      },
+      {
+        "track_number": 2,
+        "disc_number": 1,
+        "name": "Homeward Bound (Live)",
+        "duration_ms": 262442,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/0e/94/4d/0e944d37-1221-a020-2f0b-71b2a8c7e52d/mzaf_18396683507026700226.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/homeward-bound-live/941959321?i=941959327&uo=4"
+      },
+      {
+        "track_number": 3,
+        "disc_number": 1,
+        "name": "America (Live)",
+        "duration_ms": 296548,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/d7/cc/a7/d7cca7a8-1d1a-5ab2-3aba-88f4d377744a/mzaf_8526007240016103442.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/america-live/941959321?i=941959328&uo=4"
+      },
+      {
+        "track_number": 4,
+        "disc_number": 1,
+        "name": "Me and Julio Down By the Schoolyard (Live)",
+        "duration_ms": 227687,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/17/52/30/17523086-91da-b2cd-f8d4-f0b09fd95a3a/mzaf_8558163472511646672.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/me-and-julio-down-by-the-schoolyard-live/941959321?i=941959329&uo=4"
+      },
+      {
+        "track_number": 5,
+        "disc_number": 1,
+        "name": "Scarborough Fair / Canticle (Live)",
+        "duration_ms": 231563,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/48/35/7f/48357f91-c310-f924-1042-09ef7e0c9080/mzaf_5628004152618011810.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/scarborough-fair-canticle-live/941959321?i=941959331&uo=4"
+      },
+      {
+        "track_number": 6,
+        "disc_number": 1,
+        "name": "April Come She Will (Live)",
+        "duration_ms": 157702,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/e9/29/56/e92956a0-d07f-adf0-0e04-01e28cfd2566/mzaf_13240648742533016822.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/april-come-she-will-live/941959321?i=941959333&uo=4"
+      },
+      {
+        "track_number": 7,
+        "disc_number": 1,
+        "name": "Wake Up Little Susie (Live)",
+        "duration_ms": 138380,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/73/62/92/736292cf-bf08-133e-dff4-4b061f17004a/mzaf_15645188555561818988.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/wake-up-little-susie-live/941959321?i=941959334&uo=4"
+      },
+      {
+        "track_number": 8,
+        "disc_number": 1,
+        "name": "Still Crazy After All These Years (Live)",
+        "duration_ms": 233654,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/b7/cc/7f/b7cc7f11-374f-860d-88a8-0d835264cef3/mzaf_6050619266243280186.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/still-crazy-after-all-these-years-live/941959321?i=941959336&uo=4"
+      },
+      {
+        "track_number": 9,
+        "disc_number": 1,
+        "name": "American Tune (Live)",
+        "duration_ms": 275237,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/8d/c4/a2/8dc4a2e9-2e62-1e83-4e27-8c46e5127385/mzaf_17301139915778356927.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/american-tune-live/941959321?i=941959337&uo=4"
+      },
+      {
+        "track_number": 10,
+        "disc_number": 1,
+        "name": "Late In the Evening (Live)",
+        "duration_ms": 247834,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/fd/a0/51/fda051ee-5cd0-7d4a-8b92-44f7e42e4a73/mzaf_11259080797528682169.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/late-in-the-evening-live/941959321?i=941959338&uo=4"
+      },
+      {
+        "track_number": 11,
+        "disc_number": 1,
+        "name": "Slip Slidin' Away (Live)",
+        "duration_ms": 282701,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/b3/86/d7/b386d7a7-579b-e11c-26ed-746be44b56f5/mzaf_229390724773166187.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/slip-slidin-away-live/941959321?i=941959340&uo=4"
+      },
+      {
+        "track_number": 12,
+        "disc_number": 1,
+        "name": "A Heart In New York (Live)",
+        "duration_ms": 181234,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/85/14/f3/8514f3d2-afa2-3d49-38b3-fa4d1be8363e/mzaf_11757117627148149645.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/a-heart-in-new-york-live/941959321?i=941959342&uo=4"
+      },
+      {
+        "track_number": 13,
+        "disc_number": 1,
+        "name": "Kodachrome / Mabellene (Live)",
+        "duration_ms": 349617,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/d4/2f/3d/d42f3d64-4075-5cc2-794a-a5fb8e897d16/mzaf_15320363840686396256.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/kodachrome-mabellene-live/941959321?i=941959343&uo=4"
+      },
+      {
+        "track_number": 14,
+        "disc_number": 1,
+        "name": "Bridge Over Troubled Water (Live)",
+        "duration_ms": 284866,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/9c/4a/45/9c4a4533-7235-38e6-93a5-7249ce941147/mzaf_3418431355851106394.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/bridge-over-troubled-water-live/941959321?i=941959386&uo=4"
+      },
+      {
+        "track_number": 15,
+        "disc_number": 1,
+        "name": "50 Ways to Leave Your Lover (Live)",
+        "duration_ms": 289154,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/5f/c3/57/5fc35715-7fa9-ed02-3523-5227b496c137/mzaf_15651093288034338279.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/50-ways-to-leave-your-lover-live/941959321?i=941959387&uo=4"
+      },
+      {
+        "track_number": 16,
+        "disc_number": 1,
+        "name": "The Boxer (Live)",
+        "duration_ms": 362354,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/ca/d5/d7/cad5d7b1-5ba1-08c6-b9be-9a575ef12ba8/mzaf_10896175108237707987.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/the-boxer-live/941959321?i=941959388&uo=4"
+      },
+      {
+        "track_number": 17,
+        "disc_number": 1,
+        "name": "Old Friends / Bookends Theme (Live)",
+        "duration_ms": 170963,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/78/8f/0e/788f0efc-8c4b-55b6-e74c-52402fdcea14/mzaf_7183110235847163603.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/old-friends-bookends-theme-live/941959321?i=941959389&uo=4"
+      },
+      {
+        "track_number": 18,
+        "disc_number": 1,
+        "name": "The 59th Street Bridge Song (Feelin' Groovy) [Live]",
+        "duration_ms": 191906,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/25/e5/8b/25e58be0-0cb5-8169-847e-64467b30fa66/mzaf_5698757630708799949.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/the-59th-street-bridge-song-feelin-groovy-live/941959321?i=941959390&uo=4"
+      },
+      {
+        "track_number": 19,
+        "disc_number": 1,
+        "name": "The Sound of Silence (Live)",
+        "duration_ms": 256669,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/45/12/d9/4512d918-6765-97f5-ad2a-33a445516027/mzaf_7963685921743223859.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/the-sound-of-silence-live/941959321?i=941959391&uo=4"
+      }
+    ]
+  },
+  "discrepancies": [
+    "Total runtime differs by 589s (Discogs=4084s, Apple Music=4673s) — likely a different master/remaster."
+  ],
+  "local_cover": "images/6460563.jpg"
+}

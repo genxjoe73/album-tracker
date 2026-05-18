@@ -1,0 +1,7 @@
+**Saturday Night Fever (The Original Movie Sound Track)** is the defining disco album and one of the best-selling soundtracks in history, released in November 1977 on RSO Records. Dominated by the Bee Gees — who wrote and recorded nine of the album's tracks — it produced five top-five singles: "Stayin' Alive," "How Deep Is Your Love," "Night Fever," "More Than a Woman," and "Jive Talkin'." The album spent 24 weeks at #1 on the Billboard 200, is certified 15× platinum in the US, and fundamentally defined the sound of late 1970s popular music.
+
+Barry, Robin, and Maurice Gibb's falsetto harmonies and Karl Richardson's production created a sonic template that still sounds immediate today. The non-Bee Gees tracks — Yvonne Elliman's "If I Can't Have You," Tavares' "More Than a Woman," and KC & the Sunshine Band's contributions — fill out the picture of the era perfectly.
+
+This is an **original 1977 US pressing** on RSO Records (catalog **RS-2-4001**). The UK flag symbol in the deadwax alongside `KW` and `MASTERED BY CAPITOL` indicates this was cut at Capitol's Mastering facility. "Wally" in the runout is Wally Traugott, Capitol's legendary mastering engineer — a genuine first pressing cut by one of the best in the business.
+
+**About this 1977 US pressing (2× Vinyl, LP, Original):** RSO catalog **RS-2-4001**, original 1977 US pressing. Double LP. Mastered at Capitol by Wally Traugott. Matrix RS-2-4001-AS KW MASTERED BY CAPITOL Wally / UK flag symbol in runout.

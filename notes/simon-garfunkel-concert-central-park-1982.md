@@ -1,0 +1,7 @@
+**The Concert in Central Park** is the live reunion album by Simon & Garfunkel, recorded at their legendary free concert in Central Park on September 19, 1981, before an estimated 500,000 people — one of the largest concert audiences in history. Released in February 1982 on Warner Bros. Records, it captures the duo at their most relaxed and celebratory, running through "Mrs. Robinson," "The Sound of Silence," "The Boxer," "Bridge Over Troubled Water," "America," "Scarborough Fair," and many more across a double LP. The between-song banter and crowd energy make it one of the great live albums of its era.
+
+The concert was their first major performance together since the original *Bridge Over Troubled Water* tour, and the warmth of the reunion is palpable throughout. Paul Simon's solo material — "50 Ways to Leave Your Lover," "Me and Julio Down by the Schoolyard," "Still Crazy After All These Years" — sits comfortably alongside the classic S&G catalog.
+
+This is an **original 1982 US pressing** on Warner Bros. Records (catalog **2BSK 3654**). The matrix `2BSK·1·3654 / SLM / △1156` indicates mastering at **Sterling Sound** (SLM = Sterling Landmark Mastering), with the Warner Bros. "gun" logo stamped in the deadwax — a classic WB pressing identifier. An original pressing of an iconic live record.
+
+**About this 1982 US pressing (2× Vinyl, LP, Live, Original):** Warner Bros. catalog **2BSK 3654**, original 1982 US pressing. Double LP. Mastered at Sterling Sound (SLM). Warner Bros. gun logo in deadwax. Barcode 7599236541. Matrix 2BSK·1·3654-S2-RE1 SLM △1156.

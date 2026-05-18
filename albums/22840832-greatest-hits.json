@@ -1,0 +1,383 @@
+{
+  "captured_at": "2026-05-17T23:34:42+00:00",
+  "schema_version": 3,
+  "artist": "The Police",
+  "title": "Greatest Hits",
+  "original_release_year": 1992,
+  "pressing_year": 2022,
+  "upgrade_suggestion": "This IS the upgrade — the 2022 Abbey Road half-speed remaster is the best-sounding vinyl edition of this compilation. No further upgrade needed.",
+  "commentary": "The Police's essential greatest hits (originally 1992), remastered at Abbey Road Studios Room 30 using the half-speed process — lacquer cut at half speed for superior high-frequency detail and stereo imaging. Double LP, 180g gatefold on Polydor/UMC (358 717-6). Matrix MILES. ABBEY ROAD ½ SPEED. ROOM 30 3587177 BL55235. One of the best-sounding Police pressings available.",
+  "discogs": {
+    "release_id": 22840832,
+    "master_id": 109113,
+    "uri": "https://www.discogs.com/release/22840832-The-Police-Greatest-Hits",
+    "title": "Greatest Hits",
+    "artists": [
+      {
+        "name": "The Police",
+        "id": 7987,
+        "role": null
+      }
+    ],
+    "year": 2022,
+    "released": "2022-04-15",
+    "country": "Europe",
+    "labels": [
+      {
+        "name": "Polydor",
+        "catno": "358 717-6",
+        "id": 1610
+      },
+      {
+        "name": "UMC",
+        "catno": "358 717-6",
+        "id": 176614
+      }
+    ],
+    "formats": [
+      {
+        "name": "Vinyl",
+        "qty": "2",
+        "descriptions": [
+          "LP",
+          "Compilation",
+          "Reissue",
+          "Remastered"
+        ],
+        "text": "180 gram, Gatefold"
+      }
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Alternative Rock",
+      "Pop Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Roxanne",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "A2",
+        "title": "Can't Stand Losing You",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "A3",
+        "title": "So Lonely",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "A4",
+        "title": "Message In A Bottle",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B1",
+        "title": "Walking On The Moon",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B2",
+        "title": "The Bed's Too Big Without You",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B3",
+        "title": "Don't Stand So Close To Me",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B4",
+        "title": "De Do Do Do, De Da Da Da",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "C1",
+        "title": "Every Little Thing She Does Is Magic",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "C2",
+        "title": "Invisible Sun",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "C3",
+        "title": "Spirits In The Material World",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "C4",
+        "title": "Synchronicity II",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "D1",
+        "title": "Every Breath You Take",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "D2",
+        "title": "King Of Pain",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "D3",
+        "title": "Wrapped Around Your Finger",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "D4",
+        "title": "Tea In The Sahara",
+        "duration": "",
+        "type": "track"
+      }
+    ],
+    "extraartists": [
+      {
+        "name": "Hugh Padgham",
+        "role": "Co-producer, Engineer",
+        "id": 76325
+      },
+      {
+        "name": "Stylorouge",
+        "role": "Design",
+        "id": 513241
+      },
+      {
+        "name": "Miles Showell",
+        "role": "Lacquer Cut By",
+        "id": 383408
+      },
+      {
+        "name": "Duane Michals",
+        "role": "Photography By [Main Front Cover]",
+        "id": 454225
+      },
+      {
+        "name": "Hugh Padgham",
+        "role": "Producer",
+        "id": 76325
+      },
+      {
+        "name": "Nigel Gray",
+        "role": "Producer",
+        "id": 112605
+      },
+      {
+        "name": "The Police",
+        "role": "Producer",
+        "id": 7987
+      },
+      {
+        "name": "Miles Showell",
+        "role": "Remastered By",
+        "id": 383408
+      },
+      {
+        "name": "Sting",
+        "role": "Written-By",
+        "id": 13961
+      }
+    ],
+    "identifiers": [
+      {
+        "type": "Barcode",
+        "value": "6 02435 87176 9",
+        "description": "Text"
+      },
+      {
+        "type": "Barcode",
+        "value": "602435871769",
+        "description": "Scanned"
+      },
+      {
+        "type": "Rights Society",
+        "value": "BIEM/SDRM",
+        "description": null
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "MILES. ABBEY ROAD ½ SPEED. ROOM 30 3587177 BL55235-01 A1 VIX",
+        "description": "Runout side A, variant 1"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "MILES. ABBEY ROAD ½ SPEED. ROOM 30 3587177 BL55235-01 B1 VIV",
+        "description": "Runout side B, variant 1"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "MILES. ABBEY ROAD ½ SPEED. ROOM 30 3587178 BL55235-02 C1 ⊥I⋀",
+        "description": "Runout side C, variant 1"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "MILES. ABBEY ROAD ½ SPEED. ROOM 30 3587178 BL55235-02 D1 -I⋀",
+        "description": "Runout side D, variant 1"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "MILES. ABBEY ROAD ½ SPEED. ROOM 30 1I1 BL55235-01 A1 3587177",
+        "description": "Runout side A, variant 2"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "MILES. ABBEY ROAD ½ SPEED. ROOM 30 1II BL55235-01 B1 3587177",
+        "description": "Runout side B, variant 2"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "MILES. ABBEY ROAD ½ SPEED. ROOM 30 1X BL55235-02 C1 3587178",
+        "description": "Runout side C, variant 2"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "MILES. ABBEY ROAD ½ SPEED. ROOM 30 1T BL55235-02 D1 3587178",
+        "description": "Runout side D, variant 2"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "MILES. ABBEY ROAD ½ SPEED. ROOM 30 II1 BL55235-01 A1 3587177",
+        "description": "Runout side A, variant 3"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "MILES. ABBEY ROAD ½ SPEED. ROOM 30 1T BL55235-01 B1 3587177",
+        "description": "Runout side B, variant 3"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "MILES. ABBEY ROAD ½ SPEED. ROOM 30 II1 BL55235-02 C1 3587178",
+        "description": "Runout side C, variant 3"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "MILES. ABBEY ROAD ½ SPEED. ROOM 30 II1 BL55235-02 D1 3587178",
+        "description": "Runout side D, variant 3"
+      }
+    ],
+    "notes": "Shrink wrapped with a hype sticker. Cardboard obi strip inside shrink wrap. Includes certificate of half-speed mastering. \n\nThe inner sleeve reads: \"2022 Vinyl Edition. Mastered and cut by Geoff Pesche at Abbey Road Studios. London.\" However, the record is actually mastered and cut by Miles Showell as identified by the runout matrix and the Half Speed Mastering certificate.\n\nRunouts are etched. In runouts, all Optimal plating symbols may be inverted (e.g., “⊥” vs “T”) and/or mirrored (e.g., “1△” vs “△↾”). \n\nMade in EU on labels. Some copies have \"Made in Germany\" sticker on shrink wrap.",
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/ZYn1nPk70F9gYUrEoNm-jYvoyWJWCOlclJ2iRYJ3lLE/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODQw/ODMyLTE2NjYxNjc0/MTQtNjU5OS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/FKM_PJ0_N_9nNqBjvaqsBPgaSCtN9-Q1u6iL_DljYiA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODQw/ODMyLTE2NjYxNjc0/MTQtNjU5OS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/uW290D1FzYjXFLMGRiPJ26IrfBGvvZZkdaZelXwNRwg/rs:fit/g:sm/q:90/h:287/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODQw/ODMyLTE2NjYxOTQw/MzQtOTA4NC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/1qcxfjjEUH6jrTLhpctNlinkNFKQbcedalEDD3OOyvw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODQw/ODMyLTE2NjYxOTQw/MzQtOTA4NC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/tuRYb8Tld_5-oK8AIRABohxWdjMC8nKsmkNJSWThI2A/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODQw/ODMyLTE2NDk2NzAx/NzMtMjMwMy5wbmc.jpeg",
+        "uri150": "https://i.discogs.com/XgZN-FV9dTqih89Q-pgX8UwXCF7xLztfk3b-U4AHmtQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODQw/ODMyLTE2NDk2NzAx/NzMtMjMwMy5wbmc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/Ca8Otomf_kA7eOX77ghTJlwkIzq7HCa3Gv9bgVPPEoI/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODQw/ODMyLTE2NTAyMzUy/NzEtNTAyNy5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/3tYX6HB1YR-PzfkErNg3tbgprqDqYPHbay54ruSKgaQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODQw/ODMyLTE2NTAyMzUy/NzEtNTAyNy5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/3PMNC_d4C-l32DJOutBbMUTf0zmJLcDNNjr0sioTUs4/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODQw/ODMyLTE2NTAyMzUy/NzEtNjU5Ny5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/cUlNFjcKXq14iMe_AbTuAQAoT5eg4CtrAUJnvObuayI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODQw/ODMyLTE2NTAyMzUy/NzEtNjU5Ny5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/qT15pRtzgASrfNObxA6Jc0SkEup6Gf7cnnl-lvD2VG0/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODQw/ODMyLTE2NTAyMzUy/NzEtNDEwOS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/jAVNeBcjGleLMTDfNBoLknT1nPzt4B7wzPWpEDdiVF8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODQw/ODMyLTE2NTAyMzUy/NzEtNDEwOS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/GkjwD7UXLdtPtmQk3CC0CdecYlGnnXu6zzC-AxhG9HM/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODQw/ODMyLTE2NTAyMzUy/NzEtNDI4OC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/Y1N0LwebFN3AbBF3KxbV7WSK7otvWkh6Xw-Gire42PM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODQw/ODMyLTE2NTAyMzUy/NzEtNDI4OC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/-cy-6ilz8dp1oWqXn_wqR_xhtT-d3pAgVcrmxxmWIe0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODQw/ODMyLTE2NTAxNDI0/MjgtNzU3My5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/gn-1HAAZvcm-K22O_Tq0t9bMozGa7nHShiJXJWO7of8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODQw/ODMyLTE2NTAxNDI0/MjgtNzU3My5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/jle1GQicziQ20qVCr3C3Y1_9GQ_iE3OG3MS7-jZWDto/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODQw/ODMyLTE2NTAxNDI0/MjctMjUzNy5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/JP38Z70eMLtxcjycXXr00jAr1sPEdAYWH-EZ0ZXTMog/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODQw/ODMyLTE2NTAxNDI0/MjctMjUzNy5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/T6_u8fDu7fwxI8GPzXY7lM_fJUbwYgzRDO_3Q2Yf18w/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODQw/ODMyLTE2NTAxNDI0/MjctMTkwMi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/JS_ErE7IBR9gTtB477YvbsFP5oFsMRtmSW3MN2fxCLQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODQw/ODMyLTE2NTAxNDI0/MjctMTkwMi5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/4QIQq596FLc2v5sSeINXCADFpNKh6xvWwOsTm80Iksk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODQw/ODMyLTE2NTAxNDI0/MjYtODA3My5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/IbqBBU0auGHFWxByj448o9JMVF96DbU0jtzRXPj6tY4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODQw/ODMyLTE2NTAxNDI0/MjYtODA3My5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/Z8IZ4-J2DOESTBzCBV36o254xDSLj8Xdj2hMKBcQT8Q/rs:fit/g:sm/q:90/h:600/w:392/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODQw/ODMyLTE2NDk2NzAz/NDYtNTU0NS5wbmc.jpeg",
+        "uri150": "https://i.discogs.com/hrg-DpVy1cthz5Awh85JRvZvuWlIIbJeprJaPRCeF0M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODQw/ODMyLTE2NDk2NzAz/NDYtNTU0NS5wbmc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/ZxaeThiLLok2hIivjyrOZZ4VY4dxKs3FyUR89HbrUAM/rs:fit/g:sm/q:90/h:600/w:421/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODQw/ODMyLTE2NTAwNTYz/MjUtOTg1OS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/v-tTH2wp4E3g95Xlc5MkjAFguw78YW4i1vHGKKtjGFo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODQw/ODMyLTE2NTAwNTYz/MjUtOTg1OS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/p6dFEO5YccFHi7zstClvZJW_mCkeWVT43GTVFnrhCUo/rs:fit/g:sm/q:90/h:103/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODQw/ODMyLTE2NTAxNDI0/MjUtNTE3MS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/_ziASwjXz-wheO-tGZ-i7oZ694OWkI2TEmesIUaIBaY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODQw/ODMyLTE2NTAxNDI0/MjUtNTE3MS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/rag2j9egSRu_mx-iL0yLrV0-FkrEI34iM-gdln7iPkM/rs:fit/g:sm/q:90/h:600/w:248/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODQw/ODMyLTE2NTE1MTUx/MjMtMTQwMi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/MJtg_66gFgPp1QPVm-IjPndE_B7_qqBAp0lvzNvtdI4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODQw/ODMyLTE2NTE1MTUx/MjMtMTQwMi5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/Enrda4VizCRsliUhu9wbmGzCdw97NA771ZTJcTqKYYo/rs:fit/g:sm/q:90/h:600/w:574/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODQw/ODMyLTE2Njc0MzQ5/MjMtODEyNS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/qp_2fpQkLKfAY9parcXaPCIzmR6y-4Osqi8zk2nsKis/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODQw/ODMyLTE2Njc0MzQ5/MjMtODEyNS5qcGVn.jpeg"
+      }
+    ],
+    "community": {
+      "rating": {
+        "count": 768,
+        "average": 4.72
+      },
+      "have": 11113,
+      "want": 777
+    },
+    "master": {
+      "id": 109113,
+      "title": "Greatest Hits",
+      "main_release": 4733886,
+      "year": 1992,
+      "uri": "https://www.discogs.com/master/109113-The-Police-Greatest-Hits",
+      "num_for_sale": 831
+    }
+  },
+  "apple_music": null,
+  "discrepancies": [
+    "No Apple Music match found."
+  ]
+}

@@ -1,0 +1,396 @@
+{
+  "captured_at": "2026-05-17T23:39:16+00:00",
+  "schema_version": 3,
+  "artist": "Prince And The Revolution",
+  "title": "Purple Rain",
+  "original_release_year": 1984,
+  "pressing_year": 2008,
+  "upgrade_suggestion": "The 2015 Warner Bros. remaster (catalog R1-25110 recut) or the 2017 Purple Rain Deluxe reissue are sonic upgrades. For the best pressing, look for the 2015 remaster on 180g — noticeably better than this Specialty plant pressing.",
+  "commentary": "One of the greatest albums ever made — Prince's 1984 masterpiece. Six top-ten singles, Academy Award winner, 24 weeks at #1. 2008 US Rhino reissue (R1-25110) pressed at Specialty Records Corporation (S-66596, Olyphant PA). Decent everyday copy but not the best-sounding pressing available.",
+  "discogs": {
+    "release_id": 2085604,
+    "master_id": 16245,
+    "uri": "https://www.discogs.com/release/2085604-Prince-And-The-Revolution-Purple-Rain",
+    "title": "Purple Rain",
+    "artists": [
+      {
+        "name": "Prince And The Revolution",
+        "id": 96774,
+        "role": null
+      }
+    ],
+    "year": 2008,
+    "released": "2008",
+    "country": "US",
+    "labels": [
+      {
+        "name": "Warner Bros. Records",
+        "catno": "R1 25110",
+        "id": 1000
+      }
+    ],
+    "formats": [
+      {
+        "name": "Vinyl",
+        "qty": "1",
+        "descriptions": [
+          "LP",
+          "Album",
+          "Reissue"
+        ],
+        "text": "RTI Pressing,180 Gram"
+      }
+    ],
+    "genres": [
+      "Funk / Soul",
+      "Pop",
+      "Stage & Screen"
+    ],
+    "styles": [
+      "Soundtrack",
+      "Minneapolis Sound",
+      "Pop Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Let's Go Crazy",
+        "duration": "4:39",
+        "type": "track"
+      },
+      {
+        "position": "A2",
+        "title": "Take Me With U",
+        "duration": "3:54",
+        "type": "track"
+      },
+      {
+        "position": "A3",
+        "title": "The Beautiful Ones",
+        "duration": "5:15",
+        "type": "track"
+      },
+      {
+        "position": "A4",
+        "title": "Computer Blue",
+        "duration": "3:59",
+        "type": "track"
+      },
+      {
+        "position": "A5",
+        "title": "Darling Nikki",
+        "duration": "4:15",
+        "type": "track"
+      },
+      {
+        "position": "B1",
+        "title": "When Doves Cry",
+        "duration": "5:52",
+        "type": "track"
+      },
+      {
+        "position": "B2",
+        "title": "I Would Die 4 U",
+        "duration": "2:51",
+        "type": "track"
+      },
+      {
+        "position": "B3",
+        "title": "Baby I'm A Star",
+        "duration": "4:20",
+        "type": "track"
+      },
+      {
+        "position": "B4",
+        "title": "Purple Rain",
+        "duration": "8:45",
+        "type": "track"
+      }
+    ],
+    "extraartists": [
+      {
+        "name": "Prince",
+        "role": "Art Direction",
+        "id": 28795
+      },
+      {
+        "name": "Brownmark",
+        "role": "Bass, Voice",
+        "id": 180616
+      },
+      {
+        "name": "Laura LiPuma",
+        "role": "Design",
+        "id": 699486
+      },
+      {
+        "name": "David Leonard",
+        "role": "Engineer [All Overdubs As Well]",
+        "id": 130653
+      },
+      {
+        "name": "Peggy McCreary",
+        "role": "Engineer [All Overdubs As Well]",
+        "id": 159355
+      },
+      {
+        "name": "Wendy Melvoin",
+        "role": "Guitar, Voice",
+        "id": 273608
+      },
+      {
+        "name": "Lisa Coleman",
+        "role": "Keyboards, Voice",
+        "id": 90538
+      },
+      {
+        "name": "Matt Fink",
+        "role": "Keyboards, Voice",
+        "id": 160853
+      },
+      {
+        "name": "Kevin Gray",
+        "role": "Lacquer Cut By",
+        "id": 312098
+      },
+      {
+        "name": "Bernie Grundman",
+        "role": "Mastered By [Originally]",
+        "id": 307942
+      },
+      {
+        "name": "Doug Henders",
+        "role": "Painting [Dust Sleeve Painting]",
+        "id": 2238703
+      },
+      {
+        "name": "Bobby Z.",
+        "role": "Percussion",
+        "id": 80662
+      },
+      {
+        "name": "Prince And The Revolution",
+        "role": "Producer, Arranged By, Composed By, Performer",
+        "id": 96774
+      },
+      {
+        "name": "David Leonard",
+        "role": "Recorded By [At The Warehouse In The Summer Of '83]",
+        "id": 130653
+      },
+      {
+        "name": "Susan Rogers",
+        "role": "Recorded By [At The Warehouse In The Summer Of '83]",
+        "id": 108758
+      },
+      {
+        "name": "David Leonard",
+        "role": "Recorded By [Live At 1st Avenue In The Summer Of '83 By]",
+        "id": 130653
+      },
+      {
+        "name": "David Rivkin",
+        "role": "Recorded By [Live At 1st Avenue In The Summer Of '83 By]",
+        "id": 219936
+      },
+      {
+        "name": "David Leonhard",
+        "role": "Recorded By [Record Plant, New York]",
+        "id": 422517
+      },
+      {
+        "name": "David Leonhard",
+        "role": "Recorded By [Sunset Sound]",
+        "id": 422517
+      },
+      {
+        "name": "Peggy McCreary",
+        "role": "Recorded By [Sunset Sound]",
+        "id": 159355
+      }
+    ],
+    "identifiers": [
+      {
+        "type": "Barcode",
+        "value": "0 81227-99149 4",
+        "description": "Text"
+      },
+      {
+        "type": "Barcode",
+        "value": "081227991494",
+        "description": "Scanned"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "R1-25110-A S-66596 KG ATM",
+        "description": "Side A runout, variant 1"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "R1-25110-B S-66597 KG ATM",
+        "description": "Side B runout, variant 1"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "R1-25110-A S-66596 KPG@ATM",
+        "description": "Side A runout, variant 2"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "R1-25110-B S-66597 KG@ATM",
+        "description": "Side B runout, variant 2"
+      }
+    ],
+    "notes": "Sticker on shrink:\nPremium Vinyl Pressing\nHQ-180®\n\"RTI\" logo. [Record Technology Incorporated]\n\nIncludes 4-panel folded insert sheet, with reproduced artwork based on original inner \"dust sleeve.\" The front panel has lyrics and credits, the back panel has the face painting, and the two inner panels are blank.\n\nRecord housed in a poly inner sleeve, which may appear slightly purple.\n\nLabels:\n© ℗ 1984 Warner Bros. Records Inc. for the U.S.\n\nTitle on spine: \"Music from the motion picture Purple Rain\"\n\nTracks A1 & A4 were recorded at The Warehouse in the summer of '83.\nTracks A2, A3 & B1 were recorded at Sunset Sound.\nTracks B2, B3, B4 recorded live at 1st Avenue in the summer of '83 & Record Plant, New York.\nTrack A4 was recorded at a place very close 2 where u live.",
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/fBLZQv0eXinpO2sQs1TeZdqL0Deq0x58pTqBN8N9sts/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODU2/MDQtMTM4NjgxMjg1/Ni01MzExLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/rtzQuYJoAs4gQkSkCqtX7iuDw2OAT-9ivXGMaOtvdEo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODU2/MDQtMTM4NjgxMjg1/Ni01MzExLmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/GScAPKeffw9mHoKSFTR1vwREK8BdorZfbuzgW9e5QFI/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODU2/MDQtMTM4NjgxMjg2/OC02NTIyLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/0O5uI26wTFiCu8oXPAqXWbQ-kQzKfKbrnMBWd6bpvYE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODU2/MDQtMTM4NjgxMjg2/OC02NTIyLmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/6cYswqgvZR_73Q1c9_rPyhUleSqfOEe9i2StabCuZaQ/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODU2/MDQtMTM4Njk1Nzgw/Ny0xOTk3LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/Fa_iVRFwBBu8aeBu86oBnByiY_kTYl8XFO-nLhqRtAc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODU2/MDQtMTM4Njk1Nzgw/Ny0xOTk3LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/t_rn9DA6VXQhmVPDyKRMfTjUXiuHDBjpIPqOqbZzUe8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODU2/MDQtMTM4Njk1Nzgx/OC05NjU2LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/J0cH5OqSExgk826lWaprrKUziW_3Vgzi0MZF_f8QaCE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODU2/MDQtMTM4Njk1Nzgx/OC05NjU2LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/h4NT2QV9b0Vri5CG8p-WDGf6C4ZCMHF0CJdTpCcA4RU/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODU2/MDQtMTM4Njk1Nzgz/My04NDc4LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/aiqIFRQu_8Bvnjumy-B1zzNuaW8IuX79I9cVDuOd0zw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODU2/MDQtMTM4Njk1Nzgz/My04NDc4LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/mI1vlyApixQ08pit5FyHz4PQB8ePOLtDBmxxq7ud0QQ/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODU2/MDQtMTM4Njk1Nzg0/My0yNzAyLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/w6rqnK5MOzpD-JlcTNHVoa-e2v-lSoZ-gJfhuvpy5gM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODU2/MDQtMTM4Njk1Nzg0/My0yNzAyLmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/j5zrJ3icB7zu1FXBohKMpKWcTMG8fvcF969I-iHd0vY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODU2/MDQtMTM4NjgxMjg3/Ny03MzA3LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/3Nkxxq5KZeeu6FylT6GR09ZC_us48Ucm_c_Pd3dM3F8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODU2/MDQtMTM4NjgxMjg3/Ny03MzA3LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/b5oC8uoSlmspmxv8lySi-En5Xi72JHZG0JUn1uFmx8s/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODU2/MDQtMTU5Mzg0NzM1/My01MDczLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/9Hb9CUvGJJPPT8krPOBwd1KAZ-s2jlSJlomCT-0i69M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODU2/MDQtMTU5Mzg0NzM1/My01MDczLmpwZWc.jpeg"
+      }
+    ],
+    "community": {
+      "rating": {
+        "count": 634,
+        "average": 4.67
+      },
+      "have": 9257,
+      "want": 1604
+    },
+    "master": {
+      "id": 16245,
+      "title": "Purple Rain",
+      "main_release": 194021,
+      "year": 1984,
+      "uri": "https://www.discogs.com/master/16245-Prince-And-The-Revolution-Purple-Rain",
+      "num_for_sale": 3480
+    }
+  },
+  "apple_music": {
+    "id": 1746833068,
+    "url": "https://music.apple.com/us/album/purple-rain/1746833068?uo=4",
+    "name": "Purple Rain",
+    "artist": "Prince & The Revolution",
+    "artist_id": 659587,
+    "artwork_url_100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/00/17/f2/0017f24f-e580-b77a-71a8-1bc7b75881bf/603497822065.jpg/100x100bb.jpg",
+    "artwork_url_600": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/00/17/f2/0017f24f-e580-b77a-71a8-1bc7b75881bf/603497822065.jpg/600x600bb.jpg",
+    "release_date": "1984-06-25T07:00:00Z",
+    "track_count": 9,
+    "copyright": "℗ 1984 NPG Records, Inc. under exclusive license to Warner Records Inc.",
+    "primary_genre": "Soundtrack",
+    "country": "USA",
+    "tracks": [
+      {
+        "track_number": 1,
+        "disc_number": 1,
+        "name": "Let's Go Crazy",
+        "duration_ms": 279240,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2e/71/fb/2e71fb8b-8b6e-fb93-450b-b13fbe669b55/mzaf_15222909586812927924.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/lets-go-crazy/1746833068?i=1746833069&uo=4"
+      },
+      {
+        "track_number": 2,
+        "disc_number": 1,
+        "name": "Take Me with U",
+        "duration_ms": 234133,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a5/29/e3/a529e388-c7b0-76b8-d179-935e058f0e9d/mzaf_6931770497431367252.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/take-me-with-u/1746833068?i=1746833073&uo=4"
+      },
+      {
+        "track_number": 3,
+        "disc_number": 1,
+        "name": "The Beautiful Ones",
+        "duration_ms": 313960,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/16/10/af/1610af37-0289-a1ed-02f3-795e3186eb97/mzaf_2924043113175941752.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/the-beautiful-ones/1746833068?i=1746833076&uo=4"
+      },
+      {
+        "track_number": 4,
+        "disc_number": 1,
+        "name": "Computer Blue",
+        "duration_ms": 239507,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e4/2a/85/e42a85fa-7ff1-1582-49a6-1f963f93b715/mzaf_12683653197232389958.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/computer-blue/1746833068?i=1746833077&uo=4"
+      },
+      {
+        "track_number": 5,
+        "disc_number": 1,
+        "name": "Darling Nikki",
+        "duration_ms": 254493,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/4e/83/3a/4e833a42-bdd6-d974-b91d-3eb8a8595a12/mzaf_15609025766932401781.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/darling-nikki/1746833068?i=1746833078&uo=4"
+      },
+      {
+        "track_number": 6,
+        "disc_number": 1,
+        "name": "When Doves Cry",
+        "duration_ms": 354133,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0f/d3/ae/0fd3ae2b-542d-170e-f148-f4d08949a006/mzaf_2606432863197016679.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/when-doves-cry/1746833068?i=1746833079&uo=4"
+      },
+      {
+        "track_number": 7,
+        "disc_number": 1,
+        "name": "I Would Die 4 U",
+        "duration_ms": 169667,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e6/2e/07/e62e0703-1013-e827-6e5e-31f0618b5376/mzaf_14926281505661522486.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/i-would-die-4-u/1746833068?i=1746833479&uo=4"
+      },
+      {
+        "track_number": 8,
+        "disc_number": 1,
+        "name": "Baby I'm a Star",
+        "duration_ms": 264400,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/52/bd/e3/52bde38e-18bb-39e8-4108-6180ff2940f4/mzaf_6139304562014268755.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/baby-im-a-star/1746833068?i=1746833480&uo=4"
+      },
+      {
+        "track_number": 9,
+        "disc_number": 1,
+        "name": "Purple Rain",
+        "duration_ms": 521867,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/11/09/30/1109307b-cdbd-20b1-aebc-c39c632a73a4/mzaf_11384520489297938238.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/purple-rain/1746833068?i=1746833484&uo=4"
+      }
+    ]
+  },
+  "discrepancies": [
+    "Release year differs: your pressing=2008, Apple Music edition=1984. Apple Music typically streams the most recent remaster."
+  ],
+  "local_cover": "images/2085604.jpg"
+}

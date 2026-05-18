@@ -1,0 +1,369 @@
+{
+  "captured_at": "2026-05-18T00:05:53+00:00",
+  "schema_version": 3,
+  "artist": "Supertramp",
+  "title": "Breakfast In America",
+  "original_release_year": 1979,
+  "pressing_year": 1979,
+  "upgrade_suggestion": "This original Canadian pressing is a solid copy. The 2010 A&M remaster on 180g is a recommended sonic upgrade. No MOFI or half-speed edition has been issued for this title.",
+  "commentary": "Supertramp's 1979 commercial peak — six weeks at #1, 'The Logical Song,' 'Dreamer,' 'Give a Little Bit.' Original 1979 Canadian A&M pressing (SP-3708). Deadwax uses alternate lacquer number SP-3729 (known Canadian variant), matrix AIM SP 3729-M20 / PARA. Barcode 07502137081.",
+  "discogs": {
+    "release_id": 8776696,
+    "master_id": 25362,
+    "uri": "https://www.discogs.com/release/8776696-Supertramp-Breakfast-In-America",
+    "title": "Breakfast In America",
+    "artists": [
+      {
+        "name": "Supertramp",
+        "id": 251517,
+        "role": null
+      }
+    ],
+    "year": 1979,
+    "released": "1979",
+    "country": "Canada",
+    "labels": [
+      {
+        "name": "A&M Records",
+        "catno": "SP-3708",
+        "id": 904
+      }
+    ],
+    "formats": [
+      {
+        "name": "Vinyl",
+        "qty": "1",
+        "descriptions": [
+          "LP",
+          "Album"
+        ],
+        "text": "Paramount Pressing"
+      }
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Art Rock",
+      "Pop Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Gone Hollywood",
+        "duration": "5:15",
+        "type": "track"
+      },
+      {
+        "position": "A2",
+        "title": "The Logical Song",
+        "duration": "4:12",
+        "type": "track"
+      },
+      {
+        "position": "A3",
+        "title": "Goodbye Stranger",
+        "duration": "5:44",
+        "type": "track"
+      },
+      {
+        "position": "A4",
+        "title": "Breakfast In America",
+        "duration": "2:40",
+        "type": "track"
+      },
+      {
+        "position": "A5",
+        "title": "Oh Darling",
+        "duration": "4:10",
+        "type": "track"
+      },
+      {
+        "position": "B1",
+        "title": "Take The Long Way Home",
+        "duration": "5:09",
+        "type": "track"
+      },
+      {
+        "position": "B2",
+        "title": "Lord Is It Mine",
+        "duration": "4:03",
+        "type": "track"
+      },
+      {
+        "position": "B3",
+        "title": "Just Another Nervous Wreck",
+        "duration": "4:32",
+        "type": "track"
+      },
+      {
+        "position": "B4",
+        "title": "Casual Conversations",
+        "duration": "2:53",
+        "type": "track"
+      },
+      {
+        "position": "B5",
+        "title": "Child Of Vision",
+        "duration": "7:12",
+        "type": "track"
+      }
+    ],
+    "extraartists": [
+      {
+        "name": "Mike Doud (2)",
+        "role": "Art Direction, Design Concept [Cover]",
+        "id": 1828051
+      },
+      {
+        "name": "Dougie Thomson",
+        "role": "Bass",
+        "id": 401992
+      },
+      {
+        "name": "Mick Haggerty",
+        "role": "Design",
+        "id": 672101
+      },
+      {
+        "name": "Bob C. Benberg",
+        "role": "Drums",
+        "id": 6601603
+      },
+      {
+        "name": "Jeff Harris",
+        "role": "Engineer [Assistant]",
+        "id": 186289
+      },
+      {
+        "name": "Lenise Bent",
+        "role": "Engineer [Assistant]",
+        "id": 422779
+      },
+      {
+        "name": "Russel Pope",
+        "role": "Engineer [Concert Sound]",
+        "id": 175968
+      },
+      {
+        "name": "Dave Margereson",
+        "role": "Management",
+        "id": 1664401
+      },
+      {
+        "name": "Mark Hanauer",
+        "role": "Photography By [Back Cover]",
+        "id": 1540422
+      },
+      {
+        "name": "Aaron Rapoport",
+        "role": "Photography By [Cover]",
+        "id": 723143
+      },
+      {
+        "name": "Supertramp",
+        "role": "Producer",
+        "id": 251517
+      },
+      {
+        "name": "Peter Henderson",
+        "role": "Producer, Engineer",
+        "id": 220636
+      },
+      {
+        "name": "Gary Mielke",
+        "role": "Programmed By [Oberheim]",
+        "id": 403948
+      },
+      {
+        "name": "Dick \"Slyde\" Hyde",
+        "role": "Tuba, Trombone",
+        "id": 3669135
+      },
+      {
+        "name": "Rick Davies",
+        "role": "Vocals, Keyboards",
+        "id": 395811
+      },
+      {
+        "name": "Roger Hodgson",
+        "role": "Vocals, Keyboards, Guitar",
+        "id": 294375
+      },
+      {
+        "name": "John Helliwell",
+        "role": "Woodwind [Woodwind Instruments]",
+        "id": 388239
+      },
+      {
+        "name": "Rick Davies & Roger Hodgson",
+        "role": "Words By, Music By",
+        "id": 1023608
+      }
+    ],
+    "identifiers": [
+      {
+        "type": "Barcode",
+        "value": "075021370814",
+        "description": null
+      },
+      {
+        "type": "Barcode",
+        "value": "07502137081",
+        "description": null
+      },
+      {
+        "type": "Pressing Plant ID",
+        "value": "PARA",
+        "description": "Runouts"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "A&M sp3729-m7 iwt #3 Para",
+        "description": "A Side Stamped [Image of Trumpet]): Trumpet"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "PARA sp3708-b",
+        "description": "Side B "
+      }
+    ],
+    "notes": "Rehearsed at Southcombe Studios, Burbank.\nRecorded at the Village Recorder, Los Angeles.\nMixed at Crystal Sound's Studio 'B', Los Angeles.\nEngineered by Peter Henderson of Air London.\n\nAll songs © 1979 Almo Music Corp. and Delicate Music (ASCAP)\n\n©℗ 1979 A&M Records, Inc.\n\nThis inner sleeve differs from some inner sleeves in that Side 1 has \"AMLK 63708\" and the A&M logo on the top left corner, there are copyrights on songs at the end of each lyric, so there is no space between the lyrics and the title of the next song, and Side 2 has printing all the way down the right side of the sleeve, with no large gaps.",
+    "images": [
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/_CwaQWSnGKKXOBGug1tpQfX5CXEJPHOGA39oP8YKyyk/rs:fit/g:sm/q:90/h:600/w:564/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NzY2/OTYtMTQ2ODUzNjQw/My01NjYyLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/LClA9T2zn8ZvUcZ74a2w3qveBzj6Uz-1oxHDZwhp9mA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NzY2/OTYtMTQ2ODUzNjQw/My01NjYyLmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/ZJP_rc2jnRhnRtV7bJ4jg-H9KaCU2Qm6I41-YBFti8U/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NzY2/OTYtMTQ2ODUzNjQw/My04ODAwLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/vi_x4-gXHF8j9oQsFowS_e2dt5zIDmjtWqHuHitZeYI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NzY2/OTYtMTQ2ODUzNjQw/My04ODAwLmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/T2NILYrlKejSAJSC56kFdWGxn5ylPgT5juRNvKH4feM/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NzY2/OTYtMTQ2ODUzNjQw/NC01OTkwLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/NmZLCnF3QWDOERJxkQCwQ_yGnk--N9SKrKSx7u9LDOU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NzY2/OTYtMTQ2ODUzNjQw/NC01OTkwLmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/LcpDRbkem6nv9CHT9dWZM9aiOhePYLaKaya6CCEs4Ys/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NzY2/OTYtMTQ2ODUzNjQw/NC0xNzk4LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/kiS_fv1PkjA__I3Fh16HbJrE-y_PKvNFhvV-r-TWi6k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NzY2/OTYtMTQ2ODUzNjQw/NC0xNzk4LmpwZWc.jpeg"
+      }
+    ],
+    "community": {
+      "rating": {
+        "count": 156,
+        "average": 4.29
+      },
+      "have": 4178,
+      "want": 423
+    },
+    "master": {
+      "id": 25362,
+      "title": "Breakfast In America",
+      "main_release": 617486,
+      "year": 1979,
+      "uri": "https://www.discogs.com/master/25362-Supertramp-Breakfast-In-America",
+      "num_for_sale": 3020
+    }
+  },
+  "apple_music": {
+    "id": 1880517855,
+    "url": "https://music.apple.com/us/album/breakfast-in-america-remastered-2026/1880517855?uo=4",
+    "name": "Breakfast In America (Remastered 2026)",
+    "artist": "Supertramp",
+    "artist_id": 43246,
+    "artwork_url_100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ff/b8/25/ffb825b3-d485-ffc6-b509-5686f568cbd8/26UMGIM11000.rgb.jpg/100x100bb.jpg",
+    "artwork_url_600": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ff/b8/25/ffb825b3-d485-ffc6-b509-5686f568cbd8/26UMGIM11000.rgb.jpg/600x600bb.jpg",
+    "release_date": "1979-03-16T08:00:00Z",
+    "track_count": 10,
+    "copyright": "An A&M Records release; ℗ 2026 UMG Recordings, Inc.",
+    "primary_genre": "Rock",
+    "country": "USA",
+    "tracks": [
+      {
+        "track_number": 1,
+        "disc_number": 1,
+        "name": "Gone Hollywood (Remastered 2026)",
+        "duration_ms": 317613,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/28/26/5e/28265e88-82bd-a8c0-6396-6af69a66980f/mzaf_9867760705766999163.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/gone-hollywood-remastered-2026/1880517855?i=1880517856&uo=4"
+      },
+      {
+        "track_number": 2,
+        "disc_number": 1,
+        "name": "The Logical Song (Remastered 2026)",
+        "duration_ms": 251547,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/44/21/3e/44213eab-8635-f4f4-bbed-1d79591796bf/mzaf_6413553888189795176.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/the-logical-song-remastered-2026/1880517855?i=1880517858&uo=4"
+      },
+      {
+        "track_number": 3,
+        "disc_number": 1,
+        "name": "Goodbye Stranger (Remastered 2026)",
+        "duration_ms": 350947,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/8e/ee/6e/8eee6e91-45b7-791f-4ba1-53f58dfd3b82/mzaf_6710280376295974316.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/goodbye-stranger-remastered-2026/1880517855?i=1880517866&uo=4"
+      },
+      {
+        "track_number": 4,
+        "disc_number": 1,
+        "name": "Breakfast In America (Remastered 2026)",
+        "duration_ms": 159467,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ce/4f/9d/ce4f9da9-59bd-c3fd-bbe1-1a861cac04e5/mzaf_3598076451519158568.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/breakfast-in-america-remastered-2026/1880517855?i=1880517875&uo=4"
+      },
+      {
+        "track_number": 5,
+        "disc_number": 1,
+        "name": "Oh Darling (Remastered 2026)",
+        "duration_ms": 225747,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f3/e6/da/f3e6da10-4a1a-d057-a455-af2c0e3541fb/mzaf_5816141375447535729.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/oh-darling-remastered-2026/1880517855?i=1880517876&uo=4"
+      },
+      {
+        "track_number": 6,
+        "disc_number": 1,
+        "name": "Take The Long Way Home (Remastered 2026)",
+        "duration_ms": 309440,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a0/36/e2/a036e2ae-9468-1ae3-1ffc-44bc16a5967b/mzaf_3898697212087685596.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/take-the-long-way-home-remastered-2026/1880517855?i=1880517877&uo=4"
+      },
+      {
+        "track_number": 7,
+        "disc_number": 1,
+        "name": "Lord Is It Mine (Remastered 2026)",
+        "duration_ms": 250480,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d4/36/ce/d436ced1-5fdc-f439-70c4-1f083ad77604/mzaf_9233114825398762914.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/lord-is-it-mine-remastered-2026/1880517855?i=1880517878&uo=4"
+      },
+      {
+        "track_number": 8,
+        "disc_number": 1,
+        "name": "Just Another Nervous Wreck (Remastered 2026)",
+        "duration_ms": 266053,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f3/51/3b/f3513bcc-1a0b-e070-32a1-2a5efa3ec00a/mzaf_2017398190591380057.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/just-another-nervous-wreck-remastered-2026/1880517855?i=1880518060&uo=4"
+      },
+      {
+        "track_number": 9,
+        "disc_number": 1,
+        "name": "Casual Conversations (Remastered 2026)",
+        "duration_ms": 179107,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d5/ef/55/d5ef552a-61e5-577d-fa89-3132d697c962/mzaf_2915267145399958963.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/casual-conversations-remastered-2026/1880517855?i=1880518061&uo=4"
+      },
+      {
+        "track_number": 10,
+        "disc_number": 1,
+        "name": "Child Of Vision (Remastered 2026)",
+        "duration_ms": 450680,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b6/ee/32/b6ee3252-6e6c-bf2f-6c6f-0f896d4000d9/mzaf_2613973283621373628.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/child-of-vision-remastered-2026/1880517855?i=1880518062&uo=4"
+      }
+    ]
+  },
+  "discrepancies": [],
+  "local_cover": "images/8776696.jpg"
+}

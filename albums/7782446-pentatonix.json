@@ -1,0 +1,545 @@
+{
+  "captured_at": "2026-05-17T23:24:03+00:00",
+  "schema_version": 3,
+  "artist": "Pentatonix",
+  "title": "Pentatonix",
+  "original_release_year": 2015,
+  "pressing_year": 2015,
+  "upgrade_suggestion": "No audiophile reissue exists. This is the standard and only vinyl edition \u2014 the original 2015 pressing is the reference.",
+  "commentary": "**Pentatonix** is the self-titled fourth studio album by Pentatonix, released in October 2015 on RCA Records, and the commercial breakthrough that transformed them from a cappella YouTube stars into mainstream recording artists. The album debuted at #1 on the Billboard 200 \u2014 an extraordinary achievement for an a cappella group \u2014 and is certified 3\u00d7 platinum in the US. It features original material alongside their signature blend of pop, R&B, and electronic influences rendered entirely through vocal performance: no instruments, just voices processed and layered with extraordinary precision. \"Can't Sleep Love,\" \"New Year's Day,\" and their cover of \"Cheerleader\" are among the standout tracks.\n\nPentatonix's artistry is genuinely remarkable in context \u2014 their ability to replicate the sonic palette of contemporary pop production using only five voices, with Kevin Olusola's beatboxing providing rhythmic foundation and Avi Kaplan's bass anchoring the harmonic structure, pushes a cappella performance into genuinely contemporary sonic territory. The album demonstrates that the format can compete with fully produced pop recordings on their own terms.\n\nThis **2015 US Deluxe Edition** (RCA Records catalog **88875-14823-1**) is a double LP pressing with matrix codes `88875-14823-1-SA` identifying standard RCA/Sony pressing plant specifications. The `mS \u24ca` in the deadwax indicates United Record Pressing (\u24ca) in Nashville with mS quality control marking.\n\n**About this 2015 US pressing (2\u00d7 Vinyl, LP, Deluxe Edition):** RCA Records catalog **88875-14823-1**, 2015 Deluxe Edition. Double LP. Pressed at United Record Pressing (\u24ca), Nashville. Barcode 88751482319.\n",
+  "discogs": {
+    "release_id": 7782446,
+    "master_id": 899660,
+    "uri": "https://www.discogs.com/release/7782446-Pentatonix-Pentatonix",
+    "title": "Pentatonix",
+    "artists": [
+      {
+        "name": "Pentatonix",
+        "id": 3189736,
+        "role": null
+      }
+    ],
+    "year": 2015,
+    "released": "2015-11-20",
+    "country": "US",
+    "labels": [
+      {
+        "name": "RCA",
+        "catno": "88875-14823-1",
+        "id": 895
+      }
+    ],
+    "formats": [
+      {
+        "name": "Vinyl",
+        "qty": "2",
+        "descriptions": [
+          "LP",
+          "Album",
+          "Deluxe Edition",
+          "Stereo"
+        ],
+        "text": null
+      }
+    ],
+    "genres": [
+      "Rock",
+      "Pop"
+    ],
+    "styles": [
+      "Pop Rock",
+      "Vocal"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Na Na Na",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "A2",
+        "title": "Can't Sleep Love",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "A3",
+        "title": "Sing",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "A4",
+        "title": "Misbehavin'",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "A5",
+        "title": "Ref",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B1",
+        "title": "First Things First",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B2",
+        "title": "Rose Gold",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B3",
+        "title": "If I Ever Fall in Love",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B4",
+        "title": "Cracked",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "C1",
+        "title": "Water",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "C2",
+        "title": "Take Me Home",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "C3",
+        "title": "New Year's Day",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "C4",
+        "title": "Light In the Hallway",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "D1",
+        "title": "Where Are \u00dc Now",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "D2",
+        "title": "Cheerleader",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "D3",
+        "title": "Lean On",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "D4",
+        "title": "Can't Sleep Love",
+        "duration": "",
+        "type": "track"
+      }
+    ],
+    "extraartists": [
+      {
+        "name": "Keith Naftaly",
+        "role": "A&R",
+        "id": 712750
+      },
+      {
+        "name": "Chloe Weise",
+        "role": "A&R [A&R Coordinator], Coordinator [A&R Coordinator]",
+        "id": 4880469
+      },
+      {
+        "name": "Ben Bram",
+        "role": "Arranged By",
+        "id": 2464605
+      },
+      {
+        "name": "Pentatonix",
+        "role": "Arranged By",
+        "id": 3189736
+      },
+      {
+        "name": "Annie Stoll",
+        "role": "Art Direction, Design",
+        "id": 3097261
+      },
+      {
+        "name": "Erwin Gorostiza",
+        "role": "Creative Director [RCA Creative Director]",
+        "id": 1829923
+      },
+      {
+        "name": "Torsten Witte",
+        "role": "Hair, Make-Up",
+        "id": 11613758
+      },
+      {
+        "name": "Mark Santangelo",
+        "role": "Lacquer Cut By",
+        "id": 515349
+      },
+      {
+        "name": "David Byrnes (2)",
+        "role": "Legal",
+        "id": 2788021
+      },
+      {
+        "name": "Ziffren Brittenham LLP",
+        "role": "Legal",
+        "id": 4043769
+      },
+      {
+        "name": "Jonathan Kalter",
+        "role": "Management",
+        "id": 2388657
+      },
+      {
+        "name": "The MGMT Co.",
+        "role": "Management",
+        "id": 2625058
+      },
+      {
+        "name": "Gelfand, Rennert & Feldman",
+        "role": "Management [Business Manager]",
+        "id": 2412101
+      },
+      {
+        "name": "Rick Mozenter",
+        "role": "Management [Business Manager]",
+        "id": 4709073
+      },
+      {
+        "name": "Dave Kutch",
+        "role": "Mastered By",
+        "id": 410696
+      },
+      {
+        "name": "Juco",
+        "role": "Photography By",
+        "id": 4753796
+      },
+      {
+        "name": "Lenny Tso",
+        "role": "Set Designer [Prop & Set]",
+        "id": 2744965
+      },
+      {
+        "name": "Candice Lambert",
+        "role": "Stylist",
+        "id": 11707382
+      }
+    ],
+    "identifiers": [
+      {
+        "type": "Barcode",
+        "value": "888751482319",
+        "description": "Scanned"
+      },
+      {
+        "type": "Barcode",
+        "value": "8 8875-14823-1 9",
+        "description": "Text"
+      },
+      {
+        "type": "Rights Society",
+        "value": "BMI",
+        "description": "A1 to C4, D3, D4"
+      },
+      {
+        "type": "Rights Society",
+        "value": "ASCAP",
+        "description": "A2 to A4, B4 to D1, D3, D4"
+      },
+      {
+        "type": "Rights Society",
+        "value": "PRS",
+        "description": "B4"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "88875-14823-1SA",
+        "description": "Label A"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "88875-14823-1SB",
+        "description": "Label B"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "88875-14823-1SC",
+        "description": "Label C"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "88875-14823-1SD",
+        "description": "Label D"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "88875-14823-1-SA III mS \u24ca",
+        "description": "Runout A"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "88875-14823-1-SB III mS \u24ca",
+        "description": "Runout B"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "88875-14823-1-SC mS",
+        "description": "Runout C"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "88875-14823-1-SD mS \u24ca",
+        "description": "Runout D"
+      }
+    ],
+    "notes": "Gatefold cover. Issued with 11\" x 22\" foldout poster / credit sheet.",
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/01CFG63ANwQWIRSSB_EhBqEKtJzRHtHXICehyCD2M7M/rs:fit/g:sm/q:90/h:572/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3ODI0/NDYtMTQ1MjIyMTk1/MS0zNzE3LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/4Pf_y-riZ_B72MSuICDf4WVyy2buCOdxqsx_M3gvgDs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3ODI0/NDYtMTQ1MjIyMTk1/MS0zNzE3LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/akQdp40tkrNthj-sJamdRqC2iDsfFxWO7aItwQPycPI/rs:fit/g:sm/q:90/h:299/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3ODI0/NDYtMTQ1MjIyMTk4/MS0yNjM5LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/HvVuryYbEBTukpNjvJkNqcecoHpoqzDPnjOB9uPxsBA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3ODI0/NDYtMTQ1MjIyMTk4/MS0yNjM5LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/Xe9wT_EE6LxeMIpkMiQQuy6t4nBhpIy22SNJfLX3L9w/rs:fit/g:sm/q:90/h:535/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3ODI0/NDYtMTQ1MjIyMTk0/OS00NTkxLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/8JOSlTzhL4mfJl1GXm-yT1D7RkXTgMbhp7ggzLRKnig/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3ODI0/NDYtMTQ1MjIyMTk0/OS00NTkxLmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/eOhj8LIoni0GtlpX8FlKM6RPqdrQyVaF2pbLaBhl9Bs/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3ODI0/NDYtMTQ1MjIyMTk0/Ni03NTA0LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/_tPPR2g6KhxBdwI6G2768pAfIW5YCl4oJ5x8dqt618g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3ODI0/NDYtMTQ1MjIyMTk0/Ni03NTA0LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/umejjnDrrEYehhnwndFaNXpJYD7vXQPYNU2cyJAkxZ8/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3ODI0/NDYtMTQ1MjIyMTk0/Mi02MTg4LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/VHR79TzjESM0L0diGVdZrwTYINVqv1dJT9X4P6EWswk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3ODI0/NDYtMTQ1MjIyMTk0/Mi02MTg4LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/4_YrAzoH5QIpwoDRyYgvVkGP1_JYBXN6OJM8dT_dU-g/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3ODI0/NDYtMTQ1MjIyMTk2/My02Mzg1LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/oNOTDIu_DXUc4Pk0Gi5MnrPM8NDZldFLU_UYjAocPTY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3ODI0/NDYtMTQ1MjIyMTk2/My02Mzg1LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/CzjpqvJYHzpCSiTRoppRGwvK17y3XE4uvrrjbMt9668/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3ODI0/NDYtMTQ1MjIyMTk0/Ni0yMTM4LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/YWP4Z_42rmVOKyy8-NpljWsKhrv-L8CCDi80pY7NOMc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3ODI0/NDYtMTQ1MjIyMTk0/Ni0yMTM4LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/uDYO8qiOXkASmXu4OguvvNbTmw_rnrMTVS3BM5WFuaY/rs:fit/g:sm/q:90/h:301/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3ODI0/NDYtMTQ1MjIyMTk4/MS0xNzIxLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/nXbp51J_gHb5cUjJzOPzdpJ_kYTmsnQAcqJ7jqbZhV0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3ODI0/NDYtMTQ1MjIyMTk4/MS0xNzIxLmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/4loSiMZupNWtxRRJDFqT4Bk4aODSVCO-3bynE3L-Ib0/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3ODI0/NDYtMTQ1MjIyMTk3/MS03NzkzLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/_RsbA_VRKWy7_t-qiLTuh_JR1dnDE3F6E4n_5zCqkMQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3ODI0/NDYtMTQ1MjIyMTk3/MS03NzkzLmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/PZBBGZXBYm_LbqM_98eVVU3UcSB1W4dtUfUx-USY5YA/rs:fit/g:sm/q:90/h:552/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3ODI0/NDYtMTQ1MjIyMTk1/OS0xODEyLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/nsWAyL19tJlV_KmUvmbBsOHSjFlxpg7wa0iDnGtjIcw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3ODI0/NDYtMTQ1MjIyMTk1/OS0xODEyLmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/ILZOvVWcEXQpQDEF6I4nj17zIr3SE_5GGfdY9RIqtq0/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3ODI0/NDYtMTQ1MjIyMTk1/MC0yNjkxLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/N_F99bt5b7h3RLlxSWKVPQsNw_YqcXJSwcNt-1TEVS0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3ODI0/NDYtMTQ1MjIyMTk1/MC0yNjkxLmpwZWc.jpeg"
+      }
+    ],
+    "community": {
+      "rating": {
+        "count": 50,
+        "average": 4.28
+      },
+      "have": 899,
+      "want": 227
+    },
+    "master": {
+      "id": 899660,
+      "title": "Pentatonix",
+      "main_release": 7604551,
+      "year": 2015,
+      "uri": "https://www.discogs.com/master/899660-Pentatonix-Pentatonix",
+      "num_for_sale": 194
+    }
+  },
+  "apple_music": {
+    "id": 1035387084,
+    "url": "https://music.apple.com/us/album/pentatonix-deluxe-version/1035387084?uo=4",
+    "name": "Pentatonix (Deluxe Version)",
+    "artist": "Pentatonix",
+    "artist_id": 466047278,
+    "artwork_url_100": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/84/a8/f7/84a8f7df-3a27-d21e-aac0-d2a421bc2acd/dj.zoqzmtto.jpg/100x100bb.jpg",
+    "artwork_url_600": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/84/a8/f7/84a8f7df-3a27-d21e-aac0-d2a421bc2acd/dj.zoqzmtto.jpg/600x600bb.jpg",
+    "release_date": "2015-10-16T07:00:00Z",
+    "track_count": 17,
+    "copyright": "\u2117 2015 RCA Records, a division of Sony Music Entertainment",
+    "primary_genre": "Pop",
+    "country": "USA",
+    "tracks": [
+      {
+        "track_number": 1,
+        "disc_number": 1,
+        "name": "Na Na Na",
+        "duration_ms": 155581,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/d0/cd/8d/d0cd8d4c-9058-dc41-9dae-5855bc9e6350/mzaf_17799339759252694000.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/na-na-na/1035387084?i=1035387085&uo=4"
+      },
+      {
+        "track_number": 2,
+        "disc_number": 1,
+        "name": "Can't Sleep Love",
+        "duration_ms": 173055,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/7e/64/61/7e646147-1fd6-5dd8-0138-367a1d3c8ed4/mzaf_4859314183425448967.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/cant-sleep-love/1035387084?i=1035387086&uo=4"
+      },
+      {
+        "track_number": 3,
+        "disc_number": 1,
+        "name": "Sing",
+        "duration_ms": 177232,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/b6/38/8f/b6388fdd-9e48-53be-5459-648f0ac8bbf5/mzaf_17341280167180177496.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/sing/1035387084?i=1035387087&uo=4"
+      },
+      {
+        "track_number": 4,
+        "disc_number": 1,
+        "name": "Misbehavin'",
+        "duration_ms": 222842,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/31/13/b4/3113b44f-14c4-db85-c363-3a40d6128f7e/mzaf_11598215367485008927.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/misbehavin/1035387084?i=1035387088&uo=4"
+      },
+      {
+        "track_number": 5,
+        "disc_number": 1,
+        "name": "Ref",
+        "duration_ms": 194353,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/dc/90/b2/dc90b296-656a-6f0e-4851-494c5416287d/mzaf_6554494185828284573.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/ref/1035387084?i=1035387089&uo=4"
+      },
+      {
+        "track_number": 6,
+        "disc_number": 1,
+        "name": "First Things First",
+        "duration_ms": 160992,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/99/7e/f8/997ef857-1ea1-8413-659d-024052aaa8d7/mzaf_2186871579321919192.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/first-things-first/1035387084?i=1035387090&uo=4"
+      },
+      {
+        "track_number": 7,
+        "disc_number": 1,
+        "name": "Rose Gold",
+        "duration_ms": 223328,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/c3/43/0b/c3430b5d-3025-be8e-1208-9563c729c244/mzaf_9455773122236617371.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/rose-gold/1035387084?i=1035387091&uo=4"
+      },
+      {
+        "track_number": 8,
+        "disc_number": 1,
+        "name": "If I Ever Fall In Love (feat. Jason Derulo)",
+        "duration_ms": 194051,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/e3/3c/72/e33c720c-4227-7f51-e218-b957f5c94e8d/mzaf_17794611345576996550.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/if-i-ever-fall-in-love-feat-jason-derulo/1035387084?i=1035387092&uo=4"
+      },
+      {
+        "track_number": 9,
+        "disc_number": 1,
+        "name": "Cracked",
+        "duration_ms": 174126,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/38/8f/95/388f951b-f566-312c-7a23-aadf7cc3dc69/mzaf_1222055877876858003.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/cracked/1035387084?i=1035387093&uo=4"
+      },
+      {
+        "track_number": 10,
+        "disc_number": 1,
+        "name": "Water",
+        "duration_ms": 191410,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/f6/df/46/f6df4647-0ecf-7c3d-887e-f08614991403/mzaf_17195178772726043033.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/water/1035387084?i=1035387094&uo=4"
+      },
+      {
+        "track_number": 11,
+        "disc_number": 1,
+        "name": "Take Me Home",
+        "duration_ms": 176334,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/c6/28/25/c6282510-a73d-4af9-421c-fbdacf3860b4/mzaf_15647896552201502525.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/take-me-home/1035387084?i=1035387845&uo=4"
+      },
+      {
+        "track_number": 12,
+        "disc_number": 1,
+        "name": "New Year's Day",
+        "duration_ms": 217738,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/75/70/d9/7570d983-a2c8-b385-cc37-15ce7cb8ce76/mzaf_490523572251599056.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/new-years-day/1035387084?i=1035387846&uo=4"
+      },
+      {
+        "track_number": 13,
+        "disc_number": 1,
+        "name": "Light In the Hallway",
+        "duration_ms": 254687,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/ae/4d/fa/ae4dfab4-ab39-b1df-803b-c2b965effb6a/mzaf_7287292374594155668.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/light-in-the-hallway/1035387084?i=1035387847&uo=4"
+      },
+      {
+        "track_number": 14,
+        "disc_number": 1,
+        "name": "Where Are \u00dc Now",
+        "duration_ms": 171232,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/ec/9b/e2/ec9be213-7c58-c68a-cde6-864a4feddaac/mzaf_15940248437360545245.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/where-are-%C3%BC-now/1035387084?i=1035387848&uo=4"
+      },
+      {
+        "track_number": 15,
+        "disc_number": 1,
+        "name": "Cheerleader",
+        "duration_ms": 182973,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/c3/60/09/c360093c-6b14-3b32-8113-705c20f6b87c/mzaf_7746103744128475366.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/cheerleader/1035387084?i=1035387849&uo=4"
+      },
+      {
+        "track_number": 16,
+        "disc_number": 1,
+        "name": "Lean On",
+        "duration_ms": 160742,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/54/fc/41/54fc4120-1601-9c81-dcf1-662b80d12f11/mzaf_6037432957391638382.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/lean-on/1035387084?i=1035387850&uo=4"
+      },
+      {
+        "track_number": 17,
+        "disc_number": 1,
+        "name": "Can't Sleep Love (feat. Tink)",
+        "duration_ms": 213775,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/3d/f7/54/3df75430-0500-1076-0ffd-ed6e434b8f4f/mzaf_12299812381462023124.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/cant-sleep-love-feat-tink/1035387084?i=1035387851&uo=4"
+      }
+    ]
+  },
+  "discrepancies": [],
+  "local_cover": "images/7782446.jpg"
+}

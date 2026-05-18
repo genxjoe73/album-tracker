@@ -1,0 +1,507 @@
+{
+  "captured_at": "2026-05-17T23:44:36+00:00",
+  "schema_version": 3,
+  "artist": "Queen",
+  "title": "Flash Gordon (Original Soundtrack Music)",
+  "original_release_year": 1980,
+  "pressing_year": 1980,
+  "upgrade_suggestion": "The 2022 Hollywood/UMe reissue (r25155592, D004064401) is a modern remaster on 180g and would be a sonic upgrade. The 2011 reissue (D000436501) is also available. Original first pressings like this one have collector value but the 2022 remaster is the better-sounding option.",
+  "commentary": "Queen's 1980 sci-fi film soundtrack — a unique album of orchestral cues, sound design, and rock tracks. 'Flash' is a stadium anthem. Original 1980 US pressing on Elektra (5E-518), pressed at Specialty Records (SP). Deadwax SP ESR 1-1 SM7-2 R-153474 — a true first pressing of a cult Queen record.",
+  "discogs": {
+    "release_id": 6188464,
+    "master_id": 12820,
+    "uri": "https://www.discogs.com/release/6188464-Queen-Flash-Gordon-Original-Soundtrack-Music",
+    "title": "Flash Gordon (Original Soundtrack Music)",
+    "artists": [
+      {
+        "name": "Queen",
+        "id": 81013,
+        "role": null
+      }
+    ],
+    "year": 1980,
+    "released": "1980",
+    "country": "US",
+    "labels": [
+      {
+        "name": "Elektra",
+        "catno": "5E-518",
+        "id": 651
+      }
+    ],
+    "formats": [
+      {
+        "name": "Vinyl",
+        "qty": "1",
+        "descriptions": [
+          "LP",
+          "Album",
+          "Club Edition"
+        ],
+        "text": null
+      }
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Pop Rock",
+      "Classic Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Flash's Theme",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "A2",
+        "title": "In The Space Capsule (The Love Theme)",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "A3",
+        "title": "Ming's Theme (In The Court Of Ming The Merciless)",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "A4",
+        "title": "The Ring (Hypnotic Seduction Of Dale)",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "A5",
+        "title": "Football Fight",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "A6",
+        "title": "In The Death Cell (Love Theme Reprise)",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "A7",
+        "title": "Execution Of Flash",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "A8",
+        "title": "The Kiss (Aura Resurrects Flash)",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B1",
+        "title": "Arboria (Planet Of The Tree Men)",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B2",
+        "title": "Escape From The Swamp",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B3",
+        "title": "Flash To The Rescue",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B4",
+        "title": "Vultan's Theme (Attack Of The Hawk Men)",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B5",
+        "title": "Battle Theme",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B6",
+        "title": "The Wedding March",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B7",
+        "title": "Marriage Of Dale And Ming (And Flash Approaching)",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B8",
+        "title": "Crash Dive On Mingo City",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B9",
+        "title": "Flash's Theme Reprise (Victory Celebrations)",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B10",
+        "title": "The Hero",
+        "duration": "",
+        "type": "track"
+      }
+    ],
+    "extraartists": [
+      {
+        "name": "Queen",
+        "role": "Arranged By",
+        "id": 81013
+      },
+      {
+        "name": "Howard Blake",
+        "role": "Arranged By [Additional Orchestral Arrangements By], Conductor",
+        "id": 56052
+      },
+      {
+        "name": "John Deacon",
+        "role": "Bass Guitar, Guitar, Synthesizer",
+        "id": 268365
+      },
+      {
+        "name": "Roger Taylor",
+        "role": "Drums, Vocals, Synthesizer",
+        "id": 208268
+      },
+      {
+        "name": "Alan Douglas (2)",
+        "role": "Engineer",
+        "id": 938943
+      },
+      {
+        "name": "Mack (2)",
+        "role": "Engineer",
+        "id": 160129
+      },
+      {
+        "name": "Queen",
+        "role": "Executive-Producer",
+        "id": 81013
+      },
+      {
+        "name": "Brian May",
+        "role": "Lead Guitar, Vocals, Synthesizer",
+        "id": 253217
+      },
+      {
+        "name": "Freddie Mercury",
+        "role": "Lead Vocals, Synthesizer",
+        "id": 79949
+      },
+      {
+        "name": "Brian May",
+        "role": "Producer",
+        "id": 253217
+      },
+      {
+        "name": "Mack (2)",
+        "role": "Producer",
+        "id": 160129
+      },
+      {
+        "name": "Eric Tomlinson",
+        "role": "Recorded By",
+        "id": 382722
+      },
+      {
+        "name": "John Richards",
+        "role": "Recorded By",
+        "id": 283468
+      },
+      {
+        "name": "Brian May",
+        "role": "Written-By",
+        "id": 253217
+      },
+      {
+        "name": "Freddie Mercury",
+        "role": "Written-By",
+        "id": 79949
+      },
+      {
+        "name": "John Deacon",
+        "role": "Written-By",
+        "id": 268365
+      },
+      {
+        "name": "Roger Taylor",
+        "role": "Written-By",
+        "id": 208268
+      }
+    ],
+    "identifiers": [
+      {
+        "type": "Matrix / Runout",
+        "value": "5E-518 A",
+        "description": "Side A, Etched And Scratched Out "
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "7 SP ESR R-153474A 1-1",
+        "description": "Side A, Etched"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "5E-518 B",
+        "description": "Side B, Etched And Scratched Out"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "SP ESR 1-1 SM7-2 R-153474B",
+        "description": "Side B, Etched"
+      }
+    ],
+    "notes": "Album produced for Queen Productions 1980. \n\nOriginal recordings at The Town House, The Music Centre and Advision, except \"The Hero\" At Utopia Studios. \nRecorded At Anvil Studios. \n\nCopyright 1980 Queen Productions Ltd./Starling Productions Ltd. \n\nThis version has \"R 153474\" printed on label, above \"Produced by\" on both sides. The runout has a \"P\" and a \"C\" in the curves of an \"S\" stamped into it.",
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/Df3tL2QGUW6e84VqV0IveUiQzWdYN6MDIQGvf3x3Xto/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxODg0/NjQtMTQyMTAwMjc3/Mi01MzU0LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/-o16R9gxHZ_nASczqdvcT-GpMdFj5xathG4_XppAfSg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxODg0/NjQtMTQyMTAwMjc3/Mi01MzU0LmpwZWc.jpeg"
+      }
+    ],
+    "community": {
+      "rating": {
+        "count": 11,
+        "average": 4.09
+      },
+      "have": 311,
+      "want": 263
+    },
+    "master": {
+      "id": 12820,
+      "title": "Flash Gordon (Original Soundtrack Music)",
+      "main_release": 456643,
+      "year": 1980,
+      "uri": "https://www.discogs.com/master/12820-Queen-Flash-Gordon-Original-Soundtrack-Music",
+      "num_for_sale": 1577
+    }
+  },
+  "apple_music": {
+    "id": 1440645420,
+    "url": "https://music.apple.com/us/album/flash-gordon-original-soundtrack-deluxe-edition/1440645420?uo=4",
+    "name": "Flash Gordon (Original Soundtrack) [Deluxe Edition]",
+    "artist": "Queen",
+    "artist_id": 3296287,
+    "artwork_url_100": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e5/a7/78/e5a7782a-a57f-7fe0-9eda-815f5f0374e5/14DMGIM05607.rgb.jpg/100x100bb.jpg",
+    "artwork_url_600": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e5/a7/78/e5a7782a-a57f-7fe0-9eda-815f5f0374e5/14DMGIM05607.rgb.jpg/600x600bb.jpg",
+    "release_date": "1980-12-08T08:00:00Z",
+    "track_count": 24,
+    "copyright": "℗ 2014 Hollywood Records, Inc.",
+    "primary_genre": "Soundtrack",
+    "country": "USA",
+    "tracks": [
+      {
+        "track_number": 1,
+        "disc_number": 1,
+        "name": "Flash's Theme",
+        "duration_ms": 209025,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/13/5f/64/135f64b1-51b2-d0d6-39d0-01029bc40418/mzaf_11369992460686052978.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/flashs-theme/1440645420?i=1440645421&uo=4"
+      },
+      {
+        "track_number": 2,
+        "disc_number": 1,
+        "name": "In the Space Capsule (The Love Theme)",
+        "duration_ms": 162587,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/05/16/08/051608fe-134f-6767-435f-7dc4462be229/mzaf_9543536376407096857.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/in-the-space-capsule-the-love-theme/1440645420?i=1440645422&uo=4"
+      },
+      {
+        "track_number": 3,
+        "disc_number": 1,
+        "name": "Ming's Theme (In the Court of Ming the Merciless)",
+        "duration_ms": 160682,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/83/fa/87/83fa8741-19d4-c19c-37cf-2c064620f8e9/mzaf_11279410528224140790.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/mings-theme-in-the-court-of-ming-the-merciless/1440645420?i=1440645423&uo=4"
+      },
+      {
+        "track_number": 4,
+        "disc_number": 1,
+        "name": "The Ring (Hypnotic Seduction of Dale)",
+        "duration_ms": 57307,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/ab/83/f8/ab83f8ea-bc90-e9bc-c6ff-72271fb91155/mzaf_1062499609112837318.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/the-ring-hypnotic-seduction-of-dale/1440645420?i=1440645425&uo=4"
+      },
+      {
+        "track_number": 5,
+        "disc_number": 1,
+        "name": "Football Fight",
+        "duration_ms": 88585,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/42/e7/93/42e79351-2447-da41-e8b3-0c42e98c0e9f/mzaf_15214926991136946987.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/football-fight/1440645420?i=1440645426&uo=4"
+      },
+      {
+        "track_number": 6,
+        "disc_number": 1,
+        "name": "In the Death Cell (Love Theme Reprise)",
+        "duration_ms": 144881,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/12/64/6c/12646c01-40ac-4eea-66af-66a69d0b6f24/mzaf_1851375377234855001.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/in-the-death-cell-love-theme-reprise/1440645420?i=1440645427&uo=4"
+      },
+      {
+        "track_number": 7,
+        "disc_number": 1,
+        "name": "Execution of Flash",
+        "duration_ms": 65647,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/5a/c9/f1/5ac9f1b8-05bc-6cac-c033-11873118efe4/mzaf_478895734902547795.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/execution-of-flash/1440645420?i=1440645428&uo=4"
+      },
+      {
+        "track_number": 8,
+        "disc_number": 1,
+        "name": "The Kiss (Aura Resurrects Flash)",
+        "duration_ms": 104874,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/bf/11/b3/bf11b34b-8327-9be5-c5af-b0e1e6eec31f/mzaf_567797628168670650.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/the-kiss-aura-resurrects-flash/1440645420?i=1440645430&uo=4"
+      },
+      {
+        "track_number": 9,
+        "disc_number": 1,
+        "name": "Arboria (Planet of the Tree Men)",
+        "duration_ms": 101337,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/92/83/da/9283dacf-b08d-fe06-af12-16465f5db33a/mzaf_7788518584648936183.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/arboria-planet-of-the-tree-men/1440645420?i=1440645611&uo=4"
+      },
+      {
+        "track_number": 10,
+        "disc_number": 1,
+        "name": "Escape from the Swamp",
+        "duration_ms": 103050,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/cd/70/09/cd7009cd-70ca-03d9-5306-803a0f5cdd02/mzaf_10408538595902084254.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/escape-from-the-swamp/1440645420?i=1440645614&uo=4"
+      },
+      {
+        "track_number": 11,
+        "disc_number": 1,
+        "name": "Flash to the Rescue",
+        "duration_ms": 163467,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/40/e9/46/40e946ac-7f3a-9374-67dc-5ca1a7f55ba2/mzaf_166507756122162026.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/flash-to-the-rescue/1440645420?i=1440645615&uo=4"
+      },
+      {
+        "track_number": 12,
+        "disc_number": 1,
+        "name": "Vultan's Theme (Attack of the Hawk Men)",
+        "duration_ms": 72907,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/f6/95/aa/f695aadb-4a1a-698a-c0c5-afa119936260/mzaf_14978698260219960269.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/vultans-theme-attack-of-the-hawk-men/1440645420?i=1440645616&uo=4"
+      },
+      {
+        "track_number": 13,
+        "disc_number": 1,
+        "name": "Battle Theme",
+        "duration_ms": 138307,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/ab/82/4b/ab824b0e-ace2-9ee4-ebdd-b3d356578133/mzaf_12630470172308347725.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/battle-theme/1440645420?i=1440645623&uo=4"
+      },
+      {
+        "track_number": 14,
+        "disc_number": 1,
+        "name": "The Wedding March",
+        "duration_ms": 55997,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/6e/00/f0/6e00f0a0-9ce4-01cf-4b44-469de417fb5e/mzaf_3358422826128685097.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/the-wedding-march/1440645420?i=1440645625&uo=4"
+      },
+      {
+        "track_number": 15,
+        "disc_number": 1,
+        "name": "Marriage of Dale and Ming (And Flash Approaching)",
+        "duration_ms": 124283,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/eb/74/ff/eb74ffea-589c-9e92-a683-b248d6b66111/mzaf_8904522050721016218.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/marriage-of-dale-and-ming-and-flash-approaching/1440645420?i=1440645626&uo=4"
+      },
+      {
+        "track_number": 16,
+        "disc_number": 1,
+        "name": "Crash Dive On Mingo City",
+        "duration_ms": 60652,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/4f/c2/45/4fc2453d-42fd-0188-e76b-0204c8d79595/mzaf_10356872197187493168.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/crash-dive-on-mingo-city/1440645420?i=1440645627&uo=4"
+      },
+      {
+        "track_number": 17,
+        "disc_number": 1,
+        "name": "Flash's Theme Reprise",
+        "duration_ms": 83575,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/3e/8c/fb/3e8cfbea-6966-bcd7-e716-24d3d6427274/mzaf_4971070072786422714.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/flashs-theme-reprise/1440645420?i=1440645628&uo=4"
+      },
+      {
+        "track_number": 18,
+        "disc_number": 1,
+        "name": "The Hero",
+        "duration_ms": 211368,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/1f/47/cc/1f47cc55-1cac-f088-dcb0-f7760caccca0/mzaf_15539860285513481270.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/the-hero/1440645420?i=1440645630&uo=4"
+      },
+      {
+        "track_number": 1,
+        "disc_number": 2,
+        "name": "Flash",
+        "duration_ms": 169131,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/bb/36/f4/bb36f498-abfb-bc44-653e-be5abf90c3f9/mzaf_16618537378237166795.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/flash/1440645420?i=1440645631&uo=4"
+      },
+      {
+        "track_number": 2,
+        "disc_number": 2,
+        "name": "The Hero (October 1980... Revisited)",
+        "duration_ms": 177394,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/cb/a0/4c/cba04c38-3b78-343b-1e1f-13f7a3401a98/mzaf_185556330949058430.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/the-hero-october-1980-revisited/1440645420?i=1440645635&uo=4"
+      },
+      {
+        "track_number": 3,
+        "disc_number": 2,
+        "name": "The Kiss (Early Version, March 1980)",
+        "duration_ms": 72203,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/10/86/a9/1086a91e-54b1-4a82-add0-78fe3455cc14/mzaf_16353494244622023914.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/the-kiss-early-version-march-1980/1440645420?i=1440645639&uo=4"
+      },
+      {
+        "track_number": 4,
+        "disc_number": 2,
+        "name": "Football Fight (Early Version, No Synths! February 1980)",
+        "duration_ms": 116466,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/59/4c/73/594c7326-3359-375f-1a55-76d4b351e95b/mzaf_15624642778610394235.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/football-fight-early-version-no-synths-february-1980/1440645420?i=1440645822&uo=4"
+      },
+      {
+        "track_number": 5,
+        "disc_number": 2,
+        "name": "Flash (Live In Montreal, November 1981)",
+        "duration_ms": 132059,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/1e/19/c6/1e19c665-4a8f-7a32-445e-ff207f8a22f0/mzaf_1531048509167499961.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/flash-live-in-montreal-november-1981/1440645420?i=1440645825&uo=4"
+      },
+      {
+        "track_number": 6,
+        "disc_number": 2,
+        "name": "The Hero (Live In Montreal, November 1981)",
+        "duration_ms": 106279,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/97/aa/5b/97aa5b82-46c6-8094-ece2-10d3a2be0304/mzaf_7633738516071388923.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/the-hero-live-in-montreal-november-1981/1440645420?i=1440645826&uo=4"
+      }
+    ]
+  },
+  "discrepancies": [
+    "Track count differs: Discogs=18, Apple Music=24"
+  ],
+  "local_cover": "images/6188464.jpg"
+}

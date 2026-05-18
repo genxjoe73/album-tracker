@@ -1,0 +1,951 @@
+{
+  "captured_at": "2026-05-17T23:00:08+00:00",
+  "schema_version": 3,
+  "artist": "Led Zeppelin",
+  "title": "Physical Graffiti",
+  "original_release_year": 1975,
+  "pressing_year": 1975,
+  "upgrade_suggestion": "This original Sterling Sound pressing is the authentic artifact. The 2015 Jimmy Page remaster (8122796578) is the best modern reissue. Mobile Fidelity MFSL 2-201 (1982) is the audiophile half-speed master on 200-gram vinyl.",
+  "commentary": "**Physical Graffiti** is Led Zeppelin's sixth studio album, released in February 1975 as a double LP on their own Swan Song Records label \u2014 the first release on the label they co-founded with Atlantic Records. At nearly 83 minutes across four sides, it is the band's most expansive and arguably most ambitious statement, drawing from sessions spanning 1970 to 1974 and covering an extraordinary range of styles: hard rock (\"Custard Pie,\" \"The Wanton Song\"), acoustic folk (\"Bron-Y-Aur,\" \"Tangerine\" outtake), Eastern-influenced epic (\"Kashmir\"), blues (\"In My Time of Dying\"), and melodic rock (\"Trampled Under Foot,\" \"Houses of the Holy\"). \"Kashmir\" alone stands as one of the greatest recordings in rock history \u2014 a hypnotic, orchestral-inflected juggernaut that showcases the band at their most cinematic.\n\nThe album debuted at #1 in both the US and UK and arrived at the peak of Led Zeppelin's commercial and creative powers. Its release caused such demand that all previous Zeppelin albums simultaneously re-entered the charts.\n\nThis **1975 original US pressing** on Swan Song Records (catalog **SS 2-200**) was mastered at **Sterling Sound** (matrix prefix ST-SS) with **F.T.** (Fred Twomey, a Sterling engineer) cutting the lacquer, pressed at **Presswell** (PR) in New Jersey. The `GD` marking may identify a quality control inspector or secondary engineer. Sterling Sound masterings of mid-1970s Atlantic/Swan Song releases are consistently warm and dynamic, and this original pressing represents the album as it was first heard by American audiences in 1975.\n\n**About this 1975 US pressing (2\u00d7 Vinyl, LP):** Swan Song Records catalog **SS 2-200**, original 1975 US pressing. Double LP. Mastered at Sterling Sound (ST-SS), cut by F.T. (Fred Twomey), pressed at Presswell (PR). Matrix ST-SS-753310-E.\n",
+  "discogs": {
+    "release_id": 2359892,
+    "master_id": 4392,
+    "uri": "https://www.discogs.com/release/2359892-Led-Zeppelin-Physical-Graffiti",
+    "title": "Physical Graffiti",
+    "artists": [
+      {
+        "name": "Led Zeppelin",
+        "id": 34278,
+        "role": null
+      }
+    ],
+    "year": 1975,
+    "released": "1975-02-24",
+    "country": "US",
+    "labels": [
+      {
+        "name": "Swan Song",
+        "catno": "SS 2-200",
+        "id": 34571
+      }
+    ],
+    "formats": [
+      {
+        "name": "Vinyl",
+        "qty": "2",
+        "descriptions": [
+          "LP",
+          "Album"
+        ],
+        "text": "Presswell (PR) Pressing"
+      }
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Hard Rock",
+      "Blues Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Custard Pie",
+        "duration": "4:20",
+        "type": "track"
+      },
+      {
+        "position": "A2",
+        "title": "The Rover",
+        "duration": "5:44",
+        "type": "track"
+      },
+      {
+        "position": "A3",
+        "title": "In My Time Of Dying",
+        "duration": "11:08",
+        "type": "track"
+      },
+      {
+        "position": "B1",
+        "title": "Houses Of The Holy",
+        "duration": "4:01",
+        "type": "track"
+      },
+      {
+        "position": "B2",
+        "title": "Trampled Under Foot",
+        "duration": "5:38",
+        "type": "track"
+      },
+      {
+        "position": "B3",
+        "title": "Kashmir",
+        "duration": "9:41",
+        "type": "track"
+      },
+      {
+        "position": "C1",
+        "title": "In The Light",
+        "duration": "8:46",
+        "type": "track"
+      },
+      {
+        "position": "C2",
+        "title": "Bron-Yr-Aur",
+        "duration": "2:07",
+        "type": "track"
+      },
+      {
+        "position": "C3",
+        "title": "Down By The Seaside",
+        "duration": "5:15",
+        "type": "track"
+      },
+      {
+        "position": "C4",
+        "title": "Ten Years Gone",
+        "duration": "6:55",
+        "type": "track"
+      },
+      {
+        "position": "D1",
+        "title": "Night Flight",
+        "duration": "3:37",
+        "type": "track"
+      },
+      {
+        "position": "D2",
+        "title": "The Wanton Song",
+        "duration": "4:10",
+        "type": "track"
+      },
+      {
+        "position": "D3",
+        "title": "Boogie With Stu",
+        "duration": "3:45",
+        "type": "track"
+      },
+      {
+        "position": "D4",
+        "title": "Black Country Woman",
+        "duration": "4:30",
+        "type": "track"
+      },
+      {
+        "position": "D5",
+        "title": "Sick Again",
+        "duration": "4:40",
+        "type": "track"
+      }
+    ],
+    "extraartists": [
+      {
+        "name": "Maurice Tate",
+        "role": "Artwork [Tinting Extraordinaire]",
+        "id": 1834086
+      },
+      {
+        "name": "AGI (4)",
+        "role": "Design Concept [Package Concept], Design",
+        "id": 1905531
+      },
+      {
+        "name": "Mike Doud (2)",
+        "role": "Design Concept [Package Concept], Design",
+        "id": 1828051
+      },
+      {
+        "name": "Peter Corriston",
+        "role": "Design Concept [Package Concept], Design",
+        "id": 1839415
+      },
+      {
+        "name": "Peter Grant",
+        "role": "Executive-Producer",
+        "id": 259439
+      },
+      {
+        "name": "David Heffernan",
+        "role": "Illustration [Window Illustration]",
+        "id": 1983301
+      },
+      {
+        "name": "Frank Tabino",
+        "role": "Lacquer Cut By",
+        "id": 1336057
+      },
+      {
+        "name": "George Piros",
+        "role": "Lacquer Cut By",
+        "id": 379890
+      },
+      {
+        "name": "BP Fallon",
+        "role": "Photography By",
+        "id": 1653255
+      },
+      {
+        "name": "Elliott Erwitt",
+        "role": "Photography By",
+        "id": 2384324
+      },
+      {
+        "name": "Roy Harper",
+        "role": "Photography By",
+        "id": 252756
+      },
+      {
+        "name": "Jimmy Page",
+        "role": "Producer",
+        "id": 180585
+      }
+    ],
+    "identifiers": [
+      {
+        "type": "Rights Society",
+        "value": "ASCAP",
+        "description": null
+      },
+      {
+        "type": "Price Code",
+        "value": "1198",
+        "description": "Printed on spine"
+      },
+      {
+        "type": "Other",
+        "value": "SS 2-200A",
+        "description": "Cat# on inner sleeve 1"
+      },
+      {
+        "type": "Other",
+        "value": "SS 2-200B",
+        "description": "Cat# on inner sleeve 2"
+      },
+      {
+        "type": "Pressing Plant ID",
+        "value": "PR",
+        "description": "In runout and label matrix"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "(ST-SS-753309 PR)",
+        "description": "Label side A"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "(ST-SS-753310 PR)",
+        "description": "Label side B"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "(ST-SS-753311 PR)",
+        "description": "Label side C"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "(ST-SS-753312 PR)",
+        "description": "Label side D"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST-SS-753309-D",
+        "description": "Side A, hand-etched runout - variant 1"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST-SS-753310-E",
+        "description": "Side B, hand-etched runout - variant 1"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST-SS-753311-D",
+        "description": "Side C, hand-etched runout - variant 1"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST-SS-753312B",
+        "description": "Side D, hand-etched runout - variant 1"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST-SS-753309-D AT F.T. PR",
+        "description": "Side A, hand-etched runout - variant 2"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST-SS-753310-C AT F.T. PR",
+        "description": "Side B, hand-etched runout - variant 2"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST-SS-753311-D AT PR F.T.",
+        "description": "Side C, hand-etched runout - variant 2"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST-SS-753312 E AT-GP PR",
+        "description": "Side D, hand-etched runout - variant 2"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST-SS-753309-B AT PR",
+        "description": "Side A, hand-etched runout - variant 3"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST-SS-753310-B AT PR F.T.",
+        "description": "Side B, hand-etched runout - variant 3"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST-SS-753311-B AT F.T. PR",
+        "description": "Side C, hand-etched runout - variant 3"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST-SS-753312-B PR",
+        "description": "Side D, hand-etched runout - variant 3"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST-SS-753309-C PR AT",
+        "description": "Side A, hand-etched runout - variant 4"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST-SS-753310-D AT F.T. PR",
+        "description": "Side B, hand-etched runout - variant 4"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST-SS-753311-F AT F.T. PR",
+        "description": "Side C, hand-etched runout - variant 4"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST-SS-753312 E AT-GP PR",
+        "description": "Side D, hand-etched runout - variant 4"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST-SS-753309-B AT PR  139-44",
+        "description": "Side A, hand-etched runout - variant 5"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST-SS-753310-B AT PR F.T.   139-44",
+        "description": "Side B, hand-etched runout - variant 5"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST-SS-753311C PR   139-44",
+        "description": "Side C, hand-etched runout - variant 5"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST-SS-753312-D AT SD   139-44  PR",
+        "description": "Side D, hand-etched runout - variant 5"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST-SS-753310-D FT PR",
+        "description": "Side B, hand-etched runout - variant 6"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST-SS-753311-E",
+        "description": "Side C, hand-etched runout - variant 6"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST-SS-753312-D HT SD PR",
+        "description": "Side D, hand-etched runout - variant 6"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST-SS-753309-D AT F.T. PR",
+        "description": "Side A, hand-etched runout - variant 7"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST-SS-753310-F AT GP PR",
+        "description": "Side B, hand-etched runout - variant 7"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST-SS-753311-B AT F.T. PR",
+        "description": "Side C, hand-etched runout - variant 7"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST-SS-753312-D AT GP PR",
+        "description": "Side D, hand-etched runout - variant 7"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST-SS-753309-E AT F.T. PR",
+        "description": "Side A, hand-etched runout - variant 8"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST-SS-753310-E AT F.T. PR",
+        "description": "Side B, hand-etched runout - variant 8"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST-SS-753311-E HT317 SS-S PR",
+        "description": "Side C, hand-etched runout - variant 8"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST-SS-753312-F HT4? PR",
+        "description": "Side D, hand-etched runout - variant 8"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST-SS-753309-D  0-1  AT  F.T.  SP  PR",
+        "description": "Side A, hand-etched runout - variant 9"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST-SS-753310-D  0-1  AT  F.T.  SP  PR",
+        "description": "Side B, hand-etched runout - variant 9"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST-SS-753311-D  AT  SP  PR  F.T.  0-1  SM-A",
+        "description": "Side C, hand-etched runout - variant 9"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST-SS-753312-D  0-1  SM-2  AT  SP  SP  PR",
+        "description": "Side D, hand-etched runout - variant 9"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "F.T. ST-SS-753309-E  AT  A\u20ebS\u20eb  PR",
+        "description": "Side A, hand-etched runout - variant 10"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST-SS-753310 F  ATGP  PR",
+        "description": "Side B, hand-etched runout - variant 10"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST-SS-753311-F  AT F.T.   A\u20ebS\u20eb  PR",
+        "description": "Side C, hand-etched runout - variant 10"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST-SS-753312 E   AT-GP    A\u20ebS\u20eb  PR",
+        "description": "Side D, hand-etched runout - variant 10"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "AT ST-SS-753309-C PR",
+        "description": "Side A, hand-etched runout - variant 11"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST-SS-753310-E AT F.T. PR",
+        "description": "Side B, hand-etched runout - variant 11"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST-SS-753311-B AT F.T. PR",
+        "description": "Side C, hand-etched runout - variant 11"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST-SS-753312 B PR",
+        "description": "Side D, hand-etched runout - variant 11"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST-SS-753309-B AT PR",
+        "description": "Side A, hand-etched runout - variant 12"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST-SS-753310-D A.T. F.T. PR",
+        "description": "Side B, hand-etched runout - variant 12"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST-SS-753311-E IAT SN SS-S PR",
+        "description": "Side C, hand-etched runout - variant 12"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST-SS-753312 B PR",
+        "description": "Side D, hand-etched runout - variant 12"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST-SS-753309-E AT (PR) P A\u0336.\u0336 S\u0336.  F.T.",
+        "description": "Side A, hand-etched runout - variant 13"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST-SS-753310-D A.T. F.T. (PR) P",
+        "description": "Side B, hand-etched runout - variant 13"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST-SS-753311-E ATGP SS-S (PR) P",
+        "description": "Side C, hand-etched runout - variant 13"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST-SS-753312-D AT GP (PR) P",
+        "description": "Side D, hand-etched runout - variant 13"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "AT ST-SS-753309-C (PR) AT",
+        "description": "Side A, hand-etched runout - variant 14"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST-SS-753310-E AT F.T. (PR)P",
+        "description": "Side B, hand-etched runout - variant 14"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST-SS-753311-E AT GP SS-S (PR)P",
+        "description": "Side C, hand-etched runout - variant 14"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST-SS-753312-D AT GP (PR) P",
+        "description": "Side D, hand-etched runout - variant 14"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST-SS-753309-D  AT F.T. PR",
+        "description": "Side A, hand-etched runout - variant 15"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST-SS-753310-B AT PR F.T",
+        "description": "Side B, hand-etched runout - variant 15"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST-SS-753311-E AT GP SS-S PR",
+        "description": "Side C, hand-etched runout - variant 15"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST-SS-753312-B PR",
+        "description": "Side D, hand-etched runout - variant 15"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST-SS-753309-D AT PR F.T.",
+        "description": "Side A, hand-etched runout - variant 16"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST-SS-753310-B AT F.T. PR",
+        "description": "Side B, hand-etched runout - variant 16"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST-SS-753311-B AT F.T. PR",
+        "description": "Side C, hand-etched runout - variant 16"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST-SS-753312-D AT GP PR",
+        "description": "Side D, hand-etched runout - variant 16"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST-SS-753309-E AT PR F.T.",
+        "description": "Side A, hand-etched runout - variant 17"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST-SS-753310-D A.T. F.T. PR",
+        "description": "Side B, hand-etched runout - variant 17"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST-SS-753311 C PR",
+        "description": "Side C, hand-etched runout - variant 17"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST-SS-753312-D AT SP PR",
+        "description": "Side D, hand-etched runout - variant 17"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST-SS-753309-C PR AT",
+        "description": "Side A, hand-etched runout - variant 18"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST-SS-753310-C AT F.T. PR",
+        "description": "Side B, hand-etched runout - variant 18"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST-SS-753311-F AT F.T. PR",
+        "description": "Side C, hand-etched runout - variant 18"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST-SS-753312-E AT GP PR",
+        "description": "Side D, hand-etched runout - variant 18"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST-SS-753309-C PR AT",
+        "description": "Side A, hand-etched runout - variant 19"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST-SS-753310-B AT PR F.T.",
+        "description": "Side B, hand-etched runout - variant 19"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST-SS-753311-D AT PR F.T.",
+        "description": "Side C, hand-etched runout - variant 19"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST-SS-753312-B PR",
+        "description": "Side D, hand-etched runout - variant 19"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST-SS-753309-E AT PR A\u0336S\u0336 F.T.",
+        "description": "Side A, hand-etched runout - variant 20"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST-SS-753310 F ATGP PR",
+        "description": "Side B, hand-etched runout - variant 20"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST-SS-753311-B AT F.T. PR",
+        "description": "Side C, hand-etched runout - variant 20"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST-SS-753312-E ATGP PR A\u0336S\u0336",
+        "description": "Side D, hand-etched runout - variant 20"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST-SS-753309-E  A-T  F.T.  PR",
+        "description": "Side A, hand-etched runout - variant 21"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST-SS-753310-E  A-T  F.T.  PR",
+        "description": "Side B, hand-etched runout - variant 21"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST-SS-753311-B  A-T  F.T.  PR",
+        "description": "Side C, hand-etched runout - variant 21"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST-SS-753312-B  PR",
+        "description": "Side D, hand-etched runout - variant 21"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST-SS-753309-D AT F.T. PR",
+        "description": "Side A, hand-etched runout - variant 22"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST-SS-753310-C AT F.T. PR",
+        "description": "Side B, hand-etched runout - variant 22"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST-SS-753311-E AT GP SS-S PR",
+        "description": "Side C, hand-etched runout - variant 22"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST-SS-753312-B PR",
+        "description": "Side D, hand-etched runout - variant 22"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST-SS-753309-D  AT F.T. (PR)P",
+        "description": "Side A, hand-etched runout - variant 23"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST-SS-753310-E  AT F.T. PR",
+        "description": "Side B, hand-etched runout - variant 23"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST-SS-753311-F  AT F.T. (PR)P",
+        "description": "Side C, hand-etched runout - variant 23"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST-SS-753312 E  ATGP   PRP",
+        "description": "Side D, hand-etched runout - variant 23"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST-SS-753309-E  AT PR F.T. ",
+        "description": "Side A, hand-etched runout - variant 24"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST-SS-753310-D  AT F.T. PR",
+        "description": "Side B, hand-etched runout - variant 24"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST-SS-753311-E AT GP SS-5 PR",
+        "description": "Side C, hand-etched runout - variant 24"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST-SS-753312-D AT GP PR",
+        "description": "Side D, hand-etched runout - variant 24"
+      }
+    ],
+    "notes": "Issued in die-cut cover (top opening) with folded insert and printed inner sleeves.\nSome copies come with a promo sticker \"Promotional Copy NOT FOR SALE\" and a black sticker with list of songs on front cover (see pic).\nThere is not evidence to exist an \"A\" matrix for this US pressing, the older one is identified by the letter \"B\", as the variant 3 here below.\n\nDistributed by Atlantic Recording Corporation/75 Rockefeller Plaza, New York, New York 10019/\n\u2117 \u00a9 1975 Atlantic Recording Corporation/Printed in U.S.A.\n\nAll songs published by Joaneline Music, Inc., ASCAP\n\n\u2117 1975 Atlantic\nDist. by Atlantic Recording Corp.\n\nRecording locations:\nA1: Track at Headley Grange with Ronnie Lane's Mobile Studio/Overdubs & Mixdown at Olympic Studios\nA2: Track at Stargroves with The Rolling Stones Mobile Studio/Overdubs & Mixdown at Olympic Studios\nA3: Track at Headley Grange with Ronnie Lane's Mobile Studio/Mixdown at Olympic Studios\nB1: Track & Overdubs at Olympic Studios/Mixdown at Electric Ladyland\nB2: Track at Headley Grange with Ronnie Lane's Mobile Studio/Overdubs & Mixdown at Olympic Studios\nB3: Track at Headley Grange with Ronnie Lane's Mobile Studio/Overdubs & Mixdown at Olympic Studios\nC1: Track at Headley Grange with Ronnie Lane's Mobile Studio/Overdubs & Mixdown at Olympic Studios\nC2: Track at Island Studios/Mixdown at Olympic Studios\nC3: Track & Overdubs at Island Studios/Mixdown at Olympic Studios\nC4: Track at Headley Grange with Ronnie Lane's Mobile Studio/Overdubs & Mixdown at Olympic Studios\nD1: Track at Headley Grange with The Rolling Stones Mobile Studio/Overdubs at Island Studios/Mixdown at Olympic Studios\nD2: Track at Headley Grange with Ronnie Lane's Mobile Studio/Overdubs & Mixdown at Olympic Studios\nD3: Track at Headley Grange with The Rolling Stones Mobile Studio/Mixdown at Olympic Studios\nD4: Track at Stargroves, in the garden with The Rolling Stones Mobile Studio/Mixdown at Olympic Studios\nD5: Track at Headley Grange with Ronnie Lane's Mobile Studio/Overdubs & Mixdown at Olympic Studios",
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/JPch2NDzGa6Vh8cm_aJ2E3uA7D0ZDgvt_aA7wRN3n2s/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTk4/OTItMTM4OTQ4MDM1/Ni03Nzk3LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/QXdebCwvJ0sey-ufafcHbE8WkKvMogd1IElpszF5sMI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTk4/OTItMTM4OTQ4MDM1/Ni03Nzk3LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/u8UvkitTSVeIkLdkjJ_MeNxB4iL4AI_qod4g5BUBlBo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTk4/OTItMTM4OTQ4MDM2/Mi04MzIzLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/rpWs0sNPSpmuQkLxT8k_bllh6rhsikwgjjoKYnYPOiM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTk4/OTItMTM4OTQ4MDM2/Mi04MzIzLmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/1YHWgxP3ggJsb5GMR2Yd-npIe3dhAfaECy1u40GQ52A/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTk4/OTItMTM4OTQ4MDM2/Ni03MzA3LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/q-bNevatd7W-l6EBrT2MayLBpcwnJcp51dl4k2UxMZE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTk4/OTItMTM4OTQ4MDM2/Ni03MzA3LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/ndNXHNAJyzBBeFg0bLlZAi6wMlHMlTtTkeO5h4Rt0dg/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTk4/OTItMTM4OTQ4MDM3/Mi00NzEwLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/r1G06mXpzsIBxtO8yJjJdFt5g1A4DxZw5P9JQkot3aM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTk4/OTItMTM4OTQ4MDM3/Mi00NzEwLmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/cfgB5FIjBhbVyqlt2njvDJA668hrHnW3zyggCb-In78/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTk4/OTItMTM4OTQ4MDM3/OC02MzY1LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/-S75yFYaFZVM_iBdw8qa55FeT9xYND5FI7QG5RW9p4o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTk4/OTItMTM4OTQ4MDM3/OC02MzY1LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/A7yAgok1dAZySqvNnXN_4W2FiOYnEbu8vNJDTZT63K0/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTk4/OTItMTM4OTQ4MDM4/NS0zMzIyLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/xQNe5YJ44G0kgJ5bN-waF2RqEm-sB_qQMtDRcaHRmE0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTk4/OTItMTM4OTQ4MDM4/NS0zMzIyLmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/BlM8sSYzLkdPcageRpMIVhBqS8QVP0PdvMvHFtB2oGY/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTk4/OTItMTM4OTQ4MDM5/Mi03MzE1LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/KWVi4nIz7MbIIgD6AkbMCMGrTq4mPWfSPVICuvuYvic/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTk4/OTItMTM4OTQ4MDM5/Mi03MzE1LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/SMuQN7JuciyGZ4LEpNjdTBZtOHR-be-37f_7g9s_ddY/rs:fit/g:sm/q:90/h:600/w:587/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTk4/OTItMTM4OTQ4MDQw/Mi00Mjc2LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/dKQ70uSxPewHsNorGoZSNQMEcuu3vsLahaSkaxEp8w4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTk4/OTItMTM4OTQ4MDQw/Mi00Mjc2LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/BPhROhARUofqpEYtGoX2rrV4HVAYhykcvFFp_s5h6AU/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTk4/OTItMTM4OTQ4MDQx/MC0xNTA1LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/iLET9PTb5gaA_ERHUfSRxgFvZxEKUfXqvEeVTN5t1hY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTk4/OTItMTM4OTQ4MDQx/MC0xNTA1LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/aQ21JC5Pgbiqjk-LrBJVN8voxviHhi2YCyxDMja24bA/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTk4/OTItMTM4OTQ4MDQx/Ny0xNjI5LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/3lKdvB-Dtg1whPuEGrxcdTxuPEXj9bIWkkxRrUzudOA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTk4/OTItMTM4OTQ4MDQx/Ny0xNjI5LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/zGFW4LI_dcqAKzXFGT7e8rcn3YKbDdNMK4waQoGdk-k/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTk4/OTItMTM4OTQ4MDQy/Ny01MjYzLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/ten82Njx759RACkZnwmYeX5ySSIJhHISrv0M_qFc0PU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTk4/OTItMTM4OTQ4MDQy/Ny01MjYzLmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/X2YwMOHB4Scdo-y492wxxsoFddXWS5mKXol4QdOItmk/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTk4/OTItMTM4OTQ4MDQ0/Ny01NDc5LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/G93_D9tzCbkhXV_AkYXehtc5PS6Kpx-ooV618AChwWI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTk4/OTItMTM4OTQ4MDQ0/Ny01NDc5LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/lp3aeUg1RiRvJASP3Ys9nskxxi96rFUz4jljDtdNNVY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTk4/OTItMTQwMzE0ODg3/NS03MzY4LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/BE0RaG1uGisQ9s4w-gwuaxyBOyhQPn7oVQ_toPUJ1F8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTk4/OTItMTQwMzE0ODg3/NS03MzY4LmpwZWc.jpeg"
+      }
+    ],
+    "community": {
+      "rating": {
+        "count": 960,
+        "average": 4.54
+      },
+      "have": 11574,
+      "want": 1956
+    },
+    "master": {
+      "id": 4392,
+      "title": "Physical Graffiti",
+      "main_release": 458939,
+      "year": 1975,
+      "uri": "https://www.discogs.com/master/4392-Led-Zeppelin-Physical-Graffiti",
+      "num_for_sale": 3099
+    }
+  },
+  "apple_music": {
+    "id": 580707980,
+    "url": "https://music.apple.com/us/album/physical-graffiti-remastered/580707980?uo=4",
+    "name": "Physical Graffiti (Remastered)",
+    "artist": "Led Zeppelin",
+    "artist_id": 994656,
+    "artwork_url_100": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/82/6c/5d/826c5d66-67b7-62f2-4d78-dd3c7b415e08/dj.pifhrvpa.jpg/100x100bb.jpg",
+    "artwork_url_600": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/82/6c/5d/826c5d66-67b7-62f2-4d78-dd3c7b415e08/dj.pifhrvpa.jpg/600x600bb.jpg",
+    "release_date": "1975-02-24T07:00:00Z",
+    "track_count": 15,
+    "copyright": "\u2117 1975 Atlantic Recording Corporation, a Warner Music Group Company. Marketed by Rhino Entertainment Company, a Warner Music Group Company.",
+    "primary_genre": "Rock",
+    "country": "USA",
+    "tracks": [
+      {
+        "track_number": 1,
+        "disc_number": 1,
+        "name": "Custard Pie",
+        "duration_ms": 255702,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/b0/66/69/b0666973-3ffe-3dc8-8c58-863fc81e5dcc/mzaf_16211959180578117781.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/custard-pie/580707980?i=580708054&uo=4"
+      },
+      {
+        "track_number": 2,
+        "disc_number": 1,
+        "name": "The Rover",
+        "duration_ms": 339475,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/40/47/2c/40472c5b-cc0a-c806-5e1d-77bf5da00395/mzaf_17002765828457996942.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/the-rover/580707980?i=580708055&uo=4"
+      },
+      {
+        "track_number": 3,
+        "disc_number": 1,
+        "name": "In My Time of Dying",
+        "duration_ms": 668440,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/e1/df/78/e1df7873-c751-5e6a-9ab5-11e52bedad08/mzaf_10261559357982775525.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/in-my-time-of-dying/580707980?i=580708056&uo=4"
+      },
+      {
+        "track_number": 4,
+        "disc_number": 1,
+        "name": "Houses of the Holy",
+        "duration_ms": 244686,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/0c/1d/df/0c1ddfd2-26ce-fac1-588d-469b92c6a6d3/mzaf_317165064203611330.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/houses-of-the-holy/580707980?i=580708057&uo=4"
+      },
+      {
+        "track_number": 5,
+        "disc_number": 1,
+        "name": "Trampled Under Foot",
+        "duration_ms": 336836,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/9f/93/9e/9f939eb3-f910-d1a3-5a29-3b5af780ce19/mzaf_2792760748078247614.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/trampled-under-foot/580707980?i=580708058&uo=4"
+      },
+      {
+        "track_number": 6,
+        "disc_number": 1,
+        "name": "Kashmir",
+        "duration_ms": 517125,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/39/8d/72/398d72a2-27ec-0442-a70e-ac8822106547/mzaf_2471857891715249188.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/kashmir/580707980?i=580708059&uo=4"
+      },
+      {
+        "track_number": 7,
+        "disc_number": 1,
+        "name": "In the Light",
+        "duration_ms": 527947,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/ae/95/6e/ae956e72-b9ef-4b0e-9a53-b9e48139ecf7/mzaf_6906291079539652203.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/in-the-light/580707980?i=580708060&uo=4"
+      },
+      {
+        "track_number": 8,
+        "disc_number": 1,
+        "name": "Bron-Yr-Aur",
+        "duration_ms": 126560,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/e1/5e/c7/e15ec7ad-5f94-f75b-c7ef-b8916c9dc75f/mzaf_2335856254315255262.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/bron-yr-aur/580707980?i=580708061&uo=4"
+      },
+      {
+        "track_number": 9,
+        "disc_number": 1,
+        "name": "Down By the Seaside",
+        "duration_ms": 315507,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/a2/1d/90/a21d9033-259e-690d-b887-e1e0839fcfc2/mzaf_552562555563590.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/down-by-the-seaside/580707980?i=580708062&uo=4"
+      },
+      {
+        "track_number": 10,
+        "disc_number": 1,
+        "name": "Ten Years Gone",
+        "duration_ms": 394920,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/4a/48/2c/4a482cea-c63d-9d77-5071-95f25ea292cd/mzaf_11324298885015518266.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/ten-years-gone/580707980?i=580708063&uo=4"
+      },
+      {
+        "track_number": 11,
+        "disc_number": 1,
+        "name": "Night Flight",
+        "duration_ms": 218254,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/24/da/0e/24da0e1e-3cad-7f53-05de-b1e083fe5ef3/mzaf_5469154199353614053.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/night-flight/580707980?i=580708064&uo=4"
+      },
+      {
+        "track_number": 12,
+        "disc_number": 1,
+        "name": "The Wanton Song",
+        "duration_ms": 248720,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/a4/80/c5/a480c522-1807-7297-5b5e-6951c27ff42f/mzaf_9698155894415239875.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/the-wanton-song/580707980?i=580708065&uo=4"
+      },
+      {
+        "track_number": 13,
+        "disc_number": 1,
+        "name": "Boogie With Stu",
+        "duration_ms": 232731,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/56/ec/d8/56ecd8e4-4384-6a97-8b54-76e5453fed77/mzaf_666398451011129724.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/boogie-with-stu/580707980?i=580708066&uo=4"
+      },
+      {
+        "track_number": 14,
+        "disc_number": 1,
+        "name": "Black Country Woman",
+        "duration_ms": 264630,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/04/d4/0b/04d40b33-afda-02cf-e1bb-2884f1b1ceae/mzaf_4823757486995419777.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/black-country-woman/580707980?i=580708067&uo=4"
+      },
+      {
+        "track_number": 15,
+        "disc_number": 1,
+        "name": "Sick Again",
+        "duration_ms": 282320,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/ba/57/36/ba5736ab-c6b5-e1b4-9e8b-dcbd42166986/mzaf_13474984747868287895.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/sick-again/580707980?i=580708068&uo=4"
+      }
+    ]
+  },
+  "discrepancies": [
+    "Total runtime differs by 92s (Discogs=5057s, Apple Music=4965s) \u2014 likely a different master/remaster."
+  ],
+  "local_cover": "images/2359892.jpg"
+}

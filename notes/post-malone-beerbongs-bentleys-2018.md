@@ -1,0 +1,7 @@
+**beerbongs & bentleys** is Post Malone's second studio album, released in April 2018 on Republic Records, and the record that cemented him as one of the defining artists of the late 2010s. It debuted at #1 on the Billboard 200, broke the single-day streaming record on Spotify, and produced a remarkable run of hits: "Psycho" (feat. Ty Dolla $ign), "Rockstar" (feat. 21 Savage), "Better Now," "Paranoid," and "Stay." The album showcases Post's genre-fluid approach — rap, melodic pop, rock, and trap blended into a sound that felt genuinely new at the time.
+
+The production is slick and modern, built for streaming but holding up surprisingly well on vinyl — the bass is substantial and Post's melodic sensibility translates to a physical format better than most of his contemporaries. Louis Bell and Frank Dukes handle the bulk of the production, and the sonic palette is consistent even across the album's sprawling 18-track runtime.
+
+The **2018 original pressing** (Republic / UMe catalog **B0028490-01**) was mastered at **Sterling Sound** — the `SS "!"` etching in the Side B runout is the Sterling Sound identifier. Matrix `10-84977 / B002849001 / 176875E1` confirms this original pressing. A well-executed first pressing of a landmark album of its era.
+
+**About this 2018 Europe pressing (2× Vinyl, LP):** Republic / UMe catalog **B0028490-01**, original 2018 pressing. Double LP. Mastered at Sterling Sound (SS). Barcode 602567647577. Matrix 10-84977/B002849001-A 176875E1.

@@ -1,0 +1,379 @@
+{
+  "captured_at": "2026-05-17T23:03:03+00:00",
+  "schema_version": 3,
+  "artist": "Huey Lewis & The News",
+  "title": "Fore!",
+  "original_release_year": 1986,
+  "pressing_year": 1986,
+  "upgrade_suggestion": "This Bob Ludwig Masterdisk pressing is the best available version. No significant audiophile reissue exists for Fore! \u2014 the original Masterdisk pressing is the reference.",
+  "commentary": "**Fore!** is the fourth studio album by Huey Lewis and the News, released in September 1986 on Chrysalis Records, and the commercial peak of the band's career. Coming off the massive success of *Sports* (1983), the band delivered another precision-engineered collection of blue-collar rock and blue-eyed soul, spawning five Top 10 singles \u2014 a feat matched by very few albums of the era. \"Stuck With You,\" \"Hip to Be Square,\" \"Jacob's Ladder,\" \"I Know What I Like,\" and \"Doing It All for My Baby\" dominated radio throughout 1986 and 1987. The album hit #1 on the Billboard 200 and is certified 3\u00d7 platinum.\n\n*Fore!* is quintessential mid-1980s American rock \u2014 polished, hook-driven, and produced with Clearmountain-era precision. Huey Lewis's voice anchors everything with its working-class directness, and the band's tight ensemble playing gives the album a live-band warmth that set it apart from more synthetic contemporaries. \"Hip to Be Square\" has since taken on a second life as a cultural reference point, most memorably in *American Psycho*.\n\nThis **1986 US Club Edition** (Columbia Record Club, catalog **OV 41534**) was pressed for CRC subscribers simultaneously with the commercial retail release. The deadwax `OV-41534-AS RE1-1 G1 RL MASTERDISK` confirms mastering by **Bob Ludwig (RL)** at **Masterdisk** \u2014 one of the great mastering engineers of the era, whose work for Chrysalis in the mid-1980s consistently delivered punchy, dynamic results well-suited to the band's sound.\n\n**About this 1986 US pressing (Vinyl, LP, Club Edition):** Chrysalis / Columbia Record Club catalog **OV 41534**, 1986 CRC Club Edition. Mastered by Bob Ludwig (RL) at Masterdisk. Barcode 04411415341.\n",
+  "discogs": {
+    "release_id": 5910489,
+    "master_id": 115333,
+    "uri": "https://www.discogs.com/release/5910489-Huey-Lewis-And-The-News-Fore",
+    "title": "Fore!",
+    "artists": [
+      {
+        "name": "Huey Lewis & The News",
+        "id": 178572,
+        "role": null
+      }
+    ],
+    "year": 1986,
+    "released": "1986",
+    "country": "US",
+    "labels": [
+      {
+        "name": "Chrysalis",
+        "catno": "OV 41534",
+        "id": 3198
+      }
+    ],
+    "formats": [
+      {
+        "name": "Vinyl",
+        "qty": "1",
+        "descriptions": [
+          "LP",
+          "Album",
+          "Club Edition"
+        ],
+        "text": null
+      }
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Pop Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Jacob's Ladder",
+        "duration": "3:28",
+        "type": "track"
+      },
+      {
+        "position": "A2",
+        "title": "Stuck With You",
+        "duration": "4:28",
+        "type": "track"
+      },
+      {
+        "position": "A3",
+        "title": "Whole Lotta Lovin'",
+        "duration": "3:29",
+        "type": "track"
+      },
+      {
+        "position": "A4",
+        "title": "Doing It All For My Baby",
+        "duration": "3:41",
+        "type": "track"
+      },
+      {
+        "position": "A5",
+        "title": "Hip To Be Square",
+        "duration": "4:03",
+        "type": "track"
+      },
+      {
+        "position": "B1",
+        "title": "I Know What I Like",
+        "duration": "4:00",
+        "type": "track"
+      },
+      {
+        "position": "B2",
+        "title": "I Never Walk Alone",
+        "duration": "3:41",
+        "type": "track"
+      },
+      {
+        "position": "B3",
+        "title": "Forest For The Trees",
+        "duration": "3:21",
+        "type": "track"
+      },
+      {
+        "position": "B4",
+        "title": "Naturally",
+        "duration": "2:53",
+        "type": "track"
+      },
+      {
+        "position": "B5",
+        "title": "Simple As That",
+        "duration": "4:26",
+        "type": "track"
+      }
+    ],
+    "extraartists": [
+      {
+        "name": "Laura Lamar",
+        "role": "Design [Graphics]",
+        "id": 2259655
+      },
+      {
+        "name": "Malcolm Pollack",
+        "role": "Engineer",
+        "id": 380219
+      },
+      {
+        "name": "Phil Kaffel",
+        "role": "Engineer",
+        "id": 156347
+      },
+      {
+        "name": "Jim \"Watts\" Vereecke",
+        "role": "Engineer [Assistant]",
+        "id": 419826
+      },
+      {
+        "name": "Rob Beaton",
+        "role": "Engineer [Assistant]",
+        "id": 270529
+      },
+      {
+        "name": "Bob Ludwig",
+        "role": "Mastered By",
+        "id": 271098
+      },
+      {
+        "name": "Michael Christopher (2)",
+        "role": "Mixed By [Second Engineer]",
+        "id": 398454
+      },
+      {
+        "name": "Bennett Hall",
+        "role": "Photography By [Hand Tinted], Illustration, Art Direction",
+        "id": 2182930
+      },
+      {
+        "name": "Huey Lewis & The News",
+        "role": "Producer",
+        "id": 178572
+      },
+      {
+        "name": "Jim Gaines",
+        "role": "Recorded By",
+        "id": 263000
+      },
+      {
+        "name": "Robert Missbach",
+        "role": "Recorded By, Mixed By",
+        "id": 407455
+      }
+    ],
+    "identifiers": [
+      {
+        "type": "Barcode",
+        "value": "0 4411-41534-1",
+        "description": "Text"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "OV 41534 AS",
+        "description": "Side A Label"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "OV 41534 BS",
+        "description": "Side B Label"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "OV-41534-AS RE1-1 G1 RL C19",
+        "description": "Side A Etched, Variant 1"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "OV-41534-BS-5 G2 F2",
+        "description": "Side B Etched, Variant 1"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "OV-41534-AS RE1-1 G1 RL F14",
+        "description": "Side A Etched, Variant 2"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "OV-41534-BS-5 G2 D3",
+        "description": "Side B Etched, Variant 2"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "MASTERDISK",
+        "description": "Side A & B Stamped"
+      },
+      {
+        "type": "Rights Society",
+        "value": "ASCAP",
+        "description": null
+      },
+      {
+        "type": "Rights Society",
+        "value": "BMI",
+        "description": null
+      }
+    ],
+    "notes": "Thank you to Tamalpais High School for supplying us with the wall for our cover.\r\n\r\nLabel Variation to this release, [r3588647] - no Columbia House under the Cat #.\r\n",
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/Xx9EF2vlSqSQO_j9BnAT80ZHMCV_jXpTbeBjWbSZUp0/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5MTA0/ODktMTQwNjA3ODQw/Ni01NDM5LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/Nxd6Pt_YyVEUrXDvxPDq4QLWLx1iowiYti6TZWu6M_0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5MTA0/ODktMTQwNjA3ODQw/Ni01NDM5LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/hzG_oLHnVEojjX_9xF34jfmNjsRxHHfo70f9MZgsQGc/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5MTA0/ODktMTQwNjA3ODQx/Ni03NDc5LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/hpGF2_Ccqvp30NduV4YjpX02OU0ye9XhaYS4w0njQIo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5MTA0/ODktMTQwNjA3ODQx/Ni03NDc5LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/Un_PZOcJA1ho2Z8iIbfvY_wo2UF15D-3dQ1LaJJKotc/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5MTA0/ODktMTQwNjA3ODQy/Ni02MzU0LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/wohCIwSXaekirNol7LxU-QykZ6qNlkR5DE2aQ91Si84/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5MTA0/ODktMTQwNjA3ODQy/Ni02MzU0LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/CylzKyT9MsqjeLE4qiTzfcEN6jSmi5Fdq5FtBk-CzYQ/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5MTA0/ODktMTQwNjA3ODQz/NS03MzE2LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/p44xX68rFUqN6nxG_vKZwUTmdiHODYrf3pwDB9mxXT0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5MTA0/ODktMTQwNjA3ODQz/NS03MzE2LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/cOXQtxWkEU98C32xC3Y99gSHL7FAo4qj7kA0RC4xrLE/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5MTA0/ODktMTQwNjA3ODQ0/NS0yNTQyLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/qVrzm_KD6cQCVpBUhpHT1Xwn3JQu4sPkLaSIHadVdcw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5MTA0/ODktMTQwNjA3ODQ0/NS0yNTQyLmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/5SXMzTD0QK6vCSSiBLuY1x68qh6kYSOoTMskGxY_Hek/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5MTA0/ODktMTQwNjA3ODQ1/NC0zODc3LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/yGMu35nRn8-1pI8NCFRuXkMwNUjKg4ssbHipTZUICKM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5MTA0/ODktMTQwNjA3ODQ1/NC0zODc3LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/GxhXxfvsk917fCXlzyFM5T9gYvAUdh-dVPBHnPwZU_0/rs:fit/g:sm/q:90/h:461/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5MTA0/ODktMTQwNjA3ODQ2/My01OTY5LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/_J90F_23_BunLXOpM5IWMCaqIaD_KLZl18xSFr1UvK8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5MTA0/ODktMTQwNjA3ODQ2/My01OTY5LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/y7CZgekJ45MLd_4VsOzqhBjdgV1IYoAWlnLbJ4rDL5A/rs:fit/g:sm/q:90/h:198/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5MTA0/ODktMTQwNjA3ODQ3/MS00MzUyLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/M20LJ28jz8G6xNoeR4WOWBHxjJKy33O-hkvaNYJio8U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5MTA0/ODktMTQwNjA3ODQ3/MS00MzUyLmpwZWc.jpeg"
+      }
+    ],
+    "community": {
+      "rating": {
+        "count": 37,
+        "average": 4.03
+      },
+      "have": 559,
+      "want": 95
+    },
+    "master": {
+      "id": 115333,
+      "title": "Fore!",
+      "main_release": 911271,
+      "year": 1986,
+      "uri": "https://www.discogs.com/master/115333-Huey-Lewis-And-The-News-Fore",
+      "num_for_sale": 1535
+    }
+  },
+  "apple_music": {
+    "id": 724210803,
+    "url": "https://music.apple.com/us/album/fore/724210803?uo=4",
+    "name": "Fore!",
+    "artist": "Huey Lewis & The News",
+    "artist_id": 13793427,
+    "artwork_url_100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b0/7f/cc/b07fcce9-0d39-9ab0-e1dd-54ffd1642db6/13UABIM36878.rgb.jpg/100x100bb.jpg",
+    "artwork_url_600": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b0/7f/cc/b07fcce9-0d39-9ab0-e1dd-54ffd1642db6/13UABIM36878.rgb.jpg/600x600bb.jpg",
+    "release_date": "1986-08-20T07:00:00Z",
+    "track_count": 10,
+    "copyright": "\u2117 1986 Capitol Records, LLC",
+    "primary_genre": "Rock",
+    "country": "USA",
+    "tracks": [
+      {
+        "track_number": 1,
+        "disc_number": 1,
+        "name": "Jacob's Ladder",
+        "duration_ms": 213760,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/35/0a/43/350a438f-d08a-3c15-dc9b-4f79b1765a53/mzaf_15923432873296021945.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/jacobs-ladder/724210803?i=724210860&uo=4"
+      },
+      {
+        "track_number": 2,
+        "disc_number": 1,
+        "name": "Stuck With You",
+        "duration_ms": 269573,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/70/ac/9f/70ac9fe8-0f52-6993-4794-80e1e4cc2491/mzaf_8782775600441009457.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/stuck-with-you/724210803?i=724210865&uo=4"
+      },
+      {
+        "track_number": 3,
+        "disc_number": 1,
+        "name": "Whole Lotta Lovin'",
+        "duration_ms": 210867,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b6/24/53/b624530f-6f74-b806-b3bc-94734806b6e5/mzaf_13370747367148633651.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/whole-lotta-lovin/724210803?i=724210870&uo=4"
+      },
+      {
+        "track_number": 4,
+        "disc_number": 1,
+        "name": "Doing It All For My Baby",
+        "duration_ms": 219867,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f0/90/44/f0904483-6734-4a97-24f9-1fcdd770840e/mzaf_6969286484556475473.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/doing-it-all-for-my-baby/724210803?i=724210875&uo=4"
+      },
+      {
+        "track_number": 5,
+        "disc_number": 1,
+        "name": "Hip To Be Square",
+        "duration_ms": 245467,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b3/e3/19/b3e319ed-cff5-e46e-e56e-8030cbab8ac3/mzaf_15729093541334802585.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/hip-to-be-square/724210803?i=724210880&uo=4"
+      },
+      {
+        "track_number": 6,
+        "disc_number": 1,
+        "name": "I Know What I Like",
+        "duration_ms": 239600,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/88/32/27/88322768-c48b-be41-a997-389aa74e9c5e/mzaf_14635457979562051890.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/i-know-what-i-like/724210803?i=724211885&uo=4"
+      },
+      {
+        "track_number": 7,
+        "disc_number": 1,
+        "name": "I Never Walk Alone",
+        "duration_ms": 224933,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/3b/c6/af/3bc6afc6-7c79-7d08-2c85-9e707098dac1/mzaf_9351275740949740441.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/i-never-walk-alone/724210803?i=724211894&uo=4"
+      },
+      {
+        "track_number": 8,
+        "disc_number": 1,
+        "name": "Forest For the Trees",
+        "duration_ms": 208200,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/08/ff/92/08ff9269-44d3-8149-589f-d8bd89826330/mzaf_10302046927612937464.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/forest-for-the-trees/724210803?i=724211899&uo=4"
+      },
+      {
+        "track_number": 9,
+        "disc_number": 1,
+        "name": "Naturally",
+        "duration_ms": 173133,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/8b/37/3a/8b373a40-88ef-64cc-fbed-411004cb1587/mzaf_4860293681756251965.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/naturally/724210803?i=724211915&uo=4"
+      },
+      {
+        "track_number": 10,
+        "disc_number": 1,
+        "name": "Simple As That",
+        "duration_ms": 267627,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/83/c6/da/83c6da03-6e97-0b6d-0298-61cad711e8ca/mzaf_14671044501959254655.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/simple-as-that/724210803?i=724212020&uo=4"
+      }
+    ]
+  },
+  "discrepancies": [],
+  "local_cover": "images/5910489.jpg"
+}

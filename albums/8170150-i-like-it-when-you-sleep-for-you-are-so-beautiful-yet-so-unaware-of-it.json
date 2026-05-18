@@ -1,0 +1,351 @@
+{
+  "captured_at": "2026-05-17T23:18:19+00:00",
+  "schema_version": 3,
+  "artist": "The 1975",
+  "title": "I Like It When You Sleep, For You Are So Beautiful Yet So Unaware Of It",
+  "original_release_year": 2016,
+  "pressing_year": 2016,
+  "upgrade_suggestion": "This original Sterling Sound pressing is the definitive version. No significant audiophile reissue exists \u2014 the first pressing is the reference.",
+  "commentary": "**I Like It When You Sleep, for You Are So Beautiful yet So Unaware of It** is The 1975's second studio album, released in February 2016 on Dirty Hit / Interscope Records, and the record that established them as one of the most critically significant British rock bands of their generation. Produced by Matty Healy and George Daniel, it is a sprawling, genre-defiant double album that moves effortlessly between 1980s synth-pop (\"The Sound,\" \"Love Me\"), ambient electronic interludes, jazz-inflected balladry (\"Nana\"), funk (\"UGH!\"), and orchestral pop (\"If I Believe You\"). It debuted at #1 in both the UK and US \u2014 a rare feat for a British rock album \u2014 and won the BRIT Award for Best British Album.\n\nThe album is notable for its ambition and its refusal to be pinned down sonically. Healy's songwriting is self-aware and literary without being pretentious, and the band's production combines genuine sonic adventurousness with pop accessibility in a way that few artists manage. The all-white artwork and visual identity gave the album an instantly distinctive look that became one of the iconic album covers of the decade.\n\nThis **2016 original US pressing** (Dirty Hit / Interscope catalog **B0024452-01**) was mastered at **Sterling Sound** with cutting engineer **RJ** \u2014 Sterling Sound is one of New York's premier mastering facilities. The deadwax message on Side D \u2014 *\"HEY KIDS! WE'RE ALL JUST THE SAME, WHAT A SHAME\"* \u2014 is a classic The 1975 touch, embedding their sardonic wit into the physical artifact itself.\n\n**About this 2016 US pressing (2\u00d7 Vinyl, LP):** Dirty Hit / Interscope catalog **B0024452-01**, original 2016 US pressing. Double LP. Mastered at Sterling Sound (RJ). Barcode 602547716668. Matrix S-96900-RE1 B0024452-01B-RE1 RJ STERLING.\n",
+  "discogs": {
+    "release_id": 8170150,
+    "master_id": 963890,
+    "uri": "https://www.discogs.com/release/8170150-The-1975-I-Like-It-When-You-Sleep-For-You-Are-So-Beautiful-Yet-So-Unaware-Of-It",
+    "title": "I Like It When You Sleep, For You Are So Beautiful Yet So Unaware Of It",
+    "artists": [
+      {
+        "name": "The 1975",
+        "id": 3231113,
+        "role": null
+      }
+    ],
+    "year": 2016,
+    "released": "2016-02-25",
+    "country": "US",
+    "labels": [
+      {
+        "name": "Dirty Hit",
+        "catno": "B0024452-01",
+        "id": 231304
+      },
+      {
+        "name": "Interscope Records",
+        "catno": "B0024452-01",
+        "id": 2311
+      }
+    ],
+    "formats": [
+      {
+        "name": "Vinyl",
+        "qty": "2",
+        "descriptions": [
+          "LP",
+          "Album"
+        ],
+        "text": "Clear, 180 Gram, Rainbo Pressing"
+      }
+    ],
+    "genres": [
+      "Electronic",
+      "Rock",
+      "Pop"
+    ],
+    "styles": [
+      "Alternative Rock",
+      "New Wave",
+      "Synth-pop",
+      "Indie Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "The 1975",
+        "duration": "1:23",
+        "type": "track"
+      },
+      {
+        "position": "A2",
+        "title": "Love Me",
+        "duration": "3:42",
+        "type": "track"
+      },
+      {
+        "position": "A3",
+        "title": "UGH!",
+        "duration": "3:00",
+        "type": "track"
+      },
+      {
+        "position": "A4",
+        "title": "A Change Of Heart",
+        "duration": "4:43",
+        "type": "track"
+      },
+      {
+        "position": "A5",
+        "title": "She's American",
+        "duration": "4:30",
+        "type": "track"
+      },
+      {
+        "position": "B1",
+        "title": "If I Believe You",
+        "duration": "6:20",
+        "type": "track"
+      },
+      {
+        "position": "B2",
+        "title": "Please Be Naked",
+        "duration": "4:25",
+        "type": "track"
+      },
+      {
+        "position": "B3",
+        "title": "Lostmyhead",
+        "duration": "5:19",
+        "type": "track"
+      },
+      {
+        "position": "B4",
+        "title": "The Ballad Of Me And My Brain",
+        "duration": "2:51",
+        "type": "track"
+      },
+      {
+        "position": "C1",
+        "title": "Somebody Else",
+        "duration": "5:47",
+        "type": "track"
+      },
+      {
+        "position": "C2",
+        "title": "Loving Someone",
+        "duration": "4:20",
+        "type": "track"
+      },
+      {
+        "position": "C3",
+        "title": "I Like It When You Sleep, For You Are So Beautiful Yet So Unaware Of It",
+        "duration": "6:26",
+        "type": "track"
+      },
+      {
+        "position": "C4",
+        "title": "The Sound",
+        "duration": "4:08",
+        "type": "track"
+      },
+      {
+        "position": "D1",
+        "title": "This Must Be My Dream",
+        "duration": "4:12",
+        "type": "track"
+      },
+      {
+        "position": "D2",
+        "title": "Paris",
+        "duration": "4:53",
+        "type": "track"
+      },
+      {
+        "position": "D3",
+        "title": "Nana",
+        "duration": "3:58",
+        "type": "track"
+      },
+      {
+        "position": "D4",
+        "title": "She Lays Down",
+        "duration": "3:58",
+        "type": "track"
+      }
+    ],
+    "extraartists": [
+      {
+        "name": "Samuel Burgess-Johnson",
+        "role": "Art Direction, Design, Photography",
+        "id": 4351059
+      },
+      {
+        "name": "Ross MacDonald (2)",
+        "role": "Bass Guitar, Electric Upright Bass",
+        "id": 3480221
+      },
+      {
+        "name": "George Daniel",
+        "role": "Co-producer, Drums, Percussion, Keyboards, Synthesizer, Programmed By",
+        "id": 437154
+      },
+      {
+        "name": "Matthew Healy",
+        "role": "Co-producer, Lyrics By, Vocals, Guitar, Piano, Keyboards, Art Direction",
+        "id": 3480219
+      },
+      {
+        "name": "Mike Crossey",
+        "role": "Co-producer, Mixed By, Programmed By",
+        "id": 329500
+      },
+      {
+        "name": "Jonathan Gilmore",
+        "role": "Engineer, Programmed By",
+        "id": 2449254
+      },
+      {
+        "name": "Adam Hann",
+        "role": "Guitar",
+        "id": 3480220
+      },
+      {
+        "name": "Ray Janos",
+        "role": "Lacquer Cut By",
+        "id": 339229
+      },
+      {
+        "name": "Jamie Oborne",
+        "role": "Management, A&R",
+        "id": 3452470
+      },
+      {
+        "name": "Chris Gehringer",
+        "role": "Mastered By",
+        "id": 326440
+      },
+      {
+        "name": "David Drake",
+        "role": "Photography By",
+        "id": 3452469
+      },
+      {
+        "name": "Edward Emberson",
+        "role": "Photography By",
+        "id": 4908207
+      }
+    ],
+    "identifiers": [
+      {
+        "type": "Barcode",
+        "value": "6 02547 71666 8",
+        "description": "Text"
+      },
+      {
+        "type": "Barcode",
+        "value": "602547716668",
+        "description": "Scanned"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "S-96899 RE-1 B0024452-01A-RE1 RJ STERLING",
+        "description": "Side A runout"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "S-96900-RE1 B0024452-01B-RE1 RJ STERLING",
+        "description": "Side B runout"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "S-96901 RE-1 B0024452-01C-RE1 RJ STERLING",
+        "description": "Side C runout"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "S-96902 RE1 B0024452-01D-RE1 RJ STERLING HEY KIDS! WE'RE ALL JUST THE SAME, WHAT A SHAME",
+        "description": "Side D runout"
+      }
+    ],
+    "notes": "Issued in a gatefold jacket.\n\nNot to be confused with a [url=https://www.discogs.com/release/29491420]later reissue plated by GZ Media[/url].\n\nIn the runouts, STERLING is stamped and the rest is hand-etched.\n\nThe album was recorded & mixed at Ravenscourt Studios, Askew Road, London, UK & The Ranch, Woodland Hills, California, USA between February & November 2015. Gospel Choir thanks to Neilly Dickerson. Strings arranged by Miguel Atwood-Ferguson. This sound recording is owned by Dirty Hit LTD. 2016 Dirty Hit, under exclusive license to Interscope Records, a division of Universal Music Group LTD.",
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/E6vBZF3c5gt-OQkB-kvt3LqvSfDBDBU3ouph9ihvnOk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNzAx/NTAtMTY2NjQ5ODI2/My0xODQ2LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/8vbo8s_EwWMjISe-2918mhoCleW-RTN6wiwAo7tzxTw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNzAx/NTAtMTY2NjQ5ODI2/My0xODQ2LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/lJpAn9w1A4d8XxtwKYKoFhtusdmnKR2lukEgVY2y0ZM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNzAx/NTAtMTQ1Njc5NDYz/MS0yNjg2LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/X3BWfVs4JBqyhJGQjZKqGh146XZkpKgEFbvpS0PtgLc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNzAx/NTAtMTQ1Njc5NDYz/MS0yNjg2LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/HmyO6cCCHiEka-L4h2gDIYN-_gsC4hwAAZPxZEEIKD8/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNzAx/NTAtMTUzOTA5MDIy/My0yMzQ5LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/gnYFjlAuBaVYN9OekHMJOYmKfaGv520SB5rjsUp4js8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNzAx/NTAtMTUzOTA5MDIy/My0yMzQ5LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/imZnwv7prfBVSmWwr2_36TlJfuIbZfYMoKoCYi_MnkY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNzAx/NTAtMTQ1Njc5NDYz/MS0xMDIzLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/9HSEKbPcUWxVGBqm7gB0hFqvfml6VCQiK3tCwMO51sk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNzAx/NTAtMTQ1Njc5NDYz/MS0xMDIzLmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/CGZ5HJrDRpCiUYxdJ288MWAjLz0X9sqEmj1Rm0fBlBU/rs:fit/g:sm/q:90/h:578/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNzAx/NTAtMTY5NjA5NzE2/Ni0xMDQ0LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/qSuwoxOB_Ouh9fd87js4wdZe3-Jl-ko6BBdlKXPpH-I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNzAx/NTAtMTY5NjA5NzE2/Ni0xMDQ0LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/4k_oAKEhDrBsRDFMEPbGQ5vg91ZSlgaikBGc-K03jqQ/rs:fit/g:sm/q:90/h:577/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNzAx/NTAtMTY5NjA5NzE2/OC03MzUzLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/UHN4kynrPej2GtcS3cQuq6G2zsypy54c0Z9a-rz9Mjs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNzAx/NTAtMTY5NjA5NzE2/OC03MzUzLmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/4pLj8No1OsOuHCMJx6N51LUsqEptPkCe_l3fGRf7jV8/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNzAx/NTAtMTY5NjA5NzE3/MS01MzQxLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/7vSjLbj7Yc_VFIj8QCqUeJl03VLYDiLyt2hjHkKkfMQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNzAx/NTAtMTY5NjA5NzE3/MS01MzQxLmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/7CDbdOZCxIjlf2Dk8nvbIulPDEPGrorvQaCYku8B3hY/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNzAx/NTAtMTY5NjA5NzE3/MS0xOTEzLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/4_79KyDP2ONs-kZSBRuEe-0uuUTqzBHxsj_JtuDtcLA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNzAx/NTAtMTY5NjA5NzE3/MS0xOTEzLmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/Y0Xem_Rf7pjgo3tbF3J-zU6jzNzlgB1URAU2vYRDBOQ/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNzAx/NTAtMTY5NjA5NzE3/MS00NDAzLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/MHujRJnz1Qa0I0X8c6kuUiy5PGl5Wq8zlZfoKJTtlMM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNzAx/NTAtMTY5NjA5NzE3/MS00NDAzLmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/-Lw6lM78lDTjg0yneiR60wm_0hzMzwa5GmKT7AXZpXc/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNzAx/NTAtMTY5NjA5NzE3/MS00MDc3LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/XR2sGPBShSuOac6fPIK_naIOG0sE5wqhcFA7bX8VQZk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNzAx/NTAtMTY5NjA5NzE3/MS00MDc3LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/Pxdx6g6uVOYKo17NOa5q4JOse3W-2sLViKr0Y_AMF4k/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNzAx/NTAtMTY5NjA5NzE3/MS01MzY0LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/SmmuS8RdTaNWwXh5ous79EM94r5xewLmE9kuigdmvnc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNzAx/NTAtMTY5NjA5NzE3/MS01MzY0LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/Dh_luiMCh2PK4y6s3Wb4daZngXg93tOnhbzKP8BV_Vo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNzAx/NTAtMTY5NjA5NzE3/MS0xMDMzLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/4j9NdDZuObGhy1Uu8N30F9wmIewuoEuVMuJi947-JzU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNzAx/NTAtMTY5NjA5NzE3/MS0xMDMzLmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/XgMQeq_6jlGyup3QXgsG7RG3DlxVm70O2SeofFn_zAI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNzAx/NTAtMTY5NjA5NzE3/MS02OTg5LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/qzHgugKnqm_e30JRUxXU_3UXYq1-yIf4cxyB-KzkeYo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNzAx/NTAtMTY5NjA5NzE3/MS02OTg5LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/87VZpZZJxvoUFSjTlY8KC5LJW1kF-6-6K6fupF4_CY0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNzAx/NTAtMTY5NjA5NzE3/Mi03MDI5LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/mtU5AiD24NRVzMATJxXyjNg_4XmiHJO9Uv_rUlRvVCQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNzAx/NTAtMTY5NjA5NzE3/Mi03MDI5LmpwZWc.jpeg"
+      }
+    ],
+    "community": {
+      "rating": {
+        "count": 507,
+        "average": 4.59
+      },
+      "have": 10620,
+      "want": 2814
+    },
+    "master": {
+      "id": 963890,
+      "title": "I Like It When You Sleep, For You Are So Beautiful Yet So Unaware Of It",
+      "main_release": 8169887,
+      "year": 2016,
+      "uri": "https://www.discogs.com/master/963890-The-1975-I-Like-It-When-You-Sleep-For-You-Are-So-Beautiful-Yet-So-Unaware-Of-It",
+      "num_for_sale": 414
+    }
+  },
+  "apple_music": null,
+  "discrepancies": [
+    "No Apple Music match found."
+  ]
+}

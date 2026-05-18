@@ -1,0 +1,7 @@
+**Golden Hour** is Kacey Musgraves' third studio album, released in March 2018 on MCA Nashville / Universal Music Group, and one of the most critically acclaimed and commercially successful country-adjacent albums of the decade. Produced by Musgraves, Ian Kirkpatrick, Daniel Tashian, and Ian Fitchuk, it won all four major Grammy Awards at the 2019 ceremony — Album of the Year, Best Country Album, Best Country Song, and Best Country Solo Performance — a sweep that announced Musgraves as one of the defining artists of her generation. The album blends country, pop, folk, and disco influences into something entirely its own: "Slow Burn," "Rainbow," "Happy & Sad," "Butterflies," and "Space Cowboy" are emotionally precise, melodically beautiful, and sonically adventurous in ways that country radio rarely accommodates.
+
+The album was recorded during a period of personal happiness for Musgraves — a deliberate counterpoint to the breakup-and-heartache themes that dominate country music — and that warmth and contentment permeate every track. Its influence on the subsequent generation of country-pop artists has been substantial.
+
+The **2021 US repress** (MCA Nashville / UMe catalog **B0027921-01**) continues the standard pressing of the album on vinyl with matrix codes `10-85244 / B002904501-A 179710E1` identifying standard UMe pressing plant and lacquer specifications.
+
+**About this 2021 US pressing (Vinyl, LP, Reissue, Repress):** MCA Nashville / UMe catalog **B0027921-01**, 2021 repress. Barcode 602567334460. Matrix 10-85244 / B002904501-A 179710E1.

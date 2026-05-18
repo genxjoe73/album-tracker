@@ -1,0 +1,394 @@
+{
+  "captured_at": "2026-05-17T23:54:37+00:00",
+  "schema_version": 3,
+  "artist": "Simon & Garfunkel",
+  "title": "Simon And Garfunkel's Greatest Hits",
+  "original_release_year": 1972,
+  "pressing_year": 2018,
+  "upgrade_suggestion": "A Mobile Fidelity (MOFI) half-speed remaster of Bridge Over Troubled Water exists and is exceptional. No MOFI or audiophile pressing of this specific Greatest Hits compilation has been issued — the 2018 repress is the standard modern option.",
+  "commentary": "Simon & Garfunkel's essential 1972 greatest hits — 'Bridge Over Troubled Water,' 'The Sound of Silence,' 'The Boxer,' 'Mrs. Robinson,' twelve tracks of definitive folk-pop. 2018 Columbia/Legacy reissue (19075817661). Still sealed — pressing plant unknown until opened.",
+  "discogs": {
+    "release_id": 11947207,
+    "master_id": 27798,
+    "uri": "https://www.discogs.com/release/11947207-Simon-And-Garfunkel-Simon-And-Garfunkels-Greatest-Hits",
+    "title": "Simon And Garfunkel's Greatest Hits",
+    "artists": [
+      {
+        "name": "Simon & Garfunkel",
+        "id": 232157,
+        "role": null
+      }
+    ],
+    "year": 2018,
+    "released": "2018-05-04",
+    "country": "USA & Europe",
+    "labels": [
+      {
+        "name": "Legacy",
+        "catno": "19075817661",
+        "id": 15491
+      },
+      {
+        "name": "Columbia",
+        "catno": "KC 31350",
+        "id": 1866
+      }
+    ],
+    "formats": [
+      {
+        "name": "Vinyl",
+        "qty": "1",
+        "descriptions": [
+          "LP",
+          "Compilation",
+          "Reissue"
+        ],
+        "text": null
+      }
+    ],
+    "genres": [
+      "Rock",
+      "Folk, World, & Country"
+    ],
+    "styles": [
+      "Folk Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Mrs. Robinson",
+        "duration": "4:02",
+        "type": "track"
+      },
+      {
+        "position": "A2",
+        "title": "For Emily, Whenever I May Find Her",
+        "duration": "2:04",
+        "type": "track"
+      },
+      {
+        "position": "A3",
+        "title": "The Boxer",
+        "duration": "5:07",
+        "type": "track"
+      },
+      {
+        "position": "A4",
+        "title": "The 59th Street Bridge Song (Feelin' Groovy)",
+        "duration": "1:43",
+        "type": "track"
+      },
+      {
+        "position": "A5",
+        "title": "The Sound Of Silence",
+        "duration": "3:02",
+        "type": "track"
+      },
+      {
+        "position": "A6",
+        "title": "I Am A Rock",
+        "duration": "2:50",
+        "type": "track"
+      },
+      {
+        "position": "A7",
+        "title": "Scarborough Fair/Canticle",
+        "duration": "3:08",
+        "type": "track"
+      },
+      {
+        "position": "B1",
+        "title": "Homeward Bound",
+        "duration": "2:30",
+        "type": "track"
+      },
+      {
+        "position": "B2",
+        "title": "Bridge Over Troubled Water",
+        "duration": "4:52",
+        "type": "track"
+      },
+      {
+        "position": "B3",
+        "title": "America",
+        "duration": "3:34",
+        "type": "track"
+      },
+      {
+        "position": "B4",
+        "title": "Kathy's Song",
+        "duration": "3:16",
+        "type": "track"
+      },
+      {
+        "position": "B5",
+        "title": "El Condor Pasa (If I Could)",
+        "duration": "3:06",
+        "type": "track"
+      },
+      {
+        "position": "B6",
+        "title": "Bookends",
+        "duration": "1:16",
+        "type": "track"
+      },
+      {
+        "position": "B7",
+        "title": "Cecilia",
+        "duration": "2:55",
+        "type": "track"
+      }
+    ],
+    "extraartists": [
+      {
+        "name": "Paul Simon",
+        "role": "Composed By",
+        "id": 106474
+      },
+      {
+        "name": "Robert Weston",
+        "role": "Lacquer Cut By",
+        "id": 252921
+      },
+      {
+        "name": "Bill Silano",
+        "role": "Photography By [Cover]",
+        "id": 2241485
+      },
+      {
+        "name": "Art Garfunkel",
+        "role": "Producer",
+        "id": 253432
+      },
+      {
+        "name": "Paul Simon",
+        "role": "Producer",
+        "id": 106474
+      },
+      {
+        "name": "Roy Halee",
+        "role": "Producer",
+        "id": 253430
+      }
+    ],
+    "identifiers": [
+      {
+        "type": "Barcode",
+        "value": "190758176611",
+        "description": null
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "19075817661A",
+        "description": "Side A label"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "19075817661B",
+        "description": "Side B label"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "19075817661 / MRP1194 - A [CMS logo] BW180221 A1",
+        "description": "Side A runout etched, variant 1"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "19075817661 / MRP 1194 - B [CMS logo] BW180221 B2",
+        "description": "Side B runout etched, variant 1"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "19075817661 / MRP1194 - A [CMS logo] BW180221 A15",
+        "description": "Side A runout etched, variant 2"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "19075817661 / MRP1194 - B [CMS logo] BW180221 B15",
+        "description": "Side B runout etched, variant 2"
+      }
+    ],
+    "notes": "Includes Download Code Insert\n\nLacquer cut on February 21, 2018.",
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/DQx9e-c-VzQoPBiRg-BieGyd2MyhNqptLstY-G_DPkI/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTQ3/MjA3LTE1Mjc1MTA5/NTMtODY3NC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/MEpku_lFbmrFz11EXYPU5TEOAXHDEW-iBFMfp4kVS9Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTQ3/MjA3LTE1Mjc1MTA5/NTMtODY3NC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/-G1B8ijqfVEKoUz1mOSPq_iMvGH2cQ7QnHVeHtrDDDc/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTQ3/MjA3LTE1ODY5NjE0/NDEtMzg2Ni5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/mBIel6vNJc8Thkp06E1i_nDWXRR9B3MXtNZEnMPH2L0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTQ3/MjA3LTE1ODY5NjE0/NDEtMzg2Ni5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/LRdD0d1su5B5H5ifEqc1uVYHRTe61ilY5yP736m1Ibo/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTQ3/MjA3LTE1ODY5NjE0/NDEtMTI5Ny5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/Kg_PMUqDS2uBThvIh1R4Go5o0H7KHvXIqYW-4PcRnXY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTQ3/MjA3LTE1ODY5NjE0/NDEtMTI5Ny5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/agnUJGi6fmJ9aA7LORd61itBfuubSYFtd9Q4gTfjFNg/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTQ3/MjA3LTE1ODY5NjE0/NDEtOTgwNS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/ueJaAyqAYlHLZxI-hfPZZSpWIX3F9wAPq65S5cXk188/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTQ3/MjA3LTE1ODY5NjE0/NDEtOTgwNS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/70uD1vByYoFKxYxw45S3L3llNdZ4g1DqEqGnBJFsVaA/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTQ3/MjA3LTE1ODY5NjE0/NDEtMjU5MC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/T0X579lRLsdcsvmqVf7xsNmNxLohWigwr3jOcG_xfqs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTQ3/MjA3LTE1ODY5NjE0/NDEtMjU5MC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/rJ-iLyvKCYVEivFNuwnb3LATvorqLnRwaiMLEah-MyU/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTQ3/MjA3LTE1ODY5NjE0/NDAtNjUxMy5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/QmKUn5bWCFVYfNK5yNxFx3hKOl_QN0s5CXf1dMC01u8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTQ3/MjA3LTE1ODY5NjE0/NDAtNjUxMy5qcGVn.jpeg"
+      }
+    ],
+    "community": {
+      "rating": {
+        "count": 170,
+        "average": 4.41
+      },
+      "have": 2544,
+      "want": 193
+    },
+    "master": {
+      "id": 27798,
+      "title": "Simon And Garfunkel's Greatest Hits",
+      "main_release": 1870306,
+      "year": 1972,
+      "uri": "https://www.discogs.com/master/27798-Simon-Garfunkel-Simon-And-Garfunkels-Greatest-Hits",
+      "num_for_sale": 5264
+    }
+  },
+  "apple_music": {
+    "id": 1463652891,
+    "url": "https://music.apple.com/us/album/simon-and-garfunkels-greatest-hits/1463652891?uo=4",
+    "name": "Simon and Garfunkel's Greatest Hits",
+    "artist": "Simon & Garfunkel",
+    "artist_id": 461503,
+    "artwork_url_100": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/7c/0e/db/7c0edb31-3d24-c264-abaa-411f862cdcf7/886447698259.jpg/100x100bb.jpg",
+    "artwork_url_600": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/7c/0e/db/7c0edb31-3d24-c264-abaa-411f862cdcf7/886447698259.jpg/600x600bb.jpg",
+    "release_date": "1972-06-14T07:00:00Z",
+    "track_count": 14,
+    "copyright": "℗ 1972 Columbia Records, a division of Sony Music Entertainment",
+    "primary_genre": "Rock",
+    "country": "USA",
+    "tracks": [
+      {
+        "track_number": 1,
+        "disc_number": 1,
+        "name": "Mrs. Robinson (Single Mix)",
+        "duration_ms": 234416,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/62/ec/e6/62ece675-7ec8-3d90-19be-1861190c2d8c/mzaf_2997008405962777856.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/mrs-robinson-single-mix/1463652891?i=1463652892&uo=4"
+      },
+      {
+        "track_number": 2,
+        "disc_number": 1,
+        "name": "For Emily, Whenever I May Find Her (Live In St. Louis, MO - November 1969)",
+        "duration_ms": 145178,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/3f/f6/48/3ff64802-d552-0b33-c7b4-e4e829854036/mzaf_13956867661740628506.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/for-emily-whenever-i-may-find-her-live-in-st-louis/1463652891?i=1463652894&uo=4"
+      },
+      {
+        "track_number": 3,
+        "disc_number": 1,
+        "name": "The Boxer",
+        "duration_ms": 314242,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/47/a2/71/47a271b4-5af1-2a76-6521-10ef4ca521bc/mzaf_14433081018479012339.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/the-boxer/1463652891?i=1463652895&uo=4"
+      },
+      {
+        "track_number": 4,
+        "disc_number": 1,
+        "name": "The 59th Street Bridge Song (Feelin' Groovy) [Live at Carnegie Hall, New York, NY - July 1970]",
+        "duration_ms": 110217,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/8a/75/43/8a754328-c2c0-1f44-bdd9-a0e46898bb9f/mzaf_5147824093600793416.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/the-59th-street-bridge-song-feelin-groovy-live-at/1463652891?i=1463652956&uo=4"
+      },
+      {
+        "track_number": 5,
+        "disc_number": 1,
+        "name": "The Sounds of Silence",
+        "duration_ms": 187023,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/f6/28/28/f628284d-59dc-037f-b146-4fd7623ba136/mzaf_5661337839026821861.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/the-sounds-of-silence/1463652891?i=1463652957&uo=4"
+      },
+      {
+        "track_number": 6,
+        "disc_number": 1,
+        "name": "I Am a Rock",
+        "duration_ms": 170023,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/f8/84/2b/f8842ba9-c433-f286-bbdb-717f935d07f7/mzaf_3789906125271226699.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/i-am-a-rock/1463652891?i=1463652958&uo=4"
+      },
+      {
+        "track_number": 7,
+        "disc_number": 1,
+        "name": "Scarborough Fair / Canticle",
+        "duration_ms": 190093,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/d0/86/88/d086887b-60b4-ac98-9492-ddde683143db/mzaf_11618332447359418780.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/scarborough-fair-canticle/1463652891?i=1463652959&uo=4"
+      },
+      {
+        "track_number": 8,
+        "disc_number": 1,
+        "name": "Homeward Bound (Live at Carnegie Hall, New York, NY - July 1970)",
+        "duration_ms": 162177,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/85/b3/bc/85b3bcb8-818f-f4f2-5f86-166942d00416/mzaf_14945806966422918675.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/homeward-bound-live-at-carnegie-hall-new-york-ny-july-1970/1463652891?i=1463652960&uo=4"
+      },
+      {
+        "track_number": 9,
+        "disc_number": 1,
+        "name": "Bridge Over Troubled Water",
+        "duration_ms": 295325,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/72/4a/aa/724aaaeb-ae53-92c7-5367-feb5592ea024/mzaf_9095063924775717924.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/bridge-over-troubled-water/1463652891?i=1463652961&uo=4"
+      },
+      {
+        "track_number": 10,
+        "disc_number": 1,
+        "name": "America (Single Mix)",
+        "duration_ms": 213539,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/bb/1c/f6/bb1cf689-ea8d-cd8b-d404-901139dcee30/mzaf_10963006787289256078.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/america-single-mix/1463652891?i=1463652963&uo=4"
+      },
+      {
+        "track_number": 11,
+        "disc_number": 1,
+        "name": "Kathy's Song (Live In St. Louis, MO - November 1969)",
+        "duration_ms": 201696,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/ef/81/cb/ef81cb9f-1eea-0b19-9152-3f3ef90deeca/mzaf_15797314148586604928.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/kathys-song-live-in-st-louis-mo-november-1969/1463652891?i=1463652965&uo=4"
+      },
+      {
+        "track_number": 12,
+        "disc_number": 1,
+        "name": "El Condor Pasa (If I Could)",
+        "duration_ms": 189213,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/27/ea/9c/27ea9cde-2e46-427b-8d23-eaa21d91ccd3/mzaf_7077244138459147040.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/el-condor-pasa-if-i-could/1463652891?i=1463652966&uo=4"
+      },
+      {
+        "track_number": 13,
+        "disc_number": 1,
+        "name": "Bookends (Single Mix)",
+        "duration_ms": 80414,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/6c/dd/fb/6cddfb60-3757-8cce-9ff5-d0108b7668bc/mzaf_10092863986307733085.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/bookends-single-mix/1463652891?i=1463652967&uo=4"
+      },
+      {
+        "track_number": 14,
+        "disc_number": 1,
+        "name": "Cecilia (Single Mix)",
+        "duration_ms": 169328,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/19/20/91/192091a2-1119-8d8d-2bf2-dab3b78d6df8/mzaf_7867951881927438231.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/cecilia-single-mix/1463652891?i=1463652968&uo=4"
+      }
+    ]
+  },
+  "discrepancies": [
+    "Total runtime differs by 54s (Discogs=2605s, Apple Music=2659s) — likely a different master/remaster.",
+    "Release year differs: your pressing=2018, Apple Music edition=1972. Apple Music typically streams the most recent remaster."
+  ],
+  "local_cover": "images/11947207.jpg"
+}

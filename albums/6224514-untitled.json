@@ -1,0 +1,416 @@
+{
+  "captured_at": "2026-05-17T22:58:15+00:00",
+  "schema_version": 3,
+  "artist": "Led Zeppelin",
+  "title": "Untitled",
+  "original_release_year": 1971,
+  "pressing_year": 2014,
+  "upgrade_suggestion": "The 2014 Jimmy Page remaster is the current definitive version. Mobile Fidelity MFSL 1-082 (1981) is the classic audiophile half-speed master if you want a vintage high-fidelity alternative.",
+  "commentary": "**Led Zeppelin IV** (officially untitled, commonly known as \"Four Symbols\" or simply \"IV\") is Led Zeppelin's fourth studio album, released in November 1971 on Atlantic Records. It is widely regarded as one of the greatest rock albums ever made and contains some of the most iconic recordings in rock history: \"Black Dog,\" \"Rock and Roll,\" \"The Battle of Evermore,\" \"Going to California,\" and \"When the Levee Breaks\" \u2014 and of course \"Stairway to Heaven,\" arguably the most celebrated rock song ever recorded. The album's refusal to include the band's name or title on the cover was a deliberate act of artistic defiance against critics who had questioned their credibility, a gamble that paid off spectacularly.\n\nJimmy Page's production is a masterclass in dynamic range \u2014 from the acoustic delicacy of \"Going to California\" and \"The Battle of Evermore\" to the titanic drum sound of \"When the Levee Breaks,\" recorded in a stairwell at Headley Grange with John Bonham's kit placed to maximize natural reverb. That drum sound remains one of the most imitated in rock history.\n\nThe **2014 Europe reissue** was personally remastered by **Jimmy Page** from the original analog tape sources \u2014 his first comprehensive remaster of the Led Zeppelin catalog. Page was intimately involved in the mastering process, ensuring the sonic character of the original recordings was preserved with maximum fidelity. Pressed on **180-gram vinyl** in a gatefold sleeve with insert, with pressing sourced from Germany. The matrix codes `BD 16359-01 A1 JD` identify the cutting engineer as **JD** at the cutting facility.\n\n**About this 2014 Europe pressing (Vinyl, LP, Remastered):** Atlantic / Swan Song / Rhino catalog **8122-79657-7**, 2014 reissue remastered by Jimmy Page. 180-gram vinyl, Made in Germany. Barcode 0081227965778.\n",
+  "discogs": {
+    "release_id": 6224514,
+    "master_id": 4300,
+    "uri": "https://www.discogs.com/release/6224514-Led-Zeppelin-Untitled",
+    "title": "Untitled",
+    "artists": [
+      {
+        "name": "Led Zeppelin",
+        "id": 34278,
+        "role": null
+      }
+    ],
+    "year": 2014,
+    "released": "2014-10-24",
+    "country": "Europe",
+    "labels": [
+      {
+        "name": "Atlantic",
+        "catno": "8122-79657-7",
+        "id": 681
+      },
+      {
+        "name": "Atlantic",
+        "catno": "8122796577",
+        "id": 681
+      }
+    ],
+    "formats": [
+      {
+        "name": "Vinyl",
+        "qty": "1",
+        "descriptions": [
+          "LP",
+          "Album",
+          "Reissue",
+          "Remastered",
+          "Stereo"
+        ],
+        "text": "Gatefold, 180g"
+      }
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Hard Rock",
+      "Blues Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Black Dog",
+        "duration": "4:55",
+        "type": "track"
+      },
+      {
+        "position": "A2",
+        "title": "Rock And Roll",
+        "duration": "3:40",
+        "type": "track"
+      },
+      {
+        "position": "A3",
+        "title": "The Battle Of Evermore",
+        "duration": "5:51",
+        "type": "track"
+      },
+      {
+        "position": "A4",
+        "title": "Stairway To Heaven",
+        "duration": "8:02",
+        "type": "track"
+      },
+      {
+        "position": "B1",
+        "title": "Misty Mountain Hop",
+        "duration": "4:38",
+        "type": "track"
+      },
+      {
+        "position": "B2",
+        "title": "Four Sticks",
+        "duration": "4:45",
+        "type": "track"
+      },
+      {
+        "position": "B3",
+        "title": "Going To California",
+        "duration": "3:32",
+        "type": "track"
+      },
+      {
+        "position": "B4",
+        "title": "When The Levee Breaks",
+        "duration": "7:08",
+        "type": "track"
+      }
+    ],
+    "extraartists": [
+      {
+        "name": "Graphreaks",
+        "role": "Design [Co-ordination]",
+        "id": 1841741
+      },
+      {
+        "name": "Peter Grant",
+        "role": "Executive-Producer",
+        "id": 259439
+      },
+      {
+        "name": "Barrington Colby",
+        "role": "Illustration [Inside]",
+        "id": 2084434
+      },
+      {
+        "name": "John Davis (4)",
+        "role": "Lacquer Cut By",
+        "id": 366507
+      },
+      {
+        "name": "Jimmy Page",
+        "role": "Producer [Produced By]",
+        "id": 180585
+      },
+      {
+        "name": "Jimmy Page",
+        "role": "Remastered By, Reissue Producer",
+        "id": 180585
+      }
+    ],
+    "identifiers": [
+      {
+        "type": "Barcode",
+        "value": "081227965778",
+        "description": "Scanned from sticker, UPC-A"
+      },
+      {
+        "type": "Barcode",
+        "value": "0 81227 96577 8",
+        "description": "Text on sticker"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BD 16359-01 A1 A1 JD ",
+        "description": "Runout side A, variant 1"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BD 16359-01 B1 ",
+        "description": "Runout side B, variant 1"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BD 16359-01 A1 A1 JD XIE",
+        "description": "Runout side A, variant 2"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BD 16359-01 B1 1-A",
+        "description": "Runout side B, variant 2"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BD 16359-01 A1 3=V A1 JD",
+        "description": "Runout side A, variant 3"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BD 16359-01 B1 V \u2207 +",
+        "description": "Runout side B, variant 3"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BD 16359-01 A1 V=\u039b A1 JD ",
+        "description": "Runout side A, variant 4"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BD 16359-01 B1 V+V",
+        "description": "Runout side B, variant 4"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BD 16359-01 A1 A1 JD ",
+        "description": "Runout side A, variant 5"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BD 16359-01 B1 \u2206=V",
+        "description": "Runout side B, variant 5"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BD 16359-01 A1 V=\u039b X A1 JD ",
+        "description": "Runout side A, variant 6"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BD 16359-01 B1 + X",
+        "description": "Runout side B, variant 6"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BD 16359-01 A1 3\u039b= A1 JD",
+        "description": "Runout side A, variant 7"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BD 16359-01 B1 H+\u039b",
+        "description": "Runout side B, variant 7"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BD 16359-01 A1 A1 JD T5",
+        "description": "Runout side A, variant 8"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BD 16359-01 B1 \ua7b1\u039b\u0427",
+        "description": "Runout side B, variant 8"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BD 16359-01 A1 A1 JD",
+        "description": "Runout side A, variant 9"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BD 16359-01 B1 \u0427==",
+        "description": "Runout side B, variant 9"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BD 16359-01 A1 A1 JD x=3",
+        "description": "Runout side A, variant 10"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BD 16359-01 B1 =4",
+        "description": "Runout side B, variant 10"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BD 16359-01 A1 3+x A1 JD",
+        "description": "Runout side A, variant 11"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BD 16359-01 B1 \u0427IV",
+        "description": "Runout side B, variant 11"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BD 16359-01 A1 A1 JD + 1",
+        "description": "Runout side A, variant 12"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BD 16359-01 B1 VTX",
+        "description": "Runout side B, variant 12"
+      }
+    ],
+    "notes": "Release doesn't feature an explicit title, as with the original issues. It is, however, referred to as \"Led Zeppelin IV\" in online retailers and such.\n\n180gr vinyl in gatefold sleeve with insert.\n\nPrinted on front cover sticker:\n\"LED ZEPPELIN'S CLASSIC\n4th ALBUM ON 180g VINYL\nIncludes Stairway To Heaven,\nBlack Dog & Rock And Roll\nRemastered & Produced by Jimmy Page\n[barcode image\n0 81227 96577 8]\n8122796577\"\n\nCat# on labels 8122-79657-7\nCat# on sticker on front cover : 8122769577\n\nManufactured in Germany. (on label)\nMade in the EU (insert)\n\nRunouts are etched, any additional etchings such as \u201c^~\ua7b1\u039b\u0427\u201d can be mirrored, rotated or upside down.",
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/ff6f9pAT0kk8qNEo0e_RuLKXWM6vA37B1Fm45pgWCuk/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMjQ1/MTQtMTUwMDYyNzgz/My0xMTU0LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/uqA1Q_EVYw2G2cCLPZ9yOf9peoK1E8u_n1bYKf3vCuU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMjQ1/MTQtMTUwMDYyNzgz/My0xMTU0LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/KXzfMaRl421PSvEvG0xRPPHX46DifF6veys25vP9ls4/rs:fit/g:sm/q:90/h:600/w:572/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMjQ1/MTQtMTUwMDYyNzkw/Ni03MDY3LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/5l1BTFnnTZBUqy-3R3QvO5kaQdkEEJ5HA5cgcaB_SSk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMjQ1/MTQtMTUwMDYyNzkw/Ni03MDY3LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/fW6gM92laS5KupkN8r7m-Acf7cc1AT7kJuNaTDlVS-8/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMjQ1/MTQtMTUwMDYyNzkx/My01OTE0LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/R-EWSvjxyFQtKTMoBiVi_KuyMDbofrGvSlu8GQhhVKg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMjQ1/MTQtMTUwMDYyNzkx/My01OTE0LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/IkXRaLV_f1zX4RucQ_rGmWyDPymH_ixjcSddl36_Knc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMjQ1/MTQtMTUwMDYyNzg2/Ni0xNzY2LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/Z47h_pFWoHGC2V7BgalUcmoUVRKPVGm1L7Y_OxZ3zVE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMjQ1/MTQtMTUwMDYyNzg2/Ni0xNzY2LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/Ua6Jr-l7X0L6C814nV8CbRn8di4fE_sRY8Q-U6wz5uE/rs:fit/g:sm/q:90/h:600/w:586/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMjQ1/MTQtMTUwMDYyNzk0/MS05NDQxLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/LH7_93KMaLiMqPvAiZoD6-mCs1fsKdeodWuh8_DrlaY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMjQ1/MTQtMTUwMDYyNzk0/MS05NDQxLmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/t22uTa6jp-fCKaA1XktV-8GFdLFI4ChXKyH9oMEtY24/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMjQ1/MTQtMTUwMDYyNzkx/MC03MDEwLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/nvjKQCbmmw2tk21-cmVi-64HQOGyj5vrwSyD-xmUAKw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMjQ1/MTQtMTUwMDYyNzkx/MC03MDEwLmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/9N58TBNKtoHRdqWkRzQmNvSyPuOlGuFgawFZ6-aWS8s/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMjQ1/MTQtMTUwMDYyNzg5/Mi04NDA5LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/JNtI1W3WWMMtie61kn0r6IQWbA3O99SEejCTb7ndXT8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMjQ1/MTQtMTUwMDYyNzg5/Mi04NDA5LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/oEgtwNJ2PeDkrr7yhh8cOS4m1B0_6uOG_0LixXSLNKY/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMjQ1/MTQtMTUwMDYyNzg2/OC02MTMxLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/Q9c6Gj8N1Jn23EOiU8dWWK8ufsW2FBOmRT1KA6-D9AI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMjQ1/MTQtMTUwMDYyNzg2/OC02MTMxLmpwZWc.jpeg"
+      }
+    ],
+    "community": {
+      "rating": {
+        "count": 3068,
+        "average": 4.69
+      },
+      "have": 28096,
+      "want": 2982
+    },
+    "master": {
+      "id": 4300,
+      "title": "Untitled ",
+      "main_release": 2893139,
+      "year": 1971,
+      "uri": "https://www.discogs.com/master/4300-Led-Zeppelin-Untitled-",
+      "num_for_sale": 7484
+    }
+  },
+  "apple_music": {
+    "id": 580708175,
+    "url": "https://music.apple.com/us/album/led-zeppelin-iv-remastered/580708175?uo=4",
+    "name": "Led Zeppelin IV (Remastered)",
+    "artist": "Led Zeppelin",
+    "artist_id": 994656,
+    "artwork_url_100": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5c/15/9b/5c159b27-95ca-b9a7-84e3-28e795fffd39/dj.kvkrpptq.jpg/100x100bb.jpg",
+    "artwork_url_600": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5c/15/9b/5c159b27-95ca-b9a7-84e3-28e795fffd39/dj.kvkrpptq.jpg/600x600bb.jpg",
+    "release_date": "1971-11-08T08:00:00Z",
+    "track_count": 8,
+    "copyright": "\u2117 1971 Atlantic Recording Corporation, a Warner Music Group Company. Marketed by Rhino Entertainment Company, a Warner Music Group Company.",
+    "primary_genre": "Rock",
+    "country": "USA",
+    "tracks": [
+      {
+        "track_number": 1,
+        "disc_number": 1,
+        "name": "Black Dog",
+        "duration_ms": 295387,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/05/d9/4d/05d94da2-11d8-dbc0-0080-877ff3a6727d/mzaf_3202083383964343705.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/black-dog/580708175?i=580708177&uo=4"
+      },
+      {
+        "track_number": 2,
+        "disc_number": 1,
+        "name": "Rock and Roll",
+        "duration_ms": 220560,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/9f/4a/3b/9f4a3b83-2ade-fa59-4aa5-9720db90065d/mzaf_3916746220420517559.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/rock-and-roll/580708175?i=580708178&uo=4"
+      },
+      {
+        "track_number": 3,
+        "disc_number": 1,
+        "name": "The Battle of Evermore",
+        "duration_ms": 351678,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/21/13/64/2113649d-61cd-a176-c2a6-03311024a378/mzaf_9218692185152513973.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/the-battle-of-evermore/580708175?i=580708179&uo=4"
+      },
+      {
+        "track_number": 4,
+        "disc_number": 1,
+        "name": "Stairway to Heaven",
+        "duration_ms": 482830,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/60/61/5f/60615fd1-7425-78b3-21ab-fed7411a89ea/mzaf_7178841208140363975.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/stairway-to-heaven/580708175?i=580708180&uo=4"
+      },
+      {
+        "track_number": 5,
+        "disc_number": 1,
+        "name": "Misty Mountain Hop",
+        "duration_ms": 278907,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/e3/11/0f/e3110f4e-bc25-0aad-7dbc-140a6b86fb05/mzaf_16307939057961756150.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/misty-mountain-hop/580708175?i=580708181&uo=4"
+      },
+      {
+        "track_number": 6,
+        "disc_number": 1,
+        "name": "Four Sticks",
+        "duration_ms": 285227,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/88/ec/08/88ec0865-6602-3386-0a7b-922021211123/mzaf_5431897452041786660.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/four-sticks/580708175?i=580708182&uo=4"
+      },
+      {
+        "track_number": 7,
+        "disc_number": 1,
+        "name": "Going to California",
+        "duration_ms": 212160,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/63/a5/39/63a539db-8275-14fb-a564-9da91cda82b4/mzaf_9015152451469223111.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/going-to-california/580708175?i=580708183&uo=4"
+      },
+      {
+        "track_number": 8,
+        "disc_number": 1,
+        "name": "When the Levee Breaks",
+        "duration_ms": 428851,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/52/53/d5/5253d589-526c-10bb-ac08-f1a05cce4a54/mzaf_3611583263346645050.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/when-the-levee-breaks/580708175?i=580708184&uo=4"
+      }
+    ]
+  },
+  "discrepancies": [
+    "Release year differs: your pressing=2014, Apple Music edition=1971. Apple Music typically streams the most recent remaster."
+  ],
+  "local_cover": "images/6224514.jpg"
+}

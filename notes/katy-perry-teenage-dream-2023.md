@@ -1,0 +1,7 @@
+**Teenage Dream** is Katy Perry's third studio album, released in August 2010 on Capitol Records, and one of the most commercially dominant pop albums of the decade. Produced primarily by Dr. Luke and Max Martin — two of the most successful pop hitmakers of the era — it became the first album by a female artist to produce five Billboard Hot 100 number-one singles: "California Gurls," "Teenage Dream," "Firework," "E.T.," and "Last Friday Night (T.G.I.F.)." The album tied Michael Jackson's *Bad* for the most number-one singles from a single album, a record that underscored Perry's extraordinary commercial peak in this era.
+
+The album is a masterclass in contemporary pop production — Max Martin and Dr. Luke's sonic architecture is pristine and precise, with an emphasis on massive choruses, layered vocals, and the kind of four-on-the-floor energy that dominated radio and clubs simultaneously. Perry's persona — playful, empowered, unapologetically fun — found its perfect vehicle in this material. "Firework" in particular transcended pure pop to become a genuinely resonant anthem.
+
+The **2023 reissue** (Capitol / UMe catalog **B003807801**) presents the album on vinyl for a new generation of listeners. Matrix codes `10-97385 / 846011` identify standard UMe pressing specifications for this contemporary reissue.
+
+**About this 2023 USA & Europe pressing (2× Vinyl, LP, Reissue):** Capitol / UMe catalog **B003807801**, 2023 reissue. Double LP. Barcode 602455740694. Matrix 10-97385 / 846011.

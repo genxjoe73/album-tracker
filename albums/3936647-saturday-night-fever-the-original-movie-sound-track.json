@@ -1,0 +1,546 @@
+{
+  "captured_at": "2026-05-17T23:53:27+00:00",
+  "schema_version": 3,
+  "artist": "Various",
+  "title": "Saturday Night Fever (The Original Movie Sound Track)",
+  "original_release_year": 1977,
+  "pressing_year": 1977,
+  "upgrade_suggestion": "This original Capitol-mastered pressing by Wally Traugott is the definitive edition — hard to beat. A 2023 Capitol/UMe half-speed remaster exists if you want a cleaner modern pressing, but this original is a keeper.",
+  "commentary": "The definitive disco album — Bee Gees dominated, 15× platinum, 24 weeks at #1. Original 1977 US RSO pressing (RS-2-4001). Mastered at Capitol by Wally Traugott (MASTERED BY CAPITOL / Wally in runout), with UK flag symbol in the deadwax. KW stamper. A genuine first pressing cut by one of Capitol's legendary mastering engineers.",
+  "discogs": {
+    "release_id": 3936647,
+    "master_id": 23443,
+    "uri": "https://www.discogs.com/release/3936647-Various-Saturday-Night-Fever-The-Original-Movie-Sound-Track",
+    "title": "Saturday Night Fever (The Original Movie Sound Track)",
+    "artists": [
+      {
+        "name": "Various",
+        "id": 194,
+        "role": null
+      }
+    ],
+    "year": 1977,
+    "released": "1977",
+    "country": "US",
+    "labels": [
+      {
+        "name": "RSO",
+        "catno": "RS-2-4001",
+        "id": 5811
+      },
+      {
+        "name": "RSO",
+        "catno": "2658 123",
+        "id": 5811
+      }
+    ],
+    "formats": [
+      {
+        "name": "Vinyl",
+        "qty": "2",
+        "descriptions": [
+          "LP",
+          "Album",
+          "Compilation"
+        ],
+        "text": "Keel Pressing"
+      }
+    ],
+    "genres": [
+      "Electronic",
+      "Funk / Soul",
+      "Pop",
+      "Stage & Screen"
+    ],
+    "styles": [
+      "Soundtrack",
+      "Disco"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Stayin' Alive",
+        "duration": "4:43",
+        "type": "track"
+      },
+      {
+        "position": "A2",
+        "title": "How Deep Is Your Love",
+        "duration": "4:03",
+        "type": "track"
+      },
+      {
+        "position": "A3",
+        "title": "Night Fever",
+        "duration": "3:33",
+        "type": "track"
+      },
+      {
+        "position": "A4",
+        "title": "More Than A Woman",
+        "duration": "3:15",
+        "type": "track"
+      },
+      {
+        "position": "A5",
+        "title": "If I Can't Have You",
+        "duration": "2:57",
+        "type": "track"
+      },
+      {
+        "position": "B1",
+        "title": "A Fifth Of Beethoven",
+        "duration": "3:01",
+        "type": "track"
+      },
+      {
+        "position": "B2",
+        "title": "More Than A Woman",
+        "duration": "3:16",
+        "type": "track"
+      },
+      {
+        "position": "B3",
+        "title": "Manhattan Skyline",
+        "duration": "4:43",
+        "type": "track"
+      },
+      {
+        "position": "B4",
+        "title": "Calypso Breakdown",
+        "duration": "7:50",
+        "type": "track"
+      },
+      {
+        "position": "C1",
+        "title": "Night On Disco Mountain",
+        "duration": "5:12",
+        "type": "track"
+      },
+      {
+        "position": "C2",
+        "title": "Open Sesame",
+        "duration": "3:59",
+        "type": "track"
+      },
+      {
+        "position": "C3",
+        "title": "Jive Talkin'",
+        "duration": "3:44",
+        "type": "track"
+      },
+      {
+        "position": "C4",
+        "title": "You Should Be Dancing",
+        "duration": "4:15",
+        "type": "track"
+      },
+      {
+        "position": "C5",
+        "title": "Boogie Shoes",
+        "duration": "2:16",
+        "type": "track"
+      },
+      {
+        "position": "D1",
+        "title": "Salsation",
+        "duration": "3:50",
+        "type": "track"
+      },
+      {
+        "position": "D2",
+        "title": "K-Jee",
+        "duration": "4:15",
+        "type": "track"
+      },
+      {
+        "position": "D3",
+        "title": "Disco Inferno",
+        "duration": "10:52",
+        "type": "track"
+      }
+    ],
+    "extraartists": [
+      {
+        "name": "Susan Herr",
+        "role": "Artwork [Prepared By]",
+        "id": 1831018
+      },
+      {
+        "name": "Tom Nikosey",
+        "role": "Artwork [Prepared By]",
+        "id": 1407517
+      },
+      {
+        "name": "Bill Oakes",
+        "role": "Compiled By, Supervised By [Album]",
+        "id": 97666
+      },
+      {
+        "name": "Dan Wallin",
+        "role": "Engineer",
+        "id": 287711
+      },
+      {
+        "name": "Karl Richardson",
+        "role": "Engineer",
+        "id": 151396
+      },
+      {
+        "name": "Larry Miles",
+        "role": "Engineer",
+        "id": 388770
+      },
+      {
+        "name": "Ray Thompson",
+        "role": "Engineer",
+        "id": 386532
+      },
+      {
+        "name": "Steve Pouliot",
+        "role": "Engineer",
+        "id": 388771
+      },
+      {
+        "name": "Ed Mashal",
+        "role": "Engineer [Assistant; Miami]",
+        "id": 447063
+      },
+      {
+        "name": "Nick Blagona",
+        "role": "Engineer [Assistant; Quebec]",
+        "id": 299971
+      },
+      {
+        "name": "Jerry Crawford",
+        "role": "Engineer [Assistant]",
+        "id": 1194880
+      },
+      {
+        "name": "Jim Nau",
+        "role": "Engineer [Assistant]",
+        "id": 1059327
+      },
+      {
+        "name": "John Blanche",
+        "role": "Engineer [Assistant]",
+        "id": 645249
+      },
+      {
+        "name": "Michel Marie",
+        "role": "Engineer [Assistant]",
+        "id": 657643
+      },
+      {
+        "name": "Tyrone Williams",
+        "role": "Engineer [Assistant]",
+        "id": 219490
+      },
+      {
+        "name": "Wally Traugott",
+        "role": "Lacquer Cut By",
+        "id": 360250
+      },
+      {
+        "name": "Wally Traugott",
+        "role": "Mastered By",
+        "id": 360250
+      },
+      {
+        "name": "Francesco Scavullo",
+        "role": "Photography By [Bee Gees]",
+        "id": 707517
+      },
+      {
+        "name": "Charles William Bush",
+        "role": "Photography By [Tavares]",
+        "id": 2239201
+      },
+      {
+        "name": "Norman Seeff",
+        "role": "Photography By [Yvonne Elliman]",
+        "id": 1170513
+      }
+    ],
+    "identifiers": [
+      {
+        "type": "Matrix / Runout",
+        "value": "(RS-2-4001-A)",
+        "description": "Side A label"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "(RS-2-4001-B)",
+        "description": "Side B label"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "(RS-2-4001-C)",
+        "description": "Side C label"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "(RS-2-4001-D)",
+        "description": "Side D label"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "B / [Union Jack flag symbol] RS-2-4001-AS KW-2 MASTERED BY CAPITOL Wally",
+        "description": "Side A runout"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "B3 [Union Jack flag symbol] RS-2-4001-BS KW 1 MASTERED BY CAPITOL Wally",
+        "description": "Side B runout"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "A - eight K L RS-2-4001-CS REV.1 KW 1 MASTERED BY CAPITOL Wally",
+        "description": "Side C runout"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "B [Union Jack flag symbol] RS-2-4001-DS KW-2 MASTERED BY CAPITOL Wally",
+        "description": "Side D runout"
+      },
+      {
+        "type": "Other",
+        "value": "(Intl.# 2658 123)",
+        "description": "All labels"
+      },
+      {
+        "type": "Other",
+        "value": "(Ind. Intl.# 2479 199)",
+        "description": "Side A & B label"
+      },
+      {
+        "type": "Other",
+        "value": "(Ind. Intl.# 2479 200)",
+        "description": "Side C & D label"
+      },
+      {
+        "type": "Other",
+        "value": "1298",
+        "description": "Spine price code"
+      },
+      {
+        "type": "Rights Society",
+        "value": "ASCAP",
+        "description": null
+      },
+      {
+        "type": "Rights Society",
+        "value": "BMI",
+        "description": null
+      }
+    ],
+    "notes": "This version is the Keel pressing plant variation with the shorter 'studio' version of track C3 \"Jive Talkin'\". It can be identified by the runout groove etchings and by the label typesetting. For example, where \"Record\" and \"Side\" are printed on the right hand side of the label and catalog numbers (Domestic and International) appear on the left hand side.  \n\n© 1977 RSO Records, Inc.\nManufactured/marketed by RSO Records, Inc. Distributed by Phonodisc.\nA1 to A4, Recorded at Chateau D'Herouville, France\nOverdubs and remixing at Criteria Studios Miami, Florida.\nA5, B2 Recorded at The Mom & Pops Company Store, Studio City.\nB3, C1, D1 Recorded at The Burbank Studios, Burbank, California.\nC3 Recorded at Criteria Studios Miami, Florida.\nC4 Recorded at Criteria Studios Miami, Florida and Le Studio, Quebec.\nMastered at Capitol records, Hollywood.\nPrinted in U.S.A.\n\nGatefold cover with printed inner sleeves with info.\n\nThree codes appear on the back cover's top right corner. ",
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/vnnJ5NW2dw5FBCcgWL3tA-H6Bt_MF6p7aKXm8flCaVg/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MzY2/NDctMTM1MjA1NDcy/Mi0xNzQyLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/4BeqmMgdjyWZ7pk-0fsf3DUIQYWXuiZJkbtRPEXK3Lw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MzY2/NDctMTM1MjA1NDcy/Mi0xNzQyLmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/AxqCQZ0E8lSZkaZceWUFz4olnwSspAcVsIO_okCsEM0/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MzY2/NDctMTM1MjA1NDc0/MC01MzI2LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/uMXu8VN-l-TuNZlIGtcH85r4bDFLZAupbeKu0DJGlBg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MzY2/NDctMTM1MjA1NDc0/MC01MzI2LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/tdmIoaraFVGjE0m44UQQxBSVGEUEfKEEbUXrLkGmB1Y/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MzY2/NDctMTM1MjA1NDc1/MS04MTkxLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/PAjL_jWHFhUtuLeyG40ksUAJ26jO3mV7Kk_cf7sJ6Lk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MzY2/NDctMTM1MjA1NDc1/MS04MTkxLmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/raQ6xWLyMBiwZ6Jm_4bd8mgQe8DFIROFqQvVojSw4nA/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MzY2/NDctMTM1MjA1NDc1/OS02MTk4LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/l3bsWBythto21SIRnc2klOidauCeureLEcWEGxO5oCc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MzY2/NDctMTM1MjA1NDc1/OS02MTk4LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/L1SkMR_8KYQBXi0m-5A6JJVmJO6l7tqiOdHZu_GRZiA/rs:fit/g:sm/q:90/h:298/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MzY2/NDctMTM1MjA1NDc3/MC0xNjYwLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/gzrSZzZxtPXVfsG8F2MnOLwo30JHmM45kv9BXEgwKg4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MzY2/NDctMTM1MjA1NDc3/MC0xNjYwLmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/1fe7oZ1kUMBOdLUxYmusC6gSrqqqCAThS-HSdEYFBEc/rs:fit/g:sm/q:90/h:574/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MzY2/NDctMTM1MjA1NDc4/Mi0xMzg1LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/y-iOT1j9xd67fFiSvi0boLjS6lO-7Lk78dRrk-BAU1A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MzY2/NDctMTM1MjA1NDc4/Mi0xMzg1LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/QdHUeMX1HhckECsw8Ti0hYNSAPsoWUZufwLgvMWwoAQ/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MzY2/NDctMTM1MjA1NDc5/My04ODU3LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/0wB8QWwEc4Z5Wz2vuw_MRiKRoist2wGRnK-FYnL7BUc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MzY2/NDctMTM1MjA1NDc5/My04ODU3LmpwZWc.jpeg"
+      }
+    ],
+    "community": {
+      "rating": {
+        "count": 64,
+        "average": 4.22
+      },
+      "have": 1854,
+      "want": 313
+    },
+    "master": {
+      "id": 23443,
+      "title": "Saturday Night Fever (The Original Movie Sound Track)",
+      "main_release": 3911075,
+      "year": 1977,
+      "uri": "https://www.discogs.com/master/23443-Various-Saturday-Night-Fever-The-Original-Movie-Sound-Track",
+      "num_for_sale": 4474
+    }
+  },
+  "apple_music": {
+    "id": 1445668458,
+    "url": "https://music.apple.com/us/album/saturday-night-fever-the-original-movie-soundtrack/1445668458?uo=4",
+    "name": "Saturday Night Fever (The Original Movie Soundtrack)",
+    "artist": "Various Artists",
+    "artist_id": 36270,
+    "artwork_url_100": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/74/c1/73/74c17380-b75d-4d74-31d8-99f8e8b20c36/17UM1IM27905.rgb.jpg/100x100bb.jpg",
+    "artwork_url_600": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/74/c1/73/74c17380-b75d-4d74-31d8-99f8e8b20c36/17UM1IM27905.rgb.jpg/600x600bb.jpg",
+    "release_date": "1977-11-15T08:00:00Z",
+    "track_count": 17,
+    "copyright": "This Compilation ℗ 1977 Barry Gibb, The Estate of Robin Gibb and Yvonne Gibb, under exclusive license to Capitol Music Group",
+    "primary_genre": "Soundtrack",
+    "country": "USA",
+    "tracks": [
+      {
+        "track_number": 1,
+        "disc_number": 1,
+        "name": "Stayin' Alive (From \"Saturday Night Fever\" Soundtrack)",
+        "duration_ms": 284067,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/72/f8/ca/72f8ca41-e760-6fb4-009d-a8b2b6b287bb/mzaf_18123089491337557034.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/stayin-alive-from-saturday-night-fever-soundtrack/1445668458?i=1445668462&uo=4"
+      },
+      {
+        "track_number": 2,
+        "disc_number": 1,
+        "name": "How Deep Is Your Love (From \"Saturday Night Fever\" Soundtrack)",
+        "duration_ms": 243933,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/fd/c7/1c/fdc71c0a-c32f-44ac-8919-aa18e3b24ae9/mzaf_14238478741199319062.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/how-deep-is-your-love-from-saturday-night-fever-soundtrack/1445668458?i=1445668463&uo=4"
+      },
+      {
+        "track_number": 3,
+        "disc_number": 1,
+        "name": "Night Fever (From \"Saturday Night Fever\" Soundtrack)",
+        "duration_ms": 211640,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f7/92/b8/f792b815-5b3f-1744-259b-945c25187e0b/mzaf_11734007033811891911.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/night-fever-from-saturday-night-fever-soundtrack/1445668458?i=1445668465&uo=4"
+      },
+      {
+        "track_number": 4,
+        "disc_number": 1,
+        "name": "More Than a Woman (From \"Saturday Night Fever\" Soundtrack)",
+        "duration_ms": 196440,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/3e/0c/55/3e0c557f-8e63-c7a1-4479-1078dd147c25/mzaf_13296901633090348146.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/more-than-a-woman-from-saturday-night-fever-soundtrack/1445668458?i=1445668468&uo=4"
+      },
+      {
+        "track_number": 5,
+        "disc_number": 1,
+        "name": "If I Can't Have You",
+        "duration_ms": 178067,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0e/3f/f9/0e3ff95c-5162-0613-8321-3051befef0db/mzaf_2575874465889004532.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/if-i-cant-have-you/1445668458?i=1445668480&uo=4"
+      },
+      {
+        "track_number": 6,
+        "disc_number": 1,
+        "name": "A Fifth of Beethoven",
+        "duration_ms": 182533,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/fe/f5/a5/fef5a528-c484-779b-9910-eba7037b1d9a/mzaf_3223856399910536844.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/a-fifth-of-beethoven/1445668458?i=1445668672&uo=4"
+      },
+      {
+        "track_number": 7,
+        "disc_number": 1,
+        "name": "More Than a Woman",
+        "duration_ms": 196040,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ba/64/34/ba64348f-c857-8126-e26c-31c9a0ccf7dc/mzaf_4134875456592117884.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/more-than-a-woman/1445668458?i=1445668677&uo=4"
+      },
+      {
+        "track_number": 8,
+        "disc_number": 1,
+        "name": "Manhattan Skyline",
+        "duration_ms": 283107,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/82/c4/02/82c40288-a2a5-1311-f20d-23b54e54d60d/mzaf_8760409664699221437.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/manhattan-skyline/1445668458?i=1445668678&uo=4"
+      },
+      {
+        "track_number": 9,
+        "disc_number": 1,
+        "name": "Calypso Breakdown",
+        "duration_ms": 469827,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ee/8a/9e/ee8a9ee3-7680-d45d-d042-b8c3701a8668/mzaf_5688188995161582125.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/calypso-breakdown/1445668458?i=1445668682&uo=4"
+      },
+      {
+        "track_number": 10,
+        "disc_number": 1,
+        "name": "Night On Disco Mountain",
+        "duration_ms": 312307,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0e/ce/2e/0ece2e1b-c8d2-8f0f-3733-43b99388ef88/mzaf_3285526003867556964.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/night-on-disco-mountain/1445668458?i=1445668683&uo=4"
+      },
+      {
+        "track_number": 11,
+        "disc_number": 1,
+        "name": "Open Sesame",
+        "duration_ms": 239573,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/32/dd/e2/32dde25d-9202-1ac3-19bd-3a0554ee4590/mzaf_6010951290323916958.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/open-sesame/1445668458?i=1445668685&uo=4"
+      },
+      {
+        "track_number": 12,
+        "disc_number": 1,
+        "name": "Jive Talkin'",
+        "duration_ms": 223333,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/67/fe/f3/67fef32f-a19d-b00d-f89b-e1a2c9edd8a4/mzaf_16511792342534259324.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/jive-talkin/1445668458?i=1445668686&uo=4"
+      },
+      {
+        "track_number": 13,
+        "disc_number": 1,
+        "name": "You Should Be Dancing",
+        "duration_ms": 253867,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/51/75/27/51752775-264d-ed59-bd9c-0139778e5070/mzaf_3981768061946558515.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/you-should-be-dancing/1445668458?i=1445668687&uo=4"
+      },
+      {
+        "track_number": 14,
+        "disc_number": 1,
+        "name": "Boogie Shoes",
+        "duration_ms": 136240,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f1/c2/63/f1c26394-0e58-b91a-23a4-f5556b1833cd/mzaf_1406880256221057441.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/boogie-shoes/1445668458?i=1445668688&uo=4"
+      },
+      {
+        "track_number": 15,
+        "disc_number": 1,
+        "name": "Salsation",
+        "duration_ms": 230667,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e8/66/fe/e866fe82-36ea-55cd-1d2b-819bd1930f82/mzaf_9160016035562540592.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/salsation/1445668458?i=1445668689&uo=4"
+      },
+      {
+        "track_number": 16,
+        "disc_number": 1,
+        "name": "K-Jee",
+        "duration_ms": 253133,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/06/fa/cf/06facfe8-d849-fed9-9ef7-aee22dd855fe/mzaf_1544741799376164163.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/k-jee/1445668458?i=1445668721&uo=4"
+      },
+      {
+        "track_number": 17,
+        "disc_number": 1,
+        "name": "Disco Inferno",
+        "duration_ms": 650867,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e4/cc/d8/e4ccd804-9f50-1c24-578d-1d05497f4c44/mzaf_11830762949600640854.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/disco-inferno/1445668458?i=1445668725&uo=4"
+      }
+    ]
+  },
+  "discrepancies": [],
+  "local_cover": "images/3936647.jpg"
+}

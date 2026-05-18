@@ -1,0 +1,461 @@
+{
+  "captured_at": "2026-05-18T00:02:42+00:00",
+  "schema_version": 3,
+  "artist": "Sublime",
+  "title": "Sublime",
+  "original_release_year": 1996,
+  "pressing_year": 2016,
+  "upgrade_suggestion": "The 2016 UMe reissue is the standard modern edition. No audiophile half-speed or MOFI pressing exists. The original 1996 MCA pressing is the collector's choice but hard to find in great condition.",
+  "commentary": "Sublime's posthumous 1996 masterpiece — Bradley Nowell died two months before release. 'What I Got,' 'Santeria,' 'Wrong Way,' 'Doin' Time' — genre-blending alt-rock/reggae that defined 90s California. 2016 UMe reissue (B0024679-01). Matrix 10-100150 / B003421801 / 263856E1.",
+  "discogs": {
+    "release_id": 34475497,
+    "master_id": 158333,
+    "uri": "https://www.discogs.com/release/34475497-Sublime-2-Sublime",
+    "title": "Sublime",
+    "artists": [
+      {
+        "name": "Sublime (2)",
+        "id": 98600,
+        "role": null
+      }
+    ],
+    "year": 2016,
+    "released": "2016",
+    "country": "US",
+    "labels": [
+      {
+        "name": "Geffen",
+        "catno": "B0024679-01",
+        "id": 19852
+      },
+      {
+        "name": "Gasoline Alley",
+        "catno": "B0024679-01",
+        "id": 28237
+      },
+      {
+        "name": "Skunk Records (2)",
+        "catno": "B0024679-01",
+        "id": 103923
+      },
+      {
+        "name": "UMe",
+        "catno": "B0024679-01",
+        "id": 68029
+      }
+    ],
+    "formats": [
+      {
+        "name": "Vinyl",
+        "qty": "2",
+        "descriptions": [
+          "LP",
+          "Album",
+          "Reissue",
+          "Stereo"
+        ],
+        "text": null
+      }
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Punk",
+      "Ska"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Garden Grove",
+        "duration": "4:21",
+        "type": "track"
+      },
+      {
+        "position": "A2",
+        "title": "What I Got",
+        "duration": "2:51",
+        "type": "track"
+      },
+      {
+        "position": "A3",
+        "title": "Wrong Way",
+        "duration": "2:16",
+        "type": "track"
+      },
+      {
+        "position": "A4",
+        "title": "Same In The End",
+        "duration": "2:36",
+        "type": "track"
+      },
+      {
+        "position": "B1",
+        "title": "April 29, 1992 (Miami)",
+        "duration": "3:53",
+        "type": "track"
+      },
+      {
+        "position": "B2",
+        "title": "Santeria",
+        "duration": "3:03",
+        "type": "track"
+      },
+      {
+        "position": "B3",
+        "title": "Seed",
+        "duration": "2:10",
+        "type": "track"
+      },
+      {
+        "position": "B4",
+        "title": "Jailhouse",
+        "duration": "4:53",
+        "type": "track"
+      },
+      {
+        "position": "C1",
+        "title": "Pawn Shop",
+        "duration": "6:06",
+        "type": "track"
+      },
+      {
+        "position": "C2",
+        "title": "Paddle Out",
+        "duration": "1:15",
+        "type": "track"
+      },
+      {
+        "position": "C3",
+        "title": "The Ballad Of Johnny Butt",
+        "duration": "2:11",
+        "type": "track"
+      },
+      {
+        "position": "C4",
+        "title": "Burritos",
+        "duration": "3:55",
+        "type": "track"
+      },
+      {
+        "position": "C5",
+        "title": "Under My Voodoo",
+        "duration": "3:25",
+        "type": "track"
+      },
+      {
+        "position": "D1",
+        "title": "Get Ready",
+        "duration": "4:50",
+        "type": "track"
+      },
+      {
+        "position": "D2",
+        "title": "Caress Me Down",
+        "duration": "3:32",
+        "type": "track"
+      },
+      {
+        "position": "D3",
+        "title": "What I Got (reprise)",
+        "duration": "3:02",
+        "type": "track"
+      },
+      {
+        "position": "D4",
+        "title": "Doin’ Time",
+        "duration": "4:14",
+        "type": "track"
+      }
+    ],
+    "extraartists": [
+      {
+        "name": "David Kahne",
+        "role": "Producer",
+        "id": 240971
+      },
+      {
+        "name": "Paul Leary",
+        "role": "Producer",
+        "id": 45088
+      }
+    ],
+    "identifiers": [
+      {
+        "type": "Barcode",
+        "value": "6 02547 81187 5",
+        "description": "Text"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "263856E1/I 10-100150 / B003421801 A",
+        "description": "Side A runout, variant 1"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "263856E2/E 10-100150 / B003421801 - B",
+        "description": "Side B runout, variant 1"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "263856E3/H 2115842 10-100150 / B003421801 - C",
+        "description": "Side C runout, variant 1"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "263856E4/E 10-100150 / B003421801 - D",
+        "description": "Side D runout, variant 1"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "263856E1/K 10-100150 / B003421801-A",
+        "description": "Side A runout, variant 2"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "263856E2/K 02340193 10-100150 / B003421801-B",
+        "description": "Side B runout, variant 2"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "263856E3/I 2115842 10-100150 / B003421801 - C",
+        "description": "Side C runout, variant 2"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "263856E4/L 02340198 10-100150 / B003421801-D",
+        "description": "Side D runout, variant 2"
+      }
+    ],
+    "notes": null,
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/u-bjHBEfzJ140HtIiSnuoo8dLkaK0boZrQhd-CjGVT8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NDc1/NDk3LTE3NTE5MDg5/MTMtNDg2OS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/rQiBfpz1REgI1IlJgk-D3U-YmHfZAmvuP3tKviAwSFY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NDc1/NDk3LTE3NTE5MDg5/MTMtNDg2OS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/CMIgXMt7rwcJsLFJJ3Kaqj51kiFdNkosxevUIFFezuw/rs:fit/g:sm/q:90/h:287/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NDc1/NDk3LTE3NTE5MDg5/MTQtOTQ4Ny5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/bCP0DGpKBSV2ub8pS1WKHa9GeqQLxk3eFbPVQ-7iiY4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NDc1/NDk3LTE3NTE5MDg5/MTQtOTQ4Ny5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/7TTkrGcKOTv71StdgtKMAM1Utwt0A6PHWTmj2a0So-g/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NDc1/NDk3LTE3NTE5MDg5/MTUtNTAyMS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/--PtS-3ZeiXs6oDROvyVKAJ6zSG3hgiPysEyttLdB0Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NDc1/NDk3LTE3NTE5MDg5/MTUtNTAyMS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/cCkJk3_ZFytSjjOK1TRUOZMjgeNFrky9CXC74aXbBn4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NDc1/NDk3LTE3NTE5MDg5/MTItNDE4OS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/LOo88o7EkoF2_TLkORVa2y7nHVrjFA5m9MuY_s1EiXw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NDc1/NDk3LTE3NTE5MDg5/MTItNDE4OS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/av0UL5jZfRVFd9qiyF_zSas3vkczQdC0oxP0j6KVe7k/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NDc1/NDk3LTE3NTE5MDg5/MTEtMzY5Ny5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/pTXF1cV2wP-uN0qrz_w0g1CGF0xZDmcZ_mxnUal2iyo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NDc1/NDk3LTE3NTE5MDg5/MTEtMzY5Ny5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/rod1QvMz9wKKXhKvzOTT8-pQro6u8YgGRQk4GkfTqw8/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NDc1/NDk3LTE3NTE5OTky/MTctNDk0Ny5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/jpSXEpVnyizRbhQpZeNNTYjNjU7TsPRvEBlalqsaCmg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NDc1/NDk3LTE3NTE5OTky/MTctNDk0Ny5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/KxbvhJWR90Fa-gmXPMacS4ZU7-IhVeUt273s2_Sf9hk/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NDc1/NDk3LTE3NTE5OTky/MTYtNDU3Mi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/Ca9nDKytW6z9gz-hk0oq0rZ6zkttn3Dic-FiisJNf3c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NDc1/NDk3LTE3NTE5OTky/MTYtNDU3Mi5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/j-mcI64cnmRkM9O2fWMnvR8rGna19oADmPKB6LTQr4E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NDc1/NDk3LTE3NTE5MDg5/MTAtNjMwMy5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/OVvNv2ZYfHg0Tbv0UlFv_RLsguBmZNEX7-1P3kGbDno/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NDc1/NDk3LTE3NTE5MDg5/MTAtNjMwMy5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/I5ID_kcCsSlEAGjqNMfMt_sr_1ROsAOiEHZSJJm7ZtE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NDc1/NDk3LTE3NTE5MDg5/MTMtNTkyOC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/UCMzbnTMYSWaWpvigrAMzopscNzjOCxi7x51XN4YlAg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NDc1/NDk3LTE3NTE5MDg5/MTMtNTkyOC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/1NsL2bYd1jTWyJ_OkRYde8Dhl4mCxHZp4TmZDQwvpZQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NDc1/NDk3LTE3NTE5MDg5/MTMtMjAyNy5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/AmmHqzlv0gEbmUcNuKzRbfm1exq89a1qofpa4MAOpiw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NDc1/NDk3LTE3NTE5MDg5/MTMtMjAyNy5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/etlBUrlG8U0OWZcqi41qTjUMayFxzlEMbqgDfTzxDJM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NDc1/NDk3LTE3NTE5MDg5/MTQtOTA4OC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/bPhhWGQHGZEAqGOyCR_S4eCJjrji2lg-za4fv_VPly8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NDc1/NDk3LTE3NTE5MDg5/MTQtOTA4OC5qcGVn.jpeg"
+      }
+    ],
+    "community": {
+      "rating": {
+        "count": 40,
+        "average": 4.85
+      },
+      "have": 310,
+      "want": 86
+    },
+    "master": {
+      "id": 158333,
+      "title": "Sublime",
+      "main_release": 10935269,
+      "year": 1996,
+      "uri": "https://www.discogs.com/master/158333-Sublime-2-Sublime",
+      "num_for_sale": 433
+    }
+  },
+  "apple_music": {
+    "id": 1440838803,
+    "url": "https://music.apple.com/us/album/sublime/1440838803?uo=4",
+    "name": "Sublime",
+    "artist": "Sublime",
+    "artist_id": 63480,
+    "artwork_url_100": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c2/44/52/c2445270-0ad1-c895-3ab1-24beedd6c422/06UMGIM01498.rgb.jpg/100x100bb.jpg",
+    "artwork_url_600": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c2/44/52/c2445270-0ad1-c895-3ab1-24beedd6c422/06UMGIM01498.rgb.jpg/600x600bb.jpg",
+    "release_date": "1996-07-30T07:00:00Z",
+    "track_count": 17,
+    "copyright": "℗ 2016 Gasoline Alley, J.V.",
+    "primary_genre": "Rock",
+    "country": "USA",
+    "tracks": [
+      {
+        "track_number": 1,
+        "disc_number": 1,
+        "name": "Garden Grove",
+        "duration_ms": 261387,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/4d/14/9b/4d149b3b-8ce0-b3b2-94a1-b03904f740cf/mzaf_512963768713531503.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/garden-grove/1440838803?i=1440839086&uo=4"
+      },
+      {
+        "track_number": 2,
+        "disc_number": 1,
+        "name": "What I Got",
+        "duration_ms": 170907,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a2/78/af/a278afbf-07ca-e270-f1dd-1a0e0ca14b24/mzaf_4559957895127125321.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/what-i-got/1440838803?i=1440839096&uo=4"
+      },
+      {
+        "track_number": 3,
+        "disc_number": 1,
+        "name": "Wrong Way",
+        "duration_ms": 136147,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1d/08/24/1d0824ab-83f3-b5ba-b9e4-3f93aeda201d/mzaf_12022948968283517938.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/wrong-way/1440838803?i=1440839103&uo=4"
+      },
+      {
+        "track_number": 4,
+        "disc_number": 1,
+        "name": "Same In The End",
+        "duration_ms": 156160,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/dc/19/1d/dc191d08-6336-b8e3-7ba8-03da33a4b7dc/mzaf_14783317185061943137.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/same-in-the-end/1440838803?i=1440839323&uo=4"
+      },
+      {
+        "track_number": 5,
+        "disc_number": 1,
+        "name": "April 29, 1992 (Miami)",
+        "duration_ms": 233267,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/22/ab/91/22ab910c-d7ad-e5d8-0a35-b578519c48b6/mzaf_4416661366299817852.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/april-29-1992-miami/1440838803?i=1440839338&uo=4"
+      },
+      {
+        "track_number": 6,
+        "disc_number": 1,
+        "name": "Santeria",
+        "duration_ms": 182747,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/3a/e7/d3/3ae7d335-103b-2db3-d51b-dbc807851b34/mzaf_10017657168201749025.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/santeria/1440838803?i=1440839501&uo=4"
+      },
+      {
+        "track_number": 7,
+        "disc_number": 1,
+        "name": "Seed",
+        "duration_ms": 130187,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/bb/b4/eb/bbb4eb78-a70b-9272-8aa3-6c4e1df9c806/mzaf_17133147058135565688.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/seed/1440838803?i=1440839518&uo=4"
+      },
+      {
+        "track_number": 8,
+        "disc_number": 1,
+        "name": "Jailhouse",
+        "duration_ms": 292640,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c4/6f/0a/c46f0ade-4d9a-b96d-2ed3-5d6a6299aae6/mzaf_2069685359808836488.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/jailhouse/1440838803?i=1440839562&uo=4"
+      },
+      {
+        "track_number": 9,
+        "disc_number": 1,
+        "name": "Pawn Shop",
+        "duration_ms": 365560,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f7/4d/08/f74d0873-851f-4227-e524-14bd8e350dff/mzaf_12794058910923994157.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/pawn-shop/1440838803?i=1440839568&uo=4"
+      },
+      {
+        "track_number": 10,
+        "disc_number": 1,
+        "name": "Paddle Out",
+        "duration_ms": 75293,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/07/90/1f/07901ff1-f545-c372-b8e1-233dbb78cd49/mzaf_2782563845311148917.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/paddle-out/1440838803?i=1440839572&uo=4"
+      },
+      {
+        "track_number": 11,
+        "disc_number": 1,
+        "name": "The Ballad Of Johnny Butt",
+        "duration_ms": 131240,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e2/3d/5a/e23d5a2a-ebae-78e5-4e43-4b1d0091dddb/mzaf_4465865554233145392.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/the-ballad-of-johnny-butt/1440838803?i=1440839579&uo=4"
+      },
+      {
+        "track_number": 12,
+        "disc_number": 1,
+        "name": "Burritos",
+        "duration_ms": 234987,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b8/e8/96/b8e896e4-6810-ee3f-5896-b2f6f1223e04/mzaf_13984910763134221772.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/burritos/1440838803?i=1440839588&uo=4"
+      },
+      {
+        "track_number": 13,
+        "disc_number": 1,
+        "name": "Under My Voodoo",
+        "duration_ms": 205467,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c9/f3/e1/c9f3e11e-6713-9c9a-4713-09dccb860af7/mzaf_6503439972048681341.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/under-my-voodoo/1440838803?i=1440839720&uo=4"
+      },
+      {
+        "track_number": 14,
+        "disc_number": 1,
+        "name": "Get Ready",
+        "duration_ms": 290467,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/46/a5/ac/46a5ac93-898a-87ad-c125-a5521a4e0f25/mzaf_17573855237468269810.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/get-ready/1440838803?i=1440839730&uo=4"
+      },
+      {
+        "track_number": 15,
+        "disc_number": 1,
+        "name": "Caress Me Down",
+        "duration_ms": 211560,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/83/7f/f8/837ff82e-8553-0331-063a-3d700be0b0c7/mzaf_677972643768427173.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/caress-me-down/1440838803?i=1440839738&uo=4"
+      },
+      {
+        "track_number": 16,
+        "disc_number": 1,
+        "name": "What I Got (Reprise)",
+        "duration_ms": 181600,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e0/b8/1b/e0b81bb3-0592-655d-3841-e2340e2ce402/mzaf_16381369576785892859.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/what-i-got-reprise/1440838803?i=1440839814&uo=4"
+      },
+      {
+        "track_number": 17,
+        "disc_number": 1,
+        "name": "Doin' Time",
+        "duration_ms": 253840,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0d/e7/0d/0de70d40-8597-3eaa-f05e-d885878d214f/mzaf_13400699202652096420.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/doin-time/1440838803?i=1440839888&uo=4"
+      }
+    ]
+  },
+  "discrepancies": [
+    "Release year differs: your pressing=2016, Apple Music edition=1996. Apple Music typically streams the most recent remaster."
+  ],
+  "local_cover": "images/34475497.jpg"
+}

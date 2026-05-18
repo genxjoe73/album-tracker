@@ -1,0 +1,428 @@
+{
+  "captured_at": "2026-05-17T23:31:06+00:00",
+  "schema_version": 3,
+  "artist": "Pink Floyd",
+  "title": "Meddle",
+  "original_release_year": 1971,
+  "pressing_year": 2016,
+  "upgrade_suggestion": "This 2016 Pink Floyd Records / Sony remaster (BG pressing) is the recommended modern edition. No audiophile half-speed or 45RPM edition exists for Meddle. A true original 1971 UK Harvest (SHVL 795) first pressing is the collector's grail but runs $50–100+ in VG+ condition.",
+  "commentary": "Pink Floyd's sixth album (1971) — the bridge between their psychedelic origins and the DSOTM era. Side two is entirely \"Echoes,\" the 23-minute suite that anticipates everything that came after. 2016 remaster on Pink Floyd Records / Sony (PFRLP6), pressed at Bontje Graafland (BG), Netherlands. Matrix 0190295997076 / 16909 BG. A significant upgrade over earlier budget reissues.",
+  "discogs": {
+    "release_id": 9092521,
+    "master_id": 20649,
+    "uri": "https://www.discogs.com/release/9092521-Pink-Floyd-Meddle",
+    "title": "Meddle",
+    "artists": [
+      {
+        "name": "Pink Floyd",
+        "id": 45467,
+        "role": null
+      }
+    ],
+    "year": 2016,
+    "released": "2016-09-23",
+    "country": "US",
+    "labels": [
+      {
+        "name": "Pink Floyd Records",
+        "catno": "PFRLP6",
+        "id": 983890
+      },
+      {
+        "name": "Pink Floyd Records",
+        "catno": "88875184231S1",
+        "id": 983890
+      },
+      {
+        "name": "Pink Floyd Records",
+        "catno": "88875184231",
+        "id": 983890
+      }
+    ],
+    "formats": [
+      {
+        "name": "Vinyl",
+        "qty": "1",
+        "descriptions": [
+          "LP",
+          "Album",
+          "Reissue",
+          "Remastered"
+        ],
+        "text": "Gatefold, 180 Gram"
+      }
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Psychedelic Rock",
+      "Prog Rock",
+      "Ethereal"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "One Of These Days",
+        "duration": "5:50",
+        "type": "track"
+      },
+      {
+        "position": "A2",
+        "title": "A Pillow Of Winds",
+        "duration": "5:10",
+        "type": "track"
+      },
+      {
+        "position": "A3",
+        "title": "Fearless",
+        "duration": "6:03",
+        "type": "track"
+      },
+      {
+        "position": "A4",
+        "title": "San Tropez",
+        "duration": "3:42",
+        "type": "track"
+      },
+      {
+        "position": "A5",
+        "title": "Seamus",
+        "duration": "2:09",
+        "type": "track"
+      },
+      {
+        "position": "B",
+        "title": "Echoes",
+        "duration": "23:31",
+        "type": "track"
+      }
+    ],
+    "extraartists": [
+      {
+        "name": "Roger Waters",
+        "role": "Bass Guitar, Vocals",
+        "id": 110862
+      },
+      {
+        "name": "Pink Floyd",
+        "role": "Composed By, Producer",
+        "id": 45467
+      },
+      {
+        "name": "Hipgnosis (2)",
+        "role": "Design [Album Cover]",
+        "id": 1826972
+      },
+      {
+        "name": "Pink Floyd",
+        "role": "Design [Album Cover]",
+        "id": 45467
+      },
+      {
+        "name": "John Leckie",
+        "role": "Engineer [Air Studios, EMI Studios Abbey Road]",
+        "id": 83378
+      },
+      {
+        "name": "Peter Bown",
+        "role": "Engineer [Air Studios, EMI Studios Abbey Road]",
+        "id": 256111
+      },
+      {
+        "name": "Robin Black",
+        "role": "Engineer [Morgan Studios]",
+        "id": 290765
+      },
+      {
+        "name": "Roger Quested",
+        "role": "Engineer [Morgan Studios]",
+        "id": 290766
+      },
+      {
+        "name": "David Gilmour",
+        "role": "Guitar [Guitars], Vocals",
+        "id": 110863
+      },
+      {
+        "name": "Richard Wright",
+        "role": "Keyboards, Vocals",
+        "id": 110861
+      },
+      {
+        "name": "Bernie Grundman",
+        "role": "Lacquer Cut By",
+        "id": 307942
+      },
+      {
+        "name": "Nick Mason",
+        "role": "Percussion",
+        "id": 246097
+      },
+      {
+        "name": "Hipgnosis (2)",
+        "role": "Photography By [Inner Sleeve Photo]",
+        "id": 1826972
+      },
+      {
+        "name": "Robert Dowling",
+        "role": "Photography By [Outer Sleeve Photos]",
+        "id": 2260921
+      },
+      {
+        "name": "Bernie Grundman",
+        "role": "Remastered By",
+        "id": 307942
+      },
+      {
+        "name": "James Guthrie",
+        "role": "Remastered By",
+        "id": 171450
+      },
+      {
+        "name": "Joel Plante",
+        "role": "Remastered By",
+        "id": 409280
+      }
+    ],
+    "identifiers": [
+      {
+        "type": "Barcode",
+        "value": "8 88751 84231 1",
+        "description": "Text"
+      },
+      {
+        "type": "Barcode",
+        "value": "888751842311",
+        "description": "Scanned"
+      },
+      {
+        "type": "Other",
+        "value": "88875184231S1",
+        "description": "Sticker"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "88875184231A",
+        "description": "Side A label"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "PFRLP6-A",
+        "description": "Side A label"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "88875184231B",
+        "description": "Side B label"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "PFRLP6-B",
+        "description": "Side B label"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "0190295997076-A 16909 1A BG",
+        "description": "Variant 1: side A runout"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "0190295997076-B B 16909 1B BG",
+        "description": "Variant 1: side B runout"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "0190295997076-A 16909 1A BG",
+        "description": "Variant 2: side A runout"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "0190295997076-B 16909 1B BG",
+        "description": "Variant 2: side B runout"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "0190295997076-A B 16909 1A BG",
+        "description": "Variant 3: side A runout"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "0190295997076-B C 16909 1B BG",
+        "description": "Variant 3: side B runout"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "0190295997076-A B 16909 1A BG",
+        "description": "Variant 4: side A runout"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "0190295997076-B D 16909 1B BG",
+        "description": "Variant 4: side B runout"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "0190295997076-A 16909 1A BG",
+        "description": "Variant 5: side A runout"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "0190295997076-B 16909 3B BG",
+        "description": "Variant 5: side B runout"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "0190295997076-A B 16909 1A BG",
+        "description": "Variant 6: side A runout"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "0190295997076-B 16909 1B BG",
+        "description": "Variant 6: side B runout"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "0190295997076-A 16909 2A BG",
+        "description": "Variant 7: side A runout"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "0190295997076-B 16909 3B BG",
+        "description": "Variant 7: side B runout"
+      }
+    ],
+    "notes": "CAT# on sticker : 88875184231S1\nRemastered from the original analogue tapes.\nTextured gatefold jacket.\nRecorded at Air Studios, EMI Studios Abbey Road and at Morgan Studios London 1971.\n\n℗ 2016 The copyright in this sound recording is owned by Pink Floyd Music Ltd., marketed and distributed by Sony Music Entertainment. © 2016 Pink Floyd Music Ltd.\n\nPublishing credits:\nSide A: Published by Pink Floyd Music Publishers Ltd. administered by Imagem UK Ltd./Roger Waters Music Overseas Ltd., administered by BMG Rights Management (UK) Ltd., except track 4 published by Roger Waters Music Overseas Ltd., administered by BMG Rights Management (UK) Ltd. for the world excluding USA & Canada. USA & Canada: TRO-Hampshire House Publishing Corp. Fearless includes 'You'll Never Walk Alone' published by Chappell Music Ltd. for the world\n\nSide B: Published By Pink Floyd Music Publishers Ltd. administered by Imagem UK Ltd./Roger Waters Music Overseas Ltd., administered by BMG Rights Management (UK) Ltd. for the world excluding USA & Canada. USA & Canada: TRO-Hampshire House Publishing Corp.\n\nRunouts: \"16909 #$\" (where # is a number and $='A' or 'B') is stamped; the rest is etched.",
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/CvAGK4G06baaSzf3Dpr4jl8N_R0axbCKBpebHLVIAUY/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwOTI1/MjEtMTQ3NzIzNjQ5/MC0yMzc0LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/vTSY8cijX76M0tIbnAlH2bHTEkHlGx5LdijMFbCBLkE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwOTI1/MjEtMTQ3NzIzNjQ5/MC0yMzc0LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/wn43jl8hKVFdQUnVhVLE3GSNohWUM9pIJtz4_8wdJn0/rs:fit/g:sm/q:90/h:292/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwOTI1/MjEtMTQ3NzIzNjQ5/MC03NDA5LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/RFBMdcglBmJuLSiUL9rAxwb5lhPpCcywIPlheE8I8Mk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwOTI1/MjEtMTQ3NzIzNjQ5/MC03NDA5LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/_llhND4VPkDm9hNIS0JNpmAyKaFhAUPZiFgJcnL3U6E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwOTI1/MjEtMTQ3NzIzNjQ5/MS02NDEzLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/sC8YnaHhrafqDujFMakwIeHAX-5dwOdxjAeSoYFhhvc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwOTI1/MjEtMTQ3NzIzNjQ5/MS02NDEzLmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/aGIH8e18bPiQ1viVXyAwNzFz_6axBc0cIEqZDoZLeyM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwOTI1/MjEtMTQ3NzIzNjQ5/MS02MzQ5LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/g5H8hJkD7ELSm8erfBE2Kyo5q3dI51la3rdC0AFKeoc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwOTI1/MjEtMTQ3NzIzNjQ5/MS02MzQ5LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/IVURln3JBwOaNt2Bqgi3-DBaAG0e3vr6P68xoLpWsNU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwOTI1/MjEtMTQ3NzIzNjQ5/MS00NTc0LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/q6Gs_NtJTaLkV1htIDz1TmQQjHMrGSj4cUy9F6u3Fbk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwOTI1/MjEtMTQ3NzIzNjQ5/MS00NTc0LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/O5mQXDQkV4dJVX4kD0lcBd2KuX1DDnpoYWtAO4jfH0w/rs:fit/g:sm/q:90/h:600/w:298/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwOTI1/MjEtMTQ3NzIzNjQ5/MC01MzY3LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/Dz5SFysXAL3p05FhvxKSGIeXVTRXQzhXA3yOX6CrnPw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwOTI1/MjEtMTQ3NzIzNjQ5/MC01MzY3LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/Rcgec9Dgg3cCC1QSd_DJNybF3K1JE0oemtlj3nYa294/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwOTI1/MjEtMTQ3NzIzNjQ4/OS03NzI4LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/Vndrg0nsBel4_wmWzEgwZ2XejHEI3K7bySHX2HBtpgs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwOTI1/MjEtMTQ3NzIzNjQ4/OS03NzI4LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/SJ3SLD2Q36XK8bz4tsDzzZd5bK1GeFh8QW2UUvnzRUw/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwOTI1/MjEtMTQ3NzIzNjQ5/MS01NDI0LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/pPcse0v4nAIdlna-byJMrVhaJ-2orEBvNxZYN4XprOc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwOTI1/MjEtMTQ3NzIzNjQ5/MS01NDI0LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/CO7OR2AqT5Cq_JjYkexhYKBqc1aNNxePsyo1FPpxkzM/rs:fit/g:sm/q:90/h:292/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwOTI1/MjEtMTQ3NzIzNjQ5/MC05MDE4LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/6PMlv4XCBzOdUwaM2XFMniZfDfU6CHwlbrJMhLzr4SM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwOTI1/MjEtMTQ3NzIzNjQ5/MC05MDE4LmpwZWc.jpeg"
+      }
+    ],
+    "community": {
+      "rating": {
+        "count": 1508,
+        "average": 4.67
+      },
+      "have": 15533,
+      "want": 1874
+    },
+    "master": {
+      "id": 20649,
+      "title": "Meddle",
+      "main_release": 4137493,
+      "year": 1971,
+      "uri": "https://www.discogs.com/master/20649-Pink-Floyd-Meddle",
+      "num_for_sale": 4457
+    }
+  },
+  "apple_music": {
+    "id": 1065973614,
+    "url": "https://music.apple.com/us/album/meddle-2016-remaster/1065973614?uo=4",
+    "name": "Meddle (2016 Remaster)",
+    "artist": "Pink Floyd",
+    "artist_id": 487143,
+    "artwork_url_100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/18/a8/b7/18a8b7ed-365d-ef37-d724-88ce764c3ee7/886445635911.jpg/100x100bb.jpg",
+    "artwork_url_600": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/18/a8/b7/18a8b7ed-365d-ef37-d724-88ce764c3ee7/886445635911.jpg/600x600bb.jpg",
+    "release_date": "1971-10-30T07:00:00Z",
+    "track_count": 7,
+    "copyright": "℗ 2016 The copyright in this sound recording is owned by Pink Floyd Music Ltd., marketed and distributed by Sony Music Entertainment",
+    "primary_genre": "Rock",
+    "country": "USA",
+    "tracks": [
+      {
+        "track_number": 1,
+        "disc_number": 1,
+        "name": "One of These Days",
+        "duration_ms": 355400,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/69/c4/25/69c425f3-837a-e31f-c0b0-bc4f8ec93ac2/mzaf_3509608723544448540.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/one-of-these-days/1065973614?i=1065973615&uo=4"
+      },
+      {
+        "track_number": 2,
+        "disc_number": 1,
+        "name": "A Pillow of Winds",
+        "duration_ms": 313160,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/c9/a3/a4/c9a3a4d8-3a5e-2ad2-3341-45ea38dd9abb/mzaf_4589204101270425076.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/a-pillow-of-winds/1065973614?i=1065973616&uo=4"
+      },
+      {
+        "track_number": 3,
+        "disc_number": 1,
+        "name": "Fearless",
+        "duration_ms": 367880,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/a0/58/b7/a058b70a-7a01-b723-298c-141acbf92389/mzaf_3927709694380156733.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/fearless/1065973614?i=1065973617&uo=4"
+      },
+      {
+        "track_number": 4,
+        "disc_number": 1,
+        "name": "San Tropez",
+        "duration_ms": 222853,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/24/99/7b/24997b2c-3785-0051-a74f-182e8a62a7b2/mzaf_1067655796028364278.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/san-tropez/1065973614?i=1065973618&uo=4"
+      },
+      {
+        "track_number": 5,
+        "disc_number": 1,
+        "name": "Seamus",
+        "duration_ms": 134493,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/4e/83/64/4e836475-04d4-e295-c839-d796ad333572/mzaf_370889559742485095.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/seamus/1065973614?i=1065973619&uo=4"
+      },
+      {
+        "track_number": 6,
+        "disc_number": 1,
+        "name": "Echoes",
+        "duration_ms": 1413307,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/6f/18/87/6f1887b4-f0b8-107e-9732-2e6a780fb526/mzaf_1229599755829787570.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/echoes/1065973614?i=1065973623&uo=4"
+      }
+    ]
+  },
+  "discrepancies": [
+    "Release year differs: your pressing=2016, Apple Music edition=1971. Apple Music typically streams the most recent remaster."
+  ],
+  "local_cover": "images/9092521.jpg"
+}

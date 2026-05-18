@@ -1,0 +1,480 @@
+{
+  "captured_at": "2026-05-17T23:14:51+00:00",
+  "schema_version": 3,
+  "artist": "Kacey Musgraves",
+  "title": "Golden Hour",
+  "original_release_year": 2018,
+  "pressing_year": 2021,
+  "upgrade_suggestion": "No audiophile reissue exists. The original 2018 first pressing (B0027921-01-A-RE-1 WG/NRP) is preferred by collectors over later represses for earliest lacquer generation.",
+  "commentary": "**Golden Hour** is Kacey Musgraves' third studio album, released in March 2018 on MCA Nashville / Universal Music Group, and one of the most critically acclaimed and commercially successful country-adjacent albums of the decade. Produced by Musgraves, Ian Kirkpatrick, Daniel Tashian, and Ian Fitchuk, it won all four major Grammy Awards at the 2019 ceremony \u2014 Album of the Year, Best Country Album, Best Country Song, and Best Country Solo Performance \u2014 a sweep that announced Musgraves as one of the defining artists of her generation. The album blends country, pop, folk, and disco influences into something entirely its own: \"Slow Burn,\" \"Rainbow,\" \"Happy & Sad,\" \"Butterflies,\" and \"Space Cowboy\" are emotionally precise, melodically beautiful, and sonically adventurous in ways that country radio rarely accommodates.\n\nThe album was recorded during a period of personal happiness for Musgraves \u2014 a deliberate counterpoint to the breakup-and-heartache themes that dominate country music \u2014 and that warmth and contentment permeate every track. Its influence on the subsequent generation of country-pop artists has been substantial.\n\nThe **2021 US repress** (MCA Nashville / UMe catalog **B0027921-01**) continues the standard pressing of the album on vinyl with matrix codes `10-85244 / B002904501-A 179710E1` identifying standard UMe pressing plant and lacquer specifications.\n\n**About this 2021 US pressing (Vinyl, LP, Reissue, Repress):** MCA Nashville / UMe catalog **B0027921-01**, 2021 repress. Barcode 602567334460. Matrix 10-85244 / B002904501-A 179710E1.\n",
+  "discogs": {
+    "release_id": 22109113,
+    "master_id": 1338231,
+    "uri": "https://www.discogs.com/release/22109113-Kacey-Musgraves-Golden-Hour",
+    "title": "Golden Hour",
+    "artists": [
+      {
+        "name": "Kacey Musgraves",
+        "id": 2866928,
+        "role": null
+      }
+    ],
+    "year": 2021,
+    "released": "2021",
+    "country": "US",
+    "labels": [
+      {
+        "name": "MCA Nashville",
+        "catno": "B0027921-01",
+        "id": 178754
+      },
+      {
+        "name": "MCA Records",
+        "catno": "B0027921-01",
+        "id": 878
+      }
+    ],
+    "formats": [
+      {
+        "name": "Vinyl",
+        "qty": "1",
+        "descriptions": [
+          "LP",
+          "Album",
+          "Reissue",
+          "Repress"
+        ],
+        "text": "Clear, PRP Pressing"
+      }
+    ],
+    "genres": [
+      "Pop",
+      "Folk, World, & Country"
+    ],
+    "styles": [
+      "Country"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Slow Burn",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "A2",
+        "title": "Lonely Weekend",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "A3",
+        "title": "Butterflies",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "A4",
+        "title": "Oh, What A World",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "A5",
+        "title": "Mother",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "A6",
+        "title": "Love Is A Wild Thing",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B1",
+        "title": "Space Cowboy",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B2",
+        "title": "Happy & Sad",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B3",
+        "title": "Velvet Elvis ",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B4",
+        "title": "Wonder Woman",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B5",
+        "title": "High Horse",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B6",
+        "title": "Golden Hour",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B7",
+        "title": "Rainbow",
+        "duration": "",
+        "type": "track"
+      }
+    ],
+    "extraartists": [
+      {
+        "name": "Kacey Musgraves",
+        "role": "Art Direction",
+        "id": 2866928
+      },
+      {
+        "name": "Kelly Christine Sutton",
+        "role": "Art Direction",
+        "id": 4512713
+      },
+      {
+        "name": "Gena Johnson",
+        "role": "Coordinator [Production Coordination]",
+        "id": 3256560
+      },
+      {
+        "name": "Jordan Lehning",
+        "role": "Edited By",
+        "id": 1314189
+      },
+      {
+        "name": "John Hanes",
+        "role": "Engineer [Engineered For Mix By]",
+        "id": 210636
+      },
+      {
+        "name": "Wes Garland",
+        "role": "Lacquer Cut By",
+        "id": 2135761
+      },
+      {
+        "name": "Jason Owen",
+        "role": "Management",
+        "id": 3001155
+      },
+      {
+        "name": "Samantha Borenstein",
+        "role": "Management",
+        "id": 6397000
+      },
+      {
+        "name": "Sandbox Entertainment",
+        "role": "Management",
+        "id": 4512715
+      },
+      {
+        "name": "Greg Calbi",
+        "role": "Mastered By",
+        "id": 244135
+      },
+      {
+        "name": "Steve Fallone",
+        "role": "Mastered By [With]",
+        "id": 380507
+      },
+      {
+        "name": "Ivan Wayman",
+        "role": "Mixed By [Assisted By]",
+        "id": 4826370
+      },
+      {
+        "name": "Canaan Sutton",
+        "role": "Other [Voice Of Reason]",
+        "id": 0
+      },
+      {
+        "name": "Kelly Christine Sutton",
+        "role": "Photography By, Design",
+        "id": 4512713
+      },
+      {
+        "name": "Daniel Tashian",
+        "role": "Producer",
+        "id": 441442
+      },
+      {
+        "name": "Ian Fitchuk",
+        "role": "Producer",
+        "id": 392181
+      },
+      {
+        "name": "Kacey Musgraves",
+        "role": "Producer",
+        "id": 2866928
+      },
+      {
+        "name": "BTPR",
+        "role": "Public Relations",
+        "id": 6397002
+      },
+      {
+        "name": "Benny Tarantini",
+        "role": "Public Relations",
+        "id": 6397001
+      },
+      {
+        "name": "Craig Alvin",
+        "role": "Recorded By",
+        "id": 420944
+      },
+      {
+        "name": "Alberto Vaz",
+        "role": "Recorded By [Assisted By]",
+        "id": 5252249
+      },
+      {
+        "name": "Zack Pancoast",
+        "role": "Recorded By [Assisted By]",
+        "id": 4635435
+      },
+      {
+        "name": "Bobby Shin",
+        "role": "Recorded By [Strings Recorded By]",
+        "id": 1195199
+      }
+    ],
+    "identifiers": [
+      {
+        "type": "Barcode",
+        "value": "602567334460",
+        "description": "Scanned"
+      },
+      {
+        "type": "Barcode",
+        "value": "6 02567 33446 0",
+        "description": "Printed"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "B0027921-01-A WG",
+        "description": "Side A"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "B0027921-01-B WG",
+        "description": "Side B "
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "10-85244 / B002904501-A 179710E1/A2",
+        "description": "Side A [etched]"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "10-85244 / B002904501-B 179710E2  1117021",
+        "description": "Side B [etched]"
+      }
+    ],
+    "notes": "This edition is a repress from sometime in 2021, done at PRP after the previous pressings at Rainbo Records and United. Looks to be mastered at GZ instead of the original Sterling mastering.\n\nClear vinyl, gatefold jacket, printed inner sleeve.\nNo download code included. \nMade in Canada sticker on the back.\n\nA MCA Nashville Release. \u2117 & \u00a9 2018 UMG Recordings, Inc., 401 Commerce Street, Suite 1100, Nashville, TN 37219. Manufactured and distributed in the United States by Universal Music Distribution.\n\nRecorded [...] at Big Green Barn, Sound Emporium, House of Blues Nashville - Studios A & D, The Great Gazoo Reading Room, Royal Plum\nMixed by Shawn Everett at Subtle McNugget Studios\nAssisted by Ivan Wayman\nMixed by Serban Ghenea at Mixstar Studios - Virginia Beach, VA\nEngineered for mix by John Hanes\nMixed by Craig Alvin at the Great Gazoo Reading Room\nStrings recorded [...] at the Library\nMastered [...] at Sterling Sound NYC",
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/1mIdpvNzfwrOTuQQTfvrqs4Do8lcjs3MzwRddDv1nnU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTA5/MTEzLTE3MDg5OTc3/OTktMzE5Mi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/xwuaoba21sKBwG0ApQgr3LBSdBH3u6tR5NRerIWUANM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTA5/MTEzLTE3MDg5OTc3/OTktMzE5Mi5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/TTBf5ZMcUA3fCxsw5mOJIBlhx0hBHqrD-0i9NsiyE-U/rs:fit/g:sm/q:90/h:284/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTA5/MTEzLTE3MDg5OTc4/MDAtMjY1NC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/aOy2BraFYaAlpStzgPUV-c7gX-WjaPz9b_jUBYiSVUY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTA5/MTEzLTE3MDg5OTc4/MDAtMjY1NC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/2ztkhrC9uYjDr_Be5ryzzXP16iWNZUMRwMcmmdd-_aQ/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTA5/MTEzLTE3MDg5OTc4/MDAtMzQ3MS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/JwMBu5X4PlsxGiiSHSzf38eov0PmDcJ4TlLS7a6aYRY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTA5/MTEzLTE3MDg5OTc4/MDAtMzQ3MS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/_g6EeChdwjnycVywbw4HmxLzDAowNdXA9276wSwAgz8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTA5/MTEzLTE3MDg5OTc3/OTktMzIyMC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/26UFnuHZWXJIjokyqoE-p5R5419FH-vDxQf1ENGq8jw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTA5/MTEzLTE3MDg5OTc3/OTktMzIyMC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/gDyJTr5gl_Z-yw2mlFT1HnsJKYtyq4d8iu-iWkjOhAw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTA5/MTEzLTE3MDg5OTc4/MDAtOTE3NS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/c6J6rkHxQMXvGTj5BSNuDmqgQWBb_FCktPb283Jk5Zw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTA5/MTEzLTE3MDg5OTc4/MDAtOTE3NS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/aMYEH2DfLueOV1_1WTKmYanRveW-ejXZBD7Cp-KczQA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTA5/MTEzLTE3MDg5OTc3/OTktODMyNi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/JocObAXeSKHv_wXaszh1iqsIM55o-5JwCr9Y12FHWyI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTA5/MTEzLTE3MDg5OTc3/OTktODMyNi5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/ejxsyZFBL-1VxvmPgaf941KSgGj9AqDf-DxGl9OUBgQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTA5/MTEzLTE3MDg5OTc4/MDAtNjY4Mi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/TVztwlYGBoPXND0TsQMiRuHLoTTSs5a8wmXtxHcs8x0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTA5/MTEzLTE3MDg5OTc4/MDAtNjY4Mi5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/vkY_KCqQGK4PXGjWiwyYPuYlLiqpsrp7sG7_tfIuLo4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTA5/MTEzLTE3MDg5OTc4/MDEtMTk1Ny5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/JVuaTUSHJb4n7CTNAq1LG_4rTDr3Mgml-ya-ct42at4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTA5/MTEzLTE3MDg5OTc4/MDEtMTk1Ny5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/0h4heaZSuLlcHvv1nRsqHbZ4aNe8l4m0WtwQdLrMry4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTA5/MTEzLTE3MDg5OTc4/MDAtNTg5OC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/s4JBiO0lCB9Ww-_kfBrKK-eNOzK3dkLp42MBepuprww/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTA5/MTEzLTE3MDg5OTc4/MDAtNTg5OC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/fWjvxKMxjq4CtiusnTxa-xHLHG4ON0Bt5JdzphsvRvc/rs:fit/g:sm/q:90/h:340/w:527/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTA5/MTEzLTE2NDQ1NDIx/MjAtNDYxMC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/haNam01Fksa8Wf1Re2PhHIOPZSKgWn6PPVa5xzKm55I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTA5/MTEzLTE2NDQ1NDIx/MjAtNDYxMC5qcGVn.jpeg"
+      }
+    ],
+    "community": {
+      "rating": {
+        "count": 87,
+        "average": 4.72
+      },
+      "have": 1763,
+      "want": 309
+    },
+    "master": {
+      "id": 1338231,
+      "title": "Golden Hour",
+      "main_release": 11776682,
+      "year": 2018,
+      "uri": "https://www.discogs.com/master/1338231-Kacey-Musgraves-Golden-Hour",
+      "num_for_sale": 173
+    }
+  },
+  "apple_music": {
+    "id": 1440918116,
+    "url": "https://music.apple.com/us/album/golden-hour/1440918116?uo=4",
+    "name": "Golden Hour",
+    "artist": "Kacey Musgraves",
+    "artist_id": 466044182,
+    "artwork_url_100": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/61/45/e8/6145e88a-6a79-fab1-ad8f-5ffdcbf44a28/18UMGIM03879.rgb.jpg/100x100bb.jpg",
+    "artwork_url_600": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/61/45/e8/6145e88a-6a79-fab1-ad8f-5ffdcbf44a28/18UMGIM03879.rgb.jpg/600x600bb.jpg",
+    "release_date": "2018-03-30T07:00:00Z",
+    "track_count": 14,
+    "copyright": "A MCA Nashville Release; \u2117 2018 UMG Recordings, Inc.",
+    "primary_genre": "Country",
+    "country": "USA",
+    "tracks": [
+      {
+        "track_number": 1,
+        "disc_number": 1,
+        "name": "Slow Burn",
+        "duration_ms": 246053,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/48/8d/f0/488df0f1-a7b6-845d-6374-e9e1ea624df2/mzaf_9984810318127629642.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/slow-burn/1440918116?i=1440918117&uo=4"
+      },
+      {
+        "track_number": 2,
+        "disc_number": 1,
+        "name": "Lonely Weekend",
+        "duration_ms": 226667,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/04/5d/e6/045de6bc-baf7-1c78-4658-fde1482a549f/mzaf_11156316275941738817.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/lonely-weekend/1440918116?i=1440918119&uo=4"
+      },
+      {
+        "track_number": 3,
+        "disc_number": 1,
+        "name": "Butterflies",
+        "duration_ms": 219053,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f3/55/6e/f3556e13-ce38-633c-5b9d-47a186d48740/mzaf_10515384903353168153.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/butterflies/1440918116?i=1440918120&uo=4"
+      },
+      {
+        "track_number": 4,
+        "disc_number": 1,
+        "name": "Oh, What a World",
+        "duration_ms": 241467,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a6/ad/a7/a6ada734-e559-5377-ceed-27d47ae10b3a/mzaf_15298078107429419622.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/oh-what-a-world/1440918116?i=1440918122&uo=4"
+      },
+      {
+        "track_number": 5,
+        "disc_number": 1,
+        "name": "Mother",
+        "duration_ms": 78187,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b0/d2/9d/b0d29d49-eedc-fb6e-982f-2383bd11f923/mzaf_14861121678700293148.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/mother/1440918116?i=1440918123&uo=4"
+      },
+      {
+        "track_number": 6,
+        "disc_number": 1,
+        "name": "Love Is a Wild Thing",
+        "duration_ms": 256147,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/34/a3/8d/34a38d34-1254-febf-0bb7-a8a5bb74fc18/mzaf_14983723046146790403.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/love-is-a-wild-thing/1440918116?i=1440918124&uo=4"
+      },
+      {
+        "track_number": 7,
+        "disc_number": 1,
+        "name": "Space Cowboy",
+        "duration_ms": 216280,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/61/62/d6/6162d6dd-47c6-3dff-ce38-694dfc92eded/mzaf_2403617587533963416.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/space-cowboy/1440918116?i=1440918126&uo=4"
+      },
+      {
+        "track_number": 8,
+        "disc_number": 1,
+        "name": "Happy & Sad",
+        "duration_ms": 243187,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/26/a0/26/26a02674-3997-c6bb-1b89-733ead432236/mzaf_11121404869140064220.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/happy-sad/1440918116?i=1440918128&uo=4"
+      },
+      {
+        "track_number": 9,
+        "disc_number": 1,
+        "name": "Velvet Elvis",
+        "duration_ms": 154387,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/58/4a/e9/584ae911-378d-472b-c6fc-fece62d37eab/mzaf_10427168974041119148.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/velvet-elvis/1440918116?i=1440918130&uo=4"
+      },
+      {
+        "track_number": 10,
+        "disc_number": 1,
+        "name": "Wonder Woman",
+        "duration_ms": 240427,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a9/24/66/a92466ab-c1dc-21ab-ab20-75fe73526845/mzaf_11271256747161197495.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/wonder-woman/1440918116?i=1440918401&uo=4"
+      },
+      {
+        "track_number": 11,
+        "disc_number": 1,
+        "name": "High Horse",
+        "duration_ms": 213693,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/4a/6c/6f/4a6c6f00-77a2-a663-2c5c-1b8a2a2a549a/mzaf_12052020873115991403.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/high-horse/1440918116?i=1440918403&uo=4"
+      },
+      {
+        "track_number": 12,
+        "disc_number": 1,
+        "name": "Golden Hour",
+        "duration_ms": 198453,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/13/b0/60/13b0606a-c0b0-cb0b-1ad6-99b0ee1cfdde/mzaf_16374977868908357245.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/golden-hour/1440918116?i=1440918404&uo=4"
+      },
+      {
+        "track_number": 13,
+        "disc_number": 1,
+        "name": "Rainbow",
+        "duration_ms": 214293,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/59/7c/95/597c9582-552d-f75b-da22-7e57abe0add5/mzaf_17841815606680851676.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/rainbow/1440918116?i=1440918405&uo=4"
+      }
+    ]
+  },
+  "discrepancies": [
+    "Release year differs: your pressing=2021, Apple Music edition=2018. Apple Music typically streams the most recent remaster."
+  ],
+  "local_cover": "images/22109113.jpg"
+}

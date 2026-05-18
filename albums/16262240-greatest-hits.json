@@ -1,0 +1,512 @@
+{
+  "captured_at": "2026-05-17T23:42:11+00:00",
+  "schema_version": 3,
+  "artist": "Queen",
+  "title": "Greatest Hits",
+  "original_release_year": 1981,
+  "pressing_year": 2020,
+  "upgrade_suggestion": "This IS the upgrade — the 2020 Abbey Road half-speed remaster is the definitive vinyl edition of this compilation. No further upgrade needed.",
+  "commentary": "The best-selling album in UK chart history — Queen's 1981 greatest hits, seventeen essential tracks. 2020 half-speed remaster at Abbey Road Studios, Room 30 (MILES). Double LP, 180g on Hollywood/UMe (D003654901). Matrix 1322290 / 1893285E1. Among the best-sounding modern Queen pressings available — same facility and process as the Police Greatest Hits half-speed in this collection.",
+  "discogs": {
+    "release_id": 16262240,
+    "master_id": 7941,
+    "uri": "https://www.discogs.com/release/16262240-Queen-Greatest-Hits",
+    "title": "Greatest Hits",
+    "artists": [
+      {
+        "name": "Queen",
+        "id": 81013,
+        "role": null
+      }
+    ],
+    "year": 2020,
+    "released": "2020",
+    "country": "US",
+    "labels": [
+      {
+        "name": "Hollywood Records",
+        "catno": "D003654901",
+        "id": 2859
+      }
+    ],
+    "formats": [
+      {
+        "name": "Vinyl",
+        "qty": "2",
+        "descriptions": [
+          "LP",
+          "Compilation",
+          "Limited Edition",
+          "Reissue",
+          "Stereo"
+        ],
+        "text": "Red w/ Orange Swirl [Ruby Blend]"
+      }
+    ],
+    "genres": [
+      "Rock",
+      "Pop"
+    ],
+    "styles": [
+      "Arena Rock",
+      "Hard Rock",
+      "Pop Rock",
+      "Classic Rock",
+      "Rock & Roll",
+      "Glam"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Bohemian Rhapsody",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "A2",
+        "title": "Another One Bites The Dust",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "A3",
+        "title": "Killer Queen",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "A4",
+        "title": "Fat Bottomed Girls",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B1",
+        "title": "Bicycle Race",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B2",
+        "title": "You're My Best Friend",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B3",
+        "title": "Don't Stop Me Now",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B4",
+        "title": "Save Me",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "C1",
+        "title": "Crazy Little Thing Called Love",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "C2",
+        "title": "Somebody To Love",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "C3",
+        "title": "Now I'm Here",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "C4",
+        "title": "Good Old Fashioned Lover Boy",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "D1",
+        "title": "Play The Game",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "D2",
+        "title": "Flash",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "D3",
+        "title": "Seven Seas Of Rhye",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "D4",
+        "title": "We Will Rock You",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "D5",
+        "title": "We Are The Champions",
+        "duration": "",
+        "type": "track"
+      }
+    ],
+    "extraartists": [
+      {
+        "name": "John Deacon",
+        "role": "Bass Guitar",
+        "id": 268365
+      },
+      {
+        "name": "Roger Taylor",
+        "role": "Drums, Vocals",
+        "id": 208268
+      },
+      {
+        "name": "Mack (2)",
+        "role": "Engineer, Co-producer",
+        "id": 160129
+      },
+      {
+        "name": "Brian May",
+        "role": "Guitar, Vocals",
+        "id": 253217
+      },
+      {
+        "name": "Miles Showell",
+        "role": "Lacquer Cut By",
+        "id": 383408
+      },
+      {
+        "name": "Lord Snowdon",
+        "role": "Photography By",
+        "id": 2263011
+      },
+      {
+        "name": "Brian May",
+        "role": "Producer",
+        "id": 253217
+      },
+      {
+        "name": "Mack (2)",
+        "role": "Producer",
+        "id": 160129
+      },
+      {
+        "name": "Queen",
+        "role": "Producer",
+        "id": 81013
+      },
+      {
+        "name": "Roy Thomas Baker",
+        "role": "Producer",
+        "id": 164557
+      },
+      {
+        "name": "Mike Stone",
+        "role": "Producer [Assisted By]",
+        "id": 94526
+      },
+      {
+        "name": "Cream (7)",
+        "role": "Sleeve, Design",
+        "id": 1105229
+      },
+      {
+        "name": "Freddie Mercury",
+        "role": "Vocals, Piano",
+        "id": 79949
+      },
+      {
+        "name": "Brian May",
+        "role": "Written-By",
+        "id": 253217
+      },
+      {
+        "name": "Freddie Mercury",
+        "role": "Written-By",
+        "id": 79949
+      },
+      {
+        "name": "John Deacon",
+        "role": "Written-By",
+        "id": 268365
+      }
+    ],
+    "identifiers": [
+      {
+        "type": "Barcode",
+        "value": "050087470630",
+        "description": null
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "189325E1/A4 A9 MILES. ABBEY ROAD 1/2 SPEED. ROOM 30.",
+        "description": "Side A runout"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "189325E2/A8 6B MILES. ABBEY ROAD 1/2 SPEED. ROOM 30.",
+        "description": "Side B runout"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "189326E1/A7 C1O MILES. ABBEY ROAD 1/2 SPEED. ROOM 30.",
+        "description": "Side C runout"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "189326E2/A6 D10 MILES. ABBEY ROAD 1/2 SPEED. ROOM 30.",
+        "description": "Side D runout"
+      }
+    ],
+    "notes": "Hype sticker: Target exclusive limited edition collectible 2-LP set on a ruby blend color vinyl\n\nRunouts:\n189325E1/A4, 189325E2/A8, 189326E1/A7, and 189326E2/A6 are stamped. The rest are etched.",
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/Ez3tEXDBat-fNpxbhmbZkepeD4zkVLoCctwl5UhPHzA/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjYy/MjQwLTE3NjQyODM1/MTYtNzAwOS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/qllk2oo8wYjylWi9UhdIvQqPX4V33KVUH-z4Ay85weQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjYy/MjQwLTE3NjQyODM1/MTYtNzAwOS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/j1qFdzHKLZw4aKdvw507Okd-wpOXnHh9A9FiYo9hFWg/rs:fit/g:sm/q:90/h:284/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjYy/MjQwLTE3NjQyODM1/MTYtNTc1Mi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/HSYieQf6Yq7bFy0IcpBdslEdbIqkHKVtQrROcpAnDT4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjYy/MjQwLTE3NjQyODM1/MTYtNTc1Mi5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/D3nUNFDf8osnZBY-Q6Y3vcqOMDxvR2BfVqcYit4F9FA/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjYy/MjQwLTE3NjQyODM1/MTYtNTcyMi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/xLTe5cXONHpTe2mm_17T-HM2xY_YIz5dgEjn_GSTdug/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjYy/MjQwLTE3NjQyODM1/MTYtNTcyMi5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/zcaOZWtQYntR5dH2Ws-i7XktOqnUyVrCd1Y5vnotnn4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjYy/MjQwLTE2MTgwNjg4/MjgtMjkzOC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/Ry2pZgpekdyQF4wIhZAErNt4NCMjGoK0GVIsSTVaeVc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjYy/MjQwLTE2MTgwNjg4/MjgtMjkzOC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/S7nKanSTnU1YRyH0IXRpssBxe2C-NXR1B54RxuyMK6E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjYy/MjQwLTE2MTgwNjg4/MzctMzI2Ni5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/yHI9ZFMZg9DIaV5ImsdKg_8YovcPQJhXtyPkki4-1gs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjYy/MjQwLTE2MTgwNjg4/MzctMzI2Ni5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/M3_TEleRPBYWl9be_PuIKcjSKcmzSDAdZ2Ovi99eDb4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjYy/MjQwLTE2MTgwNjg4/NDctMjAxOC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/4hTcRcXH-XCTQh3TjiFSBHJxB9CqoNj9yv0Coz62dnQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjYy/MjQwLTE2MTgwNjg4/NDctMjAxOC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/Tszj33YkxfyKtg_lFfoc5uVcY_EC8bvA_XwrJv2dVng/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjYy/MjQwLTE2MTgwNjg4/NTUtOTUxNy5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/DTGnvGQZ3fTemMFcni_Rj-mkeX62wQ2MIVtKrGJxXAI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjYy/MjQwLTE2MTgwNjg4/NTUtOTUxNy5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/9P_iki_jC7TqptF4XoDr3XqNTumA9KM0skOoE2Dpicw/rs:fit/g:sm/q:90/h:600/w:586/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjYy/MjQwLTE2MDY1MzMx/ODYtNzEzOS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/go3fBjl5Egg-roz5ok5oTjdhsrO580ttv7IoJDlSCHg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjYy/MjQwLTE2MDY1MzMx/ODYtNzEzOS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/Z-T783byKqDcg2_kUXsqbo_F-TXOP7uRGz_LWbq3Sk8/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjYy/MjQwLTE2MDY1MzMx/ODktNTQ5Mi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/J0POzKtQd7cTWrpaTxIQRzHSseBCgHypzwQEizC83IA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjYy/MjQwLTE2MDY1MzMx/ODktNTQ5Mi5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/jX10DuA2k-k0BmJL2HhaOJ0NouPmWmKNFit9LURRf0A/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjYy/MjQwLTE2MDY1MzMx/OTItMTc5NS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/9Ny8EBaOy488NkCDUhGViFVM8-ZNkgecVM1CaiAIoFU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjYy/MjQwLTE2MDY1MzMx/OTItMTc5NS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/k6qC5gL4cpo1cxyQ0TnfXKNRy1fiDFfpbR2E3g0woYQ/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjYy/MjQwLTE2MDY1MzMx/OTQtODE3MC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/raXQ9gY57O1KSOt7rr01cUj0hATPN3Qsdzq05Hko0eM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjYy/MjQwLTE2MDY1MzMx/OTQtODE3MC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/tDQB08Y55dGG_ZCI8gn-qvRy1Is-4VR-WqvZ8zCghQs/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjYy/MjQwLTE2MDY1MzMx/NTgtOTQ1OS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/S7VKTSm2GeP4yaqqJ7HI6_6eg2Rk9p47bw0DaXKr-Dc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjYy/MjQwLTE2MDY1MzMx/NTgtOTQ1OS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/V5lA4YYNZ_QSEwkARs-DC31tKmBTECYdr00bqE8X4ZA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjYy/MjQwLTE2MTgwNjg4/NjMtODE5My5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/sEGN3Y9F2_eSZj6OIDroK2HilOM9MYaGMuSolbqyUM4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjYy/MjQwLTE2MTgwNjg4/NjMtODE5My5qcGVn.jpeg"
+      }
+    ],
+    "community": {
+      "rating": {
+        "count": 708,
+        "average": 4.64
+      },
+      "have": 14062,
+      "want": 860
+    },
+    "master": {
+      "id": 7941,
+      "title": "Greatest Hits",
+      "main_release": 376152,
+      "year": 1981,
+      "uri": "https://www.discogs.com/master/7941-Queen-Greatest-Hits",
+      "num_for_sale": 3816
+    }
+  },
+  "apple_music": {
+    "id": 1422650667,
+    "url": "https://music.apple.com/us/album/greatest-hits-1981-uk-edition/1422650667?uo=4",
+    "name": "Greatest Hits (1981 UK Edition)",
+    "artist": "Queen",
+    "artist_id": 3296287,
+    "artwork_url_100": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/fb/93/0f/fb930f12-74b1-ef6e-774e-fb22302f33e9/14DMGIM05636.rgb.jpg/100x100bb.jpg",
+    "artwork_url_600": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/fb/93/0f/fb930f12-74b1-ef6e-774e-fb22302f33e9/14DMGIM05636.rgb.jpg/600x600bb.jpg",
+    "release_date": "1981-10-26T08:00:00Z",
+    "track_count": 18,
+    "copyright": "This Compilation ℗ 2014 Hollywood Records, Inc.",
+    "primary_genre": "Rock",
+    "country": "USA",
+    "tracks": [
+      {
+        "track_number": 1,
+        "disc_number": 1,
+        "name": "Bohemian Rhapsody",
+        "duration_ms": 355145,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c9/91/52/c991525e-79dc-8006-5587-d2b02c8dc3e1/mzaf_12863426885889243409.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/bohemian-rhapsody/1422650667?i=1422650797&uo=4"
+      },
+      {
+        "track_number": 2,
+        "disc_number": 1,
+        "name": "Another One Bites the Dust",
+        "duration_ms": 215336,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1a/62/71/1a627173-6ec3-e005-3b05-4f0e25c052f6/mzaf_14180784583244350368.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/another-one-bites-the-dust/1422650667?i=1422650798&uo=4"
+      },
+      {
+        "track_number": 3,
+        "disc_number": 1,
+        "name": "Killer Queen",
+        "duration_ms": 181024,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/bd/21/23/bd212316-088f-3c56-eb94-dfcb555b974a/mzaf_567146505261406701.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/killer-queen/1422650667?i=1422650799&uo=4"
+      },
+      {
+        "track_number": 4,
+        "disc_number": 1,
+        "name": "Fat Bottomed Girls (Single Version)",
+        "duration_ms": 203213,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/69/b5/95/69b59598-e4ca-9b65-e133-ebcf37f002b5/mzaf_16615674854377911615.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/fat-bottomed-girls-single-version/1422650667?i=1422650800&uo=4"
+      },
+      {
+        "track_number": 5,
+        "disc_number": 1,
+        "name": "Bicycle Race",
+        "duration_ms": 181201,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/01/f4/67/01f46721-4dd9-8594-89e3-f2d818dff01b/mzaf_14605482503277757107.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/bicycle-race/1422650667?i=1422650892&uo=4"
+      },
+      {
+        "track_number": 6,
+        "disc_number": 1,
+        "name": "You're My Best Friend",
+        "duration_ms": 172923,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d5/8c/55/d58c5581-ef12-06f4-addb-1d1e20fd7256/mzaf_16181133116482675714.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/youre-my-best-friend/1422650667?i=1422650893&uo=4"
+      },
+      {
+        "track_number": 7,
+        "disc_number": 1,
+        "name": "Don't Stop Me Now",
+        "duration_ms": 210333,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/12/de/f7/12def726-404f-406b-69f9-e67f5c522ea4/mzaf_12129876275693092751.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/dont-stop-me-now/1422650667?i=1422650896&uo=4"
+      },
+      {
+        "track_number": 8,
+        "disc_number": 1,
+        "name": "Save Me (Single Version)",
+        "duration_ms": 228009,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b5/03/bf/b503bf8c-3bf7-1a31-95c7-975e520724d4/mzaf_2755598296954110414.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/save-me-single-version/1422650667?i=1422650897&uo=4"
+      },
+      {
+        "track_number": 9,
+        "disc_number": 1,
+        "name": "Crazy Little Thing Called Love",
+        "duration_ms": 164904,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f4/f4/4d/f4f44dfc-134e-0e51-30ed-9cf1538caf97/mzaf_1773354192077921797.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/crazy-little-thing-called-love/1422650667?i=1422650898&uo=4"
+      },
+      {
+        "track_number": 10,
+        "disc_number": 1,
+        "name": "Somebody to Love",
+        "duration_ms": 297017,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/6c/0e/19/6c0e1918-a6c2-588f-c474-51b0424e64b9/mzaf_12388210298430179312.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/somebody-to-love/1422650667?i=1422650900&uo=4"
+      },
+      {
+        "track_number": 11,
+        "disc_number": 1,
+        "name": "Now I'm Here",
+        "duration_ms": 254925,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c2/e5/fa/c2e5fae6-65f5-a372-35ee-f8a8a6b48d31/mzaf_7378582745627610064.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/now-im-here/1422650667?i=1422650901&uo=4"
+      },
+      {
+        "track_number": 12,
+        "disc_number": 1,
+        "name": "Good Old-Fashioned Lover Boy",
+        "duration_ms": 172978,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/68/4d/0a/684d0a27-9a3a-260a-4b9d-ee112cb5b502/mzaf_6875539912021534686.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/good-old-fashioned-lover-boy/1422650667?i=1422650903&uo=4"
+      },
+      {
+        "track_number": 13,
+        "disc_number": 1,
+        "name": "Play the Game",
+        "duration_ms": 213542,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c0/d3/ec/c0d3ec3b-b3ed-301c-938f-6ffd0a5fb488/mzaf_8169581625622732590.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/play-the-game/1422650667?i=1422650904&uo=4"
+      },
+      {
+        "track_number": 14,
+        "disc_number": 1,
+        "name": "Flash",
+        "duration_ms": 168541,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/00/25/67/002567b1-6e60-eed3-ad12-e5b13fc76271/mzaf_13393877719976711122.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/flash/1422650667?i=1422650905&uo=4"
+      },
+      {
+        "track_number": 15,
+        "disc_number": 1,
+        "name": "Seven Seas of Rhye",
+        "duration_ms": 167529,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/65/cd/80/65cd802e-4bfe-de1b-5a4f-a1e9de9d2cb7/mzaf_7008993579295515669.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/seven-seas-of-rhye/1422650667?i=1422650906&uo=4"
+      },
+      {
+        "track_number": 16,
+        "disc_number": 1,
+        "name": "We Will Rock You",
+        "duration_ms": 122123,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/38/0a/ee/380aeed6-ec8b-b07a-061f-15e77a6ca61a/mzaf_9087627373699646427.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/we-will-rock-you/1422650667?i=1422650907&uo=4"
+      },
+      {
+        "track_number": 17,
+        "disc_number": 1,
+        "name": "We Are the Champions",
+        "duration_ms": 180190,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d3/84/5e/d3845eb6-30fb-03bb-5fa9-4eeccbee76b7/mzaf_11980088510928983887.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/we-are-the-champions/1422650667?i=1422651045&uo=4"
+      }
+    ]
+  },
+  "discrepancies": [
+    "Release year differs: your pressing=2020, Apple Music edition=1981. Apple Music typically streams the most recent remaster."
+  ],
+  "local_cover": "images/16262240.jpg"
+}

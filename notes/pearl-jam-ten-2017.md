@@ -1,0 +1,9 @@
+**Ten** is Pearl Jam's debut studio album, released in August 1991 on Epic Records, and one of the defining documents of the grunge era. Produced by Rick Parashar and Jeff Ament, it arrived weeks after Nirvana's *Nevermind* and together the two albums shifted the entire axis of mainstream rock. "Alive," "Even Flow," "Black," "Jeremy," "Oceans," and "Release" introduced Eddie Vedder's extraordinary baritone and the band's muscular, emotionally intense approach to hard rock. The album sold over 13 million copies in the US alone, making it one of the best-selling debut albums in history.
+
+What sets *Ten* apart from its grunge contemporaries is its ambition — Rick Parashar's production is big and anthemic rather than lo-fi and abrasive, giving the album a cinematic quality that made it accessible to a massive audience without diluting its emotional power. Vedder's vocal performances remain some of the most committed in rock history, and Stone Gossard and Mike McCready's guitar interplay defined a template for the decade.
+
+Pearl Jam famously keeps their catalog off streaming services, making vinyl the primary way to hear this album outside of CD, which gives physical ownership of *Ten* particular significance for fans.
+
+The **2017 reissue** (Epic / Legacy catalog **88697413021**) was pressed at **MPO** (France) with lacquer cut at **Sterling Sound** (SST) — an excellent quality combination. The batch code `® 21 201792` confirms this specific pressing was manufactured in 2021 from the 2017 lacquers. MPO's quality control and Sterling Sound's mastering make this a superior modern pressing.
+
+**About this 2017/2021 Europe pressing (Vinyl, LP, Reissue):** Epic / Legacy catalog **88697413021**, 2017 reissue pressed at MPO (France) in 2021. Mastered at Sterling Sound (SST). Barcode 889853768714. Matrix 88697413021-A 15-0365 NL Kr SST MPO ® 21.

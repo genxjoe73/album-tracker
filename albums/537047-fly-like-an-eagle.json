@@ -1,0 +1,485 @@
+{
+  "captured_at": "2026-05-17T23:10:44+00:00",
+  "schema_version": 3,
+  "artist": "Steve Miller Band",
+  "title": "Fly Like An Eagle",
+  "original_release_year": 1976,
+  "pressing_year": 1976,
+  "upgrade_suggestion": "Mobile Fidelity MFSL 1-021 (1979) is the audiophile half-speed master benchmark. Early KP (Ken Perry) Capitol stampers from the original 1976 pressing are also highly regarded \u2014 your F38 stamper is a later lacquer generation from the same cutting session.",
+  "commentary": "**Fly Like an Eagle** is Steve Miller Band's tenth studio album, released in May 1976 on Capitol Records, and the commercial breakthrough that transformed Miller from a respected San Francisco psychedelic rock veteran into a mainstream superstar. The album produced three Top 10 singles \u2014 \"Fly Like an Eagle,\" \"Rock'n Me,\" and \"Take the Money and Run\" \u2014 and reached #3 on the Billboard 200. Its blend of smooth, hook-driven rock, subtle funk influences, and Miller's laid-back California delivery defined a template for late-1970s FM rock that countless artists would follow.\n\nThe album has an effortless quality that belies its craft \u2014 Miller's production is deceptively simple, with space and warmth built into every track. The title track's synthesizer intro and groove-locked rhythm section, \"Rock'n Me\"'s Chuck Berry-influenced swagger, and the storytelling efficiency of \"Take the Money and Run\" showcase a songwriter and bandleader at the height of his powers. The album has sold over 10 million copies worldwide.\n\nThis **1976 original US Capitol pressing** (catalog **ST-11497**) was mastered at Capitol Studios in Hollywood \u2014 one of the great recording and mastering facilities in American music. The matrix `ST-1-11497-F38 #3` identifies this as a Capitol-mastered pressing, with `F38` indicating the lacquer generation from the original cutting session. Capitol's in-house mastering consistently produced warm, smooth pressings well-suited to Miller's sonic aesthetic.\n\n**About this 1976 US pressing (Vinyl, LP):** Capitol Records catalog **ST-11497**, original 1976 US pressing. Mastered by Capitol Studios. Matrix ST-1-11497-F38 #3.\n",
+  "discogs": {
+    "release_id": 537047,
+    "master_id": 82406,
+    "uri": "https://www.discogs.com/release/537047-Steve-Miller-Band-Fly-Like-An-Eagle",
+    "title": "Fly Like An Eagle",
+    "artists": [
+      {
+        "name": "Steve Miller Band",
+        "id": 29815,
+        "role": null
+      }
+    ],
+    "year": 1976,
+    "released": "1976",
+    "country": "US",
+    "labels": [
+      {
+        "name": "Capitol Records",
+        "catno": "ST-11497",
+        "id": 654
+      }
+    ],
+    "formats": [
+      {
+        "name": "Vinyl",
+        "qty": "1",
+        "descriptions": [
+          "LP",
+          "Album"
+        ],
+        "text": "Jacksonville Pressing"
+      }
+    ],
+    "genres": [
+      "Rock",
+      "Pop"
+    ],
+    "styles": [
+      "Classic Rock",
+      "Blues Rock",
+      "Pop Rock",
+      "Psychedelic Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Space Intro",
+        "duration": "1:15",
+        "type": "track"
+      },
+      {
+        "position": "A2",
+        "title": "Fly Like An Eagle",
+        "duration": "4:42",
+        "type": "track"
+      },
+      {
+        "position": "A3",
+        "title": "Wild Mountain Honey",
+        "duration": "4:50",
+        "type": "track"
+      },
+      {
+        "position": "A4",
+        "title": "Serenade",
+        "duration": "3:10",
+        "type": "track"
+      },
+      {
+        "position": "A5",
+        "title": "Dance, Dance, Dance",
+        "duration": "2:16",
+        "type": "track"
+      },
+      {
+        "position": "A6",
+        "title": "Mercury Blues",
+        "duration": "3:43",
+        "type": "track"
+      },
+      {
+        "position": "B1",
+        "title": "Take The Money And Run",
+        "duration": "2:48",
+        "type": "track"
+      },
+      {
+        "position": "B2",
+        "title": "Rock 'N Me",
+        "duration": "3:05",
+        "type": "track"
+      },
+      {
+        "position": "B3",
+        "title": "You Send Me",
+        "duration": "2:40",
+        "type": "track"
+      },
+      {
+        "position": "B4",
+        "title": "Blue Odyssey",
+        "duration": "1:00",
+        "type": "track"
+      },
+      {
+        "position": "B5",
+        "title": "Sweet Maree",
+        "duration": "4:16",
+        "type": "track"
+      },
+      {
+        "position": "B6",
+        "title": "The Window",
+        "duration": "4:19",
+        "type": "track"
+      }
+    ],
+    "extraartists": [
+      {
+        "name": "John Van Hamersveld",
+        "role": "Artwork [Art]",
+        "id": 1603134
+      },
+      {
+        "name": "Mario Casarini",
+        "role": "Artwork [Art]",
+        "id": 2786459
+      },
+      {
+        "name": "Lonnie Turner",
+        "role": "Bass",
+        "id": 402537
+      },
+      {
+        "name": "Gary Mallaber",
+        "role": "Drums, Percussion",
+        "id": 306264
+      },
+      {
+        "name": "Mike Fusaro",
+        "role": "Engineer [Track Engineer]",
+        "id": 387876
+      },
+      {
+        "name": "John Palladino",
+        "role": "Executive-Producer",
+        "id": 277269
+      },
+      {
+        "name": "Win Kutz",
+        "role": "Mastered By [Master Mix Assisted By]",
+        "id": 654125
+      },
+      {
+        "name": "Jim Gaines",
+        "role": "Mastered By [Master Mix]",
+        "id": 263000
+      },
+      {
+        "name": "David Stahl (2)",
+        "role": "Photography By [Back]",
+        "id": 2240509
+      },
+      {
+        "name": "Susan McCardle",
+        "role": "Photography By [Front]",
+        "id": 2240479
+      },
+      {
+        "name": "Steve Miller",
+        "role": "Producer",
+        "id": 58862
+      },
+      {
+        "name": "Steve Miller",
+        "role": "Vocals, Guitar, Synthesizer [Roland], Sitar",
+        "id": 58862
+      }
+    ],
+    "identifiers": [
+      {
+        "type": "Pressing Plant ID",
+        "value": "0",
+        "description": "Stamped in runout areas"
+      },
+      {
+        "type": "Rights Society",
+        "value": "ASCAP",
+        "description": null
+      },
+      {
+        "type": "Rights Society",
+        "value": "BMI",
+        "description": null
+      },
+      {
+        "type": "Price Code",
+        "value": "0698",
+        "description": null
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST 1-11497",
+        "description": "Label Side A"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST 2-11497",
+        "description": "Label Side B"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST-1-11497-F38 #3",
+        "description": "Variation 1 Hand Etched Side A"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST-2-11497-Z12#2",
+        "description": "Variation 1 Hand Etched Side A"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "KENDUN -B-",
+        "description": "Variation 1 Additional Runout Marking Side B Stamped -B- Hand Etched"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST-1-11497-Z11",
+        "description": "Variation 2 Hand Etched Side A"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST-2-11497-Z11 #2",
+        "description": "Variation 2 Hand Etched Side B"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "KENDUN -A-",
+        "description": "Variation 2 Stamped In Side A & B"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST1 11497 F22 #5  MASTERED BY CAPITOL  0",
+        "description": "Variation 3 Side A: Etched, & 0 MASTERED BY CAPITOL & 0  stamped"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST-2-11497- Z10 \u00b2 #4  KENDUN -B-  0",
+        "description": "Variation 3 Side B: Etched, KENDUN & 0  stamped"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST-1-11497-F-27\u2022   MASTERED AT CAPITOL",
+        "description": "Variation 4 Side A: Etched, MASTERED BY CAPITOL  stamped"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST-2-11497- Z14 0  KENDUN -B-  C1",
+        "description": "Variation 4 Side B: Etched, KENDUN & C1  stamped"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST-2-11497- Z13 - KENDUN -A- 2",
+        "description": "Variation 6 Hand Etched Side A, KENDUN &2 stamped"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST-2-11497- Z14 KENDUN -B- !",
+        "description": "Variation 6 Side B: Etched, KENDUN stamped"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST-1-11497-Z10 #1 KENDUN -B- 0",
+        "description": "Variation 7 Hand Etched Side A, KENDUN Stamped and 0 stamped"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST-2-11497-Z10 #2 KENDUN -B- 0",
+        "description": "Variation 7 Hand Etched Side B, KENDUN stamped and 0 stamped"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST-1-11497- Z14 KENDUN -B- .- ",
+        "description": "Variation 8 Side A: Etched, KENDUN stamped"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST-2-11497- Z13 KENDUN -A- 2",
+        "description": "Variation 8 Side B: Etched, KENDUN stamped"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST-1-11497-G-32 3 MASTERED BY CAPITAL",
+        "description": "Variation 9 Side A: Etched, MASTERED BY CAPITAL & 3 stamped"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST-2-11497-Z14 KENDUN -B-  4",
+        "description": "Variation 9 Side B: Etched, KENDUN & 4 stamped"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST-1-11497-Z18 #5 KENDUN -A- 0",
+        "description": "Variation 10 Side A: Etched, KENDUN stamped"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST-2-11497-Z10 #2 KENDUN -B- 0",
+        "description": "Variation 10 Side B: Etched, KENDUN stamped"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST-1-11497 - F\u202231 o 2",
+        "description": "Variation 11 Side A: Etched & 0 stamped"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST-2-11497 - F-24\u2022 o 2",
+        "description": "Variation 11 Side B: Etched & 0 stamped"
+      }
+    ],
+    "notes": "Jacksonville pressing variant.\nManufactured by Haworth Enterprises\nA Haworth Enterprises production\n\u21171976 Haworth Enterprises\nCapitol is a registered trademark of Capitol Records, Inc., licensed to Haworth Enterprises\nAll songs ASCAP, \u00a91976 Sailor Music, except A6 \u00a91970 Tradition/B Flat Music Co./BMI and B3 \u00a91957 Kags Music Corp./BMI\nEngineered at C.B.S. San Francisco\nMaster mix at Kaye/Smith, Seattle",
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/-g5_7QhSIOfgkYuVyDj6W7cmlprY2GA-wFs9LSElJL0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNzA0/Ny0xNDI3MDUzMDE3/LTYzNTMucG5n.jpeg",
+        "uri150": "https://i.discogs.com/8iNvNMiaAImfaSDjKvNE8mjp3pH6mHM8qaNCPEHiBo4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNzA0/Ny0xNDI3MDUzMDE3/LTYzNTMucG5n.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/fPsizS6A-ZCiC6EdfFifvGmqWLZ1ADKxY5t7lY3AbwI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNzA0/Ny0xNDI3MDUzMDE4/LTM3NjAucG5n.jpeg",
+        "uri150": "https://i.discogs.com/YE892BD7qLLPgdOrDA1tapRFaL9bDD-C9OGVglJe8K8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNzA0/Ny0xNDI3MDUzMDE4/LTM3NjAucG5n.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/IdNsQMZjhV84xQ81arnnrmdFG25wCYKkvATlJH8phUw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNzA0/Ny0xMjY3MzI4ODk1/LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/Rs07E7EnG0SSzSU_J9XEAbwHnvBvC4JPaV5hYPhWRRE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNzA0/Ny0xMjY3MzI4ODk1/LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/Vv-Wody9qw0ieTWC_gZAUoXh4gZG4q-NRD9oa0i5Zss/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNzA0/Ny0xMjczNzUwNjUy/LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/M0I49iQVRpmA0zfBbsSlocLnfnja4Bnfv-qkh6b0OSE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNzA0/Ny0xMjczNzUwNjUy/LmpwZWc.jpeg"
+      }
+    ],
+    "community": {
+      "rating": {
+        "count": 1251,
+        "average": 4.15
+      },
+      "have": 23430,
+      "want": 2120
+    },
+    "master": {
+      "id": 82406,
+      "title": "Fly Like An Eagle",
+      "main_release": 537047,
+      "year": 1976,
+      "uri": "https://www.discogs.com/master/82406-Steve-Miller-Band-Fly-Like-An-Eagle",
+      "num_for_sale": 1732
+    }
+  },
+  "apple_music": {
+    "id": 1440832463,
+    "url": "https://music.apple.com/us/album/fly-like-an-eagle/1440832463?uo=4",
+    "name": "Fly Like an Eagle",
+    "artist": "Steve Miller Band",
+    "artist_id": 488933,
+    "artwork_url_100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/58/bc/73/58bc732d-8566-9626-f8da-2d9e54a3356e/13UMGIM43075.rgb.jpg/100x100bb.jpg",
+    "artwork_url_600": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/58/bc/73/58bc732d-8566-9626-f8da-2d9e54a3356e/13UMGIM43075.rgb.jpg/600x600bb.jpg",
+    "release_date": "1976-05-01T07:00:00Z",
+    "track_count": 12,
+    "copyright": "\u2117 2016 Haworth Enterprises",
+    "primary_genre": "Rock",
+    "country": "USA",
+    "tracks": [
+      {
+        "track_number": 1,
+        "disc_number": 1,
+        "name": "Space Intro",
+        "duration_ms": 75063,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/d4/4f/31/d44f312e-2c6b-174c-9384-d0113c9b6f4a/mzaf_5879901459984316763.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/space-intro/1440832463?i=1440832754&uo=4"
+      },
+      {
+        "track_number": 2,
+        "disc_number": 1,
+        "name": "Fly Like an Eagle",
+        "duration_ms": 282693,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/f4/e1/fe/f4e1fe4f-d36f-43ec-06b4-a5ac92ec9f68/mzaf_1791148543172798185.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/fly-like-an-eagle/1440832463?i=1440832763&uo=4"
+      },
+      {
+        "track_number": 3,
+        "disc_number": 1,
+        "name": "Wild Mountain Honey",
+        "duration_ms": 289973,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/12/f2/24/12f22483-42a2-6b44-1d76-9e5070868d47/mzaf_1906664849150857454.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/wild-mountain-honey/1440832463?i=1440832776&uo=4"
+      },
+      {
+        "track_number": 4,
+        "disc_number": 1,
+        "name": "Serenade",
+        "duration_ms": 191067,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/16/f6/ad/16f6ad42-526a-8e61-7ff0-9e9d2079b1c7/mzaf_5254136312032590331.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/serenade/1440832463?i=1440832780&uo=4"
+      },
+      {
+        "track_number": 5,
+        "disc_number": 1,
+        "name": "Dance, Dance, Dance",
+        "duration_ms": 137400,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/43/21/af/4321affe-4de7-39cc-8854-b416c23cdc9e/mzaf_16852666235013799213.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/dance-dance-dance/1440832463?i=1440833147&uo=4"
+      },
+      {
+        "track_number": 6,
+        "disc_number": 1,
+        "name": "Mercury Blues",
+        "duration_ms": 223027,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/5a/63/6b/5a636b27-54c1-4ce8-4557-d385a0db2175/mzaf_7112353959286073581.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/mercury-blues/1440832463?i=1440833154&uo=4"
+      },
+      {
+        "track_number": 7,
+        "disc_number": 1,
+        "name": "Take the Money and Run",
+        "duration_ms": 170173,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/76/c4/66/76c4663a-4ac6-2ee1-7523-fd52e13df8d0/mzaf_11277226215700845760.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/take-the-money-and-run/1440832463?i=1440833161&uo=4"
+      },
+      {
+        "track_number": 8,
+        "disc_number": 1,
+        "name": "Rock'n Me",
+        "duration_ms": 187067,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/c9/c2/cb/c9c2cbe9-d29a-db30-1c69-0874e3d5f164/mzaf_16345943969538884167.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/rockn-me/1440832463?i=1440833169&uo=4"
+      },
+      {
+        "track_number": 9,
+        "disc_number": 1,
+        "name": "You Send Me",
+        "duration_ms": 162360,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/b2/7b/62/b27b6279-8bfa-ffc1-c69c-da0690bbbedb/mzaf_288448389017725033.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/you-send-me/1440832463?i=1440833390&uo=4"
+      },
+      {
+        "track_number": 10,
+        "disc_number": 1,
+        "name": "Blue Odyssey",
+        "duration_ms": 50431,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/9a/03/18/9a031837-9b4b-f5bf-bdb3-27feffbeabcc/mzaf_13793098103430812834.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/blue-odyssey/1440832463?i=1440833399&uo=4"
+      },
+      {
+        "track_number": 11,
+        "disc_number": 1,
+        "name": "Sweet Maree",
+        "duration_ms": 256807,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/a0/0a/57/a00a5758-3e07-801a-6757-553f1f4dfb79/mzaf_12637717711469098056.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/sweet-maree/1440832463?i=1440833404&uo=4"
+      },
+      {
+        "track_number": 12,
+        "disc_number": 1,
+        "name": "The Window",
+        "duration_ms": 256933,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/7d/7e/2a/7d7e2a4a-e8d8-31cd-062d-a41f3051b72b/mzaf_17558756258791731964.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/the-window/1440832463?i=1440833409&uo=4"
+      }
+    ]
+  },
+  "discrepancies": [],
+  "local_cover": "images/537047.jpg"
+}

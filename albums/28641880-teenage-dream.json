@@ -1,0 +1,524 @@
+{
+  "captured_at": "2026-05-17T23:25:47+00:00",
+  "schema_version": 3,
+  "artist": "Katy Perry",
+  "title": "Teenage Dream",
+  "original_release_year": 2010,
+  "pressing_year": 2023,
+  "upgrade_suggestion": "This 2023 Capitol/UMe reissue (Czech pressing) is a solid modern repress. Mastered by Brian Gardner. No audiophile upgrade currently exists — no 45RPM, MOFI, or half-speed edition has been issued.",
+  "commentary": "Katy Perry's commercial peak — the first album by a female artist to produce five Billboard Hot 100 number-one singles (\"California Gurls,\" \"Teenage Dream,\" \"Firework,\" \"E.T.,\" \"Last Friday Night\"), tying Michael Jackson's Bad. Max Martin and Dr. Luke's production is pristine pop architecture. 2023 reissue on Capitol/UMe (B003807801) pressed in Czech Republic. Cotton candy pink vinyl. Mastered by Brian Gardner. Matrix 10-97385 / 846011.",
+  "discogs": {
+    "release_id": 28641880,
+    "master_id": 271611,
+    "uri": "https://www.discogs.com/release/28641880-Katy-Perry-Teenage-Dream",
+    "title": "Teenage Dream",
+    "artists": [
+      {
+        "name": "Katy Perry",
+        "id": 971243,
+        "role": null
+      }
+    ],
+    "year": 2023,
+    "released": "2023-10-20",
+    "country": "USA & Europe",
+    "labels": [
+      {
+        "name": "Capitol Records",
+        "catno": "B003807801",
+        "id": 654
+      },
+      {
+        "name": "Capitol Records",
+        "catno": "0602455740694",
+        "id": 654
+      }
+    ],
+    "formats": [
+      {
+        "name": "Vinyl",
+        "qty": "2",
+        "descriptions": [
+          "LP",
+          "Album",
+          "Reissue",
+          "Repress"
+        ],
+        "text": "Pink [Cotton Candy Pink]"
+      }
+    ],
+    "genres": [
+      "Electronic",
+      "Hip Hop",
+      "Rock",
+      "Pop"
+    ],
+    "styles": [
+      "Synth-pop",
+      "Dance-pop",
+      "Bubblegum",
+      "Electro",
+      "Pop Rap",
+      "Pop Rock",
+      "Ballad"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Teenage Dream",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "A2",
+        "title": "Last Friday Night (T.G.I.F.)",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "A3",
+        "title": "California Gurls",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B1",
+        "title": "Firework",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B2",
+        "title": "Peacock",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B3",
+        "title": "Circle The Drain",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "C1",
+        "title": "The One That Got Away",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "C2",
+        "title": "E.T.",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "C3",
+        "title": "Who Am I Living For?",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "D1",
+        "title": "Pearl",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "D2",
+        "title": "Hummingbird Heartbeat",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "D3",
+        "title": "Not Like The Movies",
+        "duration": "",
+        "type": "track"
+      }
+    ],
+    "extraartists": [
+      {
+        "name": "Chris Anokute",
+        "role": "A&R",
+        "id": 1942058
+      },
+      {
+        "name": "Robert Stevenson (3)",
+        "role": "A&R [Additional]",
+        "id": 1851455
+      },
+      {
+        "name": "Liz Isik",
+        "role": "A&R [Admin. Coordinator]",
+        "id": 2252631
+      },
+      {
+        "name": "Ronette Bowie",
+        "role": "A&R [Admin]",
+        "id": 1941683
+      },
+      {
+        "name": "Jo Ratcliffe",
+        "role": "Art Direction",
+        "id": 2252633
+      },
+      {
+        "name": "Ngoc Hoang",
+        "role": "Coordinator [Album]",
+        "id": 2200744
+      },
+      {
+        "name": "Angelica Cob-Baehler",
+        "role": "Creative Director",
+        "id": 2252675
+      },
+      {
+        "name": "Dr. Luke",
+        "role": "Executive-Producer",
+        "id": 28400
+      },
+      {
+        "name": "Max Martin",
+        "role": "Executive-Producer",
+        "id": 61337
+      },
+      {
+        "name": "Bradford Cobb",
+        "role": "Management",
+        "id": 1763613
+      },
+      {
+        "name": "Direct Management Group, Inc.",
+        "role": "Management",
+        "id": 2032683
+      },
+      {
+        "name": "Martin Kirkup",
+        "role": "Management",
+        "id": 1626847
+      },
+      {
+        "name": "Michelle Carnero",
+        "role": "Management",
+        "id": 8395965
+      },
+      {
+        "name": "Ngoc Hoang",
+        "role": "Management",
+        "id": 2200744
+      },
+      {
+        "name": "Steven Jensen",
+        "role": "Management",
+        "id": 2755635
+      },
+      {
+        "name": "Bob Semanovich",
+        "role": "Marketing",
+        "id": 3128908
+      },
+      {
+        "name": "Brian Gardner",
+        "role": "Mastered By",
+        "id": 70778
+      },
+      {
+        "name": "Will Cotton",
+        "role": "Painting [Original], Photography By",
+        "id": 2252632
+      }
+    ],
+    "identifiers": [
+      {
+        "type": "Barcode",
+        "value": "6 02455 74069 4",
+        "description": "Text"
+      },
+      {
+        "type": "Barcode",
+        "value": "602455740694",
+        "description": "Scanned"
+      },
+      {
+        "type": "Rights Society",
+        "value": "ASCAP",
+        "description": null
+      },
+      {
+        "type": "Rights Society",
+        "value": "BMI",
+        "description": null
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "B003807701-A. 0602455740670",
+        "description": "Label side A"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "B003807701-B. 0602455740670",
+        "description": "Label side B"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "B003807701-C. 0602455740687",
+        "description": "Label side C"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "B003807701-D. 0602455740687",
+        "description": "Label side D"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "10-97385 / 846011 - A 252511E1/D",
+        "description": "Side A runout"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "10-97385 / 846011 - B 252511E2/D",
+        "description": "Side B runout"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "10-97385 / 846011 - C 252511E3/B",
+        "description": "Side C runout"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "10-97385 / 846011 - D 252511E4/D",
+        "description": "Side D runout"
+      }
+    ],
+    "notes": "Released for the album's 13th anniversary.\n\nIssued in a gatefold cover. Includes printed inner sleeves and an insert with lyrics and credits.\nSealed copies come with a hype sticker attached to the front shrink wrap.\n\"MADE IN CZECH REPUBLIC\" sticker attached to the rear shrink wrap.\n\nAlso available in the US as an Urban Outfitters exclusive with different hype sticker.\n\nTrack A3: [a132084] appears courtesy of [url=https://www.discogs.com/label/64395-Doggy-Style-Records-2]Doggy Style[/url] / [l2715].\n\n— Catalog numbers:\n\"B003807801\" on gatefold spine.\n\"B003807801. 0602455740694\" on gatefold back cover.\n\"B003807701-EV01. 0602455740670\" on inner sleeve 1.\n\"B003807901-EV02. 0602455740687\" on inner sleeve 2.\n\"B003807901. 0602455740663\" on insert.\n\"B003807801\" on Urban Outfitters hype sticker.\n\"5574069\" on EU hype sticker.\n\nCapitol Records; ℗ © 2010 Capitol Records, LLC.",
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/lhbCZUq1Qu31qPCoNbuvrp-iblpJo13GGx3PUdkNkGE/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjQx/ODgwLTE3NTg0NzQx/MjAtMTMxMi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/QukyzXwyKnBjVvfiKqES3ZkWfYlxgI_fyo5U59OX6l4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjQx/ODgwLTE3NTg0NzQx/MjAtMTMxMi5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/O4khleOhdboMFKdOrts0OG2TLaNyGaG2GOoJDUzqT1Y/rs:fit/g:sm/q:90/h:293/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjQx/ODgwLTE3NTg0NzQx/MTktMzA3My5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/oYxFhrTCQ3piyHyMWy2eZKwOt0PNp9BMQtOAC9j6PoU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjQx/ODgwLTE3NTg0NzQx/MTktMzA3My5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/xS6gdXCN5snO0Gv3ZPSi_L5-VLxQvLBE34f6hPSGDpE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjQx/ODgwLTE3NTg0NzQx/MjAtNzE0Ny5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/XOpUFKF8IVYpvT7p4cedr-BhI0r3sPicIQLzfnZyjUY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjQx/ODgwLTE3NTg0NzQx/MjAtNzE0Ny5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/YVf6C4V4S4bPG5sGA9twbzOJ97BcQ4bvz3vXbazDxYw/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjQx/ODgwLTE3MDI5MzMy/ODYtNjE0OC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/1coVId_MWmktRhANmHxAUMwDnacdu-Jbp5hFpJG78og/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjQx/ODgwLTE3MDI5MzMy/ODYtNjE0OC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/X3ngHSyn8Ifpi8_97e4hV2HJG7W9eakzaZbwHBsLqPg/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjQx/ODgwLTE3MDI5MzMy/ODYtNDcwMS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/gnL-hFQ22M3DL_B_yPlFclV550VYtq3IKFpq5hYuqMg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjQx/ODgwLTE3MDI5MzMy/ODYtNDcwMS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/1kjY-RvolC94m--Nvdc5sx-n4sqxubJ0qUcmMcI2bXc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjQx/ODgwLTE3MDI5MzMy/ODYtNTU0OS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/I1FkeVQ0LMwWXX6-nCquLhznTRAMlW_0pu08zlgiN3Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjQx/ODgwLTE3MDI5MzMy/ODYtNTU0OS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/njYqF3W8YR2tBJSSwoleAPuBuQMWWokc0pk9ApkfOqg/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjQx/ODgwLTE3MDI5MzMy/ODctODAwMC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/NxPx-GqcNvmjKRJXKgBilIUPe8EVNB6bEVj8j4nRJi4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjQx/ODgwLTE3MDI5MzMy/ODctODAwMC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/LWQJL-B4ZpQbJAdgQtp6uqdDHqcgjmc7d-yfSg5R0jk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjQx/ODgwLTE3MDI5MzMz/OTUtOTUxMi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/2piv8XoYLO1max9B5I5rECFt_TeN7dPq2YWI2HYsaNw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjQx/ODgwLTE3MDI5MzMz/OTUtOTUxMi5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/-f3pugTqrGzZlMFLme6XYdH8NhwqJVxoDIRdH4elJQE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjQx/ODgwLTE3MDI5MzMz/OTQtOTExNi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/X79L18S3I4CN85SerD1M6XMEPO1SbTGPeM4DyJ-awMA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjQx/ODgwLTE3MDI5MzMz/OTQtOTExNi5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/22q3d-yJhy5nqzWqxdSF6KA4e1WNAjVto7L0d7cZT8s/rs:fit/g:sm/q:90/h:600/w:586/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjQx/ODgwLTE3NTg0NzQx/MjAtMjA3Mi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/dlR1gSo16zmPyiynIECwu0DarOJevUkuWiglHEwm1HQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjQx/ODgwLTE3NTg0NzQx/MjAtMjA3Mi5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/7YbaFxTP9P1yvnW4BHQagcwCyxK4Uk5edIqUrxBav2w/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjQx/ODgwLTE3NTg0NzQx/MjAtNDAwMi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/SPjmD3KtoBDvGscK0fpRL9ddCTIbzIzbNiOVjsPAt7M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjQx/ODgwLTE3NTg0NzQx/MjAtNDAwMi5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/Do9ZH8zbEP6lXZ3UfSBvUwrtQIg9H7h94MUu7aM5XWg/rs:fit/g:sm/q:90/h:315/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjQx/ODgwLTE3NTg0NzQx/MjAtODQ1MC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/-fbtoMqqTlPVBvlEQaB8T8mz6nwbO133ypcNHgF4yWI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjQx/ODgwLTE3NTg0NzQx/MjAtODQ1MC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/IjMux4xrvHRVOs_rhwcPtzLOkcq2isDwd6ldlPlgkUI/rs:fit/g:sm/q:90/h:600/w:583/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjQx/ODgwLTE3NTg0NzQx/MTktNTE4MC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/FGcuFUnQA4qL-0B5rKezBpD8Ttw1W_nS86CPqwvadRU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjQx/ODgwLTE3NTg0NzQx/MTktNTE4MC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/tBCSK0eoT2RlaYPwHx5R1pVnCYH5tXxDr64gzQgY79w/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjQx/ODgwLTE3NTg0NzQy/MDgtNDYxMi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/VZfCLHGBBqvX_IQ27iS32az7_8AgG_99jWjYoU2CMIA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjQx/ODgwLTE3NTg0NzQy/MDgtNDYxMi5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/L1CdYxvQkRGH-4XT8lp1LEN7nrLPuqdjh_sRM2ZK7W4/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjQx/ODgwLTE3MDI5MzM1/NDgtNzE1OS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/KsPQOULkVywL1ln-X1hndGMn1P1xBZM6EDvapY15jNA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjQx/ODgwLTE3MDI5MzM1/NDgtNzE1OS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/87gBCA2ya8yw6wxVwJaPLibnq_TwxPsoB0-7OhA9HMk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjQx/ODgwLTE3NTg0NzQ0/NjQtNzkxNC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/jHtbNvaisxgtPxVrdpwCdLE8qwd0xbgpaHW-gdaQH5M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjQx/ODgwLTE3NTg0NzQ0/NjQtNzkxNC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/M9eiKzoY2yYoL6DwapP2IykXwSDnQxNYr1E-knuuHxE/rs:fit/g:sm/q:90/h:567/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjQx/ODgwLTE3NTg0NzQy/MDctMzY1OS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/g8eh04_Gl0PtpO-AdrfICzdfHeL8glazmygguHOZdkw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjQx/ODgwLTE3NTg0NzQy/MDctMzY1OS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/TzxYBLFqATc7NYgnUVxB76JUwJIFGdQZhTKgPTxOTPU/rs:fit/g:sm/q:90/h:155/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjQx/ODgwLTE3NTg0NzQx/MjAtOTE4Ni5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/fxEyZUPmAomVIqgSTEVdbsCj4uJJpuBzhf-6M-hhx1o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjQx/ODgwLTE3NTg0NzQx/MjAtOTE4Ni5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/ZZwjfmsQKdObx5xdvpkzM2ZCMFp7G9I2arLW_cvtIxg/rs:fit/g:sm/q:90/h:317/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjQx/ODgwLTE3NTg0NzQy/MDctNzA2OC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/ZXibMWfgArJJX_bu9oOViXEwM8PlOt9CYHh1o6Xk0AE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjQx/ODgwLTE3NTg0NzQy/MDctNzA2OC5qcGVn.jpeg"
+      }
+    ],
+    "community": {
+      "rating": {
+        "count": 68,
+        "average": 4.66
+      },
+      "have": 1531,
+      "want": 612
+    },
+    "master": {
+      "id": 271611,
+      "title": "Teenage Dream",
+      "main_release": 7127385,
+      "year": 2010,
+      "uri": "https://www.discogs.com/master/271611-Katy-Perry-Teenage-Dream",
+      "num_for_sale": 726
+    }
+  },
+  "apple_music": {
+    "id": 716153185,
+    "url": "https://music.apple.com/us/album/teenage-dream/716153185?uo=4",
+    "name": "Teenage Dream",
+    "artist": "Katy Perry",
+    "artist_id": 64387566,
+    "artwork_url_100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/7c/cb/c1/7ccbc1a3-9476-8f85-3c14-4e7e91f67f25/13UABIM57788.rgb.jpg/100x100bb.jpg",
+    "artwork_url_600": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/7c/cb/c1/7ccbc1a3-9476-8f85-3c14-4e7e91f67f25/13UABIM57788.rgb.jpg/600x600bb.jpg",
+    "release_date": "2010-08-24T07:00:00Z",
+    "track_count": 12,
+    "copyright": "℗ 2010 Capitol Records, LLC",
+    "primary_genre": "Pop",
+    "country": "USA",
+    "tracks": [
+      {
+        "track_number": 1,
+        "disc_number": 1,
+        "name": "Teenage Dream",
+        "duration_ms": 227741,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a2/c9/0f/a2c90ff4-7dd0-a597-8732-d52872f75682/mzaf_4374243024418031898.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/teenage-dream/716153185?i=716153569&uo=4"
+      },
+      {
+        "track_number": 2,
+        "disc_number": 1,
+        "name": "Last Friday Night (T.G.I.F.)",
+        "duration_ms": 230733,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/3b/b2/fd/3bb2fd1a-71fc-56e9-f7b7-61f8e72e819e/mzaf_6753973399331737968.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/last-friday-night-t-g-i-f/716153185?i=716153612&uo=4"
+      },
+      {
+        "track_number": 3,
+        "disc_number": 1,
+        "name": "California Gurls (feat. Snoop Dogg)",
+        "duration_ms": 234653,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/03/e6/6c/03e66cce-c943-1f2a-e580-d36b2cd1c410/mzaf_10599724807149492641.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/california-gurls-feat-snoop-dogg/716153185?i=716153678&uo=4"
+      },
+      {
+        "track_number": 4,
+        "disc_number": 1,
+        "name": "Firework",
+        "duration_ms": 227893,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/52/e1/50/52e150ac-90c9-44fa-e132-9a6027fc4c57/mzaf_10758583090668293568.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/firework/716153185?i=716153701&uo=4"
+      },
+      {
+        "track_number": 5,
+        "disc_number": 1,
+        "name": "Peacock",
+        "duration_ms": 231933,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/5a/78/e1/5a78e172-a224-1074-a42c-3db048ae435f/mzaf_13861861169413672613.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/peacock/716153185?i=716153726&uo=4"
+      },
+      {
+        "track_number": 6,
+        "disc_number": 1,
+        "name": "Circle the Drain",
+        "duration_ms": 272907,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/9d/46/35/9d463529-5d19-c83f-c523-532eb3587a07/mzaf_2786540212240478027.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/circle-the-drain/716153185?i=716153876&uo=4"
+      },
+      {
+        "track_number": 7,
+        "disc_number": 1,
+        "name": "The One That Got Away",
+        "duration_ms": 227333,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f1/e4/be/f1e4beec-7665-d347-8b07-64f7ca593c60/mzaf_10943219995719212816.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/the-one-that-got-away/716153185?i=716153963&uo=4"
+      },
+      {
+        "track_number": 8,
+        "disc_number": 1,
+        "name": "E.T.",
+        "duration_ms": 206373,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/8f/68/d1/8f68d15e-a414-1a20-1631-3b38fcbc4c55/mzaf_2309156550315973129.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/e-t/716153185?i=716153992&uo=4"
+      },
+      {
+        "track_number": 9,
+        "disc_number": 1,
+        "name": "Who Am I Living For?",
+        "duration_ms": 248533,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f2/ef/1a/f2ef1a1d-ac07-4d11-d828-3f110436580d/mzaf_9535527532908961309.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/who-am-i-living-for/716153185?i=716154044&uo=4"
+      },
+      {
+        "track_number": 10,
+        "disc_number": 1,
+        "name": "Pearl",
+        "duration_ms": 247627,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/4f/47/73/4f477394-6da9-4a92-979a-b50d15a83c3c/mzaf_7427841842597998665.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/pearl/716153185?i=716154067&uo=4"
+      },
+      {
+        "track_number": 11,
+        "disc_number": 1,
+        "name": "Hummingbird Heartbeat",
+        "duration_ms": 212280,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6a/ae/28/6aae2857-4923-f3e5-f2c0-ebcb5efd56a9/mzaf_6331625337235039096.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/hummingbird-heartbeat/716153185?i=716154079&uo=4"
+      },
+      {
+        "track_number": 12,
+        "disc_number": 1,
+        "name": "Not Like the Movies",
+        "duration_ms": 241333,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/eb/42/49/eb42494c-a28d-d8b4-0c65-07ade53058e4/mzaf_8598706065699074160.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/not-like-the-movies/716153185?i=716154140&uo=4"
+      }
+    ]
+  },
+  "discrepancies": [
+    "Release year differs: your pressing=2023, Apple Music edition=2010. Apple Music typically streams the most recent remaster."
+  ],
+  "local_cover": "images/28641880.jpg"
+}

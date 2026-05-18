@@ -1,0 +1,7 @@
+**Breakfast in America** is Supertramp's sixth studio album, released in March 1979 on A&M Records, and their commercial and artistic peak. It spent six weeks at #1 on the Billboard 200, is certified 4× platinum in the US, and produced four hit singles: "The Logical Song," "Dreamer," "Give a Little Bit," and "Breakfast in America." The album is a masterwork of melodic prog-pop — Roger Hodgson and Rick Davies trading lead vocals across ten immaculately crafted tracks, with Ken Scott's production giving everything warmth and clarity.
+
+The album's sonic palette — piano, synthesizer, saxophone, and layered harmonies — was immediately distinctive and remains so today. "The Logical Song" is one of the great philosophical pop songs; "Child of Vision" closes the album with an extended jazz-influenced coda that shows the band's progressive roots. The iconic New York skyline cover art (with a waitress holding the city as a menu) is one of rock's most recognizable images.
+
+This is an **original 1979 Canadian pressing** on A&M Records (catalog **SP-3708**). The deadwax `AIM SP 3729-M20` uses the alternate lacquer catalog number SP-3729, a known variant on early pressings where the master lacquer number differs from the sleeve. The `24160` stamper code and Canadian trumpet logo (PARA) are consistent with A&M Canada pressings of this era.
+
+**About this 1979 Canada pressing (Vinyl, LP, Original):** A&M catalog **SP-3708**, original 1979 Canadian pressing. Single LP. Matrix AIM SP 3729-M / PARA SP-3708-B. Barcode 07502137081.

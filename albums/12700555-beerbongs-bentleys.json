@@ -1,0 +1,468 @@
+{
+  "captured_at": "2026-05-17T23:36:19+00:00",
+  "schema_version": 3,
+  "artist": "Post Malone",
+  "title": "Beerbongs & Bentleys",
+  "original_release_year": 2018,
+  "pressing_year": 2018,
+  "upgrade_suggestion": "This original 2018 Sterling Sound pressing is the definitive edition — no audiophile upgrade has been issued. Keep it.",
+  "commentary": "Post Malone's breakout second album (2018) — genre-fluid rap/pop/trap that broke streaming records. Produced by Louis Bell and Frank Dukes. Original pressing mastered at Sterling Sound (SS etching in Side B runout). Matrix 10-84977/B002849001 / 176875E1. The bass hits hard on vinyl; a better listen than streaming suggests.",
+  "discogs": {
+    "release_id": 12700555,
+    "master_id": 1355120,
+    "uri": "https://www.discogs.com/release/12700555-Post-Malone-Beerbongs-Bentleys",
+    "title": "Beerbongs & Bentleys",
+    "artists": [
+      {
+        "name": "Post Malone",
+        "id": 4016434,
+        "role": null
+      }
+    ],
+    "year": 2018,
+    "released": "2018-10-26",
+    "country": "Europe",
+    "labels": [
+      {
+        "name": "Republic Records",
+        "catno": "00602567647577",
+        "id": 38017
+      }
+    ],
+    "formats": [
+      {
+        "name": "Vinyl",
+        "qty": "2",
+        "descriptions": [
+          "LP",
+          "Album"
+        ],
+        "text": "Clear"
+      }
+    ],
+    "genres": [
+      "Hip Hop",
+      "Pop"
+    ],
+    "styles": [
+      "Cloud Rap",
+      "Trap",
+      "Pop Rap"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Paranoid",
+        "duration": "3:44",
+        "type": "track"
+      },
+      {
+        "position": "A2",
+        "title": "Spoil My Night",
+        "duration": "3:27",
+        "type": "track"
+      },
+      {
+        "position": "A3",
+        "title": "Rich & Sad",
+        "duration": "3:23",
+        "type": "track"
+      },
+      {
+        "position": "A4",
+        "title": "Zack And Codeine",
+        "duration": "3:23",
+        "type": "track"
+      },
+      {
+        "position": "A5",
+        "title": "Takin’ Shots",
+        "duration": "3:37",
+        "type": "track"
+      },
+      {
+        "position": "B1",
+        "title": "Rockstar",
+        "duration": "3:29",
+        "type": "track"
+      },
+      {
+        "position": "B2",
+        "title": "Over Now",
+        "duration": "4:07",
+        "type": "track"
+      },
+      {
+        "position": "B3",
+        "title": "Psycho",
+        "duration": "3:41",
+        "type": "track"
+      },
+      {
+        "position": "B4",
+        "title": "Better Now",
+        "duration": "3:50",
+        "type": "track"
+      },
+      {
+        "position": "B5",
+        "title": "Ball For Me",
+        "duration": "3:27",
+        "type": "track"
+      },
+      {
+        "position": "C1",
+        "title": "Otherside",
+        "duration": "3:48",
+        "type": "track"
+      },
+      {
+        "position": "C2",
+        "title": "Stay",
+        "duration": "3:28",
+        "type": "track"
+      },
+      {
+        "position": "C3",
+        "title": "Blame It On Me",
+        "duration": "4:22",
+        "type": "track"
+      },
+      {
+        "position": "C4",
+        "title": "Same Bitches",
+        "duration": "3:31",
+        "type": "track"
+      },
+      {
+        "position": "D1",
+        "title": "Jonestown (Interlude)",
+        "duration": "1:51",
+        "type": "track"
+      },
+      {
+        "position": "D2",
+        "title": "92 Explorer",
+        "duration": "3:22",
+        "type": "track"
+      },
+      {
+        "position": "D3",
+        "title": "Candy Paint",
+        "duration": "3:49",
+        "type": "track"
+      },
+      {
+        "position": "D4",
+        "title": "Sugar Wraith",
+        "duration": "3:47",
+        "type": "track"
+      }
+    ],
+    "extraartists": [
+      {
+        "name": "Scott Stratton",
+        "role": "Lacquer Cut By",
+        "id": 6660841
+      },
+      {
+        "name": "Mike Bozzi",
+        "role": "Mastered By",
+        "id": 401309
+      }
+    ],
+    "identifiers": [
+      {
+        "type": "Barcode",
+        "value": "6 02567 64757 7",
+        "description": "Printed"
+      },
+      {
+        "type": "Barcode",
+        "value": "602567647577",
+        "description": "Scanned"
+      },
+      {
+        "type": "Label Code",
+        "value": "LC 01846",
+        "description": null
+      },
+      {
+        "type": "Rights Society",
+        "value": "BIEM/SDRM",
+        "description": null
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "B0028490-01 A",
+        "description": "Runout side A, etched"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "10-84977/B002849001-A 176875E1/A1",
+        "description": "Runout side A, stamped"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "B0028490-01 B SS \"!\"",
+        "description": "Runout side B, etched"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "10-84977/B002849001-B 176875E2/A",
+        "description": "Runout side B, stamped"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "B0028490-01 C",
+        "description": "Runout side C, etched"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "10-84977/B002849001-C 176875E3/A2",
+        "description": "Runout side C, stamped"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "B0028490-01 D SS",
+        "description": "Runout side D, etched"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "10-84977/B002849001-D 176875E4/A1",
+        "description": "Runout side D, stamped"
+      }
+    ],
+    "notes": null,
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/7ztPFubHbz3pRNHTHFi_Ks7D4AhGrFjQRslCafcthMs/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzAw/NTU1LTE1NDAzMDk5/NzItMzA2NC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/8LTdkUYH9gfFchJtQAjOkJw6csZYS9CScO3Q3zhIwss/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzAw/NTU1LTE1NDAzMDk5/NzItMzA2NC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/uEv5e0fSY13xge2RVganCnESUkMLIZTJAPMg2jnHqZo/rs:fit/g:sm/q:90/h:465/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzAw/NTU1LTE1NDAzMDk5/NzItMTAyNC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/IN5S7RK8leWwUE1oy0bqc0sM3jdGHX9UB7UixJOk5-Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzAw/NTU1LTE1NDAzMDk5/NzItMTAyNC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/_Ej9JnzLLxtb-tdtTbM5OL_EuK76nBJlt4EfvkAYCv8/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzAw/NTU1LTE1NDAzMDk5/NzItNzE5NS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/EDwcKxmTk1f19UsCp4e3rFuPtdDP9u1BksOtxf1Uo-8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzAw/NTU1LTE1NDAzMDk5/NzItNzE5NS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/Nlh7p1yPqu4mACjVb7tC0Ap6_Q8iHeM_bHyniYNw_kQ/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzAw/NTU1LTE2NDcxMTk4/MjktMzE4NS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/t9Spvlzhb7p1u4FZ31G1tZ2iNqdtx1x7IgHVaAkMgPg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzAw/NTU1LTE2NDcxMTk4/MjktMzE4NS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/d2KBWQkOitCntrN92kn8oOWYJKccjlHiTQtGHr2I0mg/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzAw/NTU1LTE2NDcxMTk4/MzEtODIxNS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/CDO4dDDkDiMOUHTnaCPwTD1IMqhB19iSstGxQLi59QQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzAw/NTU1LTE2NDcxMTk4/MzEtODIxNS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/SM15dMNpSKzuOfKJi_0_4gd0kpqB8Uo_Dl6oxIf-AEA/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzAw/NTU1LTE2NDcxMTk4/MzUtNDA4Mi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/Y-bNBKlCLTppK7HqPBWnLtmS8g4coTHvWcxpxPzoX1g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzAw/NTU1LTE2NDcxMTk4/MzUtNDA4Mi5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/V0PjqW9mBwYmbEde7a2ljeZ3OF1sQixStzw8OcMBIDw/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzAw/NTU1LTE2NDcxMTk4/MzUtNjM1OC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/biUKclOCh1_52UgC9JLyBkHWXdx4-8J8nBJATeCT1ys/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzAw/NTU1LTE2NDcxMTk4/MzUtNjM1OC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/4RsPP2SDeo-LRkB83NOJ7wIKe6RBE5MopF9ZqpXQUMY/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzAw/NTU1LTE1NDAzMDk5/NzItMjgwNS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/C3Tw0NJTQWC7ENKJbHMwcSvYX9B5vqaiKRm3K0qjC_0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzAw/NTU1LTE1NDAzMDk5/NzItMjgwNS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/_f8dpnlkDsg8T_7irsUkXNJRMNc-yB65ELpSka9Adp0/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzAw/NTU1LTE1NDAzMDk5/NzMtNTI5Mi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/8pznfs8GHE9sWa9Gk63SLJeCHSTWhJJFo4TXzQKgPDI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzAw/NTU1LTE1NDAzMDk5/NzMtNTI5Mi5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/yPucq-Oc8COp6bZ5Pg-m-fNDYJd1Q2EHvrrU9nLEwo0/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzAw/NTU1LTE1NDAzMDk5/NzMtNDY1MC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/Xvtlz__eHoQSBxi4wzM_l5GqJDqOcIN5GkQthc6qHAU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzAw/NTU1LTE1NDAzMDk5/NzMtNDY1MC5qcGVn.jpeg"
+      }
+    ],
+    "community": {
+      "rating": {
+        "count": 491,
+        "average": 4.56
+      },
+      "have": 6640,
+      "want": 1914
+    },
+    "master": {
+      "id": 1355120,
+      "title": "Beerbongs & Bentleys",
+      "main_release": 11923339,
+      "year": 2018,
+      "uri": "https://www.discogs.com/master/1355120-Post-Malone-Beerbongs-Bentleys",
+      "num_for_sale": 277
+    }
+  },
+  "apple_music": {
+    "id": 1373504837,
+    "url": "https://music.apple.com/us/album/beerbongs-bentleys/1373504837?uo=4",
+    "name": "beerbongs & bentleys",
+    "artist": "Post Malone",
+    "artist_id": 966309175,
+    "artwork_url_100": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/55/9f/fb/559ffb75-3c00-abd6-7b1f-8b6b1518b173/18UMGIM22101.rgb.jpg/100x100bb.jpg",
+    "artwork_url_600": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/55/9f/fb/559ffb75-3c00-abd6-7b1f-8b6b1518b173/18UMGIM22101.rgb.jpg/600x600bb.jpg",
+    "release_date": "2018-04-27T07:00:00Z",
+    "track_count": 18,
+    "copyright": "℗ 2018 Republic Records, a division of UMG Recordings, Inc.",
+    "primary_genre": "Hip-Hop/Rap",
+    "country": "USA",
+    "tracks": [
+      {
+        "track_number": 1,
+        "disc_number": 1,
+        "name": "Paranoid",
+        "duration_ms": 221781,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/1e/eb/5b/1eeb5bf5-4750-033e-94c9-a9a802b395ad/mzaf_5233006182446927515.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/paranoid/1373504837?i=1373505254&uo=4"
+      },
+      {
+        "track_number": 2,
+        "disc_number": 1,
+        "name": "Spoil My Night (feat. Swae Lee)",
+        "duration_ms": 194553,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/81/3e/f0/813ef0c8-8db0-5a18-ee98-6a3f7d00abd4/mzaf_16814900074666904410.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/spoil-my-night-feat-swae-lee/1373504837?i=1373505266&uo=4"
+      },
+      {
+        "track_number": 3,
+        "disc_number": 1,
+        "name": "Rich & Sad",
+        "duration_ms": 206460,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/bc/bf/cb/bcbfcbf7-6ce7-3b51-15ab-2e56a1d60b1b/mzaf_12374111462933819985.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/rich-sad/1373504837?i=1373505267&uo=4"
+      },
+      {
+        "track_number": 4,
+        "disc_number": 1,
+        "name": "Zack and Codeine",
+        "duration_ms": 204355,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f5/5d/13/f55d132b-ee6c-05da-e43f-603eb2d27b15/mzaf_925936130736172846.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/zack-and-codeine/1373504837?i=1373505268&uo=4"
+      },
+      {
+        "track_number": 5,
+        "disc_number": 1,
+        "name": "Takin' Shots",
+        "duration_ms": 216749,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/35/62/a5/3562a5fe-0348-dd01-0f2b-dbb128b6a2df/mzaf_16805386320118972746.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/takin-shots/1373504837?i=1373506123&uo=4"
+      },
+      {
+        "track_number": 6,
+        "disc_number": 1,
+        "name": "rockstar (feat. 21 Savage)",
+        "duration_ms": 218146,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/22/37/94/223794d5-e415-e646-a1c6-a52f178f9c82/mzaf_4256851832513251175.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/rockstar-feat-21-savage/1373504837?i=1373506170&uo=4"
+      },
+      {
+        "track_number": 7,
+        "disc_number": 1,
+        "name": "Over Now",
+        "duration_ms": 246987,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0f/7c/93/0f7c93b9-1351-596b-3164-e64e4a41a05b/mzaf_13767665908546768785.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/over-now/1373504837?i=1373506172&uo=4"
+      },
+      {
+        "track_number": 8,
+        "disc_number": 1,
+        "name": "Psycho (feat. Ty Dolla $ign)",
+        "duration_ms": 221446,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/fa/34/99/fa34994a-a127-2510-45ba-443ffa9c6dcb/mzaf_7285123442054013415.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/psycho-feat-ty-dolla-%24ign/1373504837?i=1373506178&uo=4"
+      },
+      {
+        "track_number": 9,
+        "disc_number": 1,
+        "name": "Better Now",
+        "duration_ms": 231261,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a1/2a/06/a12a0675-58e5-c404-5f55-64f0b7058f42/mzaf_4757445611632570860.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/better-now/1373504837?i=1373506180&uo=4"
+      },
+      {
+        "track_number": 10,
+        "disc_number": 1,
+        "name": "Ball For Me (feat. Nicki Minaj)",
+        "duration_ms": 206269,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/9e/a2/cd/9ea2cd61-dc6c-3272-acfe-23fec6ceeec2/mzaf_7065120746686349336.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/ball-for-me-feat-nicki-minaj/1373504837?i=1373506301&uo=4"
+      },
+      {
+        "track_number": 11,
+        "disc_number": 1,
+        "name": "Otherside",
+        "duration_ms": 228221,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1e/57/c0/1e57c02a-b3be-f12f-4a97-b9497fef52ef/mzaf_18013213180588026291.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/otherside/1373504837?i=1373506302&uo=4"
+      },
+      {
+        "track_number": 12,
+        "disc_number": 1,
+        "name": "Stay",
+        "duration_ms": 204431,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/02/5f/7a/025f7a3d-c923-5396-4178-3f573c1ffe69/mzaf_1238161682720587926.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/stay/1373504837?i=1373506303&uo=4"
+      },
+      {
+        "track_number": 13,
+        "disc_number": 1,
+        "name": "Blame It On Me",
+        "duration_ms": 261805,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ff/23/45/ff234594-efa2-fa45-12ce-e8aa3446fe9c/mzaf_13235204356761593333.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/blame-it-on-me/1373504837?i=1373506304&uo=4"
+      },
+      {
+        "track_number": 14,
+        "disc_number": 1,
+        "name": "Same Bitches (feat. G-Eazy & YG)",
+        "duration_ms": 212463,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ef/6d/0b/ef6d0b6a-0e32-8837-972f-6f2addd60c90/mzaf_7139472055956585556.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/same-bitches-feat-g-eazy-yg/1373504837?i=1373506305&uo=4"
+      },
+      {
+        "track_number": 15,
+        "disc_number": 1,
+        "name": "Jonestown (Interlude)",
+        "duration_ms": 112008,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/73/4a/96/734a96da-9fcf-4cfa-11d0-56c4ed423b82/mzaf_9781343716246181460.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/jonestown-interlude/1373504837?i=1373506311&uo=4"
+      },
+      {
+        "track_number": 16,
+        "disc_number": 1,
+        "name": "92 Explorer",
+        "duration_ms": 211432,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/3d/63/b9/3d63b93a-49cc-ab86-79d7-1bdf8ee9c7cd/mzaf_12829122728787584794.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/92-explorer/1373504837?i=1373506318&uo=4"
+      },
+      {
+        "track_number": 17,
+        "disc_number": 1,
+        "name": "Candy Paint",
+        "duration_ms": 227537,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/28/3e/61/283e6122-af0b-40b4-0aea-1dd88236a07c/mzaf_8016707088441672623.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/candy-paint/1373504837?i=1373506327&uo=4"
+      },
+      {
+        "track_number": 18,
+        "disc_number": 1,
+        "name": "Sugar Wraith",
+        "duration_ms": 228147,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a1/c2/e0/a1c2e0da-f8ab-f992-fc51-a9a159d0f246/mzaf_6051993722181084044.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/sugar-wraith/1373504837?i=1373506328&uo=4"
+      }
+    ]
+  },
+  "discrepancies": [],
+  "local_cover": "images/12700555.jpg"
+}

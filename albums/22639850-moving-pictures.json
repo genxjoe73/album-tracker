@@ -1,0 +1,357 @@
+{
+  "captured_at": "2026-05-17T23:46:10+00:00",
+  "schema_version": 3,
+  "artist": "Rush",
+  "title": "Moving Pictures",
+  "original_release_year": 1981,
+  "pressing_year": 2022,
+  "upgrade_suggestion": "This 2022 40th Anniversary remaster is the current recommended edition. For the ultimate pressing, the original 1981 Canadian Mercury pressing is highly regarded by Rush collectors for its dynamic mastering. A half-speed or audiophile edition has not been issued.",
+  "commentary": "Rush's 1981 masterpiece — 'Tom Sawyer,' 'YYZ,' 'Limelight,' seven tracks of progressive rock perfection. Neil Peart's drumming is the benchmark. 2022 40th Anniversary remaster on Mercury/UMe (B0033611-01). Matrix B0033537-01 / 222176E1. A clean modern pressing of one of rock's essential albums.",
+  "discogs": {
+    "release_id": 22639850,
+    "master_id": 7532,
+    "uri": "https://www.discogs.com/release/22639850-Rush-Moving-Pictures",
+    "title": "Moving Pictures",
+    "artists": [
+      {
+        "name": "Rush",
+        "id": 61800,
+        "role": null
+      }
+    ],
+    "year": 2022,
+    "released": "2022-04-15",
+    "country": "USA & Canada",
+    "labels": [
+      {
+        "name": "Mercury",
+        "catno": "B0033611-01",
+        "id": 39357
+      },
+      {
+        "name": "Anthem (5)",
+        "catno": "B0033611-01",
+        "id": 316758
+      },
+      {
+        "name": "UMe",
+        "catno": "B0033611-01",
+        "id": 68029
+      }
+    ],
+    "formats": [
+      {
+        "name": "Vinyl",
+        "qty": "1",
+        "descriptions": [
+          "LP",
+          "Album",
+          "Limited Edition",
+          "Reissue",
+          "Remastered"
+        ],
+        "text": "Red Opaque"
+      }
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Hard Rock",
+      "Prog Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Tom Sawyer",
+        "duration": "4:33",
+        "type": "track"
+      },
+      {
+        "position": "A2",
+        "title": "Red Barchetta",
+        "duration": "6:07",
+        "type": "track"
+      },
+      {
+        "position": "A3",
+        "title": "YYZ",
+        "duration": "4:23",
+        "type": "track"
+      },
+      {
+        "position": "A4",
+        "title": "Limelight",
+        "duration": "4:18",
+        "type": "track"
+      },
+      {
+        "position": "B1",
+        "title": "The Camera Eye",
+        "duration": "10:55",
+        "type": "track"
+      },
+      {
+        "position": "B2",
+        "title": "Witch Hunt (Part III Of 'Fear')",
+        "duration": "4:43",
+        "type": "track"
+      },
+      {
+        "position": "B3",
+        "title": "Vital Signs",
+        "duration": "4:45",
+        "type": "track"
+      }
+    ],
+    "extraartists": [
+      {
+        "name": "Rush",
+        "role": "Arranged By",
+        "id": 61800
+      },
+      {
+        "name": "Terry Brown",
+        "role": "Arranged By",
+        "id": 276854
+      },
+      {
+        "name": "Hugh Syme",
+        "role": "Art Direction, Design [Graphics], Artwork By [Cover Concept]",
+        "id": 278961
+      },
+      {
+        "name": "Geddy Lee",
+        "role": "Bass Guitar, Synthesizer [Oberheim Polyphonic; Qb-x, Mini-moog; And Tauras Pedals], Vocals",
+        "id": 349487
+      },
+      {
+        "name": "Neil Peart",
+        "role": "Drums [Drum Kit], Timbales, Bass Drum [Gong], Bells [Orchestra], Glockenspiel, Wind Chimes, Bells [Bell Tree], Crotales, Cowbell, Percussion [Plywood]",
+        "id": 398982
+      },
+      {
+        "name": "Alex Lifeson",
+        "role": "Electric Guitar [Six And Twelve String], Acoustic Guitar [Six And Twelve String], Synthesizer [Taurus Pedals]",
+        "id": 368450
+      },
+      {
+        "name": "Neil Peart",
+        "role": "Lyrics By",
+        "id": 398982
+      },
+      {
+        "name": "Pye Dubois",
+        "role": "Lyrics By",
+        "id": 578466
+      },
+      {
+        "name": "Alex Lifeson",
+        "role": "Music By",
+        "id": 368450
+      },
+      {
+        "name": "Geddy Lee",
+        "role": "Music By",
+        "id": 349487
+      },
+      {
+        "name": "Neil Peart",
+        "role": "Music By",
+        "id": 398982
+      },
+      {
+        "name": "Deborah Samuel",
+        "role": "Photography By",
+        "id": 2170347
+      },
+      {
+        "name": "Rush",
+        "role": "Producer",
+        "id": 61800
+      },
+      {
+        "name": "Terry Brown",
+        "role": "Producer",
+        "id": 276854
+      },
+      {
+        "name": "Sean Magee",
+        "role": "Remastered By [DMM]",
+        "id": 276851
+      }
+    ],
+    "identifiers": [
+      {
+        "type": "Barcode",
+        "value": "6 02435 87664 1",
+        "description": "Text"
+      },
+      {
+        "type": "Barcode",
+        "value": "602435876641",
+        "description": "String"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "LP1-SIDE A-B0033537-01-LP01A 222176E1/A",
+        "description": "Side A"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "LP1-SIDE B-B0033537-01-LP01B 222176E2/A",
+        "description": "Side B"
+      }
+    ],
+    "notes": "Released with one page insert, lyrics printed on one side, credits and pictures on the other.\n\nAll lyrics © 1981 ole Core Music Publishing (SOCAN/SESAC) administered by ole.\n\nRecorded and mixed at Le Studio, Morin Heights, Quebec, during October & November 1980.\n\n℗2015 Mercury Records, a division of UMG Recordings, Inc. ©2015 Anthem Entertainment/Mercury Records, a division of UMG Recordings, Inc.\n\nNot explicitly stated, but contains the same runout info as the other 40th anniversary releases",
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/8eGDpFqdhZ9tIsYecF4KC2vKXbvLJ7rzbf-qo2vE7Sg/rs:fit/g:sm/q:90/h:594/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjM5/ODUwLTE3MTE2NzQx/MDUtNzk5Ny5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/bw8rRhwGWRjoFXVmYwdzp79bcDga-ghVg_roRqDfpyY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjM5/ODUwLTE3MTE2NzQx/MDUtNzk5Ny5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/IdAcSFlVc2rkOvrXff-T77lqCFBvS3jV0inbwViUc0Y/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjM5/ODUwLTE3MzQ5Mjkx/NDAtMzg3Ny5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/QHi-a8O9RigaCrWD0U4TYLcRK1RnpZDgN7X2JD5B8HE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjM5/ODUwLTE3MzQ5Mjkx/NDAtMzg3Ny5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/9LUw0qYnV_eERyVOt7pWhpOzaDLe7XuPGhbxui32isU/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjM5/ODUwLTE3MzQ5Mjkx/MzktNzE0NS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/evEBFwPZQzxqN8ng9lgVkwFzBXGtQEjeLzh5ea5ELpQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjM5/ODUwLTE3MzQ5Mjkx/MzktNzE0NS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/TF_IoJbsiob-yTO0yMHCYTTcWQvGL_GZSYzdQqu0kmU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjM5/ODUwLTE3MzQ5Mjkx/MzktNjgzOS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/PudxJuStznJQjq9zxKH7ceHsluyxUAOEtc4JSzkAWIE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjM5/ODUwLTE3MzQ5Mjkx/MzktNjgzOS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/CLtKTsVbbZqajBAI8gFZL37Td8BbK5-f-pJ5oglpEYw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjM5/ODUwLTE3MzQ5Mjkx/MzktODUxMi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/e4x52TaCU3gmM_ilS4CuGcQVCxUsNQm7O483jXZliAE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjM5/ODUwLTE3MzQ5Mjkx/MzktODUxMi5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/SiYV2Af7b-1excR4_SGYgSVuVslPYRoUGNz-lMeoFUY/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjM5/ODUwLTE3MzQ5Mjkx/MzktNTQ3MS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/jybh4YwyNA6x43GD-CTTH3Ynsb3hhg_Y6nDhAzjvx2w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjM5/ODUwLTE3MzQ5Mjkx/MzktNTQ3MS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/6nfz18-cAyu221Jb69fegm8dMEd39BFvwJ5W7CAQBJk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjM5/ODUwLTE3MzQ5Mjkx/NDAtNTg2My5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/tkcgpr9FAsZLCgt3OC-R6qk2EW-c8YeluVRFAvKv2ss/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjM5/ODUwLTE3MzQ5Mjkx/NDAtNTg2My5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/n87Hu8Vq5iWhhPNK457-ApJn0ot2FkKKI8mLH1nx1Eo/rs:fit/g:sm/q:90/h:600/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjM5/ODUwLTE3MzQ5Mjkx/MzktNjE3Mi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/nemYYqPEYvnb5jciH_QSOaTPin1vZPKdtyRzSO7GPl8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjM5/ODUwLTE3MzQ5Mjkx/MzktNjE3Mi5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/3FysW3k5qQ9hrG3fTn87TrCPT1JkSM280JfN86pYHJ0/rs:fit/g:sm/q:90/h:307/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjM5/ODUwLTE3MzQ5Mjkx/MzYtOTk3OS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/y6S8itariT1zCXY-DqBERa7E49XNgWeaxEVMMB14PZI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjM5/ODUwLTE3MzQ5Mjkx/MzYtOTk3OS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/SrUo5ETDVfVdwVUJBOEFAqih9mceq1Z_B9V7eM-JW60/rs:fit/g:sm/q:90/h:244/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjM5/ODUwLTE3MzQ5Mjkx/MzctNTAyOS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/085jvwXmP4BoYrtpdfuqEmjLya8TZqjn7lpS1ojfUaw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjM5/ODUwLTE3MzQ5Mjkx/MzctNTAyOS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/H-pTDq5DF0hPCrSc9VmgifnPWyIZLr73vOE6P9al2TU/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjM5/ODUwLTE3MzQ5Mjkx/NDAtODMzOC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/FAAb-HVi79HZNXvhX9fjFRYCp7EnHOq1-C8UEBRkhUU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjM5/ODUwLTE3MzQ5Mjkx/NDAtODMzOC5qcGVn.jpeg"
+      }
+    ],
+    "community": {
+      "rating": {
+        "count": 189,
+        "average": 4.7
+      },
+      "have": 2437,
+      "want": 447
+    },
+    "master": {
+      "id": 7532,
+      "title": "Moving Pictures",
+      "main_release": 589603,
+      "year": 1981,
+      "uri": "https://www.discogs.com/master/7532-Rush-Moving-Pictures",
+      "num_for_sale": 1373
+    }
+  },
+  "apple_music": {
+    "id": 1440798539,
+    "url": "https://music.apple.com/us/album/moving-pictures-remastered/1440798539?uo=4",
+    "name": "Moving Pictures (Remastered)",
+    "artist": "Rush",
+    "artist_id": 50526,
+    "artwork_url_100": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/19/39/78/19397873-9581-13e0-07f3-3071f38527ac/12UMGIM19114.rgb.jpg/100x100bb.jpg",
+    "artwork_url_600": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/19/39/78/19397873-9581-13e0-07f3-3071f38527ac/12UMGIM19114.rgb.jpg/600x600bb.jpg",
+    "release_date": "1981-02-12T08:00:00Z",
+    "track_count": 7,
+    "copyright": "℗ 2013 UMG Recordings, Inc.",
+    "primary_genre": "Rock",
+    "country": "USA",
+    "tracks": [
+      {
+        "track_number": 1,
+        "disc_number": 1,
+        "name": "Tom Sawyer",
+        "duration_ms": 276880,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/cc/9e/ee/cc9eee22-b1ba-537a-dae3-e2dd2ccc3e8e/mzaf_16866705035787590233.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/tom-sawyer/1440798539?i=1440798881&uo=4"
+      },
+      {
+        "track_number": 2,
+        "disc_number": 1,
+        "name": "Red Barchetta",
+        "duration_ms": 370424,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/42/78/b8/4278b8c7-e607-8d3b-db6c-dde6df72aa9c/mzaf_14409239098011221076.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/red-barchetta/1440798539?i=1440798888&uo=4"
+      },
+      {
+        "track_number": 3,
+        "disc_number": 1,
+        "name": "YYZ",
+        "duration_ms": 265838,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/1b/db/c1/1bdbc13b-48c5-a386-91e1-9fd8e735b6b8/mzaf_6548949827648861405.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/yyz/1440798539?i=1440798890&uo=4"
+      },
+      {
+        "track_number": 4,
+        "disc_number": 1,
+        "name": "Limelight",
+        "duration_ms": 259842,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/cd/33/93/cd33937e-d129-54c0-9d8c-cbc929a29b87/mzaf_15112433299744482544.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/limelight/1440798539?i=1440798894&uo=4"
+      },
+      {
+        "track_number": 5,
+        "disc_number": 1,
+        "name": "The Camera Eye",
+        "duration_ms": 658997,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/42/94/cc/4294cc47-6453-3b98-cc00-7cb814b55085/mzaf_373296064194120812.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/the-camera-eye/1440798539?i=1440798901&uo=4"
+      },
+      {
+        "track_number": 6,
+        "disc_number": 1,
+        "name": "Witch Hunt (Part III of Fear)",
+        "duration_ms": 285529,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/8d/48/32/8d483224-b235-8a19-7d84-6b6ffb790576/mzaf_11402469362290317632.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/witch-hunt-part-iii-of-fear/1440798539?i=1440798906&uo=4"
+      },
+      {
+        "track_number": 7,
+        "disc_number": 1,
+        "name": "Vital Signs",
+        "duration_ms": 286218,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/3d/cc/5e/3dcc5e0b-53cc-ede6-ca30-b5f82e40c8f6/mzaf_5934158103028894580.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/vital-signs/1440798539?i=1440799123&uo=4"
+      }
+    ]
+  },
+  "discrepancies": [
+    "Release year differs: your pressing=2022, Apple Music edition=1981. Apple Music typically streams the most recent remaster."
+  ],
+  "local_cover": "images/22639850.jpg"
+}

@@ -1,0 +1,7 @@
+**Simon and Garfunkel's Greatest Hits** is the essential compilation from one of the most celebrated folk-pop duos in American music history, originally released in June 1972 on Columbia Records. It collects twelve defining tracks spanning their career: "Mrs. Robinson," "The Sound of Silence," "The Boxer," "Bridge Over Troubled Water," "Scarborough Fair/Canticle," "America," "El Condor Pasa," "Cecilia," and more. Paul Simon's songwriting and the pair's extraordinary vocal harmony made them one of the signature acts of the late 1960s and early 1970s, and this compilation remains the definitive introduction.
+
+The album is a masterclass in intelligent pop songwriting — literate, melodic, emotionally resonant without being sentimental. "Bridge Over Troubled Water" in particular stands as one of the greatest recorded vocal performances of the era. The acoustic intimacy of the original recordings translates beautifully to vinyl.
+
+The **2018 reissue** (Columbia / Legacy catalog **19075817661**) is a standard modern repress of this perennial catalog title. Since this copy is still sealed, the exact pressing plant is unknown until opened — but this pressing is widely available and reliably clean.
+
+**About this 2018 USA & Europe pressing (Vinyl, LP, Compilation, Reissue):** Columbia / Legacy catalog **19075817661**, 2018 reissue. Single LP. Barcode 190758176611. Still sealed — pressing plant TBD.

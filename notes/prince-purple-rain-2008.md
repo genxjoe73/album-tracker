@@ -1,0 +1,7 @@
+**Purple Rain** is the soundtrack album and sixth studio release by Prince and the Revolution, released in June 1984 on Warner Bros. Records, and one of the greatest albums ever made by any measure. It produced six singles, five of which were top-ten hits — "When Doves Cry," "Let's Go Crazy," "Purple Rain," "I Would Die 4 U," and "Baby I'm a Star." It spent 24 weeks at #1 on the Billboard 200 and won Prince the Academy Award for Best Original Song Score. "Purple Rain" the ballad remains one of the most emotionally devastating guitar performances ever committed to tape.
+
+The album is a genuine genre fusion — funk, rock, R&B, and pop operating simultaneously — and Prince's command of every instrument, every vocal layer, and every production decision makes it one of the most personal and complete artistic statements in popular music. The Revolution's live energy grounds the studio craft throughout.
+
+The **2008 US reissue** (Warner Bros. / Rhino catalog **R1-25110**) was pressed at **Specialty Records Corporation** (S-66596 stamper code, Olyphant, PA). This is a standard-quality reissue — not an audiophile pressing, but a clean and readily available vinyl edition of a catalog essential.
+
+**About this 2008 US pressing (Vinyl, LP, Reissue):** Warner Bros. / Rhino catalog **R1-25110**, 2008 reissue. Single LP. Pressed at Specialty Records Corporation (S), Olyphant, PA. Barcode 081227991494. Matrix R1-25110 / S-66596.

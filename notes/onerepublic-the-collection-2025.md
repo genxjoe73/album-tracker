@@ -1,0 +1,7 @@
+**The Collection** is OneRepublic's 2025 greatest hits compilation on Interscope / UMe, gathering the defining singles from across their career — from the breakout "Apologize" (2007) through their subsequent albums *Waking Up*, *Native*, *Oh My My*, and *Human*. The compilation spans nearly two decades of the band's melodic pop-rock, anchored by Ryan Tedder's distinctive tenor and his gift for anthemic, emotionally direct songwriting. Tracks like "Counting Stars," "Good Life," "Stop and Stare," "Secrets," and "I Lived" represent some of the most enduring pop-rock radio staples of the 2010s.
+
+OneRepublic occupy an interesting position in 21st-century pop — their music is polished and accessible without being disposable, and Tedder's production instincts (he has produced for Beyoncé, Adele, Taylor Swift, and others) give the band's own recordings a sonic quality that holds up well on vinyl. *The Collection* serves as both a definitive introduction and a well-curated retrospective for existing fans.
+
+This **2025 US Limited Edition pressing** (Interscope / UMe catalog **602478346705**) is the first major vinyl presentation of OneRepublic's catalog highlights. The matrix codes `10-112526 / 602478346675 302347E1` identify standard UMe pressing and lacquer specifications for this contemporary release.
+
+**About this 2025 US pressing (2× Vinyl, LP, Compilation, Limited Edition):** Interscope / UMe catalog **602478346705**, 2025 Limited Edition. Double LP. Barcode 602478467653. Matrix 10-112526 / 602478346675 302347E1.

@@ -1,0 +1,7 @@
+**Traveller** is Chris Stapleton's debut solo album, released in May 2015 on Mercury Nashville, and one of the most celebrated country albums of the decade. Produced by Dave Cobb, it is a raw, blues-soaked record that bypasses contemporary Nashville polish entirely in favor of Stapleton's massive voice, slide guitar, and deeply felt songwriting. "Tennessee Whiskey," "Parachute," "Might As Well Get Stoned," "Sometimes I Cry," and the title track are among the highlights. The album debuted modestly but exploded after Stapleton's performance with Justin Timberlake at the 2015 CMA Awards, eventually reaching #1 and selling over 3 million copies.
+
+Stapleton had spent years as one of Nashville's most respected behind-the-scenes songwriters before *Traveller* announced him as a fully formed solo artist. Dave Cobb's production — recorded live to tape at RCA Studio A in Nashville — captures the urgency and intimacy of a great band playing in a room together, and Morgane Stapleton's harmonies are essential throughout.
+
+This **2015 original US pressing** (Mercury Nashville catalog **B0019405-01**) was pressed at **United Record Pressing (Ⓤ)** in Nashville. Matrix `B0019405-02 LP01 / Ⓤ` confirms URP. Fitting that a Nashville album lives at Nashville's premier pressing plant.
+
+**About this 2015 US pressing (2× Vinyl, LP, Original):** Mercury Nashville catalog **B0019405-01**, original 2015 pressing. Double LP. Pressed at United Record Pressing (Ⓤ), Nashville. Barcode 602547255228. Matrix B0019405-02 LP01-A Ⓤ.
