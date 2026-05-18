@@ -1,0 +1,5 @@
+**Songs From The Big Chair** is Tears For Fears' second studio album, released in February 1985 on Mercury Records. Named after the therapist's chair in the 1976 film *Sybil*, it broke Roland Orzabal and Curt Smith into full global stardom — reaching #1 in both the UK and US, certified 4× platinum, producing two US #1 singles: "Shout" and "Everybody Wants to Rule the World." Produced by Chris Hughes with engineer Dave Bascombe, the album's lush orchestrated synth-pop remains one of the definitive statements of 1985.
+
+This **2014 European reissue** was released on Mercury Records (℗ © 2014 Mercury Records Limited) as a 180g LP with MP3 download voucher. Pressed by **Optimal Media GmbH** in Germany — one of Europe's premier pressing plants. Plant code `BE64838` appears in the hand-etched matrix: `BE64838-01 A2` / `BE64838-01 B1`. Made in EU.
+
+**About this 2014 EU pressing (Vinyl, LP, Reissue, 180g):** Mercury catalog **3794995**, 2014 reissue. 180 gram. Pressed by Optimal Media GmbH, Germany. Includes MP3 download voucher. Barcode 602537949953. Matrix BE64838-01 A2 / BE64838-01 B1.

@@ -1,0 +1,5 @@
+**The Lost Christmas Eve** is the third and final installment of Trans-Siberian Orchestra's Christmas Trilogy, originally released in October 2004 on Atlantic Records. Written and produced by TSO founder **Paul O'Neill**, it completes the narrative arc begun with *Christmas Eve and Other Stories* (1996) and *The Christmas Attic* (1998) — TSO's signature blend of hard rock, orchestral bombast, and progressive rock wrapped in holiday storytelling. Originally released on CD only and never pressed to vinyl during its initial run.
+
+This **2024 20th Anniversary edition** is the first-ever vinyl pressing of the album, released by Atlantic Records as a 2LP stereo set. Pressed at **Memphis Record Pressing** (`MRP` in deadwax). Deadwax fragments: `282083E2`, `1911015`, `MRP58427` confirm MRP plant and lacquer codes.
+
+**About this 2024 US pressing (2× Vinyl, LP, 20th Anniversary Edition):** Atlantic catalog **R1 93416**, 2024 first vinyl pressing. Pressed by Memphis Record Pressing. Barcode 603497823901.

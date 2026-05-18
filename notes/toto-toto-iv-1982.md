@@ -1,0 +1,5 @@
+**Toto IV** is Toto's fourth studio album, released in April 1982 on Columbia Records, and their commercial and artistic peak — winning six Grammy Awards at the 1983 ceremony, including Album of the Year. "Rosanna" and "Africa" are two of the most iconic singles of the decade. Recorded across Sunset Sound, Record One, Abbey Road, and Hogg Manor; engineered by **Al Schmitt** and **Greg Ladanyi**; orchestral arrangements by David Paich, James Newton Howard, and Marty Paich. Mastered by **George Marino at Sterling Sound**, New York.
+
+This **1982 original US pressing** was pressed at the **Columbia Records Pressing Plant, Terre Haute, Indiana** (`T1` in the deadwax). Matrix `BL-37728-1F STERLING` = Side B, first-lacquer-generation, F stamper. Runouts are etched except for the stamped `STERLING` and Customatrix `o`.
+
+**About this 1982 US pressing (Vinyl, LP):** Columbia catalog **FC 37728**, original 1982 US pressing. Terre Haute plant. Mastered by George Marino at Sterling Sound. Matrix AL-37728-1F / BL-37728-1F STERLING. Barcode 07464377281.

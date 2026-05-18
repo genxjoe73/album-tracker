@@ -1,0 +1,525 @@
+{
+  "captured_at": "2026-05-18T01:32:46+00:00",
+  "schema_version": 3,
+  "artist": "Twenty One Pilots",
+  "title": "Blurryface",
+  "original_release_year": 2015,
+  "pressing_year": 2015,
+  "upgrade_suggestion": "This 2015 original MPO pressing with the Chris Gehringer / Sterling Sound master and Martin Wegner lacquer cut is the definitive version. Later repressings use the same master but different cutting engineers; the MW cut is preferred by collectors. No audiophile reissue exists — this original is the benchmark.",
+  "commentary": "**Blurryface** is Twenty One Pilots' fourth studio album, released in May 2015 on Fueled by Ramen / Atlantic Records, and the record that broke the Columbus, Ohio duo — **Tyler Joseph** (vocals, keyboards, bass) and **Josh Dun** (drums) — into mainstream stardom. The album debuted at #1 on the Billboard 200 and produced the massive crossover hits **\"Stressed Out\"** and **\"Ride,\"** along with **\"Tear in My Heart\"** and **\"Lane Boy.\"** It is one of the rare albums where every track charted on the Billboard Hot 100 simultaneously. Blurryface reached 6× platinum in the US.\n\nThematically, the album is built around the alter ego \"Blurryface\" — a manifestation of Tyler Joseph's insecurities — and explores anxiety, self-doubt, and identity with a sonic palette that blends alternative rock, hip-hop, reggae, and electronic production. Co-produced by Joseph with executive production by **Ricky Reed** and **Chris Woltman**, mixed by **Neal Avron**, the album's eclectic genre-blending was a significant evolution from their earlier work and set the template for their subsequent commercial success.\n\nThis **2015 original European pressing** was mastered by **Chris Gehringer at Sterling Sound**, New York — one of the foremost mastering engineers of the modern era. Lacquer cut by **Martin Wegner at SST Brüggemann GmbH** in Germany — the `SST` and `MW` (Martin Wegner's initials) in the deadwax confirm this. Pressed by **MPO** in France, one of Europe's most respected pressing plants. The die-cut sleeve includes a red clear plastic sheer insert that colors the black-and-white inner sleeve.\n\n**About this 2015 EU pressing (2× Vinyl, LP):** Fueled by Ramen / WEA International catalog **7567-86696-3**, original 2015 European pressing. Black vinyl. Mastered by Chris Gehringer at Sterling Sound. Lacquer cut by Martin Wegner (MW) at SST Brüggemann GmbH. Pressed by MPO, France. Barcode 075678669637. Matrix MPO 075678669637 A SST MW.",
+  "discogs": {
+    "release_id": 8007072,
+    "master_id": 847527,
+    "uri": "https://www.discogs.com/release/8007072-Twenty-One-Pilots-Blurryface",
+    "title": "Blurryface",
+    "artists": [
+      {
+        "name": "Twenty One Pilots",
+        "id": 3128936,
+        "role": null
+      }
+    ],
+    "year": 2015,
+    "released": "2015",
+    "country": "Europe",
+    "labels": [
+      {
+        "name": "Fueled By Ramen",
+        "catno": "7567-86696-3",
+        "id": 42701
+      }
+    ],
+    "formats": [
+      {
+        "name": "Vinyl",
+        "qty": "2",
+        "descriptions": [
+          "LP",
+          "Album"
+        ],
+        "text": null
+      }
+    ],
+    "genres": [
+      "Electronic",
+      "Hip Hop",
+      "Rock",
+      "Pop"
+    ],
+    "styles": [
+      "Alternative Rock",
+      "Indie Rock",
+      "Synth-pop",
+      "Pop Rap"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Heavydirtysoul",
+        "duration": "3:55",
+        "type": "track"
+      },
+      {
+        "position": "A2",
+        "title": "Stressed Out",
+        "duration": "3:22",
+        "type": "track"
+      },
+      {
+        "position": "A3",
+        "title": "Ride",
+        "duration": "3:35",
+        "type": "track"
+      },
+      {
+        "position": "A4",
+        "title": "Fairly Local",
+        "duration": "3:27",
+        "type": "track"
+      },
+      {
+        "position": "B1",
+        "title": "Tear In My Heart",
+        "duration": "3:09",
+        "type": "track"
+      },
+      {
+        "position": "B2",
+        "title": "Lane Boy",
+        "duration": "4:13",
+        "type": "track"
+      },
+      {
+        "position": "B3",
+        "title": "The Judge",
+        "duration": "4:58",
+        "type": "track"
+      },
+      {
+        "position": "C1",
+        "title": "Doubt",
+        "duration": "3:12",
+        "type": "track"
+      },
+      {
+        "position": "C2",
+        "title": "Polarize",
+        "duration": "3:47",
+        "type": "track"
+      },
+      {
+        "position": "C3",
+        "title": "We Don't Believe What's On TV",
+        "duration": "2:57",
+        "type": "track"
+      },
+      {
+        "position": "C4",
+        "title": "Message Man",
+        "duration": "4:00",
+        "type": "track"
+      },
+      {
+        "position": "D1",
+        "title": "Hometown",
+        "duration": "3:55",
+        "type": "track"
+      },
+      {
+        "position": "D2",
+        "title": "Not Today",
+        "duration": "3:58",
+        "type": "track"
+      },
+      {
+        "position": "D3",
+        "title": "Goner",
+        "duration": "3:57",
+        "type": "track"
+      }
+    ],
+    "extraartists": [
+      {
+        "name": "Pete Ganbarg",
+        "role": "A&R",
+        "id": 963015
+      },
+      {
+        "name": "Brandon Rike",
+        "role": "Art Direction, Design",
+        "id": 415745
+      },
+      {
+        "name": "Reel Bear Media",
+        "role": "Art Direction, Design",
+        "id": 3859691
+      },
+      {
+        "name": "Virgilio Tzaj",
+        "role": "Art Direction, Design",
+        "id": 3364574
+      },
+      {
+        "name": "Tyler Joseph",
+        "role": "Co-producer",
+        "id": 3368197
+      },
+      {
+        "name": "Chris Woltman",
+        "role": "Executive-Producer",
+        "id": 1750542
+      },
+      {
+        "name": "Ricky Reed",
+        "role": "Executive-Producer",
+        "id": 3354960
+      },
+      {
+        "name": "Tyler Joseph",
+        "role": "Executive-Producer",
+        "id": 3368197
+      },
+      {
+        "name": "Martin Wegner",
+        "role": "Lacquer Cut By [Runout Etch]",
+        "id": 2515610
+      },
+      {
+        "name": "Chris Gehringer",
+        "role": "Mastered By",
+        "id": 326440
+      },
+      {
+        "name": "Neal Avron",
+        "role": "Mixed By",
+        "id": 299074
+      },
+      {
+        "name": "Scott Skrzynski",
+        "role": "Mixed By [Assistant]",
+        "id": 4134312
+      },
+      {
+        "name": "Josh Dun",
+        "role": "Performer",
+        "id": 3368196
+      },
+      {
+        "name": "Tyler Joseph",
+        "role": "Performer",
+        "id": 3368197
+      },
+      {
+        "name": "Jabari Jacobs",
+        "role": "Photography By",
+        "id": 4736918
+      },
+      {
+        "name": "Tyler Joseph",
+        "role": "Written-By",
+        "id": 3368197
+      }
+    ],
+    "identifiers": [
+      {
+        "type": "Barcode",
+        "value": "0 75678 66963 7",
+        "description": "Printed"
+      },
+      {
+        "type": "Barcode",
+        "value": "075678669637",
+        "description": "Scanned"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "MPO 075678669637 A SST MW",
+        "description": "Side A runout, etched"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "MPO 075678669637 B² SST MW",
+        "description": "Side B runout, etched"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "MPO 075678669637 C SST MW",
+        "description": "Side C runout, etched"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "MPO 075678669637 D SST MW",
+        "description": "Side D runout, etched"
+      },
+      {
+        "type": "Label Code",
+        "value": "LC00121",
+        "description": null
+      },
+      {
+        "type": "Rights Society",
+        "value": "ASCAP",
+        "description": null
+      },
+      {
+        "type": "Rights Society",
+        "value": "BMI",
+        "description": null
+      }
+    ],
+    "notes": "Regular edition on black vinyl. Packaging includes red clear plastic sheer which makes the cover look colored when put on black and white inner sleeve inside the die-cut sleeve. \n\n2015 Fueled by Ramen, LLC for the United States and WEA International Inc. for the world outside of the United States. Made in the E.U.\n",
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/sFjX8WpD2QxJwnXbNTa0KZmdNe81Cz4ScMT6DWJX4u0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMDcw/NzItMTY3ODExNzk2/Mi04MTczLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/KB-9K8wB78Y0m9V03aI6nnm7ZMe08EydzQxuDE12uDU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMDcw/NzItMTY3ODExNzk2/Mi04MTczLmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/mEhkXh-OQiYBBh0sQLHeGQ87qDnaffcmlrqBOHQ0eaU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMDcw/NzItMTY3ODExNzk1/Ni04MDQ4LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/nYV3UkuLqk5ew2No9dAJjlM5vd8kFh1fqTazrs-hwi0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMDcw/NzItMTY3ODExNzk1/Ni04MDQ4LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/nfpJh4f4LoAi9mBmC_l3VIm11E9IUjivgMJMbYZAktk/rs:fit/g:sm/q:90/h:293/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMDcw/NzItMTY3ODExODIw/OS02NzcyLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/Ji3-epxKo3QPTcaQ6kOqu_ilnpPBOBkKdyWPRnnBdos/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMDcw/NzItMTY3ODExODIw/OS02NzcyLmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/4mCNpiBumZJz6tiI_Qlm6FEDa5JSm8hD42s2NpDbGYo/rs:fit/g:sm/q:90/h:578/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMDcw/NzItMTY3ODExNzk2/NS03OTI4LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/Ojpko61OiLgSbi-OBdVrlPJXxlzT2Cp2CKXN2LkXK7c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMDcw/NzItMTY3ODExNzk2/NS03OTI4LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/SDPqoayeAB-Aa9ypNIV6Kotf7bvuIdj6we-nOtDn7MQ/rs:fit/g:sm/q:90/h:582/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMDcw/NzItMTY3ODExNzk2/NC0yNTg0LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/MlpHgoh2kYJQPxVdVJKXvp0xOb86tluVdlj8NJ1R3L4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMDcw/NzItMTY3ODExNzk2/NC0yNTg0LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/3QEebclIGI8-GySeVJG88j4oE9DLquTbDaKojAnbqv8/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMDcw/NzItMTY3ODExNzk1/OS04MDQ0LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/yh6ZNv01DlDQShuj7eeID0vFCmT0Wp4-Whf-SRRebuE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMDcw/NzItMTY3ODExNzk1/OS04MDQ0LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/PtCz-EE7s-SwsGJidnZ2hNjntFVYmL0iVyW146Qx8M0/rs:fit/g:sm/q:90/h:547/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMDcw/NzItMTY3ODExNzk2/NS02MjgwLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/zrXXW20XC_cV4YLlQhecTRyPcK8yaiRfggOu8mufQIk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMDcw/NzItMTY3ODExNzk2/NS02MjgwLmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/utkBjV8uImqyUBG32trjEVWsm3gzlRBdcQPVxQhvOC4/rs:fit/g:sm/q:90/h:507/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMDcw/NzItMTY3ODExNzk2/NC04MzYwLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/VxJTsNoGXcS6RHsb9GHw9YjWinCRyuEyRoOHNU-7XkQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMDcw/NzItMTY3ODExNzk2/NC04MzYwLmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/nn-2nHN4TlA2CC6-H0D3zlBSmxrQnDTXRGaTdlle9aQ/rs:fit/g:sm/q:90/h:547/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMDcw/NzItMTY3ODExNzk2/NS0xNjk5LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/Su6zmvSLbOcKVByUes2lPob87AfLBn1rxSc4NbewOkw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMDcw/NzItMTY3ODExNzk2/NS0xNjk5LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/wMvsUva7QZjp5EEmAMIdN3vwCzYuCC87oSkpl9mtqpk/rs:fit/g:sm/q:90/h:555/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMDcw/NzItMTY3ODExNzk2/NC0xNDg1LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/v3hYEPDEZX2i3Cs9MMgGx6nOqEDra76Brntz0xJGhcE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMDcw/NzItMTY3ODExNzk2/NC0xNDg1LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/V5-GVnpO1baizQ7ti_QnldVgXIGmnc8HpfO-rchQXWU/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMDcw/NzItMTY3ODExNzk2/Ny02NjA0LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/nHBwkWF25Gv7O6ZRbUQJvqhpCI-Qgdwl7zX_RnxEGgE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMDcw/NzItMTY3ODExNzk2/Ny02NjA0LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/Hyy9CQ3K6r0FGQ5OxGOAAGGnZ1tXoNZ54Ew50TuHxPA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMDcw/NzItMTUzNDc2NDQy/OC05MjA5LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/hqp0vgxq1k45RRMU5k1rpPKeWFRz84YzfF_46JSLrks/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMDcw/NzItMTUzNDc2NDQy/OC05MjA5LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/4hoznvs6ssx1ONewsw1rZ-2bgKBBIoGPcGnDTUPQ40k/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMDcw/NzItMTUzNDc2NDQy/NS05MjQwLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/wtnLqgeiRli1Tj5W3WoVZMBza4g5db7GDeal6gWkWgE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMDcw/NzItMTUzNDc2NDQy/NS05MjQwLmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/rlf3TRRN2-mRcjb4p7Dbqw4tmieiL6SoOhmlj9Q5YMI/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMDcw/NzItMTUzNDc2NDQy/NS0xMjg2LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/pUS835qELg3eQnXTfSvU72JWuJF8fWXcM2OIFTNFVjg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMDcw/NzItMTUzNDc2NDQy/NS0xMjg2LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/kGnoTfSiIW9_JaACJ3fzPun7cKwxULrAUrVUdNYcuiI/rs:fit/g:sm/q:90/h:292/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMDcw/NzItMTUzNDc2NDQy/My00ODc1LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/awFpzRY-q3fH01IBJuxNVgx0p6oCSvSMvl5Whv_woe8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMDcw/NzItMTUzNDc2NDQy/My00ODc1LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/6cKcpMS1IOf8jk2JlbyqFSRkFUB5sHQ3_8avvyN1IxU/rs:fit/g:sm/q:90/h:285/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMDcw/NzItMTY3ODExNzk2/NS0yOTI2LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/5TGqq_95MGRjgSvtJ7xEjIUETUjf_CU9RUjQs05cWPE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMDcw/NzItMTY3ODExNzk2/NS0yOTI2LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/f5JB3DWfkkgaVs9pFbR0XQi7lfk9tBs1LSoJ3iYm82U/rs:fit/g:sm/q:90/h:324/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMDcw/NzItMTY3ODExNzk1/Mi0xNTgzLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/WlonfPyiBJd6FBt4RXZ92GBmKA-tt_2_lugEYtexBSs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMDcw/NzItMTY3ODExNzk1/Mi0xNTgzLmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/EWA8SDycvM92vRsHSg6YtTigkbLgn_Fc8fbq4mNbpFw/rs:fit/g:sm/q:90/h:600/w:322/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMDcw/NzItMTY3ODExNzk2/MC00ODk3LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/Dud1Vj1yl1u_ekF4pxeWdwrC1mbmUdDJOf2IMR_OgL4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMDcw/NzItMTY3ODExNzk2/MC00ODk3LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/7JgwTkETLgiuxiN_jentJfkH0-ewWWodK50J0kDoyWY/rs:fit/g:sm/q:90/h:206/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMDcw/NzItMTY3ODExNzk1/Ni0xMDExLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/wHuXwWU4jXQHgAmGNRMGSnTVvOJgSKkEF49KCsGEhbw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMDcw/NzItMTY3ODExNzk1/Ni0xMDExLmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/YERv9gjJCmqkxRqe_fjtFZud0UC1tFLzfcSaYauouu8/rs:fit/g:sm/q:90/h:302/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMDcw/NzItMTY3ODExNzk2/MC02ODYwLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/1h8xIFPUtg0Q58mtuXLCnxiAapjBTex7vUMCuRBd7Ec/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMDcw/NzItMTY3ODExNzk2/MC02ODYwLmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/gOcnSres6YJiHFT5p6HCekwHrXfbytVxrCbquXTcsc0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMDcw/NzItMTUwNTU4MTAw/Ni0xNjk5LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/X9iIZqNm40knzQk-XOIySMBYpc3wmEFoIbsr7dsye74/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMDcw/NzItMTUwNTU4MTAw/Ni0xNjk5LmpwZWc.jpeg"
+      }
+    ],
+    "community": {
+      "rating": {
+        "count": 953,
+        "average": 4.5
+      },
+      "have": 13708,
+      "want": 1868
+    },
+    "master": {
+      "id": 847527,
+      "title": "Blurryface",
+      "main_release": 8296531,
+      "year": 2015,
+      "uri": "https://www.discogs.com/master/847527-Twenty-One-Pilots-Blurryface",
+      "num_for_sale": 399
+    }
+  },
+  "apple_music": {
+    "id": 974485462,
+    "url": "https://music.apple.com/us/album/blurryface/974485462?uo=4",
+    "name": "Blurryface",
+    "artist": "twenty one pilots",
+    "artist_id": 349736311,
+    "artwork_url_100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8e/e2/89/8ee28904-0821-610d-5011-a61845f62756/075679926951.jpg/100x100bb.jpg",
+    "artwork_url_600": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8e/e2/89/8ee28904-0821-610d-5011-a61845f62756/075679926951.jpg/600x600bb.jpg",
+    "release_date": "2015-05-17T07:00:00Z",
+    "track_count": 14,
+    "copyright": "℗ 2015 Fueled By Ramen LLC for the United States and WEA International Inc. for the world outside of the United States. A Warner Music Group Company",
+    "primary_genre": "Alternative",
+    "country": "USA",
+    "tracks": [
+      {
+        "track_number": 1,
+        "disc_number": 1,
+        "name": "Heavydirtysoul",
+        "duration_ms": 234820,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/54/29/2a/54292a4f-a2e4-a1fe-a5a2-4ff1b7b4e1ca/mzaf_3786874339030210375.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/heavydirtysoul/974485462?i=974485473&uo=4"
+      },
+      {
+        "track_number": 2,
+        "disc_number": 1,
+        "name": "Stressed Out",
+        "duration_ms": 202335,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a9/74/e8/a974e8f2-0693-9371-bb6c-87047a486254/mzaf_1898989387861959316.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/stressed-out/974485462?i=974485474&uo=4"
+      },
+      {
+        "track_number": 3,
+        "disc_number": 1,
+        "name": "Ride",
+        "duration_ms": 214505,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a5/ae/5a/a5ae5a7b-7c4e-7100-9deb-a76b1c135938/mzaf_17639656187741755654.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/ride/974485462?i=974485805&uo=4"
+      },
+      {
+        "track_number": 4,
+        "disc_number": 1,
+        "name": "Fairly Local",
+        "duration_ms": 207161,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/40/4f/59/404f5929-3f39-1738-8adf-363b43171239/mzaf_4560844548625566707.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/fairly-local/974485462?i=974485806&uo=4"
+      },
+      {
+        "track_number": 5,
+        "disc_number": 1,
+        "name": "Tear in My Heart",
+        "duration_ms": 188492,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/90/e6/b2/90e6b254-100e-8baa-7c47-adbc9d56a2d9/mzaf_11897498429240967213.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/tear-in-my-heart/974485462?i=974485807&uo=4"
+      },
+      {
+        "track_number": 6,
+        "disc_number": 1,
+        "name": "Lane Boy",
+        "duration_ms": 253088,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d4/a8/d8/d4a8d832-3100-2dab-0f15-a7c5f870a273/mzaf_8178638640353606672.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/lane-boy/974485462?i=974485808&uo=4"
+      },
+      {
+        "track_number": 7,
+        "disc_number": 1,
+        "name": "The Judge",
+        "duration_ms": 297768,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/13/43/6b/13436b87-5449-2755-1087-9baed7c26b32/mzaf_17237114261944679373.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/the-judge/974485462?i=974485809&uo=4"
+      },
+      {
+        "track_number": 8,
+        "disc_number": 1,
+        "name": "Doubt",
+        "duration_ms": 191486,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ac/18/8b/ac188b7d-ede2-6546-f127-4ba373950aaf/mzaf_4034588712522087740.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/doubt/974485462?i=974485810&uo=4"
+      },
+      {
+        "track_number": 9,
+        "disc_number": 1,
+        "name": "Polarize",
+        "duration_ms": 226792,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f9/ed/8b/f9ed8bbe-27be-070f-4549-05e81e20a2a3/mzaf_17208250614014642765.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/polarize/974485462?i=974485811&uo=4"
+      },
+      {
+        "track_number": 10,
+        "disc_number": 1,
+        "name": "We Don't Believe What's on TV",
+        "duration_ms": 177202,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ba/c7/36/bac736e1-b2a2-f000-a321-57fc6ca8b25d/mzaf_8819012321375253364.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/we-dont-believe-whats-on-tv/974485462?i=974485812&uo=4"
+      },
+      {
+        "track_number": 11,
+        "disc_number": 1,
+        "name": "Message Man",
+        "duration_ms": 240071,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ee/d9/1c/eed91ca8-d2ec-b965-0350-8ca3c1d23c28/mzaf_3704970300734789611.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/message-man/974485462?i=974485813&uo=4"
+      },
+      {
+        "track_number": 12,
+        "disc_number": 1,
+        "name": "Hometown",
+        "duration_ms": 234948,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e0/eb/e6/e0ebe6cb-6661-bd8d-569c-fbdf1764bb31/mzaf_6810368382397180620.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/hometown/974485462?i=974485814&uo=4"
+      },
+      {
+        "track_number": 13,
+        "disc_number": 1,
+        "name": "Not Today",
+        "duration_ms": 238046,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/59/a7/5f/59a75f0b-3865-bdde-9b2f-bf0c4530f615/mzaf_15869915079311780206.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/not-today/974485462?i=974485815&uo=4"
+      },
+      {
+        "track_number": 14,
+        "disc_number": 1,
+        "name": "Goner",
+        "duration_ms": 236723,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ba/0e/76/ba0e76f0-763c-27dd-42f6-41fd3d6e2ab2/mzaf_6673640928594657456.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/goner/974485462?i=974485816&uo=4"
+      }
+    ]
+  },
+  "discrepancies": [],
+  "local_cover": "images/8007072.jpg"
+}

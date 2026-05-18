@@ -1,0 +1,5 @@
+**Toto** is the self-titled debut album by Toto, released in October 1978 on Columbia Records. An assemblage of LA's top session musicians — David Paich, Steve Lukather, Bobby Kimball, David Hungate, Jeff Porcaro, and Steve Porcaro — the debut is a showcase for collective virtuosity: tightly arranged, impeccably performed AOR. "Hold the Line" reached #5 on the Billboard Hot 100; "Georgy Porgy" (featuring Cheryl Lynn) is a standout soul-pop gem. The album went platinum and reached #9 on the Billboard 200. Mastered by Mike Reese and Ron Hitchcock at **The Mastering Lab** (Hollywood).
+
+This **1978 original US pressing** was cut at **The Mastering Lab** (`TML-S` in the deadwax) and pressed at the **Columbia Records Pressing Plant, Terre Haute, Indiana** (`T1`). Matrix `PAL 35317 2E` = second lacquer generation, E stamper — a mid-run original pressing. No barcode (predates UPC adoption on Columbia LPs).
+
+**About this 1978 US pressing (Vinyl, LP):** Columbia catalog **JC 35317**, original 1978 US pressing. Terre Haute plant. Mastered at The Mastering Lab. Matrix PAL 35317 2E TML-S (Side A).

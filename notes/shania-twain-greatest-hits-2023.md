@@ -1,0 +1,5 @@
+**Greatest Hits** is Shania Twain's career-spanning compilation, originally released in November 2004 on Mercury Nashville / UMG. Spanning *The Woman in Me* (1995), *Come On Over* (1997), and *Up!* (2002), it collects the hits that made Twain the best-selling female country artist of all time. Produced primarily by **Robert John "Mutt" Lange**. 23 tracks including "Man! I Feel Like a Woman!," "You're Still the One," "That Don't Impress Me Much," "From This Moment On," and "Come On Over."
+
+This **2023 US pressing** is the limited **"Coke Bottle Clear" green vinyl** edition — a Walmart/Target exclusive 2LP in a gatefold sleeve with printed inner sleeves. Pressed by **GZ Media**, confirmed by the `10-101587 / 602458342178` deadwax lacquer code (UMe's standard GZ format). 2023 remaster.
+
+**About this 2023 US pressing (2× Vinyl, LP, Compilation, Limited Edition):** UMG catalog **602458342178**, 2023 reissue. "Coke Bottle Clear" green vinyl. Walmart/Target exclusive. Gatefold. Pressed by GZ Media. Barcode 602458342178. Matrix 10-101587 / 602458342178.

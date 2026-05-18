@@ -1,0 +1,5 @@
+**Blurryface** is Twenty One Pilots' fourth studio album, released in May 2015 on Fueled by Ramen / Atlantic Records. Debuted at #1 on the Billboard 200; produced massive hits "Stressed Out," "Ride," and "Tear in My Heart." Every track charted on the Billboard Hot 100 simultaneously — a rare feat. 6× platinum US. Co-produced by Tyler Joseph with executive production by Ricky Reed and Chris Woltman; mixed by Neal Avron.
+
+This **2015 original European pressing** was mastered by **Chris Gehringer at Sterling Sound**, New York. Lacquer cut by **Martin Wegner (MW) at SST Brüggemann GmbH**, Germany — `SST` + `MW` in the deadwax confirms both. Pressed by **MPO**, France. Die-cut sleeve with red clear plastic sheer insert.
+
+**About this 2015 EU pressing (2× Vinyl, LP):** Fueled by Ramen / WEA International catalog **7567-86696-3**, original 2015 European pressing. Black vinyl. Mastered by Chris Gehringer at Sterling Sound. Lacquer cut by Martin Wegner at SST. Pressed by MPO, France. Barcode 075678669637. Matrix MPO 075678669637 A SST MW.

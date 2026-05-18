@@ -1,0 +1,552 @@
+{
+  "captured_at": "2026-05-18T01:09:40+00:00",
+  "schema_version": 3,
+  "artist": "Tears For Fears",
+  "title": "Songs For A Nervous Planet",
+  "original_release_year": 2024,
+  "pressing_year": 2024,
+  "upgrade_suggestion": "This is a first pressing of a 2024 release — there is no meaningful upgrade path yet. The vinyl masters by Justin Shturtz and lacquer cut by Joe Nino-Hernes at Sterling Sound represent current best practice. Worth holding.",
+  "commentary": "**Songs For A Nervous Planet** is a 2024 compilation / live-and-new collection by Tears For Fears, released on Concord Records under exclusive license from TFF UK, LLC. The album brings together four new studio recordings alongside live performances of signature songs — \"Shout,\" \"Head Over Heels,\" \"Everybody Wants to Rule the World,\" and others — drawn from the duo's recent touring activity. It marks one of the few new Tears For Fears releases in years and serves as both a career document and a statement that Roland Orzabal and Curt Smith remain an active creative partnership.\n\nThe new studio tracks were recorded at **School Farm Studios** (Orzabal's personal studio facility), with music co-written by longtime collaborator **Charlton Pettus**, who also plays guitar in the touring band. The live performances feature the full touring lineup: Pettus on guitar, **Doug Petty** on keyboards, **Jamie Wollam** on drums, **Curt Smith** on bass and vocals, and backing vocalists **Janae Sims**, **Jasmine Mullen**, and **Lauren Evans**.\n\nThis **2024 US pressing** was mastered by **Ted Jensen** (digital) and **Justin Shturtz** (vinyl masters), with lacquer cut by **Joe Nino-Hernes** — all at **Sterling Sound**, New York. The deadwax `JN-H` confirms Nino-Hernes's cut. Pressed at **Memphis Record Pressing** (the `MRP6175` stamper code), a premier US pressing plant based in Memphis, Tennessee. A second hype sticker variant (Barnes & Noble exclusive) exists with identical music and different shrinkwrap sticker.\n\n**About this 2024 US pressing (2× Vinyl, LP):** Concord Records catalog **CRE02697**, 2024 first pressing. Gatefold with lyric insert. Mastered by Ted Jensen / Justin Shturtz at Sterling Sound. Lacquer cut by Joe Nino-Hernes. Pressed by Memphis Record Pressing. Barcode 888072635333. Matrix CRE02697-A (1) MRP6175 287337E1 JN-H STERLING.",
+  "discogs": {
+    "release_id": 32170617,
+    "master_id": 3634863,
+    "uri": "https://www.discogs.com/release/32170617-Tears-For-Fears-Songs-For-A-Nervous-Planet",
+    "title": "Songs For A Nervous Planet",
+    "artists": [
+      {
+        "name": "Tears For Fears",
+        "id": 19814,
+        "role": null
+      }
+    ],
+    "year": 2024,
+    "released": "2024-10-25",
+    "country": "US",
+    "labels": [
+      {
+        "name": "Concord Records",
+        "catno": "CRE02697",
+        "id": 26367
+      }
+    ],
+    "formats": [
+      {
+        "name": "Vinyl",
+        "qty": "2",
+        "descriptions": [
+          "LP",
+          "Album"
+        ],
+        "text": null
+      }
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Alternative Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Say Goodbye To Mum And Dad",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "A2",
+        "title": "The Girl That I Call Home",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "A3",
+        "title": "Emily Said",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "A4",
+        "title": "Astronaut",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "A5",
+        "title": "The Tipping Point",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B6",
+        "title": "Everybody Wants To Rule The World",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B7",
+        "title": "Sowing The Seeds Of Love",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B8",
+        "title": "Break The Man",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B9",
+        "title": "Mad World",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "C10",
+        "title": "Woman In Chains",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "C11",
+        "title": "Badman’s Song",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "C12",
+        "title": "Pale Shelter",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "D13",
+        "title": "Break It Down Again",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "D14",
+        "title": "Head Over Heels",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "D15",
+        "title": "Change",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "D16",
+        "title": "Shout",
+        "duration": "",
+        "type": "track"
+      }
+    ],
+    "extraartists": [
+      {
+        "name": "Lisa Glines",
+        "role": "Art Direction, Design",
+        "id": 1833685
+      },
+      {
+        "name": "Surrealistly",
+        "role": "Artwork [Astronaut & Sunflower Art]",
+        "id": 15241593
+      },
+      {
+        "name": "Janae Sims",
+        "role": "Band [Touring Band], Backing Vocals",
+        "id": 15241596
+      },
+      {
+        "name": "Jasmine Mullen",
+        "role": "Band [Touring Band], Backing Vocals",
+        "id": 5907875
+      },
+      {
+        "name": "Curt Smith",
+        "role": "Band [Touring Band], Bass, Vocals",
+        "id": 466467
+      },
+      {
+        "name": "Jamie Wollam",
+        "role": "Band [Touring Band], Drums",
+        "id": 959345
+      },
+      {
+        "name": "Charlton Pettus",
+        "role": "Band [Touring Band], Guitar",
+        "id": 283208
+      },
+      {
+        "name": "Roland Orzabal",
+        "role": "Band [Touring Band], Guitar, Vocals",
+        "id": 164295
+      },
+      {
+        "name": "Doug Petty",
+        "role": "Band [Touring Band], Keyboards",
+        "id": 424025
+      },
+      {
+        "name": "Lauren Evans",
+        "role": "Band [Touring Band], Vocals, Backing Vocals",
+        "id": 426815
+      },
+      {
+        "name": "Joe Nino-Hernes",
+        "role": "Lacquer Cut By",
+        "id": 6012918
+      },
+      {
+        "name": "Full Stop Management",
+        "role": "Management",
+        "id": 5797399
+      },
+      {
+        "name": "Irving Azoff",
+        "role": "Management",
+        "id": 725502
+      },
+      {
+        "name": "Jeffrey Azoff",
+        "role": "Management",
+        "id": 4807122
+      },
+      {
+        "name": "Kate Rancka",
+        "role": "Management",
+        "id": 13905406
+      },
+      {
+        "name": "Sarah Montgomery",
+        "role": "Management",
+        "id": 6416879
+      },
+      {
+        "name": "Ted Jensen",
+        "role": "Mastered By",
+        "id": 259758
+      },
+      {
+        "name": "Justin Shturtz",
+        "role": "Mastered By [Vinyl Masters]",
+        "id": 658158
+      },
+      {
+        "name": "Charlton Pettus",
+        "role": "Music By",
+        "id": 283208
+      },
+      {
+        "name": "Emily Rath Orzabal",
+        "role": "Photography By [Labels A/B/D]",
+        "id": 15242559
+      },
+      {
+        "name": "Matthew Becker",
+        "role": "Photography By [Labels C]",
+        "id": 5626986
+      },
+      {
+        "name": "Dave Tesh",
+        "role": "Photography By [Live Photos, Jacket Inside/Left]",
+        "id": 15242562
+      },
+      {
+        "name": "Matthew Becker",
+        "role": "Photography By [Live Photos, Jacket Inside/Right]",
+        "id": 5626986
+      }
+    ],
+    "identifiers": [
+      {
+        "type": "Barcode",
+        "value": "8 88072 63533 3",
+        "description": "Text, cover"
+      },
+      {
+        "type": "Barcode",
+        "value": "888072635333",
+        "description": "Scanned, cover"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "CRE02697-A (1) MRP6175/CRE02697-A 1987983 #4 287337E1 JN-H STERLING",
+        "description": "Side A runout"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "CRE02697-B (1) MRP6175/CRE02697-B 287337E2 #4 2038335 JN-H STERLING",
+        "description": "Side B runout"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "CRE02697-C (1) MRP6175/CRE02697-C JN-H STERLING 1987989 287337E3 #2",
+        "description": "Side C runout"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "CRE02697-D (1) MRP6175/CRE02697-D JN-H STERLING 1987991 287337E4 #1",
+        "description": "Side D runout"
+      },
+      {
+        "type": "Other",
+        "value": "CRE02697",
+        "description": "Hype sticker"
+      },
+      {
+        "type": "Rights Society",
+        "value": "PRS",
+        "description": null
+      },
+      {
+        "type": "Rights Society",
+        "value": "ASCAP",
+        "description": null
+      }
+    ],
+    "notes": "Hype sticker on shrink-wrap:\n\"2-LP\nFeaturing Live Performances of\n\"Shout,\"\n\"Head Over Heels,\"\n\"Everybody Wants To Rule the World\"\n& more hits\n- Plus -\n4 New Songs!\"\n\nIssued in gatefold cover containing lyrics to the four new songs, and album credits. Records are issued with black, die-cut anti-static sleeves. Tracks are sequentially numbered.\n\nOn track A3, \"Choir recorded at School Farm Studios.\n\n℗ & © 2024 TFFUK, LLC. Under exclusive license to Concord Records.\nMade in U.S.A.\n\nIn the runouts, \"CRE02697-Ⅹ (1),\" \"#Ⅹ,\" and \"JN-H\" are etched, the rest is stamped.\n",
+    "images": [
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/511ZdotPrLBuXe7dVq6SaonKWCa9wJykgzpRxxMBS3U/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTcw/NjE3LTE3MzA0OTE1/NzgtNDM5Ni5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/ysM6WXvIw0PezPgXgUwZdl9KhyHrzoQIyPadpStHHds/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTcw/NjE3LTE3MzA0OTE1/NzgtNDM5Ni5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/N_chbvEVfFSnIP8vYMdl-LwozA2VVxac60GUORMZY9M/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTcw/NjE3LTE3MzA0OTE1/NzgtODcxOC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/d0h7scV_g8mN-YJ4-TrP_QqK-CFPez6yLcLOf9Uqrv0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTcw/NjE3LTE3MzA0OTE1/NzgtODcxOC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/vH1pd-KaoppVrwt6Is4nrWp3feYGlLXef9OcHVDKiD0/rs:fit/g:sm/q:90/h:330/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTcw/NjE3LTE3MzA0OTE1/NzctMzk3MC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/dUP06Wv1Mt4-XHZ5EAciNLqYNGW84EjeQ7M_c53P5VI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTcw/NjE3LTE3MzA0OTE1/NzctMzk3MC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/u1qtBaJt09h4DUA-EMS4YyPf1IYc4RSCuS6LvGYxYg4/rs:fit/g:sm/q:90/h:600/w:550/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTcw/NjE3LTE3MzA0OTE1/NzctNTkyMS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/MpKVSkT4lJnpUUsx323SIyOlHb6DdAvMtfrOI6Nro8g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTcw/NjE3LTE3MzA0OTE1/NzctNTkyMS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/HLIlN6nXzUBE25woF7_lT_FVmegaD8b5Bnu2dQ0rx1U/rs:fit/g:sm/q:90/h:526/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTcw/NjE3LTE3MzA0OTE1/NzctNzY0Mi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/WRhPlDAK_1N0livYMRBDGBBP9OBCZd5G7EP_LE_E5mw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTcw/NjE3LTE3MzA0OTE1/NzctNzY0Mi5qcGVn.jpeg"
+      }
+    ],
+    "community": {
+      "rating": {
+        "count": 47,
+        "average": 4.32
+      },
+      "have": 469,
+      "want": 37
+    },
+    "master": {
+      "id": 3634863,
+      "title": "Songs For A Nervous Planet",
+      "main_release": 32104662,
+      "year": 2024,
+      "uri": "https://www.discogs.com/master/3634863-Tears-For-Fears-Songs-For-A-Nervous-Planet",
+      "num_for_sale": 225
+    }
+  },
+  "apple_music": {
+    "id": 1763712367,
+    "url": "https://music.apple.com/us/album/songs-for-a-nervous-planet/1763712367?uo=4",
+    "name": "Songs For A Nervous Planet",
+    "artist": "Tears for Fears",
+    "artist_id": 45218,
+    "artwork_url_100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/be/89/80/be8980e1-36d4-48a2-24eb-70c903c41b6f/24CRGIM43206.rgb.jpg/100x100bb.jpg",
+    "artwork_url_600": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/be/89/80/be8980e1-36d4-48a2-24eb-70c903c41b6f/24CRGIM43206.rgb.jpg/600x600bb.jpg",
+    "release_date": "2024-10-25T07:00:00Z",
+    "track_count": 22,
+    "copyright": "℗ 2024 TFF UK, LLC, Under exclusive license to Concord Records. Distributed by Concord.",
+    "primary_genre": "Alternative",
+    "country": "USA",
+    "tracks": [
+      {
+        "track_number": 1,
+        "disc_number": 1,
+        "name": "Say Goodbye To Mum And Dad",
+        "duration_ms": 225029,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2c/99/ed/2c99ed6b-5734-e27b-a417-32e231e15698/mzaf_3524221303214557993.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/say-goodbye-to-mum-and-dad/1763712367?i=1763712378&uo=4"
+      },
+      {
+        "track_number": 2,
+        "disc_number": 1,
+        "name": "The Girl That I Call Home",
+        "duration_ms": 224212,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/18/cc/e6/18cce662-c8d7-d157-9b6e-f572ba3933d9/mzaf_16755297296175131039.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/the-girl-that-i-call-home/1763712367?i=1763712832&uo=4"
+      },
+      {
+        "track_number": 3,
+        "disc_number": 1,
+        "name": "Emily Said",
+        "duration_ms": 239809,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/11/b0/ad/11b0adc9-1e06-1e83-f07d-8cd71006bdc0/mzaf_9618779250710054396.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/emily-said/1763712367?i=1763712834&uo=4"
+      },
+      {
+        "track_number": 4,
+        "disc_number": 1,
+        "name": "Astronaut",
+        "duration_ms": 223871,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/92/a4/cf/92a4cf8b-0ca2-923d-fa19-2d7cd6510e62/mzaf_4322741497772289217.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/astronaut/1763712367?i=1763712835&uo=4"
+      },
+      {
+        "track_number": 5,
+        "disc_number": 1,
+        "name": "No Small Thing (Live From Franklin, TN)",
+        "duration_ms": 284445,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/51/44/f6/5144f6c7-7588-38e1-d159-528ba33a3eb5/mzaf_1875921162464461452.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/no-small-thing-live-from-franklin-tn/1763712367?i=1763712841&uo=4"
+      },
+      {
+        "track_number": 6,
+        "disc_number": 1,
+        "name": "The Tipping Point (Live From Franklin, TN)",
+        "duration_ms": 253859,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/93/e5/79/93e5798e-8176-da82-4785-c9f026114dbe/mzaf_7175715839307723115.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/the-tipping-point-live-from-franklin-tn/1763712367?i=1763712848&uo=4"
+      },
+      {
+        "track_number": 7,
+        "disc_number": 1,
+        "name": "Everybody Wants To Rule The World (Live From Franklin, TN)",
+        "duration_ms": 264489,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/3d/50/fd/3d50fd6f-de83-4b69-0599-5f228d3b6af6/mzaf_3419422965749378469.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/everybody-wants-to-rule-the-world-live-from-franklin-tn/1763712367?i=1763712851&uo=4"
+      },
+      {
+        "track_number": 8,
+        "disc_number": 1,
+        "name": "Secret World (Live From Franklin, TN)",
+        "duration_ms": 287674,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f2/9c/68/f29c6810-78db-a244-d674-796c95c84b6c/mzaf_16406644911929171897.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/secret-world-live-from-franklin-tn/1763712367?i=1763713131&uo=4"
+      },
+      {
+        "track_number": 9,
+        "disc_number": 1,
+        "name": "Sowing The Seeds Of Love (Live From Franklin, TN)",
+        "duration_ms": 384866,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/de/0f/d9/de0fd9bf-a7d5-0180-87b5-6a2ae7f6c9d8/mzaf_2053573182556802400.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/sowing-the-seeds-of-love-live-from-franklin-tn/1763712367?i=1763713137&uo=4"
+      },
+      {
+        "track_number": 10,
+        "disc_number": 1,
+        "name": "Long, Long, Long Time (Live From Franklin, TN)",
+        "duration_ms": 257419,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/6b/d1/62/6bd16207-8b26-5297-f61f-11d2e746d182/mzaf_4926533081470704471.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/long-long-long-time-live-from-franklin-tn/1763712367?i=1763713141&uo=4"
+      },
+      {
+        "track_number": 11,
+        "disc_number": 1,
+        "name": "Break The Man (Live From Franklin, TN)",
+        "duration_ms": 237146,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/7e/85/6f/7e856f8b-b9c5-b369-527c-1d208b453157/mzaf_15469021875932742174.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/break-the-man-live-from-franklin-tn/1763712367?i=1763713142&uo=4"
+      },
+      {
+        "track_number": 12,
+        "disc_number": 1,
+        "name": "My Demons (Live From Franklin, TN)",
+        "duration_ms": 190673,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/35/3e/11/353e11b7-b96e-c427-8a5d-9eb6ba3d05a9/mzaf_14567747836653001590.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/my-demons-live-from-franklin-tn/1763712367?i=1763713148&uo=4"
+      },
+      {
+        "track_number": 13,
+        "disc_number": 1,
+        "name": "Rivers Of Mercy (Live From Franklin, TN)",
+        "duration_ms": 351726,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c9/13/96/c913961e-9003-925d-5f31-4a664b1b0dd3/mzaf_5877719411193278036.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/rivers-of-mercy-live-from-franklin-tn/1763712367?i=1763713150&uo=4"
+      },
+      {
+        "track_number": 14,
+        "disc_number": 1,
+        "name": "Mad World (Live From Franklin, TN)",
+        "duration_ms": 214769,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a3/57/12/a3571222-eb42-5fe5-7d01-fbdbecc6bd28/mzaf_18438510837932345065.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/mad-world-live-from-franklin-tn/1763712367?i=1763713154&uo=4"
+      },
+      {
+        "track_number": 15,
+        "disc_number": 1,
+        "name": "Suffer The Children (Live From Franklin, TN)",
+        "duration_ms": 206781,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1c/6f/47/1c6f4778-06f0-70cb-a90a-23e92b1a80d2/mzaf_15619794430722135470.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/suffer-the-children-live-from-franklin-tn/1763712367?i=1763713579&uo=4"
+      },
+      {
+        "track_number": 16,
+        "disc_number": 1,
+        "name": "Woman In Chains (Live From Franklin, TN)",
+        "duration_ms": 387551,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/16/17/55/16175549-e2a7-751e-f469-57bd96c0db5c/mzaf_15684273100883178560.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/woman-in-chains-live-from-franklin-tn/1763712367?i=1763713580&uo=4"
+      },
+      {
+        "track_number": 17,
+        "disc_number": 1,
+        "name": "Badman’s Song (Live From Franklin, TN)",
+        "duration_ms": 610711,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/89/2b/f4/892bf414-0204-b6c8-84e0-89e3a29e7ca2/mzaf_13168637078070241717.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/badmans-song-live-from-franklin-tn/1763712367?i=1763713584&uo=4"
+      },
+      {
+        "track_number": 18,
+        "disc_number": 1,
+        "name": "Pale Shelter (Live From Franklin, TN)",
+        "duration_ms": 277397,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e2/82/48/e282488c-a3ec-6331-43d2-55cc530faf0c/mzaf_3924387313930912827.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/pale-shelter-live-from-franklin-tn/1763712367?i=1763713605&uo=4"
+      },
+      {
+        "track_number": 19,
+        "disc_number": 1,
+        "name": "Break It Down Again (Live From Franklin, TN)",
+        "duration_ms": 276222,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/fb/41/da/fb41da79-2f96-b9e2-0872-663cd69d1e4f/mzaf_10564685319225823898.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/break-it-down-again-live-from-franklin-tn/1763712367?i=1763713732&uo=4"
+      },
+      {
+        "track_number": 20,
+        "disc_number": 1,
+        "name": "Head Over Heels (Live From Franklin, TN)",
+        "duration_ms": 308894,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ba/db/35/badb35a6-3e66-0cea-bf2e-5d7a5b26b7b8/mzaf_2501983462946601182.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/head-over-heels-live-from-franklin-tn/1763712367?i=1763713753&uo=4"
+      },
+      {
+        "track_number": 21,
+        "disc_number": 1,
+        "name": "Change (Live From Franklin, TN)",
+        "duration_ms": 272914,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ea/a3/1c/eaa31cd5-0e4a-0251-9e87-2af64d7359cf/mzaf_818546877461293099.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/change-live-from-franklin-tn/1763712367?i=1763713886&uo=4"
+      },
+      {
+        "track_number": 22,
+        "disc_number": 1,
+        "name": "Shout (Live From Franklin, TN)",
+        "duration_ms": 392251,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1d/9c/ee/1d9cee7c-9ec7-3279-608c-b1d7b323d9d2/mzaf_14822146943415101191.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/shout-live-from-franklin-tn/1763712367?i=1763713892&uo=4"
+      }
+    ]
+  },
+  "discrepancies": [
+    "Track count differs: Discogs=16, Apple Music=22"
+  ],
+  "local_cover": "images/32170617.jpg"
+}

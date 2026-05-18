@@ -1,0 +1,225 @@
+{
+  "captured_at": "2026-05-18T01:52:47+00:00",
+  "schema_version": 3,
+  "artist": "The Who",
+  "title": "Greatest Hits",
+  "original_release_year": 1983,
+  "pressing_year": 1983,
+  "upgrade_suggestion": "No dedicated audiophile reissue exists for this specific compilation. For the best-sounding Who material on vinyl, the original UK Track and Polydor pressings of individual albums (My Generation, Tommy, Who's Next, Quadrophenia) are the collector benchmarks. This MCA compilation is a practical single-disc overview but not the reference for any individual album.",
+  "commentary": "**Greatest Hits** is a 1983 MCA Records compilation collecting key tracks from The Who's career across two distinct catalog configurations — front cover lists `MCA-37261` while the vinyl and back cover carry `MCA-5408`, a known variant of this pressing. The Who's catalog had migrated to MCA in the US by this point, and this compilation served as the primary entry-point overview of the band's work through the early 1980s, spanning their mid-60s mod roots through to *It's Hard* (1982).\n\nThe Who — **Roger Daltrey** (vocals), **Pete Townshend** (guitar, songwriting), **John Entwistle** (bass), and **Keith Moon** (drums, died 1978) — are one of rock's foundational acts, responsible for defining the sonic vocabulary of British rock from \"My Generation\" (1965) through the concept-album ambition of *Tommy* (1969) and *Quadrophenia* (1973), to the stripped-back power of *Who's Next* (1971). This compilation captures that arc in distilled form.\n\nThis **1983 US pressing** was pressed at the **MCA pressing plant in Gloversville, New York** — identified by the `KPG/MCA` code in the runout (`KPG` = Keystone Pressing, Gloversville). The matrix `MCA 3337-W4 KPG/MCA` identifies Side A as the fourth lacquer generation (`W4`) from the Gloversville plant. No Apple Music equivalent for this specific compilation.\n\n**About this 1983 US pressing (Vinyl, LP, Compilation):** MCA catalog **MCA-37261** (front cover) / **MCA-5408** (back cover and vinyl), 1983 pressing. Gloversville, NY pressing plant (KPG/MCA). Matrix MCA 3337-W4 KPG/MCA (Side A) / MCA 3338-W3 KPG/MCA (Side B). Barcode 7673254081.",
+  "discogs": {
+    "release_id": 1770831,
+    "master_id": 114702,
+    "uri": "https://www.discogs.com/release/1770831-The-Who-Greatest-Hits",
+    "title": "Greatest Hits",
+    "artists": [
+      {
+        "name": "The Who",
+        "id": 196766,
+        "role": null
+      }
+    ],
+    "year": 1983,
+    "released": "1983",
+    "country": "US",
+    "labels": [
+      {
+        "name": "MCA Records",
+        "catno": "MCA-37261",
+        "id": 878
+      },
+      {
+        "name": "MCA Records",
+        "catno": "MCA-5408",
+        "id": 878
+      }
+    ],
+    "formats": [
+      {
+        "name": "Vinyl",
+        "qty": "1",
+        "descriptions": [
+          "LP",
+          "Compilation"
+        ],
+        "text": null
+      }
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "styles": [],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Substitute",
+        "duration": "3:45",
+        "type": "track"
+      },
+      {
+        "position": "A2",
+        "title": "The Seeker",
+        "duration": "3:09",
+        "type": "track"
+      },
+      {
+        "position": "A3",
+        "title": "Magic Bus",
+        "duration": "3:20",
+        "type": "track"
+      },
+      {
+        "position": "A4",
+        "title": "My Generation",
+        "duration": "3:15",
+        "type": "track"
+      },
+      {
+        "position": "A5",
+        "title": "Pinball Wizard",
+        "duration": "3:00",
+        "type": "track"
+      },
+      {
+        "position": "A6",
+        "title": "Happy Jack",
+        "duration": "2:08",
+        "type": "track"
+      },
+      {
+        "position": "A7",
+        "title": "Won't Get Fooled Again",
+        "duration": "3:38",
+        "type": "track"
+      },
+      {
+        "position": "B1",
+        "title": "My Wife",
+        "duration": "3:32",
+        "type": "track"
+      },
+      {
+        "position": "B2",
+        "title": "Squeeze Box",
+        "duration": "2:40",
+        "type": "track"
+      },
+      {
+        "position": "B3",
+        "title": "The Relay",
+        "duration": "3:40",
+        "type": "track"
+      },
+      {
+        "position": "B4",
+        "title": "5:15",
+        "duration": "4:48",
+        "type": "track"
+      },
+      {
+        "position": "B5",
+        "title": "Love Reign O'er Me",
+        "duration": "3:04",
+        "type": "track"
+      },
+      {
+        "position": "B6",
+        "title": "Who Are You",
+        "duration": "5:00",
+        "type": "track"
+      }
+    ],
+    "extraartists": [],
+    "identifiers": [
+      {
+        "type": "Matrix / Runout",
+        "value": "MCA 3337-W4 KPG/MCA",
+        "description": "Run-out Side A"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "MCA 3338-W3 KPG/MCA",
+        "description": "Run-out Side B"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "MCA-3337-W2   KPG/MCA   2",
+        "description": "Variant Run-out Side A"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "MCA-3338-W2   KPG/MCA  2",
+        "description": "Variant Run-out Side B"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "MCA-3337-W2 KPG/MCA ⧈-G-⧈",
+        "description": "Side A Variant 2 etched except for ⧈-G-⧈ which is stamped"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "MCA-3338-W1 KPG/MCA ⧈-G-⧈",
+        "description": "Side B Variant 2 etched except for ⧈-G-⧈ stamped"
+      },
+      {
+        "type": "Barcode",
+        "value": "076732540817",
+        "description": "Scanned"
+      },
+      {
+        "type": "Barcode",
+        "value": "0 76732-5408-1",
+        "description": "Text"
+      }
+    ],
+    "notes": "Front cover has catalog # MCA-37261, back cover and vinyl has catalog # MCA-5408.  Gloversville NY variant with same catalog numbers.\nAnother similar variant also has ()'s around MCA3338 under MCA-1496",
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/ayfLkSwfqfr1uurWTX64S2ageKqkjHrhsy2ggYAmMiA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NzA4/MzEtMTU5MzI5MTM1/MC0zNjM5LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/uZbPOuMQiz7TBQw3X6CalMldFdu13QtnHCaKn3DzCsI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NzA4/MzEtMTU5MzI5MTM1/MC0zNjM5LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/0l8LcwMYpoLztBZ8dSf9T7qgaRlkcxwiMPIOMVpnekU/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NzA4/MzEtMTU1MDQ0MzQy/MC0xMzIwLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/BlSgb18FZp-w4I-cd3LipDbd-VxXdQGkKg5DW3jFLSk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NzA4/MzEtMTU1MDQ0MzQy/MC0xMzIwLmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/-mtFbHd8l29o9HWJyFEJplzcqb0BcSGho5gFXZCceEM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NzA4/MzEtMTU5MzI5MTM1/NS04MDQxLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/PiDE-ZLhtTfbHVpzVMwNZm0jWhe07GjqFEnAKP-XXJ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NzA4/MzEtMTU5MzI5MTM1/NS04MDQxLmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/s_CSUYjsjakEbl1cT3wSlxqpKs2VjcLGhe0TxGKjlHg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NzA4/MzEtMTU5MzI5MTM3/NS0yNTU0LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/FF7SdpTOWWwbKBpuOSDqsjp06wA9Hs-BOdVCb9eoBcA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NzA4/MzEtMTU5MzI5MTM3/NS0yNTU0LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/n1k1d6G7Ktr0Qs1ogyzDesvbp1wE_8QwU99hANZTQ6E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NzA4/MzEtMTU5MzI5MTM4/Mi0zOTIxLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/g5S4IqoHsZj4nSvr7zUMehW_EZSk_zrJ6zQfS54bd2Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NzA4/MzEtMTU5MzI5MTM4/Mi0zOTIxLmpwZWc.jpeg"
+      }
+    ],
+    "community": {
+      "rating": {
+        "count": 65,
+        "average": 4.29
+      },
+      "have": 1189,
+      "want": 53
+    },
+    "master": {
+      "id": 114702,
+      "title": "Who's Greatest Hits",
+      "main_release": 3720504,
+      "year": 1983,
+      "uri": "https://www.discogs.com/master/114702-Who-Whos-Greatest-Hits",
+      "num_for_sale": 381
+    }
+  },
+  "apple_music": null,
+  "discrepancies": [
+    "No Apple Music match found."
+  ],
+  "local_cover": "images/1770831.jpg"
+}

@@ -1,0 +1,302 @@
+{
+  "captured_at": "2026-05-18T01:41:55+00:00",
+  "schema_version": 3,
+  "artist": "Twenty One Pilots",
+  "title": "Breach",
+  "original_release_year": 2025,
+  "pressing_year": 2025,
+  "upgrade_suggestion": "This is a first pressing of a 2025 release — no upgrade path exists. The Sterling Sound master and Canadian pressing are current best practice. The retail red vinyl is a distinct variant from the European black pressing.",
+  "commentary": "**Breach** is Twenty One Pilots' eighth studio album, released in 2025 on Fueled by Ramen / Warner Music Group, following the conclusion of the Clancy narrative arc on their previous album. The duo — **Tyler Joseph** and **Josh Dun** — continue their evolution as arena-scale alternative artists, with *Breach* representing a new chapter in their catalog freed from the overarching fictional mythology that defined the *Trench* / *Clancy* era. Mixed at **Periscope Sound** in Franklin, Tennessee; mastered at **Sterling Sound**, New York.\n\nThis **2025 USA & Canada pressing** is the **retail red vinyl** edition — hype sticker reads \"RETAIL RED\" — distinguishing it from the standard European black vinyl pressing. Made in Canada. The deadwax `304725E1/A` confirms the Sterling Sound lacquer; the pressing plant is consistent with Canadian manufacturing facilities used for Fueled by Ramen / WMG releases.\n\n**About this 2025 USA & Canada pressing (Vinyl, LP):** Fueled by Ramen catalog **075678594526**, 2025 first pressing. Red vinyl. Made in Canada. Mastered at Sterling Sound. Barcode 075678594526. Matrix 304725E1/A 02312849.",
+  "discogs": {
+    "release_id": 35074625,
+    "master_id": 3968810,
+    "uri": "https://www.discogs.com/release/35074625-Twenty-One-Pilots-Breach",
+    "title": "Breach",
+    "artists": [
+      {
+        "name": "Twenty One Pilots",
+        "id": 3128936,
+        "role": null
+      }
+    ],
+    "year": 2025,
+    "released": "2025-09-12",
+    "country": "USA & Canada",
+    "labels": [
+      {
+        "name": "Fueled By Ramen",
+        "catno": "075678594526",
+        "id": 42701
+      }
+    ],
+    "formats": [
+      {
+        "name": "Vinyl",
+        "qty": "1",
+        "descriptions": [
+          "LP",
+          "Album"
+        ],
+        "text": "Red"
+      }
+    ],
+    "genres": [
+      "Rock",
+      "Pop"
+    ],
+    "styles": [
+      "Alt-Pop",
+      "Alternative Rock",
+      "Indie Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "City Walls",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "A2",
+        "title": "Rawfear",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "A3",
+        "title": "Drum Show",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "A4",
+        "title": "Garbage",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "A5",
+        "title": "The Contract",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "A6",
+        "title": "Downstairs",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B1",
+        "title": "Robot Voices",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B2",
+        "title": "Center Mass",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B3",
+        "title": "Cottonwood",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B4",
+        "title": "One Way",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B5",
+        "title": "Days Lie Dormant",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B6",
+        "title": "Tally",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B7",
+        "title": "Intentions",
+        "duration": "",
+        "type": "track"
+      }
+    ],
+    "extraartists": [],
+    "identifiers": [
+      {
+        "type": "Barcode",
+        "value": "075678594526",
+        "description": null
+      }
+    ],
+    "notes": "Hype sticker reads: RETAIL RED\n\nMade in Canada\nDifferent from the [url=https://www.discogs.com/release/35068217-Twenty-One-Pilots-Breach]Europe Release[/url]",
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/so37qT9VndJqR0U6ODQMNsEHgYHs9yT4htxr9AO7KLM/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MDc0/NjI1LTE3NTc2MzU2/NzMtMTQzMi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/yECEEwx6oIgeWvfZ9DhMubuOEFDWKxmW87Fxa6oUpmg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MDc0/NjI1LTE3NTc2MzU2/NzMtMTQzMi5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/22UvRvAFe5SBfL24Ms1MUdnw3I6ngLEybbV-XsrnBI0/rs:fit/g:sm/q:90/h:250/w:258/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MDc0/NjI1LTE3NTg2OTI2/NDAtMjM5Mi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/MyiB_hsjXTPBIiJlFaFZuXHl8afwTNGRIYY6wymS9HA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MDc0/NjI1LTE3NTg2OTI2/NDAtMjM5Mi5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/75LkzttYH96A-FAWogWx_7ROa1pKFrEO5tEje8UmZUA/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MDc0/NjI1LTE3NTc2MzU2/NzMtNTUxNi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/CbAygIy_Wjdo2YWSPSdu-LtM7UCdIHL9_Zwe2fA3LYg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MDc0/NjI1LTE3NTc2MzU2/NzMtNTUxNi5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/FkXQ7J5PtBYK4adWGyhCejiwGUSrhIsHr_PVdSEtMHI/rs:fit/g:sm/q:90/h:600/w:214/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MDc0/NjI1LTE3NTc2MzU2/NzMtMzU3MS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/rk7NwZaudQOOHxx_xFk3jVaa91J4nGnqym9qzG70EUc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MDc0/NjI1LTE3NTc2MzU2/NzMtMzU3MS5qcGVn.jpeg"
+      }
+    ],
+    "community": {
+      "rating": {
+        "count": 122,
+        "average": 4.81
+      },
+      "have": 964,
+      "want": 100
+    },
+    "master": {
+      "id": 3968810,
+      "title": "Breach",
+      "main_release": 35081885,
+      "year": 2025,
+      "uri": "https://www.discogs.com/master/3968810-Twenty-One-Pilots-Breach",
+      "num_for_sale": 495
+    }
+  },
+  "apple_music": {
+    "id": 1827507396,
+    "url": "https://music.apple.com/us/album/breach/1827507396?uo=4",
+    "name": "Breach",
+    "artist": "twenty one pilots",
+    "artist_id": 349736311,
+    "artwork_url_100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1a/13/dc/1a13dc15-b07d-c302-4f04-080b67591628/075679609908.jpg/100x100bb.jpg",
+    "artwork_url_600": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1a/13/dc/1a13dc15-b07d-c302-4f04-080b67591628/075679609908.jpg/600x600bb.jpg",
+    "release_date": "2025-09-12T07:00:00Z",
+    "track_count": 13,
+    "copyright": "℗ 2025 Fueled By Ramen LLC",
+    "primary_genre": "Alternative",
+    "country": "USA",
+    "tracks": [
+      {
+        "track_number": 1,
+        "disc_number": 1,
+        "name": "City Walls",
+        "duration_ms": 322067,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/81/ad/b0/81adb0e9-8fea-a35c-cf9f-ff015b0c976e/mzaf_4123314309387028451.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/city-walls/1827507396?i=1827507397&uo=4"
+      },
+      {
+        "track_number": 2,
+        "disc_number": 1,
+        "name": "RAWFEAR",
+        "duration_ms": 202267,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/fd/24/03/fd2403b3-3bdb-35da-ad90-c58772f5e7e4/mzaf_16301332000281707772.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/rawfear/1827507396?i=1827507398&uo=4"
+      },
+      {
+        "track_number": 3,
+        "disc_number": 1,
+        "name": "Drum Show",
+        "duration_ms": 203827,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b6/72/48/b6724858-3d9f-f181-4c6b-be6472c635e4/mzaf_2645487364996609129.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/drum-show/1827507396?i=1827507400&uo=4"
+      },
+      {
+        "track_number": 4,
+        "disc_number": 1,
+        "name": "Garbage",
+        "duration_ms": 196667,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/7b/dc/de/7bdcde27-a139-3067-73c1-67ca433f8546/mzaf_3589584891344461029.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/garbage/1827507396?i=1827507401&uo=4"
+      },
+      {
+        "track_number": 5,
+        "disc_number": 1,
+        "name": "The Contract",
+        "duration_ms": 225520,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/5b/f5/a4/5bf5a404-b573-0fb5-4d38-f7ce58042d5a/mzaf_14132211225063645547.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/the-contract/1827507396?i=1827507402&uo=4"
+      },
+      {
+        "track_number": 6,
+        "disc_number": 1,
+        "name": "Downstairs",
+        "duration_ms": 326333,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e2/5f/5d/e25f5d9a-7df8-0b21-e0d0-e91d72f546ff/mzaf_16932397691865175222.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/downstairs/1827507396?i=1827507404&uo=4"
+      },
+      {
+        "track_number": 7,
+        "disc_number": 1,
+        "name": "Robot Voices",
+        "duration_ms": 237493,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/55/b2/39/55b23940-dfef-419e-95a5-12f1b00f80f8/mzaf_17820139447838818372.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/robot-voices/1827507396?i=1827507408&uo=4"
+      },
+      {
+        "track_number": 8,
+        "disc_number": 1,
+        "name": "Center Mass",
+        "duration_ms": 228173,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/94/37/8f/94378fea-f26f-4d0c-823e-ce5e7537d871/mzaf_15095295976607565090.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/center-mass/1827507396?i=1827507411&uo=4"
+      },
+      {
+        "track_number": 9,
+        "disc_number": 1,
+        "name": "Cottonwood",
+        "duration_ms": 188107,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/78/7a/b2/787ab260-4ccd-3651-69dc-9706b17b599d/mzaf_5757814302481137433.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/cottonwood/1827507396?i=1827507412&uo=4"
+      },
+      {
+        "track_number": 10,
+        "disc_number": 1,
+        "name": "One Way",
+        "duration_ms": 163160,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/24/5f/41/245f416a-e133-28e9-68ab-80b4d58ec114/mzaf_9666970871967184924.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/one-way/1827507396?i=1827507415&uo=4"
+      },
+      {
+        "track_number": 11,
+        "disc_number": 1,
+        "name": "Days Lie Dormant",
+        "duration_ms": 206720,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/02/49/b4/0249b407-51d6-52d7-874b-19d6af212fe1/mzaf_11285483665093030588.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/days-lie-dormant/1827507396?i=1827507601&uo=4"
+      },
+      {
+        "track_number": 12,
+        "disc_number": 1,
+        "name": "Tally",
+        "duration_ms": 212760,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b3/63/90/b3639039-d7de-d233-5fe2-108112ab6be1/mzaf_16080357333411557940.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/tally/1827507396?i=1827507603&uo=4"
+      },
+      {
+        "track_number": 13,
+        "disc_number": 1,
+        "name": "Intentions",
+        "duration_ms": 135693,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b9/63/7b/b9637b32-bd22-6c30-f84a-8ecf1763ce17/mzaf_13853495231940544041.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/intentions/1827507396?i=1827507604&uo=4"
+      }
+    ]
+  },
+  "discrepancies": [],
+  "local_cover": "images/35074625.jpg"
+}

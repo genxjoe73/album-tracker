@@ -1,0 +1,452 @@
+{
+  "captured_at": "2026-05-18T01:21:33+00:00",
+  "schema_version": 3,
+  "artist": "Trans-Siberian Orchestra",
+  "title": "The Lost Christmas Eve",
+  "original_release_year": 2004,
+  "pressing_year": 2024,
+  "upgrade_suggestion": "This 2024 20th Anniversary pressing is the first and only vinyl edition — there is no earlier pressing to upgrade from and no audiophile alternative. This is the definitive physical version.",
+  "commentary": "**The Lost Christmas Eve** is the third and final installment of Trans-Siberian Orchestra's Christmas Trilogy, originally released in October 2004 on Atlantic Records. Written and produced by TSO founder and mastermind **Paul O'Neill**, the album completes the narrative arc begun with *Christmas Eve and Other Stories* (1996) and *The Christmas Attic* (1998). Like its predecessors, it blends hard rock, orchestral bombast, and progressive rock arrangements into an elaborate Christmas-themed song cycle — TSO's signature formula of arena rock drama wrapped in holiday storytelling, featuring their characteristic layered guitar work, operatic vocals, and sweeping orchestration.\n\nThe album was originally released only on CD and never pressed to vinyl during its initial run. This **2024 20th Anniversary edition** marks its first-ever vinyl release, issued by Atlantic Records (catalog **R1 93416**) as a 2LP stereo set. Pressed at **Memphis Record Pressing** — confirmed by `MRP` in the deadwax alongside the lacquer codes `282083E2` (Side 2) and `1911015`. Memphis Record Pressing is one of the premier US pressing plants, used for many high-profile modern reissues.\n\n**About this 2024 US pressing (2× Vinyl, LP, 20th Anniversary Edition):** Atlantic catalog **R1 93416**, 2024 first vinyl pressing. 20th Anniversary edition. Pressed by Memphis Record Pressing. Barcode 603497823901. Matrix 282083E2 / MRP58427 (Side 2 confirmed from deadwax).",
+  "discogs": {
+    "release_id": 31728956,
+    "master_id": 373180,
+    "uri": "https://www.discogs.com/release/31728956-Trans-Siberian-Orchestra-The-Lost-Christmas-Eve",
+    "title": "The Lost Christmas Eve",
+    "artists": [
+      {
+        "name": "Trans-Siberian Orchestra",
+        "id": 271510,
+        "role": null
+      }
+    ],
+    "year": 2024,
+    "released": "2024",
+    "country": "US",
+    "labels": [
+      {
+        "name": "Atlantic",
+        "catno": "R1 93416",
+        "id": 681
+      }
+    ],
+    "formats": [
+      {
+        "name": "Vinyl",
+        "qty": "2",
+        "descriptions": [
+          "LP",
+          "Stereo"
+        ],
+        "text": null
+      }
+    ],
+    "genres": [
+      "Rock",
+      "Pop"
+    ],
+    "styles": [
+      "Holiday"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Faith Noel",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "A2",
+        "title": "The Lost Christmas Eve",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "A3",
+        "title": "Christmas Dreams",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "A4",
+        "title": "Wizards In Winter",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B1",
+        "title": "Remember",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B2",
+        "title": "Anno Domine",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B3",
+        "title": "Christmas Concerto",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B4",
+        "title": "Queen Of The Winter Night",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B5",
+        "title": "Christmas Nights In Blue",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B6",
+        "title": "Christmas Jazz",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B7",
+        "title": "Christmas Jam",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "C1",
+        "title": "Siberian Sleigh Ride",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "C2",
+        "title": "What Is Christmas?",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "C3",
+        "title": "For The Sake Of Our Brother",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "C4",
+        "title": "The Wisdom Of Snow",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "C5",
+        "title": "Wish Liszt (Toy Shop Madness)",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "C6",
+        "title": "Back To A Reason (Part II)",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "D1",
+        "title": "Christmas Bells, Carousels & Time",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "D2",
+        "title": "What Child Is This?",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "D3",
+        "title": "O Come All Ye Faithful",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "D4",
+        "title": "Christmas Canon Rock",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "D5",
+        "title": "Different Wings",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "D6",
+        "title": "Midnight Clear",
+        "duration": "",
+        "type": "track"
+      }
+    ],
+    "extraartists": [],
+    "identifiers": [
+      {
+        "type": "Barcode",
+        "value": "603497823901",
+        "description": null
+      }
+    ],
+    "notes": "20th Anniversary 2-LP Edition\n\nTSO's final installment of their famed Christmas Trilogy, available for the first time on vinyl",
+    "images": [
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/qTgz6N77WMewbFX4Q3Z_LalOKnd0e4hUR2IAlenzcX8/rs:fit/g:sm/q:90/h:576/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzI4/OTU2LTE3MjYyNjc3/MjctNDY1Ni5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/C_xh2tbzlGqFeuAJxWLO6YwwQ0ONmEYI6a1WTFBNLQ4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzI4/OTU2LTE3MjYyNjc3/MjctNDY1Ni5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/9UKU-MOipn_Ll1PFpgcSANZakS5vveCZfZVQVhhm0Nc/rs:fit/g:sm/q:90/h:548/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzI4/OTU2LTE3MjYyNjc3/MjctMzY5OS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/Fkvts4RcYQk49b5y02gfFDkJS5xQSN-NQSUakyTZ5_Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzI4/OTU2LTE3MjYyNjc3/MjctMzY5OS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/N3iDCRp1mgOR7_Gnm5TTtjDC-mjT05rMW5Yfv8-Gp18/rs:fit/g:sm/q:90/h:579/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzI4/OTU2LTE3MjYyNjc3/MjctMTg5OS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/_hY23JaqWSKYz_E7i1Y8A-fVXzcI3BWInfitXR2RchA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzI4/OTU2LTE3MjYyNjc3/MjctMTg5OS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/JNv2k-VZPByCfxUPDmoQi9gh3QlT-WZs32Zin3aC64c/rs:fit/g:sm/q:90/h:573/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzI4/OTU2LTE3MjYyNjc3/MjctNDc1NC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/lB4NskBLKgBWU8gULmcEd1-RSLp5pVjoAKDxAI0yjV4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzI4/OTU2LTE3MjYyNjc3/MjctNDc1NC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/HcJ1OliWWPEDSNQYpwvE8BfcAx5gQl7nyog09EgegvU/rs:fit/g:sm/q:90/h:580/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzI4/OTU2LTE3MjYyNjc3/MjctMzY2Ni5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/yQ9PjblUFGtr5EoLKTVot4Tlk9Qhtnkif0HgyrUwRZg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzI4/OTU2LTE3MjYyNjc3/MjctMzY2Ni5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/tFVqdQmqIxQV0aFCRkNaGhwCqtw_tZEK3v5ekUZwnB8/rs:fit/g:sm/q:90/h:569/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzI4/OTU2LTE3MjYyNjc3/MjctMTExNi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/CUPJBepukuMyg_tzI_7J0ievWk23L5CG6naK6XM1bSE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzI4/OTU2LTE3MjYyNjc3/MjctMTExNi5qcGVn.jpeg"
+      }
+    ],
+    "community": {
+      "rating": {
+        "count": 34,
+        "average": 4.71
+      },
+      "have": 416,
+      "want": 42
+    },
+    "master": {
+      "id": 373180,
+      "title": "The Lost Christmas Eve",
+      "main_release": 3141256,
+      "year": 2004,
+      "uri": "https://www.discogs.com/master/373180-Trans-Siberian-Orchestra-The-Lost-Christmas-Eve",
+      "num_for_sale": 247
+    }
+  },
+  "apple_music": {
+    "id": 26243329,
+    "url": "https://music.apple.com/us/album/the-lost-christmas-eve/26243329?uo=4",
+    "name": "The Lost Christmas Eve",
+    "artist": "Trans-Siberian Orchestra",
+    "artist_id": 165340,
+    "artwork_url_100": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/46/d9/b8/46d9b83b-736b-37d7-8abf-b1a08e4e06e9/dj.qxegphpt.jpg/100x100bb.jpg",
+    "artwork_url_600": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/46/d9/b8/46d9b83b-736b-37d7-8abf-b1a08e4e06e9/dj.qxegphpt.jpg/600x600bb.jpg",
+    "release_date": "2004-10-12T07:00:00Z",
+    "track_count": 24,
+    "copyright": "℗ 2004 Lava Records LLC for the United States and WEA International Inc. for the world outside of the United States.",
+    "primary_genre": "Holiday",
+    "country": "USA",
+    "tracks": [
+      {
+        "track_number": 1,
+        "disc_number": 1,
+        "name": "Faith Noel",
+        "duration_ms": 272320,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/8f/4b/b8/8f4bb814-e2ab-c85a-0123-fad9ac5e5465/mzaf_12028229414768487924.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/faith-noel/26243329?i=26243335&uo=4"
+      },
+      {
+        "track_number": 2,
+        "disc_number": 1,
+        "name": "The Lost Christmas Eve",
+        "duration_ms": 333280,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/78/cf/f2/78cff230-5810-142c-ce13-51cf7b479319/mzaf_16783028782132488332.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/the-lost-christmas-eve/26243329?i=26243337&uo=4"
+      },
+      {
+        "track_number": 3,
+        "disc_number": 1,
+        "name": "Christmas Dreams",
+        "duration_ms": 234320,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/fd/80/2f/fd802f45-f0b4-78cc-f5c1-c43483e7f3e0/mzaf_1386049019378340923.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/christmas-dreams/26243329?i=26243345&uo=4"
+      },
+      {
+        "track_number": 4,
+        "disc_number": 1,
+        "name": "Wizards in Winter (Instrumental)",
+        "duration_ms": 185933,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/47/0e/16/470e16ae-0225-552f-52be-6b0fc6b65c1e/mzaf_13634534475646583635.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/wizards-in-winter-instrumental/26243329?i=26243357&uo=4"
+      },
+      {
+        "track_number": 5,
+        "disc_number": 1,
+        "name": "Remember",
+        "duration_ms": 205000,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/45/cb/6a/45cb6a48-6c16-a0b0-31f6-462f24c2bbf8/mzaf_16626941292119556647.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/remember/26243329?i=26243368&uo=4"
+      },
+      {
+        "track_number": 6,
+        "disc_number": 1,
+        "name": "Anno Domine",
+        "duration_ms": 133107,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/92/40/7a/92407a3a-43dd-b5bd-05cd-588cef009e0f/mzaf_3020211657809946343.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/anno-domine/26243329?i=26243378&uo=4"
+      },
+      {
+        "track_number": 7,
+        "disc_number": 1,
+        "name": "Christmas Concerto (Instrumental)",
+        "duration_ms": 42453,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/42/f0/d2/42f0d297-bae2-2e94-68e7-e9f9558f1fbf/mzaf_15123719224735098588.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/christmas-concerto-instrumental/26243329?i=26243396&uo=4"
+      },
+      {
+        "track_number": 8,
+        "disc_number": 1,
+        "name": "Queen of the Winter Night",
+        "duration_ms": 191587,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/ef/0c/7b/ef0c7b8d-2392-6568-6278-f496e381765a/mzaf_17600642755936659632.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/queen-of-the-winter-night/26243329?i=26243420&uo=4"
+      },
+      {
+        "track_number": 9,
+        "disc_number": 1,
+        "name": "Christmas Nights in Blue",
+        "duration_ms": 258267,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/15/53/ca/1553ca16-13cc-03bb-d679-61c8b2383b6a/mzaf_17451841002158317993.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/christmas-nights-in-blue/26243329?i=26243434&uo=4"
+      },
+      {
+        "track_number": 10,
+        "disc_number": 1,
+        "name": "Christmas Jazz (Instrumental)",
+        "duration_ms": 136747,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/d0/09/5f/d0095f9d-8a83-2298-9313-41da173179f7/mzaf_9408052659547140066.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/christmas-jazz-instrumental/26243329?i=26243448&uo=4"
+      },
+      {
+        "track_number": 11,
+        "disc_number": 1,
+        "name": "Christmas Jam",
+        "duration_ms": 227627,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/90/e0/be/90e0be4e-c09c-b4bd-3530-b7ca63ded6a6/mzaf_9545627850525917921.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/christmas-jam/26243329?i=26243457&uo=4"
+      },
+      {
+        "track_number": 12,
+        "disc_number": 1,
+        "name": "Siberian Sleigh Ride (Instrumental)",
+        "duration_ms": 188467,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/20/17/b3/2017b334-263d-6b74-7621-b0d28d3f60d9/mzaf_17467282991354576660.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/siberian-sleigh-ride-instrumental/26243329?i=26243480&uo=4"
+      },
+      {
+        "track_number": 13,
+        "disc_number": 1,
+        "name": "What Is Christmas?",
+        "duration_ms": 171120,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/df/62/c7/df62c7ad-b1f1-ea5a-991e-c9d7f11994be/mzaf_2736199587448253570.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/what-is-christmas/26243329?i=26243494&uo=4"
+      },
+      {
+        "track_number": 14,
+        "disc_number": 1,
+        "name": "For the Sake of Our Brother",
+        "duration_ms": 189133,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/67/2e/6b/672e6bcb-94b6-cfa7-12e1-20f0d3ea3be0/mzaf_23372908302108089.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/for-the-sake-of-our-brother/26243329?i=26243509&uo=4"
+      },
+      {
+        "track_number": 15,
+        "disc_number": 1,
+        "name": "The Wisdom of Snow (Instrumental)",
+        "duration_ms": 121187,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/f4/63/a2/f463a28e-ceac-c929-c270-5940256eeb57/mzaf_6732071871441728297.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/the-wisdom-of-snow-instrumental/26243329?i=26243520&uo=4"
+      },
+      {
+        "track_number": 16,
+        "disc_number": 1,
+        "name": "Wish Liszt (Toy Shop Madness) (Instrumental)",
+        "duration_ms": 222160,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/66/06/c0/6606c015-9917-c9e5-c8af-e67a5341bef9/mzaf_2848076114066178556.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/wish-liszt-toy-shop-madness-instrumental/26243329?i=26243524&uo=4"
+      },
+      {
+        "track_number": 17,
+        "disc_number": 1,
+        "name": "Back to a Reason (Part II)",
+        "duration_ms": 292800,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/cd/66/b2/cd66b2d8-b5d6-6d8c-a6c9-8e352cd25673/mzaf_14744323958125649117.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/back-to-a-reason-part-ii/26243329?i=26243526&uo=4"
+      },
+      {
+        "track_number": 18,
+        "disc_number": 1,
+        "name": "Christmas Bells, Carousels & Time (Instrumental)",
+        "duration_ms": 64467,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/e3/2a/8b/e32a8b46-b3e7-05e1-51d3-2db1f88afef7/mzaf_7319696681558305100.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/christmas-bells-carousels-time-instrumental/26243329?i=26243547&uo=4"
+      },
+      {
+        "track_number": 19,
+        "disc_number": 1,
+        "name": "What Child Is This?",
+        "duration_ms": 357333,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/57/0c/7a/570c7ac8-cc82-fb0a-eb7a-dfa47a2703e3/mzaf_11876129482936353674.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/what-child-is-this/26243329?i=26243567&uo=4"
+      },
+      {
+        "track_number": 20,
+        "disc_number": 1,
+        "name": "O' Come All Ye Faithful (Instrumental)",
+        "duration_ms": 86413,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/19/f2/03/19f20372-4ed4-00de-1307-cdebed137524/mzaf_17227510522653819834.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/o-come-all-ye-faithful-instrumental/26243329?i=26243582&uo=4"
+      },
+      {
+        "track_number": 21,
+        "disc_number": 1,
+        "name": "Christmas Canon Rock",
+        "duration_ms": 302547,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/d8/6c/8a/d86c8ad3-7ffe-f11c-1343-3e92b3542b6e/mzaf_52609540439789916.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/christmas-canon-rock/26243329?i=26243589&uo=4"
+      },
+      {
+        "track_number": 22,
+        "disc_number": 1,
+        "name": "Different Wings",
+        "duration_ms": 164293,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/2e/ed/96/2eed96c8-a84f-16ea-9963-bc2f045f2919/mzaf_9307632249388398196.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/different-wings/26243329?i=26243603&uo=4"
+      },
+      {
+        "track_number": 23,
+        "disc_number": 1,
+        "name": "Midnight Clear",
+        "duration_ms": 98360,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/8f/69/b0/8f69b0f3-c0e4-3f4a-a379-dabfedaa9ae5/mzaf_3081548178160653636.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/midnight-clear/26243329?i=26243611&uo=4"
+      }
+    ]
+  },
+  "discrepancies": [
+    "Release year differs: your pressing=2024, Apple Music edition=2004. Apple Music typically streams the most recent remaster."
+  ],
+  "local_cover": "images/31728956.jpg"
+}

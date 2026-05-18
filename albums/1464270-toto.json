@@ -1,0 +1,423 @@
+{
+  "captured_at": "2026-05-18T01:15:25+00:00",
+  "schema_version": 3,
+  "artist": "Toto",
+  "title": "Toto",
+  "original_release_year": 1978,
+  "pressing_year": 1978,
+  "upgrade_suggestion": "The original Terre Haute / Mastering Lab pressing is well-regarded and the `2E` stamper is a mid-run copy — plays fine but earlier stampers (2A, 2B) are preferred by collectors. No definitive audiophile reissue exists for this album; the original US pressing remains the go-to for the best sound.",
+  "commentary": "**Toto** is the self-titled debut album by Toto, released in October 1978 on Columbia Records. The band was an assemblage of Los Angeles's top session musicians — **David Paich** (keyboards, vocals), **Steve Lukather** (guitar, vocals), **Bobby Kimball** (lead vocals), **David Hungate** (bass), **Jeff Porcaro** (drums), and **Steve Porcaro** (keyboards) — who had collectively played on hundreds of major recordings before forming the group. The debut is a showcase for that collective virtuosity: tightly arranged, impeccably performed AOR with a melodic sophistication that set it apart from its contemporaries. **\"Hold the Line\"** reached #5 on the Billboard Hot 100 and became one of the defining rock singles of 1978; **\"Georgy Porgy\"** (featuring Cheryl Lynn on backing vocals) is a silky soul-pop gem that remains a fan favorite. The album reached #9 on the Billboard 200 and went platinum.\n\nProduced by the band themselves, with engineering by Tom Knox and recording by Dana Latham and Gabe Veltri, the album was mastered by **Mike Reese** and **Ron Hitchcock** at **The Mastering Lab** (TML) in Hollywood — one of the most respected mastering facilities of the era, responsible for countless landmark late-1970s and early-1980s rock and pop records.\n\nThis **1978 original US pressing** was cut at The Mastering Lab (`TML-S` in the deadwax — the `-S` suffix denoting the Side A lacquer engineer's initials) and pressed at the **Columbia Records Pressing Plant in Terre Haute, Indiana** (`T1` in the deadwax). The matrix `PAL 35317 2E` identifies this as a second-lacquer-generation (`2`), `E` stamper pressing — a mid-run copy from the original release.\n\n**About this 1978 US pressing (Vinyl, LP):** Columbia catalog **JC 35317**, original 1978 US pressing. Terre Haute pressing plant. Mastered at The Mastering Lab. Matrix PAL 35317 2E TML-S / PBL 35317 (Side B). No barcode — predates UPC adoption on Columbia LPs.",
+  "discogs": {
+    "release_id": 1464270,
+    "master_id": 30631,
+    "uri": "https://www.discogs.com/release/1464270-Toto-Toto",
+    "title": "Toto",
+    "artists": [
+      {
+        "name": "Toto",
+        "id": 68693,
+        "role": null
+      }
+    ],
+    "year": 1978,
+    "released": "1978",
+    "country": "US",
+    "labels": [
+      {
+        "name": "Columbia",
+        "catno": "JC 35317",
+        "id": 1866
+      }
+    ],
+    "formats": [
+      {
+        "name": "Vinyl",
+        "qty": "1",
+        "descriptions": [
+          "LP",
+          "Album",
+          "Stereo"
+        ],
+        "text": "Terre Haute Pressing"
+      }
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Pop Rock",
+      "Classic Rock",
+      "AOR"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Child's Anthem",
+        "duration": "2:45",
+        "type": "track"
+      },
+      {
+        "position": "A2",
+        "title": "I'll Supply The Love",
+        "duration": "3:45",
+        "type": "track"
+      },
+      {
+        "position": "A3",
+        "title": "Georgy Porgy",
+        "duration": "4:08",
+        "type": "track"
+      },
+      {
+        "position": "A4",
+        "title": "Manuela Run",
+        "duration": "3:55",
+        "type": "track"
+      },
+      {
+        "position": "A5",
+        "title": "You Are The Flower",
+        "duration": "4:17",
+        "type": "track"
+      },
+      {
+        "position": "B1",
+        "title": "Girl Goodbye",
+        "duration": "6:13",
+        "type": "track"
+      },
+      {
+        "position": "B2",
+        "title": "Takin' It Back",
+        "duration": "3:46",
+        "type": "track"
+      },
+      {
+        "position": "B3",
+        "title": "Rockmaker",
+        "duration": "3:19",
+        "type": "track"
+      },
+      {
+        "position": "B4",
+        "title": "Hold The Line",
+        "duration": "3:56",
+        "type": "track"
+      },
+      {
+        "position": "B5",
+        "title": "Angela",
+        "duration": "4:44",
+        "type": "track"
+      }
+    ],
+    "extraartists": [
+      {
+        "name": "David Hungate",
+        "role": "Bass",
+        "id": 336324
+      },
+      {
+        "name": "Jeff Porcaro",
+        "role": "Drums, Percussion",
+        "id": 332625
+      },
+      {
+        "name": "Tom Knox",
+        "role": "Engineer, Mixed By",
+        "id": 255983
+      },
+      {
+        "name": "Steve Lukather",
+        "role": "Guitar, Vocals",
+        "id": 272796
+      },
+      {
+        "name": "David Paich",
+        "role": "Keyboards, Vocals",
+        "id": 193582
+      },
+      {
+        "name": "Steve Porcaro",
+        "role": "Keyboards, Vocals",
+        "id": 299163
+      },
+      {
+        "name": "Mike Reese",
+        "role": "Mastered By",
+        "id": 454007
+      },
+      {
+        "name": "Ron Hitchcock",
+        "role": "Mastered By",
+        "id": 441643
+      },
+      {
+        "name": "Toto",
+        "role": "Producer",
+        "id": 68693
+      },
+      {
+        "name": "Dana Latham",
+        "role": "Recorded By",
+        "id": 913392
+      },
+      {
+        "name": "Gabe Veltri",
+        "role": "Recorded By",
+        "id": 271423
+      },
+      {
+        "name": "Bobby Kimball",
+        "role": "Vocals",
+        "id": 385283
+      }
+    ],
+    "identifiers": [
+      {
+        "type": "Matrix / Runout",
+        "value": "AL 35317",
+        "description": "Side A label"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BL 35317",
+        "description": "Side B label"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "o T1 PAL-35317-3J TML-M",
+        "description": "Side A, etched, variant 3"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "o T1 PBL-35317-3K TML-S",
+        "description": "Side B, etched, variant 3"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ο T1 PAL-35317-3K TML-S A6",
+        "description": "Side A, etched, variant 4"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ο T1 PBL-35317-3E TML-M AA",
+        "description": "Side B, etched, variant 4"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ο T1 PAL-35317-3E TML-M B",
+        "description": "Side A, etched, variant 5"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "o T1 PBL-35317-3J TML-M G",
+        "description": "Side B, etched, variant 5"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ο T1 PAL-35317 2E TML-S B3",
+        "description": "Side A, etched, variant 6"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "o T1 PBL-35317 2E TML-S",
+        "description": "Side B, etched, variant 6"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "o T1 PAL-35317 2F TML-M RL",
+        "description": "Side A, etched, variant 7"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "o T1 PBL-35317-3E TML-M D3",
+        "description": "Side B, etched, variant 7"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "o T1 PAL-35317-3J TML-M H17",
+        "description": "Side A, etched, variant 8"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "o T1 PBL-35317-3F TML-S A8",
+        "description": "Side B, etched, variant 8"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "o T1 PAL-35317-3J TML-M      IIII",
+        "description": "Side A, etched, variant 9"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "o T1 PAL-35317-3AD TML-M      B",
+        "description": "Side B, etched, variant 9"
+      }
+    ],
+    "notes": "\"T\" in runouts denotes a [l403953] pressing.  \"TML-M\" or \"TML-S\" in runouts is stamped.",
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/tLY3jVZY99FUKSTy_4bj4D4gWuYaZz_iWG3r4qxXZbM/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjQy/NzAtMTI1NTgyNjIw/Mi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/vzDk8Tre-ewWpxA64u12rTsmaJA6YVMDNDtqX9z0Z28/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjQy/NzAtMTI1NTgyNjIw/Mi5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/nEHDmvbpjfqWGKqIQXp_5dXEiUcL1R1-L_o7GN4gVmc/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjQy/NzAtMTI1NTgyNjIx/Ni5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/2zP4V5CexdVA4YSjjcRarXWq-TaefvhdU60WfL9oMXY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjQy/NzAtMTI1NTgyNjIx/Ni5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/SiUfuguwLQ2tJK010PgwnfNW0NgbMCHTSFT-84ZQWfM/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjQy/NzAtMTYwMDExMzQ2/Ny00NDc5LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/8FpqPy6EBj2GkX_8xP0q1v-LEq4Nb3FZGhS1mHnR4hQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjQy/NzAtMTYwMDExMzQ2/Ny00NDc5LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/CHqHlNp3Q0OXon7ME4N2LKA6Ig7eH5ecZ57IkyTO0U0/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjQy/NzAtMTYwMDExMzQ2/Ny05NTQzLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/iEZXnNHC6LFYV_kmSykUWYN7LNXKIUMEcH2iw-knbSo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjQy/NzAtMTYwMDExMzQ2/Ny05NTQzLmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/oAYmemc-94eb4wECxHHscNmmKJ-9U0pwA5afF3iJAUo/rs:fit/g:sm/q:90/h:573/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjQy/NzAtMTI1NTgyNjI0/MS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/2en0ZTiuNzxJWRxMX8Jcdozk1t0734IqaB0oUZtT2l0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjQy/NzAtMTI1NTgyNjI0/MS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/udUgUG7MvUkCF6atYUfUsK070PJSC_hZGEfhaw-20Ew/rs:fit/g:sm/q:90/h:572/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjQy/NzAtMTYwMDExMzQ2/Ny01MDA5LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/jGYtQ4eCWB2z9yRuNJMdAFS5p6UYeiVzJWjQOTBQ5XE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjQy/NzAtMTYwMDExMzQ2/Ny01MDA5LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/hhD-4bMUgOV_iTIGW3ymjm1n1ZCGvHr0TWR4jAlIMGY/rs:fit/g:sm/q:90/h:307/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjQy/NzAtMTYwMDExMzQ2/OC01OTExLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/CwK9JdqKPeDsjIg3jzUtEluB7OgLj4855Wu8e5ZE8Nc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjQy/NzAtMTYwMDExMzQ2/OC01OTExLmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/9EeKUcO-jCawQgQjuFVGb_-Tx5R6Evop3jXsVUeA8fU/rs:fit/g:sm/q:90/h:600/w:370/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjQy/NzAtMTU3OTk4Mzc2/MS03Njc2LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/-ILU227Rm5e_jbUoGSJ109lTl5N_qBfPsx6qFz-yRn0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjQy/NzAtMTU3OTk4Mzc2/MS03Njc2LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/p7x4UVlVjC-NFv8Ckb9GcpL6Eiq9V5QF_w-m0IswKvc/rs:fit/g:sm/q:90/h:309/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjQy/NzAtMTY0MTQ4MTE5/NS01OTg0LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/zXDfnGoWQ5xYRbEx0JELAhSteIwvZlObYQ8eG9bM8gA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjQy/NzAtMTY0MTQ4MTE5/NS01OTg0LmpwZWc.jpeg"
+      }
+    ],
+    "community": {
+      "rating": {
+        "count": 752,
+        "average": 3.93
+      },
+      "have": 14670,
+      "want": 1769
+    },
+    "master": {
+      "id": 30631,
+      "title": "Toto",
+      "main_release": 1464270,
+      "year": 1978,
+      "uri": "https://www.discogs.com/master/30631-Toto-Toto",
+      "num_for_sale": 1336
+    }
+  },
+  "apple_music": {
+    "id": 198226130,
+    "url": "https://music.apple.com/us/album/toto/198226130?uo=4",
+    "name": "Toto",
+    "artist": "Toto",
+    "artist_id": 462614,
+    "artwork_url_100": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a1/a9/ea/a1a9eaef-2d81-c2c6-9a03-82c3cbc9e598/074643531726.jpg/100x100bb.jpg",
+    "artwork_url_600": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a1/a9/ea/a1a9eaef-2d81-c2c6-9a03-82c3cbc9e598/074643531726.jpg/600x600bb.jpg",
+    "release_date": "1978-10-15T07:00:00Z",
+    "track_count": 10,
+    "copyright": "℗ 1978 Sony Music Entertainment Inc.",
+    "primary_genre": "Rock",
+    "country": "USA",
+    "tracks": [
+      {
+        "track_number": 1,
+        "disc_number": 1,
+        "name": "Child's Anthem",
+        "duration_ms": 165234,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/cd/ea/0e/cdea0e99-4f01-a258-c83f-40f2fd6a174b/mzaf_5037122837431264973.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/childs-anthem/198226130?i=198226241&uo=4"
+      },
+      {
+        "track_number": 2,
+        "disc_number": 1,
+        "name": "I'll Supply the Love",
+        "duration_ms": 224340,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/fe/00/95/fe009570-cf3c-1016-9541-8020b4d1444c/mzaf_16318536584338303429.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/ill-supply-the-love/198226130?i=198226389&uo=4"
+      },
+      {
+        "track_number": 3,
+        "disc_number": 1,
+        "name": "Georgy Porgy",
+        "duration_ms": 247593,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/ce/15/c2/ce15c22f-deef-e854-0b17-69a1b634b6a5/mzaf_10254620440943114979.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/georgy-porgy/198226130?i=198226436&uo=4"
+      },
+      {
+        "track_number": 4,
+        "disc_number": 1,
+        "name": "Manuela Run",
+        "duration_ms": 234637,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/1f/81/f1/1f81f1ee-19bc-1ca5-785f-61fd242a974d/mzaf_10799915645658512355.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/manuela-run/198226130?i=198226547&uo=4"
+      },
+      {
+        "track_number": 5,
+        "disc_number": 1,
+        "name": "You Are the Flower",
+        "duration_ms": 286374,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/56/17/a3/5617a367-0cba-f9ed-765f-14a8f84a93f3/mzaf_17082128635285533620.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/you-are-the-flower/198226130?i=198226669&uo=4"
+      },
+      {
+        "track_number": 6,
+        "disc_number": 1,
+        "name": "Girl Goodbye",
+        "duration_ms": 373177,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/45/64/97/45649702-1e78-b623-628b-9478e3e47ec1/mzaf_17864279605492253850.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/girl-goodbye/198226130?i=198227020&uo=4"
+      },
+      {
+        "track_number": 7,
+        "disc_number": 1,
+        "name": "Takin' It Back",
+        "duration_ms": 225585,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/ce/4a/15/ce4a15eb-c668-031d-5f47-859ea9b1919e/mzaf_11657613168667081459.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/takin-it-back/198226130?i=198227281&uo=4"
+      },
+      {
+        "track_number": 8,
+        "disc_number": 1,
+        "name": "Rockmaker",
+        "duration_ms": 198813,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/21/3e/31/213e316d-c8f2-9a0f-9c3f-6ef30d050952/mzaf_17951029709261581666.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/rockmaker/198226130?i=198227412&uo=4"
+      },
+      {
+        "track_number": 9,
+        "disc_number": 1,
+        "name": "Hold the Line",
+        "duration_ms": 235552,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/05/f7/46/05f746f7-fed4-3973-5c73-55a76e38ae22/mzaf_12692419585305117877.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/hold-the-line/198226130?i=198227598&uo=4"
+      },
+      {
+        "track_number": 10,
+        "disc_number": 1,
+        "name": "Angela",
+        "duration_ms": 330160,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/cb/29/70/cb29701a-c935-6029-ade9-b6cdfafe972a/mzaf_2990604123583284768.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/angela/198226130?i=198227614&uo=4"
+      }
+    ]
+  },
+  "discrepancies": [
+    "Total runtime differs by 69s (Discogs=2448s, Apple Music=2517s) — likely a different master/remaster."
+  ],
+  "local_cover": "images/1464270.jpg"
+}

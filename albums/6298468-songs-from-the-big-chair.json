@@ -1,0 +1,335 @@
+{
+  "captured_at": "2026-05-18T01:03:20+00:00",
+  "schema_version": 3,
+  "artist": "Tears For Fears",
+  "title": "Songs From The Big Chair",
+  "original_release_year": 1985,
+  "pressing_year": 2014,
+  "upgrade_suggestion": "This 2014 Mercury 180g Optimal pressing is a solid modern reissue and a significant step up from record club copies in surface quality. The audiophile benchmark remains the **Mobile Fidelity MFSL 1-265** (Original Master Recording, 1989 US) — half-speed mastered from the original analog tapes. For the original 1985 sound, the Greg Calbi / Sterling Sound retail pressings (e.g. r438688 Allied or r2106689 Hauppauge) are preferred by collectors who want the unmodified first-generation master.",
+  "commentary": "**Songs From The Big Chair** is Tears For Fears' second studio album, released in February 1985 on Mercury Records, and the record that made Roland Orzabal and Curt Smith genuine global stars. Named after the therapist's chair in the 1976 film *Sybil*, the album arrived as a polished, orchestrated expansion of the new-wave synth-pop sound of their debut, with producer Chris Hughes and engineer Dave Bascombe delivering a lush, layered sonic palette that still sounds enormous today. **\"Shout\"** and **\"Everybody Wants to Rule the World\"** became two of the defining singles of 1985, both reaching #1 in the US; **\"Head Over Heels\"** and **\"Mothers Talk\"** rounded out a near-perfect tracklist. The album reached #1 in both the UK and US, certified 4× platinum.\n\nMusically, the record is a masterclass in production craft — the rhythm programming, string arrangements, and layered keyboards create a dense but never claustrophobic sound. Ian Stanley's keyboards and Orzabal's guitar give it texture beyond pure synthpop, and tracks like **\"The Working Hour\"** (with Mel Collins on saxophone) and the closing **\"Listen\"** (with operatic vocals by Marilyn David) show genuine compositional ambition.\n\nThis **2014 European reissue** was released on Mercury Records (℗ © 2014 Mercury Records Limited) as a standard 180g LP with a download voucher. Pressed by **Optimal Media GmbH** in Germany (plant code `BE64838`), confirmed by the hand-etched matrix `BE64838-01 A2` / `BE64838-01 B1`. Optimal is one of Europe's premier pressing plants, known for consistent quality and low noise floors on modern reissues.\n\n**About this 2014 EU pressing (Vinyl, LP, Reissue, 180g):** Mercury catalog **3794995**, 2014 reissue. 180 gram. Pressed by Optimal Media GmbH, Germany. Includes MP3 download voucher. Made in EU. Barcode 602537949953. Matrix BE64838-01 A2 / BE64838-01 B1.",
+  "discogs": {
+    "release_id": 6298468,
+    "master_id": 43063,
+    "uri": "https://www.discogs.com/release/6298468-Tears-For-Fears-Songs-From-The-Big-Chair",
+    "title": "Songs From The Big Chair",
+    "artists": [
+      {
+        "name": "Tears For Fears",
+        "id": 19814,
+        "role": null
+      }
+    ],
+    "year": 2014,
+    "released": "2014-11-00",
+    "country": "Europe",
+    "labels": [
+      {
+        "name": "Mercury",
+        "catno": "3794995",
+        "id": 39357
+      },
+      {
+        "name": "Universal Music Group",
+        "catno": "3794995",
+        "id": 38404
+      }
+    ],
+    "formats": [
+      {
+        "name": "Vinyl",
+        "qty": "1",
+        "descriptions": [
+          "LP",
+          "Album",
+          "Reissue",
+          "Stereo"
+        ],
+        "text": "180 Gram"
+      }
+    ],
+    "genres": [
+      "Rock",
+      "Pop"
+    ],
+    "styles": [
+      "Pop Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Shout",
+        "duration": "6:31",
+        "type": "track"
+      },
+      {
+        "position": "A2",
+        "title": "The Working Hour",
+        "duration": "6:31",
+        "type": "track"
+      },
+      {
+        "position": "A3",
+        "title": "Everybody Wants To Rule The World",
+        "duration": "4:10",
+        "type": "track"
+      },
+      {
+        "position": "A4",
+        "title": "Mothers Talk",
+        "duration": "5:07",
+        "type": "track"
+      },
+      {
+        "position": "B1",
+        "title": "I Believe",
+        "duration": "4:54",
+        "type": "track"
+      },
+      {
+        "position": "B2",
+        "title": "Broken",
+        "duration": "2:38",
+        "type": "track"
+      },
+      {
+        "position": "B3",
+        "title": "Head Over Heels",
+        "duration": "5:02",
+        "type": "track"
+      },
+      {
+        "position": "B4",
+        "title": "Listen",
+        "duration": "6:49",
+        "type": "track"
+      }
+    ],
+    "extraartists": [
+      {
+        "name": "Curt Smith",
+        "role": "Bass Guitar, Vocals",
+        "id": 466467
+      },
+      {
+        "name": "Manny Elias",
+        "role": "Drums",
+        "id": 419108
+      },
+      {
+        "name": "David Bascombe",
+        "role": "Engineer",
+        "id": 52459
+      },
+      {
+        "name": "Roland Orzabal",
+        "role": "Guitar, Keyboards, Vocals",
+        "id": 164295
+      },
+      {
+        "name": "Ian Stanley",
+        "role": "Keyboards",
+        "id": 95677
+      },
+      {
+        "name": "Paul King (8)",
+        "role": "Management",
+        "id": 1836600
+      },
+      {
+        "name": "Tim O'Sullivan",
+        "role": "Photography By [Cover]",
+        "id": 1630578
+      },
+      {
+        "name": "Chris Hughes",
+        "role": "Producer",
+        "id": 95755
+      }
+    ],
+    "identifiers": [
+      {
+        "type": "Barcode",
+        "value": "602537949953",
+        "description": "String"
+      },
+      {
+        "type": "Barcode",
+        "value": "6 02537 94995 3",
+        "description": null
+      },
+      {
+        "type": "Rights Society",
+        "value": "BIEM/SDRM",
+        "description": null
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BE64838-01 A2 V= 3794995",
+        "description": "Side A, variant 1"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BE64838-01 B1 V+ 3794995",
+        "description": "Side B, variant 1"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BE64838-01 A2 X1 3794995",
+        "description": "Side A, variant 2"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BE64838-01 B1 - 1 3794995",
+        "description": "Side B, variant 2"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BE64838-01 A2  3794995 T+∧",
+        "description": "Side A, variant 3"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BE64838-01 B1  I∧∧  3794995",
+        "description": "Side B, variant 3"
+      }
+    ],
+    "notes": "Includes voucher to download MP3 version of the album.\n\n℗ 2014 Mercury Records Limited. © 2014 Mercury Records Limited.\nMade in EU. \n\nAll runouts are hand etched. Plating symbols are mirrored. ",
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/vwKDdWD-AgeIFehv2wmvolymPm36gFKYFpb9XHpnBUw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyOTg0/NjgtMTQyNzAyOTk3/NC0xMjE2LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/QVl6Wp7idoKuqQfDB16ywTIAyYUMnvn4EqBUSkIYlyc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyOTg0/NjgtMTQyNzAyOTk3/NC0xMjE2LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/QaqJ99wZr-kd8Ib13F80ax2qDi-3_MT_xqsPku6j_2s/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyOTg0/NjgtMTQyNzAyOTg2/Ny0zNDcwLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/XLAN96aRO7JfWMGPtFgDB8lDG5p0J3T0nbmWsxRwV6Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyOTg0/NjgtMTQyNzAyOTg2/Ny0zNDcwLmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/KDHh0CxZX2xucpp639FV2VYao5atMtpiPmPQCmT2Bd4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyOTg0/NjgtMTQyNzAyOTg3/Ny00NjEzLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/H22ltNKXMzyWBfusZ2PbB3Extn1OcQJH6lPa-laHN1s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyOTg0/NjgtMTQyNzAyOTg3/Ny00NjEzLmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/CV_KyJdJnjcZSBq_bN85hPJjHmHrWrgeVuf75kjmjVI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyOTg0/NjgtMTQyNzAyOTg4/Ny05ODAyLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/mtXZiYykkiZ02d56DAuxBbV8t_C8xgdin0biLLdHQPY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyOTg0/NjgtMTQyNzAyOTg4/Ny05ODAyLmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/FesPC-5xB5wCzZlWOcSx4CGtkOhrX6IBon2lQlQgD3k/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyOTg0/NjgtMTQyNzAyOTkx/Mi01Nzg0LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/TiF82xwjhJ_1EViP30AcHlMxz_UZaD5Hujh1MMpaKlU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyOTg0/NjgtMTQyNzAyOTkx/Mi01Nzg0LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/hx3Yc9SFDmQ14BmqsYikxSk_pP-L9ot-B0XIUES9NQU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyOTg0/NjgtMTQyNzAyOTg5/OS00Njc2LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/uNOfRwh9ORHedef2UDc0t-8b6ZfBY2Crh3sdl2I6uPg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyOTg0/NjgtMTQyNzAyOTg5/OS00Njc2LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/dGROQcJfsanMKtxEbFchhAHVi2iSNT-jnVs6x-jVGis/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyOTg0/NjgtMTQyNzAyOTg1/My00ODYwLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/S1PAVGLZukHOsQoGFPVX1kgonuMaeNg_9f0MQguBqME/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyOTg0/NjgtMTQyNzAyOTg1/My00ODYwLmpwZWc.jpeg"
+      }
+    ],
+    "community": {
+      "rating": {
+        "count": 1005,
+        "average": 4.58
+      },
+      "have": 12110,
+      "want": 1349
+    },
+    "master": {
+      "id": 43063,
+      "title": "Songs From The Big Chair",
+      "main_release": 124187,
+      "year": 1985,
+      "uri": "https://www.discogs.com/master/43063-Tears-For-Fears-Songs-From-The-Big-Chair",
+      "num_for_sale": 1788
+    }
+  },
+  "apple_music": {
+    "id": 1440813508,
+    "url": "https://music.apple.com/us/album/songs-from-the-big-chair/1440813508?uo=4",
+    "name": "Songs from the Big Chair",
+    "artist": "Tears for Fears",
+    "artist_id": 45218,
+    "artwork_url_100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/74/41/43/744143ae-afad-8380-106e-1c1bc48922e4/14UMGIM34762.rgb.jpg/100x100bb.jpg",
+    "artwork_url_600": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/74/41/43/744143ae-afad-8380-106e-1c1bc48922e4/14UMGIM34762.rgb.jpg/600x600bb.jpg",
+    "release_date": "1985-02-25T08:00:00Z",
+    "track_count": 8,
+    "copyright": "This Compilation ℗ 2014 Mercury Records Limited",
+    "primary_genre": "Rock",
+    "country": "USA",
+    "tracks": [
+      {
+        "track_number": 1,
+        "disc_number": 1,
+        "name": "Shout",
+        "duration_ms": 392667,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d8/dc/a2/d8dca290-f445-0f78-f9d9-12104cf4ec3e/mzaf_6118928587616054721.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/shout/1440813508?i=1440813509&uo=4"
+      },
+      {
+        "track_number": 2,
+        "disc_number": 1,
+        "name": "The Working Hour",
+        "duration_ms": 391653,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/31/01/c0/3101c052-f26e-c180-4961-1b3e6da89bcf/mzaf_1675643822907292719.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/the-working-hour/1440813508?i=1440813514&uo=4"
+      },
+      {
+        "track_number": 3,
+        "disc_number": 1,
+        "name": "Everybody Wants to Rule the World",
+        "duration_ms": 251480,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ed/23/1f/ed231f7c-78cb-3b4d-f312-fc6b7ec09063/mzaf_14579022326895349191.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/everybody-wants-to-rule-the-world/1440813508?i=1440813515&uo=4"
+      },
+      {
+        "track_number": 4,
+        "disc_number": 1,
+        "name": "Mothers Talk",
+        "duration_ms": 306320,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/7f/c1/32/7fc132fa-698f-c499-ddc1-99f1de977abc/mzaf_8699160457951680874.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/mothers-talk/1440813508?i=1440813517&uo=4"
+      },
+      {
+        "track_number": 5,
+        "disc_number": 1,
+        "name": "I Believe",
+        "duration_ms": 295093,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/51/65/dd/5165ddcc-7eaa-329e-d636-0fa76bb2bea7/mzaf_3159134793617061556.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/i-believe/1440813508?i=1440813762&uo=4"
+      },
+      {
+        "track_number": 6,
+        "disc_number": 1,
+        "name": "Broken",
+        "duration_ms": 158573,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1b/52/0a/1b520a66-1fb6-f775-5f7d-8912c7a91875/mzaf_4054932545860837325.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/broken/1440813508?i=1440813764&uo=4"
+      },
+      {
+        "track_number": 7,
+        "disc_number": 1,
+        "name": "Head Over Heels / Broken",
+        "duration_ms": 302120,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c8/fb/27/c8fb27aa-3991-1e4d-ac53-1f58aa57d256/mzaf_15533095719793751181.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/head-over-heels-broken/1440813508?i=1440813767&uo=4"
+      },
+      {
+        "track_number": 8,
+        "disc_number": 1,
+        "name": "Listen",
+        "duration_ms": 413867,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/81/1b/69/811b694f-0a0c-f9a3-d9c2-cb9a10a8dbb8/mzaf_5737884379647966905.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/listen/1440813508?i=1440813777&uo=4"
+      }
+    ]
+  },
+  "discrepancies": [
+    "Release year differs: your pressing=2014, Apple Music edition=1985. Apple Music typically streams the most recent remaster."
+  ],
+  "local_cover": "images/6298468.jpg"
+}

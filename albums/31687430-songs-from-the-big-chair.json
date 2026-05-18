@@ -1,0 +1,326 @@
+{
+  "captured_at": "2026-05-18T00:58:30+00:00",
+  "schema_version": 3,
+  "artist": "Tears For Fears",
+  "title": "Songs From The Big Chair",
+  "original_release_year": 1985,
+  "pressing_year": 1985,
+  "upgrade_suggestion": "The 1985 Sterling Sound / Greg Calbi original is the reference for this pressing. The definitive audiophile upgrade is the **Mobile Fidelity MFSL 1-265** (Original Master Recording, 1989 US) — half-speed mastered from the original analog tapes, quieter surfaces, and widely regarded as the best-sounding version. As an alternative, the standard 2014 Mercury/UMe remaster (180g) is widely available and a significant step up from later club pressings in terms of surface quality.",
+  "commentary": "**Songs From The Big Chair** is Tears For Fears' second studio album, released in February 1985 on Mercury Records, and the record that broke the duo — Roland Orzabal and Curt Smith — into full global stardom. Named after the therapist's chair in the 1976 film *Sybil*, the album arrived as a polished, orchestrated expansion of the new-wave synth-pop sound that defined their debut, with producer Chris Hughes (of Adam and the Ants) and engineer Dave Bascombe delivering a lush, carefully layered sonic palette that still sounds enormous today. **\"Shout\"** and **\"Everybody Wants to Rule the World\"** became two of the defining singles of 1985, both reaching #1 in the US; **\"Head Over Heels\"** and **\"Mothers Talk\"** rounded out a near-perfect side-two sequence. The album spent five weeks at #1 on the UK Albums Chart and reached #1 in the US as well, certified 4× platinum.\n\nMusically, the album is a masterclass in production craft — the rhythm programming, string arrangements, and layered keyboards create a dense but never claustrophobic sound. Ian Stanley's keyboard work and Orzabal's increasingly confident guitar playing give the record texture beyond pure synthpop, and tracks like **\"The Working Hour\"** (with Mel Collins on saxophone) and the closing **\"Listen\"** (with operatic vocals by Marilyn David) show genuine compositional ambition. It remains one of the great pop albums of the decade.\n\nThis **1985 US RCA Music Service club pressing** was distributed under license from PolyGram Records, Inc. by RCA Music Service, Indianapolis, Indiana — a record club edition pressed for mail-order subscribers rather than retail release. The matrix `R-143666A 1 I A1F` / `R-143666B 1 I A1E` confirms the Indianapolis pressing plant. Mastered by **Greg Calbi at Sterling Sound**, New York — Calbi was one of the most respected mastering engineers of the era and a Sterling Sound fixture; his work on this album gives the original pressing its characteristic punch and clarity.\n\n**About this 1985 US pressing (Vinyl, LP, Club Edition):** Mercury catalog **422-824 300-1 M-1**, RCA Music Service catalog **R-143666**, 1985 club edition. Indianapolis pressing. Mastered by Greg Calbi at Sterling Sound. Barcode 042282430014. Matrix R-143666A / R-143666B.",
+  "discogs": {
+    "release_id": 31687430,
+    "master_id": 43063,
+    "uri": "https://www.discogs.com/release/31687430-Tears-For-Fears-Songs-From-The-Big-Chair",
+    "title": "Songs From The Big Chair",
+    "artists": [
+      {
+        "name": "Tears For Fears",
+        "id": 19814,
+        "role": null
+      }
+    ],
+    "year": 1985,
+    "released": "1985",
+    "country": "US",
+    "labels": [
+      {
+        "name": "Mercury",
+        "catno": "422-824 300-1 M-1",
+        "id": 39357
+      }
+    ],
+    "formats": [
+      {
+        "name": "Vinyl",
+        "qty": "1",
+        "descriptions": [
+          "LP",
+          "Album",
+          "Club Edition",
+          "Stereo"
+        ],
+        "text": "Indianapolis Pressing"
+      }
+    ],
+    "genres": [
+      "Electronic",
+      "Rock"
+    ],
+    "styles": [
+      "Synth-pop",
+      "New Wave"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Shout",
+        "duration": "6:35",
+        "type": "track"
+      },
+      {
+        "position": "A2",
+        "title": "The Working Hour",
+        "duration": "6:29",
+        "type": "track"
+      },
+      {
+        "position": "A3",
+        "title": "Everybody Wants To Rule The World",
+        "duration": "4:10",
+        "type": "track"
+      },
+      {
+        "position": "A4",
+        "title": "Mothers Talk",
+        "duration": "3:53",
+        "type": "track"
+      },
+      {
+        "position": "B1",
+        "title": "I Believe",
+        "duration": "4:53",
+        "type": "track"
+      },
+      {
+        "position": "B2",
+        "title": "Broken",
+        "duration": "2:33",
+        "type": "track"
+      },
+      {
+        "position": "B3",
+        "title": "Head Over Heels",
+        "duration": "5:00",
+        "type": "track"
+      },
+      {
+        "position": "B4",
+        "title": "Listen",
+        "duration": "6:54",
+        "type": "track"
+      }
+    ],
+    "extraartists": [
+      {
+        "name": "Curt Smith",
+        "role": "Bass Guitar",
+        "id": 466467
+      },
+      {
+        "name": "Tim O'Sullivan",
+        "role": "Cover",
+        "id": 1630578
+      },
+      {
+        "name": "Manny Elias",
+        "role": "Drums",
+        "id": 419108
+      },
+      {
+        "name": "David Bascombe",
+        "role": "Engineer",
+        "id": 52459
+      },
+      {
+        "name": "Roland Orzabal",
+        "role": "Guitar",
+        "id": 164295
+      },
+      {
+        "name": "Ian Stanley",
+        "role": "Keyboards",
+        "id": 95677
+      },
+      {
+        "name": "Roland Orzabal",
+        "role": "Keyboards",
+        "id": 164295
+      },
+      {
+        "name": "Paul King (8)",
+        "role": "Management",
+        "id": 1836600
+      },
+      {
+        "name": "Greg Calbi",
+        "role": "Mastered By",
+        "id": 244135
+      },
+      {
+        "name": "Chris Hughes",
+        "role": "Producer",
+        "id": 95755
+      },
+      {
+        "name": "Curt Smith",
+        "role": "Vocals",
+        "id": 466467
+      },
+      {
+        "name": "Roland Orzabal",
+        "role": "Vocals",
+        "id": 164295
+      }
+    ],
+    "identifiers": [
+      {
+        "type": "Barcode",
+        "value": "0 422-824300-1",
+        "description": "Text"
+      },
+      {
+        "type": "Barcode",
+        "value": "042282430014",
+        "description": "Scanned, UPC_A"
+      },
+      {
+        "type": "Rights Society",
+        "value": "BMI",
+        "description": null
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "R-143666A 1 I A1F",
+        "description": "Side A runout"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "R-143666B 1 I A1E",
+        "description": "Side B runout"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "R-143666B 1 I A1M",
+        "description": "Side A runout, variant"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "R-143666B 1 I A2K",
+        "description": "Side B runout, variant"
+      }
+    ],
+    "notes": "Club edition.\n",
+    "images": [
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/yVuS8xKhGhkRwRCbmIr3KNj49owjol7AdvdpOmAcJfY/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjg3/NDMwLTE3MjYzNDg3/NTEtODc5NC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/hoXvtzTzMlNG6N9gyA_9iShY-cOaDqCc-mE08p84gbU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjg3/NDMwLTE3MjYzNDg3/NTEtODc5NC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/RfgilhQwU-Y-f0rOG0XO8fgY0ZxSTLwUXHRCB8i-6zk/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjg3/NDMwLTE3MjYzNDg3/NTUtNzEyNi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/b38AFhOggHDFJE1dczCEo0GNCnoiwhg0tsqOg1AiQoE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjg3/NDMwLTE3MjYzNDg3/NTUtNzEyNi5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/QmS6gNhHI5DcrL900Tz6FcJHuvqubO5FU5VHm_UCuBg/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjg3/NDMwLTE3MjYzNDg3/NTQtMjIyMi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/s1H0jNFs7ESn2vJQRB3cVi51voQynmqUYwEVByReOzY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjg3/NDMwLTE3MjYzNDg3/NTQtMjIyMi5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/96cQhJ3s2vr50cyfY-GxEtg5gl3ZOtcYsdyKrh7QHqE/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjg3/NDMwLTE3MjYzNDg3/NTUtNDg2Ni5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/w2stoirJriabiirXtH8CK2YIOMdMFl5q4TCvgql3jAM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjg3/NDMwLTE3MjYzNDg3/NTUtNDg2Ni5qcGVn.jpeg"
+      }
+    ],
+    "community": {
+      "rating": {
+        "count": 40,
+        "average": 4.4
+      },
+      "have": 783,
+      "want": 218
+    },
+    "master": {
+      "id": 43063,
+      "title": "Songs From The Big Chair",
+      "main_release": 124187,
+      "year": 1985,
+      "uri": "https://www.discogs.com/master/43063-Tears-For-Fears-Songs-From-The-Big-Chair",
+      "num_for_sale": 1788
+    }
+  },
+  "apple_music": {
+    "id": 1440813508,
+    "url": "https://music.apple.com/us/album/songs-from-the-big-chair/1440813508?uo=4",
+    "name": "Songs from the Big Chair",
+    "artist": "Tears for Fears",
+    "artist_id": 45218,
+    "artwork_url_100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/74/41/43/744143ae-afad-8380-106e-1c1bc48922e4/14UMGIM34762.rgb.jpg/100x100bb.jpg",
+    "artwork_url_600": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/74/41/43/744143ae-afad-8380-106e-1c1bc48922e4/14UMGIM34762.rgb.jpg/600x600bb.jpg",
+    "release_date": "1985-02-25T08:00:00Z",
+    "track_count": 8,
+    "copyright": "This Compilation ℗ 2014 Mercury Records Limited",
+    "primary_genre": "Rock",
+    "country": "USA",
+    "tracks": [
+      {
+        "track_number": 1,
+        "disc_number": 1,
+        "name": "Shout",
+        "duration_ms": 392667,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d8/dc/a2/d8dca290-f445-0f78-f9d9-12104cf4ec3e/mzaf_6118928587616054721.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/shout/1440813508?i=1440813509&uo=4"
+      },
+      {
+        "track_number": 2,
+        "disc_number": 1,
+        "name": "The Working Hour",
+        "duration_ms": 391653,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/31/01/c0/3101c052-f26e-c180-4961-1b3e6da89bcf/mzaf_1675643822907292719.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/the-working-hour/1440813508?i=1440813514&uo=4"
+      },
+      {
+        "track_number": 3,
+        "disc_number": 1,
+        "name": "Everybody Wants to Rule the World",
+        "duration_ms": 251480,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ed/23/1f/ed231f7c-78cb-3b4d-f312-fc6b7ec09063/mzaf_14579022326895349191.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/everybody-wants-to-rule-the-world/1440813508?i=1440813515&uo=4"
+      },
+      {
+        "track_number": 4,
+        "disc_number": 1,
+        "name": "Mothers Talk",
+        "duration_ms": 306320,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/7f/c1/32/7fc132fa-698f-c499-ddc1-99f1de977abc/mzaf_8699160457951680874.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/mothers-talk/1440813508?i=1440813517&uo=4"
+      },
+      {
+        "track_number": 5,
+        "disc_number": 1,
+        "name": "I Believe",
+        "duration_ms": 295093,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/51/65/dd/5165ddcc-7eaa-329e-d636-0fa76bb2bea7/mzaf_3159134793617061556.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/i-believe/1440813508?i=1440813762&uo=4"
+      },
+      {
+        "track_number": 6,
+        "disc_number": 1,
+        "name": "Broken",
+        "duration_ms": 158573,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1b/52/0a/1b520a66-1fb6-f775-5f7d-8912c7a91875/mzaf_4054932545860837325.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/broken/1440813508?i=1440813764&uo=4"
+      },
+      {
+        "track_number": 7,
+        "disc_number": 1,
+        "name": "Head Over Heels / Broken",
+        "duration_ms": 302120,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c8/fb/27/c8fb27aa-3991-1e4d-ac53-1f58aa57d256/mzaf_15533095719793751181.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/head-over-heels-broken/1440813508?i=1440813767&uo=4"
+      },
+      {
+        "track_number": 8,
+        "disc_number": 1,
+        "name": "Listen",
+        "duration_ms": 413867,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/81/1b/69/811b694f-0a0c-f9a3-d9c2-cb9a10a8dbb8/mzaf_5737884379647966905.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/listen/1440813508?i=1440813777&uo=4"
+      }
+    ]
+  },
+  "discrepancies": [
+    "Total runtime differs by 81s (Discogs=2427s, Apple Music=2508s) — likely a different master/remaster."
+  ],
+  "local_cover": "images/31687430.jpg"
+}

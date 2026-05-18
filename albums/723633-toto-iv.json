@@ -1,0 +1,648 @@
+{
+  "captured_at": "2026-05-18T01:17:53+00:00",
+  "schema_version": 3,
+  "artist": "Toto",
+  "title": "Toto IV",
+  "original_release_year": 1982,
+  "pressing_year": 1982,
+  "upgrade_suggestion": "The original Terre Haute / George Marino / Sterling Sound pressing is the reference for this album and widely regarded as the best-sounding version. Earlier stampers (1A, 1B) are preferred by collectors, but the `1F` is still first-lacquer-generation and holds up well. No definitive audiophile reissue exists; the original US pressing is the go-to.",
+  "commentary": "**Toto IV** is Toto's fourth studio album, released in April 1982 on Columbia Records, and the commercial and artistic peak of their career. It won six Grammy Awards at the 1983 ceremony — including Album of the Year — making it one of the most decorated albums in Grammy history. Produced by the band, recorded across **Sunset Sound**, **Record One**, **Abbey Road Studios**, and **Hogg Manor**, the album is a showcase of extraordinary studio craft: impeccable rhythm sections, lush orchestral arrangements by **David Paich**, **James Newton Howard**, and **Marty Paich**, and a cast of contributing musicians that reads like a who's-who of LA session royalty. **\"Rosanna\"** and **\"Africa\"** became two of the most iconic singles of the decade; **\"I'll Be Over You\"** and **\"Waiting for Your Love\"** rounded out a remarkably consistent tracklist.\n\nEngineered by **Al Schmitt** and **Greg Ladanyi** — two of the finest recording engineers of the era — the album's sonic quality matched its artistic ambition. Mastered by **George Marino at Sterling Sound**, New York, with lacquer cutting also at Sterling. Marino was one of the defining mastering engineers of the 1980s and 1990s, responsible for an extraordinary run of landmark records; his work on Toto IV gives the album its characteristic warmth and punch.\n\nThis **1982 original US pressing** was pressed at the **Columbia Records Pressing Plant, Terre Haute, Indiana** (`T1` in the deadwax). The matrix `BL-37728-1F STERLING` identifies this as Side B, first-lacquer-generation (`1`), `F` stamper — a mid-run copy from the original pressing run, cut directly from the George Marino lacquer at Sterling Sound.\n\n**About this 1982 US pressing (Vinyl, LP):** Columbia catalog **FC 37728**, original 1982 US pressing. Terre Haute pressing plant. Mastered by George Marino at Sterling Sound. Matrix AL-37728-1F STERLING (Side A) / BL-37728-1F STERLING (Side B). Barcode 07464377281.",
+  "discogs": {
+    "release_id": 723633,
+    "master_id": 30712,
+    "uri": "https://www.discogs.com/release/723633-Toto-Toto-IV",
+    "title": "Toto IV",
+    "artists": [
+      {
+        "name": "Toto",
+        "id": 68693,
+        "role": null
+      }
+    ],
+    "year": 1982,
+    "released": "1982",
+    "country": "US",
+    "labels": [
+      {
+        "name": "Columbia",
+        "catno": "FC 37728",
+        "id": 1866
+      }
+    ],
+    "formats": [
+      {
+        "name": "Vinyl",
+        "qty": "1",
+        "descriptions": [
+          "LP",
+          "Album"
+        ],
+        "text": "Terre Haute Pressing"
+      }
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Classic Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Rosanna",
+        "duration": "5:32",
+        "type": "track"
+      },
+      {
+        "position": "A2",
+        "title": "Make Believe",
+        "duration": "3:43",
+        "type": "track"
+      },
+      {
+        "position": "A3",
+        "title": "I Won't Hold You Back",
+        "duration": "4:56",
+        "type": "track"
+      },
+      {
+        "position": "A4",
+        "title": "Good For You",
+        "duration": "3:18",
+        "type": "track"
+      },
+      {
+        "position": "A5",
+        "title": "It's A Feeling",
+        "duration": "3:06",
+        "type": "track"
+      },
+      {
+        "position": "B1",
+        "title": "Afraid Of Love",
+        "duration": "3:52",
+        "type": "track"
+      },
+      {
+        "position": "B2",
+        "title": "Lovers In The Night",
+        "duration": "4:27",
+        "type": "track"
+      },
+      {
+        "position": "B3",
+        "title": "We Made It",
+        "duration": "3:56",
+        "type": "track"
+      },
+      {
+        "position": "B4",
+        "title": "Waiting For Your Love",
+        "duration": "4:13",
+        "type": "track"
+      },
+      {
+        "position": "B5",
+        "title": "Africa",
+        "duration": "4:55",
+        "type": "track"
+      }
+    ],
+    "extraartists": [
+      {
+        "name": "David Paich",
+        "role": "Arranged By [Horn Arrangements]",
+        "id": 193582
+      },
+      {
+        "name": "Jerry Hey",
+        "role": "Arranged By [Horn Arrangements]",
+        "id": 255142
+      },
+      {
+        "name": "David Paich",
+        "role": "Arranged By [Orchestral Arrangements By]",
+        "id": 193582
+      },
+      {
+        "name": "James Newton Howard",
+        "role": "Arranged By [Orchestral Arrangements By]",
+        "id": 239054
+      },
+      {
+        "name": "Marty Paich",
+        "role": "Arranged By [Orchestral Arrangements By]",
+        "id": 193583
+      },
+      {
+        "name": "Bobby Kimball",
+        "role": "Backing Vocals [Background Vocals]",
+        "id": 385283
+      },
+      {
+        "name": "David Paich",
+        "role": "Backing Vocals [Background Vocals]",
+        "id": 193582
+      },
+      {
+        "name": "Steve Lukather",
+        "role": "Backing Vocals [Background Vocals]",
+        "id": 272796
+      },
+      {
+        "name": "Timothy B. Schmit",
+        "role": "Backing Vocals [Background Vocals]",
+        "id": 272789
+      },
+      {
+        "name": "Tom Kelly",
+        "role": "Backing Vocals [Background Vocals]",
+        "id": 294812
+      },
+      {
+        "name": "David Hungate",
+        "role": "Bass",
+        "id": 336324
+      },
+      {
+        "name": "Mike Porcaro",
+        "role": "Cello",
+        "id": 369443
+      },
+      {
+        "name": "James Newton Howard",
+        "role": "Conductor [Strings Conducted By]",
+        "id": 239054
+      },
+      {
+        "name": "Lenny Castro",
+        "role": "Congas, Percussion",
+        "id": 252196
+      },
+      {
+        "name": "Jeff Porcaro",
+        "role": "Design Concept [Album Package]",
+        "id": 332625
+      },
+      {
+        "name": "Jeff Porcaro",
+        "role": "Drums, Percussion",
+        "id": 332625
+      },
+      {
+        "name": "Al Schmitt",
+        "role": "Engineer",
+        "id": 227789
+      },
+      {
+        "name": "Greg Ladanyi",
+        "role": "Engineer",
+        "id": 258155
+      },
+      {
+        "name": "Tom Knox",
+        "role": "Engineer",
+        "id": 255983
+      },
+      {
+        "name": "Bruce Heigh",
+        "role": "Engineer [Additional Engineering At Hogg Manor]",
+        "id": 715754
+      },
+      {
+        "name": "David Paich",
+        "role": "Engineer [Additional Engineering At Hogg Manor]",
+        "id": 193582
+      },
+      {
+        "name": "Dick Gall (2)",
+        "role": "Engineer [Additional Engineering At Hogg Manor]",
+        "id": 715756
+      },
+      {
+        "name": "Steve Porcaro",
+        "role": "Engineer [Additional Engineering At Hogg Manor]",
+        "id": 299163
+      },
+      {
+        "name": "Steve Lukather",
+        "role": "Guitar, Vocals",
+        "id": 272796
+      },
+      {
+        "name": "Joe Spencer (2)",
+        "role": "Illustration",
+        "id": 1833471
+      },
+      {
+        "name": "David Paich",
+        "role": "Keyboards, Vocals",
+        "id": 193582
+      },
+      {
+        "name": "Steve Porcaro",
+        "role": "Keyboards, Vocals",
+        "id": 299163
+      },
+      {
+        "name": "Bobby Kimball",
+        "role": "Lead Vocals",
+        "id": 385283
+      },
+      {
+        "name": "David Paich",
+        "role": "Lead Vocals",
+        "id": 193582
+      },
+      {
+        "name": "Steve Lukather",
+        "role": "Lead Vocals",
+        "id": 272796
+      },
+      {
+        "name": "Steve Porcaro",
+        "role": "Lead Vocals",
+        "id": 299163
+      },
+      {
+        "name": "Joe Porcaro",
+        "role": "Marimba",
+        "id": 390504
+      },
+      {
+        "name": "George Marino",
+        "role": "Mastered By",
+        "id": 335003
+      },
+      {
+        "name": "Greg Ladanyi",
+        "role": "Mixed By",
+        "id": 258155
+      },
+      {
+        "name": "Joe Porcaro",
+        "role": "Percussion",
+        "id": 390504
+      },
+      {
+        "name": "Glen Christensen",
+        "role": "Photography By",
+        "id": 534209
+      },
+      {
+        "name": "Jim Hagopian",
+        "role": "Photography By",
+        "id": 1931127
+      },
+      {
+        "name": "Sam Emerson",
+        "role": "Photography By",
+        "id": 2082959
+      },
+      {
+        "name": "Steve Lukather",
+        "role": "Piano",
+        "id": 272796
+      },
+      {
+        "name": "Toto",
+        "role": "Producer",
+        "id": 68693
+      },
+      {
+        "name": "Roger Linn",
+        "role": "Programmed By [Synthesizer Programming]",
+        "id": 387506
+      },
+      {
+        "name": "Al Schmitt",
+        "role": "Recorded By",
+        "id": 227789
+      },
+      {
+        "name": "Greg Ladanyi",
+        "role": "Recorded By",
+        "id": 258155
+      },
+      {
+        "name": "Tom Knox",
+        "role": "Recorded By",
+        "id": 255983
+      },
+      {
+        "name": "Jamie Ledner",
+        "role": "Recorded By [At Record One]",
+        "id": 1058841
+      },
+      {
+        "name": "Lon LeMaster",
+        "role": "Recorded By [At Record One]",
+        "id": 1367200
+      },
+      {
+        "name": "Niko Bolas",
+        "role": "Recorded By [At Record One]",
+        "id": 177374
+      },
+      {
+        "name": "David Leonard",
+        "role": "Recorded By [At Sunset Sound]",
+        "id": 130653
+      },
+      {
+        "name": "Peggy McCreary",
+        "role": "Recorded By [At Sunset Sound]",
+        "id": 159355
+      },
+      {
+        "name": "Terry Christian",
+        "role": "Recorded By [At Sunset Sound]",
+        "id": 221559
+      },
+      {
+        "name": "John Kurlander",
+        "role": "Recorded By [Strings Recorded By]",
+        "id": 346155
+      },
+      {
+        "name": "Jim Horn",
+        "role": "Recorder [Recorders]",
+        "id": 255404
+      },
+      {
+        "name": "Jim Horn",
+        "role": "Saxophone",
+        "id": 255404
+      },
+      {
+        "name": "Jon Smith (5)",
+        "role": "Saxophone",
+        "id": 660088
+      },
+      {
+        "name": "Tom Scott",
+        "role": "Saxophone",
+        "id": 69621
+      },
+      {
+        "name": "The Martyn Ford Orchestra",
+        "role": "Strings [Strings Performed By]",
+        "id": 334130
+      },
+      {
+        "name": "Ralph Dyck",
+        "role": "Synthesizer",
+        "id": 715755
+      },
+      {
+        "name": "Joe Porcaro",
+        "role": "Timpani [Tympani]",
+        "id": 390504
+      },
+      {
+        "name": "James Pankow",
+        "role": "Trombone",
+        "id": 433032
+      },
+      {
+        "name": "Gary Grant",
+        "role": "Trumpet",
+        "id": 271409
+      },
+      {
+        "name": "Jerry Hey",
+        "role": "Trumpet",
+        "id": 255142
+      },
+      {
+        "name": "Bobby Kimball",
+        "role": "Vocals",
+        "id": 385283
+      },
+      {
+        "name": "Joe Porcaro",
+        "role": "Xylophone",
+        "id": 390504
+      }
+    ],
+    "identifiers": [
+      {
+        "type": "Barcode",
+        "value": "0 7464-37728-1",
+        "description": "Text"
+      },
+      {
+        "type": "Barcode",
+        "value": "074643772815",
+        "description": "Scan"
+      },
+      {
+        "type": "Pressing Plant ID",
+        "value": "T1",
+        "description": "Etched in runouts"
+      },
+      {
+        "type": "Rights Society",
+        "value": "ASCAP",
+        "description": null
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "AL 37728",
+        "description": "Label, side A"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BL 37728",
+        "description": "Label, side B"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "T1  AL B̶L̶-37728-1F STERLING",
+        "description": "Runout side A, variant 1"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "T1  BL-37728-1F STERLING",
+        "description": "Runout side B, variant 1"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "T1  BL-37728. 1D STERLING",
+        "description": "Runout side A, variant 2"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "T1  BL-37728. 1E STERLING",
+        "description": "Runout side B, variant 2"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "T1 AL-37728· 1E STERLING N D o",
+        "description": "Runout side A, variant 3"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "T1 BL-37728· 1D STERLING E1 o",
+        "description": "Runout side B, variant 3"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "o T1 AL-37728-1D STERLING B1",
+        "description": "Runout side A, variant 4"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "T1 BL-37728-1E  STERLING B2",
+        "description": "Runout side B, variant 4"
+      }
+    ],
+    "notes": "\"T1\" etched in runouts denotes a Columbia-Terre Haute pressing.\n\n℗ © 1982 [l211334]\n\nRunouts are etched, except for \"STERLING\", the Customatrix \"o\" and occasional plate characters, e.g., \"D\" in variant 3, side A, which are stamped.",
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/XulpiFcoKciIva2EDrij4BExwTULM5W0s9n-JQwUHFY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMzYz/My0xNDUxOTMyMjk3/LTUwNjIuanBlZw.jpeg",
+        "uri150": "https://i.discogs.com/sZ0j3ewgy7GCzXjx3QsUsjxu6hhuobBOSlEXWHf9v9U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMzYz/My0xNDUxOTMyMjk3/LTUwNjIuanBlZw.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/KOhOlyi45cla26dEmZWFSNszr3ZivwCDSLmdG2dpOiE/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMzYz/My0xNDUxOTMyMjk5/LTg3MDEuanBlZw.jpeg",
+        "uri150": "https://i.discogs.com/R_y5DTpXqX2fHytQPk4WdwFamKr2SdZSN406-giwnl4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMzYz/My0xNDUxOTMyMjk5/LTg3MDEuanBlZw.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/ra3XXY7No1zBpIv2WddgQDxm5TvP7Ao9il8gyeYzNk8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMzYz/My0xNDUxOTMyMjk2/LTI2NDQuanBlZw.jpeg",
+        "uri150": "https://i.discogs.com/d9asYY55Pmk52OSmU0vseoxxnaXTk5ItmBjEUo9O2-Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMzYz/My0xNDUxOTMyMjk2/LTI2NDQuanBlZw.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/UoGROJfZxVmiGxax346WKgkKMr2L61WF2QTcRvcZNJg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMzYz/My0xNDUxOTMyMjk2/LTcwMTUuanBlZw.jpeg",
+        "uri150": "https://i.discogs.com/PWiqKLwq23imvk9n67csNaH307F0FmKGP5PYlLDdQgU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMzYz/My0xNDUxOTMyMjk2/LTcwMTUuanBlZw.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/GG4tU3MvtvJpAfQqDtiCARTjeFKZ76pPyygk3Aa62sc/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMzYz/My0xNDUxOTMyMzAw/LTU2MTguanBlZw.jpeg",
+        "uri150": "https://i.discogs.com/tcub-8q3-GO7RcckoS_IcEkOzE7cSoJDMaPAHNJed6U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMzYz/My0xNDUxOTMyMzAw/LTU2MTguanBlZw.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/loz2maJ3hSD6t7idjzUb58bBL0mNLKeBIIm4jNNoBV0/rs:fit/g:sm/q:90/h:577/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMzYz/My0xNDUxOTMyMzAx/LTYwNDAuanBlZw.jpeg",
+        "uri150": "https://i.discogs.com/KEF6fNP079G9M7bMGK3qkohQQzcl_Qke-bsR5xIClhw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMzYz/My0xNDUxOTMyMzAx/LTYwNDAuanBlZw.jpeg"
+      }
+    ],
+    "community": {
+      "rating": {
+        "count": 926,
+        "average": 4.01
+      },
+      "have": 16641,
+      "want": 1683
+    },
+    "master": {
+      "id": 30712,
+      "title": "Toto IV",
+      "main_release": 11093530,
+      "year": 1982,
+      "uri": "https://www.discogs.com/master/30712-Toto-Toto-IV",
+      "num_for_sale": 1887
+    }
+  },
+  "apple_music": {
+    "id": 185716551,
+    "url": "https://music.apple.com/us/album/toto-iv/185716551?uo=4",
+    "name": "Toto IV",
+    "artist": "Toto",
+    "artist_id": 462614,
+    "artwork_url_100": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/69/ce/d2/69ced240-07a7-2a04-bbab-2afbacf30809/074643772822.jpg/100x100bb.jpg",
+    "artwork_url_600": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/69/ce/d2/69ced240-07a7-2a04-bbab-2afbacf30809/074643772822.jpg/600x600bb.jpg",
+    "release_date": "1982-04-08T08:00:00Z",
+    "track_count": 10,
+    "copyright": "℗ 1982 Sony Music Entertainment Inc.",
+    "primary_genre": "Rock",
+    "country": "USA",
+    "tracks": [
+      {
+        "track_number": 1,
+        "disc_number": 1,
+        "name": "Rosanna",
+        "duration_ms": 330943,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/79/f5/56/79f556ca-a564-40c0-d76d-3524ea19dd62/mzaf_5047454346001497299.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/rosanna/185716551?i=185716601&uo=4"
+      },
+      {
+        "track_number": 2,
+        "disc_number": 1,
+        "name": "Make Believe",
+        "duration_ms": 223812,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/ca/ed/6d/caed6dea-4819-1a76-8f24-228d604eccae/mzaf_4429627013047991687.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/make-believe/185716551?i=185716729&uo=4"
+      },
+      {
+        "track_number": 3,
+        "disc_number": 1,
+        "name": "I Won't Hold You Back",
+        "duration_ms": 293125,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/5a/91/45/5a914511-b19b-40e9-8dbb-3f898d9d11a3/mzaf_8480632349225828396.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/i-wont-hold-you-back/185716551?i=185716734&uo=4"
+      },
+      {
+        "track_number": 4,
+        "disc_number": 1,
+        "name": "Good for You",
+        "duration_ms": 197889,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/2a/94/67/2a94675e-0ae6-5933-4c07-d3eec470c90f/mzaf_7531463870984415748.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/good-for-you/185716551?i=185716820&uo=4"
+      },
+      {
+        "track_number": 5,
+        "disc_number": 1,
+        "name": "It's a Feeling",
+        "duration_ms": 185087,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/01/4e/e2/014ee2bf-35b5-3c86-906f-562724a2ba39/mzaf_17548031155512763150.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/its-a-feeling/185716551?i=185716891&uo=4"
+      },
+      {
+        "track_number": 6,
+        "disc_number": 1,
+        "name": "Afraid of Love",
+        "duration_ms": 231811,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/a6/f9/61/a6f9619b-ed74-22e6-dad0-4c411461a20f/mzaf_298558438678510028.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/afraid-of-love/185716551?i=185716913&uo=4"
+      },
+      {
+        "track_number": 7,
+        "disc_number": 1,
+        "name": "Lovers In the Night",
+        "duration_ms": 265103,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/16/93/30/169330fb-0188-8c79-d988-39ac68a06b84/mzaf_11722151660810953902.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/lovers-in-the-night/185716551?i=185717158&uo=4"
+      },
+      {
+        "track_number": 8,
+        "disc_number": 1,
+        "name": "We Made It",
+        "duration_ms": 235795,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/2a/a9/15/2aa91516-1624-cab0-900b-07baffd23344/mzaf_548415356816718487.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/we-made-it/185716551?i=185717333&uo=4"
+      },
+      {
+        "track_number": 9,
+        "disc_number": 1,
+        "name": "Waiting for Your Love",
+        "duration_ms": 252355,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/e2/b2/09/e2b209db-6688-cae1-bae4-5b43a84f7688/mzaf_14067247423288899789.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/waiting-for-your-love/185716551?i=185717432&uo=4"
+      },
+      {
+        "track_number": 10,
+        "disc_number": 1,
+        "name": "Africa",
+        "duration_ms": 295283,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/12/e5/ba/12e5ba45-05c1-7060-25a8-c9b718e7f6e8/mzaf_4488601364870711408.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/africa/185716551?i=185717604&uo=4"
+      }
+    ]
+  },
+  "discrepancies": [],
+  "local_cover": "images/723633.jpg"
+}

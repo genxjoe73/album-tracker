@@ -1,0 +1,533 @@
+{
+  "captured_at": "2026-05-18T01:25:56+00:00",
+  "schema_version": 3,
+  "artist": "Shania Twain",
+  "title": "Greatest Hits",
+  "original_release_year": 2004,
+  "pressing_year": 2023,
+  "upgrade_suggestion": "This 2023 UMe remaster is the current standard issue and a solid modern pressing. No dedicated audiophile edition exists for this compilation. The remastered 2023 source is also what Apple Music streams, making digital and vinyl well-aligned.",
+  "commentary": "**Greatest Hits** is Shania Twain's career-spanning compilation, originally released in November 2004 on Mercury Nashville / UMG. Spanning her three landmark studio albums — *The Woman in Me* (1995), *Come On Over* (1997), and *Up!* (2002) — it collects the songs that made Twain the best-selling female country artist of all time and one of the best-selling artists across all genres, with over 100 million records sold worldwide. Produced primarily by her then-husband **Robert John \"Mutt\" Lange**, the albums these songs come from set new commercial and production standards for country-pop crossover, with Twain's distinctive blend of country roots, rock edge, and pop songcraft opening country music to a global mainstream audience.\n\nThe compilation's 23 tracks include defining hits: **\"Man! I Feel Like a Woman!\"**, **\"You're Still the One\"**, **\"That Don't Impress Me Much\"**, **\"From This Moment On\"**, **\"Come On Over\"**, and **\"Any Man of Mine\"** — a run of singles that dominated both country and pop charts through the late 1990s and early 2000s. The 2023 remaster revisits the original recordings with updated sonic presentation.\n\nThis **2023 US pressing** is the limited **\"Coke Bottle Clear\" green vinyl** edition, a Walmart/Target exclusive 2LP released in a gatefold sleeve with printed inner sleeves. Pressed by **GZ Media** — confirmed by the `10-101587 / 602458342178` deadwax lacquer code, UMe's standard GZ pressing format for this era.\n\n**About this 2023 US pressing (2× Vinyl, LP, Compilation, Limited Edition):** UMG catalog **602458342178**, 2023 reissue. \"Coke Bottle Clear\" green vinyl. Walmart/Target exclusive. Gatefold with printed inner sleeves. Pressed by GZ Media. Barcode 602458342178. Matrix 10-101587 / 602458342178.",
+  "discogs": {
+    "release_id": 28957504,
+    "master_id": 269769,
+    "uri": "https://www.discogs.com/release/28957504-Shania-Twain-Greatest-Hits",
+    "title": "Greatest Hits",
+    "artists": [
+      {
+        "name": "Shania Twain",
+        "id": 130060,
+        "role": null
+      }
+    ],
+    "year": 2023,
+    "released": "2023-11-17",
+    "country": "US",
+    "labels": [
+      {
+        "name": "Mercury Nashville",
+        "catno": "602458342178",
+        "id": 115661
+      },
+      {
+        "name": "UMe",
+        "catno": "602458342178",
+        "id": 68029
+      }
+    ],
+    "formats": [
+      {
+        "name": "Vinyl",
+        "qty": "2",
+        "descriptions": [
+          "LP",
+          "Compilation",
+          "Limited Edition",
+          "Reissue"
+        ],
+        "text": "Green [Coke Bottle Clear]"
+      }
+    ],
+    "genres": [
+      "Pop",
+      "Folk, World, & Country"
+    ],
+    "styles": [],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Forever And For Always",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "A2",
+        "title": "I'm Gonna Getcha Good!",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "A3",
+        "title": "Up!",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "A4",
+        "title": "Come On Over",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "A5",
+        "title": "Man! I Feel Like A Woman!",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "A6",
+        "title": "That Don't Impress Me Much",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B1",
+        "title": "From This Moment On",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B2",
+        "title": "Honey, I'm Home",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B3",
+        "title": "You're Still The One",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B4",
+        "title": "Don't Be Stupid (You Know I Love You)",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B5",
+        "title": "Love Gets Me Every Time",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B6",
+        "title": "No One Needs To Know",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "C1",
+        "title": "You Win My Love",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "C2",
+        "title": "(If You're Not In It For Love) I'm Outta Here!",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "C3",
+        "title": "The Woman In Me (Needs The Man In You)",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "C4",
+        "title": "Any Man Of Mine",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "C5",
+        "title": "Whose Bed Have Your Boots Been Under?",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "D1",
+        "title": "Party For Two",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "D2",
+        "title": "Don't!",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "D3",
+        "title": "Party For Two",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "D4",
+        "title": "I Ain't No Quitter",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "D5",
+        "title": "Life's About To Get Good",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "D6",
+        "title": "Giddy Up!",
+        "duration": "",
+        "type": "track"
+      }
+    ],
+    "extraartists": [
+      {
+        "name": "Shania Twain",
+        "role": "Lead Vocals",
+        "id": 130060
+      }
+    ],
+    "identifiers": [
+      {
+        "type": "Barcode",
+        "value": "0602458342178",
+        "description": "Scanned, back sleeve"
+      },
+      {
+        "type": "Barcode",
+        "value": "6 02458 34217 8",
+        "description": "Text, back sleeve"
+      },
+      {
+        "type": "Barcode",
+        "value": "0602458342383",
+        "description": "Scanned, sticker"
+      },
+      {
+        "type": "Barcode",
+        "value": "6 02458 34238 3",
+        "description": "Text, sticker"
+      }
+    ],
+    "notes": "2xLP \"coke bottle clear\" green vinyl, released in a gatefold sleeve, with printed inner sleeves. \n\nWalmart Exclusive, hype sticker no. 602458342383\nTarget Exclusive, hype sticker no. 602458342383.1",
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/1hYvMPqWaNI_DKhV69ze0rKlyFo7BblNYlvG4yyChII/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTU3/NTA0LTE3MDAzNzgy/NzUtOTMwNi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/UMr3QJSElHSz47X5oMeHhL17_Mn0FtE9gLeNlIRQ_eQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTU3/NTA0LTE3MDAzNzgy/NzUtOTMwNi5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/n3pf-1ECt_GHsniKTVplQxTyl5GH0gPgwMQP2lfPcf8/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTU3/NTA0LTE3MDAzNzgz/MDUtNjM4My5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/Op4NXZiZ7qrvq1Y1eXYugEBhWq7CpXl6_PQoGg86Tu0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTU3/NTA0LTE3MDAzNzgz/MDUtNjM4My5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/s7HGx-LwZPPPaGZasSGhLeJlCy52B9fX1x02q65wFY4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTU3/NTA0LTE3MDAzNzgz/MDUtODE3MC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/SgYEroenu8XkUq8L5PuyQ-mxO_v4axgmtC-yVmcFUbw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTU3/NTA0LTE3MDAzNzgz/MDUtODE3MC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/_c_fhNfknCJcuT7ELx2zs6ibQh1jnp6rTbQGFncMIIw/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTU3/NTA0LTE3MDAzNzgz/MDYtNTY3NC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/GtKjY1Sh_NOceMy7KH3kxIs6rn8Krafl5X6dUJcVHI0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTU3/NTA0LTE3MDAzNzgz/MDYtNTY3NC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/9Px-UE-f75WTsr0-Lh_2wVRgLCZCd3gMItPB-SlQUQs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTU3/NTA0LTE3MDA0NTE3/NzctNjY0NS5wbmc.jpeg",
+        "uri150": "https://i.discogs.com/ilHc09wwtye2Z4F5SR2Af_znqoVcbWlLONgDMFZAy6I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTU3/NTA0LTE3MDA0NTE3/NzctNjY0NS5wbmc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/lsr7DIOLWxAVDGbSCRWzpQQ49GSti8qm-NA8GGaPk08/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTU3/NTA0LTE3MDAzNzgz/MDUtMzAxOC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/zXfDvd_SMGKxZkdOJyhW2WW4jbN3U9gfdY8jVJn0BgM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTU3/NTA0LTE3MDAzNzgz/MDUtMzAxOC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/v7quZqb8pP1Uc-b4OxPfJ46WMtBPzGTY5CyhBYvA8vQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTU3/NTA0LTE3MDAzNzgz/MDgtMTIyNi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/bzMwHjYHlbjWEekE7Jd4z6D7EDa6qzrgN3fl00sc71Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTU3/NTA0LTE3MDAzNzgz/MDgtMTIyNi5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/C27qB1-AxF1GpMotQqDaL_3hY_Wz6FTF_UoLB49XX7M/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTU3/NTA0LTE3MDAzNzgz/MDYtMjUwMC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/Tsah2BaAdcgmD-82gnThJIXMJeECJkHdf1J7OjTK8-c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTU3/NTA0LTE3MDAzNzgz/MDYtMjUwMC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/Bryrdg7Bw-AIVjTuzkqGEWZkQiLUdoW1FX5t9k6K5To/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTU3/NTA0LTE3MDAzNzgz/MDYtNjk3My5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/6gZ4PlA5mUXCiuRc2PNF1DCP7ccZXY1IUQeZakiYsnU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTU3/NTA0LTE3MDAzNzgz/MDYtNjk3My5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/BqpqHvYqp9TbAyDD_Sy96J2y4pqRWOSH8qzBA-KwcA0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTU3/NTA0LTE3MDAzNzgz/MDctNjM1Mi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/fdOJRYYdIPu2J1MZHgevuY6XhNrNYZUNQhHhPhXzvhg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTU3/NTA0LTE3MDAzNzgz/MDctNjM1Mi5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/2eY129VCGzWbzrWs0cm2DFbmB_IFrHSW4XrjmUuEvzE/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTU3/NTA0LTE3MDAzNzgz/MDctOTExNC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/fWOe_00sli1Jv-qCIX21MppO2s4ZcFcPDbRH8djQQxk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTU3/NTA0LTE3MDAzNzgz/MDctOTExNC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/G6P5KPz9cYlWy9Kh-2wv7eN1R4B1oE_ju-4GVVMRe1w/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTU3/NTA0LTE3MDAzNzgz/MDYtMTA4OS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/0hGPwvBwIgZ0JtyaUuIG8MFNGrHh2gXWb9-pj_I6znI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTU3/NTA0LTE3MDAzNzgz/MDYtMTA4OS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/qHHa75tKbZGoBGG_q_Wj_788ZVinj1JRh1LNl7sAAz4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTU3/NTA0LTE3MDAzNzgz/MDctNjQ1Ny5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/0_4Oebx92GctxaJfJGk02wkqmC97zPX6xWn7FWRiskc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTU3/NTA0LTE3MDAzNzgz/MDctNjQ1Ny5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/f-eR2AgqN0vJmY29FiUajVGAMm15o9PerpeSlvTLCKU/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTU3/NTA0LTE3MDAzNzgz/MDYtOTg3OC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/AEqcHoiVQMjFjRqWCiZJ9F3_YzHqWGB5KEAmQUMRRa4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTU3/NTA0LTE3MDAzNzgz/MDYtOTg3OC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/BW0dGKJjWChmocHi0K52VeSjFzE0s1NUp7gEPTmU6nY/rs:fit/g:sm/q:90/h:600/w:412/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTU3/NTA0LTE3MDAzNzgz/MDctODI0Mi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/AKP37-vcQUbY4tQVNI90pnvwL34rE1gwRmapHul_cE0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTU3/NTA0LTE3MDAzNzgz/MDctODI0Mi5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/Et20LikFZp_XxkxCCFassMxDcnYYVNWbDqhCkr5eBBs/rs:fit/g:sm/q:90/h:600/w:409/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTU3/NTA0LTE3NzQzODk1/MDQtMTI1My5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/aT1VPhBe0cY_Ma4J35JJFGiNbTtoBZuJntZ-iPORnfY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTU3/NTA0LTE3NzQzODk1/MDQtMTI1My5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/LGR9XK8zOWDFPIb6G8U8UF5r0ZlDZSoEbGL1mR-BEUI/rs:fit/g:sm/q:90/h:322/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTU3/NTA0LTE3NzQzODk1/MDQtNDI1MS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/h-JSSk0enbvpYfbSWCKrrhDMLEdvPctNY6XRvENVGB4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTU3/NTA0LTE3NzQzODk1/MDQtNDI1MS5qcGVn.jpeg"
+      }
+    ],
+    "community": {
+      "rating": {
+        "count": 25,
+        "average": 4.64
+      },
+      "have": 526,
+      "want": 66
+    },
+    "master": {
+      "id": 269769,
+      "title": "Greatest Hits",
+      "main_release": 5806764,
+      "year": 2004,
+      "uri": "https://www.discogs.com/master/269769-Shania-Twain-Greatest-Hits",
+      "num_for_sale": 625
+    }
+  },
+  "apple_music": {
+    "id": 1713844377,
+    "url": "https://music.apple.com/us/album/greatest-hits-remastered-2023/1713844377?uo=4",
+    "name": "Greatest Hits (Remastered 2023)",
+    "artist": "Shania Twain",
+    "artist_id": 129974,
+    "artwork_url_100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/1a/69/f7/1a69f728-24af-dfc9-1e09-fe96d78e0e0f/23UM1IM14819.rgb.jpg/100x100bb.jpg",
+    "artwork_url_600": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/1a/69/f7/1a69f728-24af-dfc9-1e09-fe96d78e0e0f/23UM1IM14819.rgb.jpg/600x600bb.jpg",
+    "release_date": "2004-11-08T08:00:00Z",
+    "track_count": 23,
+    "copyright": "A Mercury Nashville release; This Compilation ℗ 2023 UMG Recordings, Inc.",
+    "primary_genre": "Country",
+    "country": "USA",
+    "tracks": [
+      {
+        "track_number": 1,
+        "disc_number": 1,
+        "name": "Forever And For Always (Pop Red Edit / Remastered 2023)",
+        "duration_ms": 246074,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/62/ea/69/62ea6963-72af-2d6c-d707-428d31c7eb1b/mzaf_12670027130896856115.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/forever-and-for-always-pop-red-edit-remastered-2023/1713844377?i=1713844378&uo=4"
+      },
+      {
+        "track_number": 2,
+        "disc_number": 1,
+        "name": "I'm Gonna Getcha Good! (Red Single Edit / Remastered 2023)",
+        "duration_ms": 245152,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0b/f9/64/0bf9649f-359f-235d-0278-238db734f25f/mzaf_10290914137085321169.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/im-gonna-getcha-good-red-single-edit-remastered-2023/1713844377?i=1713844381&uo=4"
+      },
+      {
+        "track_number": 3,
+        "disc_number": 1,
+        "name": "Up! (Green Version / Remastered 2023)",
+        "duration_ms": 175955,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c2/50/ed/c250ed12-1f1e-8d5e-7adf-070ee49454ac/mzaf_5268021715025460812.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/up-green-version-remastered-2023/1713844377?i=1713844383&uo=4"
+      },
+      {
+        "track_number": 4,
+        "disc_number": 1,
+        "name": "Come On Over (Remastered 2023)",
+        "duration_ms": 177569,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/58/fa/3c/58fa3cc5-14e7-9dba-547d-b61e7a6c32cc/mzaf_14083491175504279586.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/come-on-over-remastered-2023/1713844377?i=1713844384&uo=4"
+      },
+      {
+        "track_number": 5,
+        "disc_number": 1,
+        "name": "Man! I Feel Like A Woman! (Remastered 2023)",
+        "duration_ms": 236776,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ec/2f/f5/ec2ff55b-ea84-ecb0-fa50-8d474d651d38/mzaf_15786483751277069555.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/man-i-feel-like-a-woman-remastered-2023/1713844377?i=1713844385&uo=4"
+      },
+      {
+        "track_number": 6,
+        "disc_number": 1,
+        "name": "That Don't Impress Me Much (Dance Mix / Remastered 2023)",
+        "duration_ms": 270312,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ba/70/6c/ba706c42-dbc5-bdb6-584f-15340f5a84b1/mzaf_8044374722194696550.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/that-dont-impress-me-much-dance-mix-remastered-2023/1713844377?i=1713844387&uo=4"
+      },
+      {
+        "track_number": 7,
+        "disc_number": 1,
+        "name": "From This Moment On (Pop On-Tour Version / Remastered 2023)",
+        "duration_ms": 237940,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1e/2e/4c/1e2e4cbd-e125-f1a5-0968-bab7059fe536/mzaf_1828939206607960292.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/from-this-moment-on-pop-on-tour-version-remastered-2023/1713844377?i=1713844670&uo=4"
+      },
+      {
+        "track_number": 8,
+        "disc_number": 1,
+        "name": "Honey, I'm Home (Remastered 2023)",
+        "duration_ms": 219928,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/62/d3/83/62d38316-675b-1d80-b7b0-b8d053277fb5/mzaf_18319949234428247852.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/honey-im-home-remastered-2023/1713844377?i=1713844680&uo=4"
+      },
+      {
+        "track_number": 9,
+        "disc_number": 1,
+        "name": "You're Still The One (Remastered 2023)",
+        "duration_ms": 197797,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e0/ec/20/e0ec20e3-578b-9dab-ffee-ef55ce2da754/mzaf_4169449233120734515.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/youre-still-the-one-remastered-2023/1713844377?i=1713844683&uo=4"
+      },
+      {
+        "track_number": 10,
+        "disc_number": 1,
+        "name": "Don't Be Stupid (You Know I Love You) [Remastered 2023]",
+        "duration_ms": 217697,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f0/e4/fb/f0e4fb24-2953-ca3f-9e47-bf45f66d0b27/mzaf_3849068564399998204.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/dont-be-stupid-you-know-i-love-you-remastered-2023/1713844377?i=1713844686&uo=4"
+      },
+      {
+        "track_number": 11,
+        "disc_number": 1,
+        "name": "Love Gets Me Every Time (Remastered 2023)",
+        "duration_ms": 216434,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/24/c7/b9/24c7b9e8-17ee-687d-a228-543a4add46e0/mzaf_10475063514590330709.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/love-gets-me-every-time-remastered-2023/1713844377?i=1713844687&uo=4"
+      },
+      {
+        "track_number": 12,
+        "disc_number": 1,
+        "name": "No One Needs To Know (Remastered 2023)",
+        "duration_ms": 186180,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/7b/85/f6/7b85f6b9-7b3b-99b4-36cc-387bd0fd00b6/mzaf_18078777342533826886.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/no-one-needs-to-know-remastered-2023/1713844377?i=1713844689&uo=4"
+      },
+      {
+        "track_number": 1,
+        "disc_number": 2,
+        "name": "You Win My Love (Remastered 2023)",
+        "duration_ms": 228369,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ed/9d/2b/ed9d2bb5-21b4-91aa-0535-cbc4c8c39b3b/mzaf_7819752448434614304.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/you-win-my-love-remastered-2023/1713844377?i=1713844691&uo=4"
+      },
+      {
+        "track_number": 2,
+        "disc_number": 2,
+        "name": "(If You're Not In It For Love) I'm Outta Here! (Remastered 2023)",
+        "duration_ms": 231555,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/dd/1f/47/dd1f4721-b905-b9b3-7323-0bd105bb2b77/mzaf_8077091202129693502.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/if-youre-not-in-it-for-love-im-outta-here-remastered-2023/1713844377?i=1713844694&uo=4"
+      },
+      {
+        "track_number": 3,
+        "disc_number": 2,
+        "name": "The Woman In Me (Needs The Man In You) [Remastered 2023]",
+        "duration_ms": 239651,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/17/ec/26/17ec2619-66b0-45a0-a186-dca2e8ee429e/mzaf_11580800281307998791.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/the-woman-in-me-needs-the-man-in-you-remastered-2023/1713844377?i=1713844696&uo=4"
+      },
+      {
+        "track_number": 4,
+        "disc_number": 2,
+        "name": "Any Man Of Mine (Remastered 2023)",
+        "duration_ms": 249746,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1d/30/0b/1d300b9c-d2d3-0e1a-74ef-58c04c9307d2/mzaf_5180780548605632217.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/any-man-of-mine-remastered-2023/1713844377?i=1713844877&uo=4"
+      },
+      {
+        "track_number": 5,
+        "disc_number": 2,
+        "name": "Whose Bed Have Your Boots Been Under? (Radio Edit / Remastered 2023)",
+        "duration_ms": 241693,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d3/c7/f1/d3c7f12b-0e2f-fee6-a610-1c78a5c3e707/mzaf_8548446659944256124.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/whose-bed-have-your-boots-been-under-radio-edit-remastered/1713844377?i=1713844878&uo=4"
+      },
+      {
+        "track_number": 6,
+        "disc_number": 2,
+        "name": "Party For Two (feat. Mark McGrath) [Remastered 2023]",
+        "duration_ms": 214863,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ba/f5/8f/baf58ff2-ea62-a5d5-372f-a5fa7fa1cef0/mzaf_466830489300417525.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/party-for-two-feat-mark-mcgrath-remastered-2023/1713844377?i=1713844880&uo=4"
+      },
+      {
+        "track_number": 7,
+        "disc_number": 2,
+        "name": "Don't! (Remastered 2023)",
+        "duration_ms": 238898,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/64/c8/d0/64c8d0de-0920-cc8e-2229-3ba28e4e91a0/mzaf_11678629746268340977.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/dont-remastered-2023/1713844377?i=1713844887&uo=4"
+      },
+      {
+        "track_number": 8,
+        "disc_number": 2,
+        "name": "Party For Two (feat. Billy Currington) [Remastered 2023]",
+        "duration_ms": 215405,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c6/84/8c/c6848c69-e145-6d69-57d5-2a3fed78970a/mzaf_6377509054725742463.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/party-for-two-feat-billy-currington-remastered-2023/1713844377?i=1713844888&uo=4"
+      },
+      {
+        "track_number": 9,
+        "disc_number": 2,
+        "name": "I Ain't No Quitter (Remastered 2023)",
+        "duration_ms": 213642,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b8/6e/f0/b86ef010-6288-7891-7a5b-c81b4482b3af/mzaf_17256434087174551777.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/i-aint-no-quitter-remastered-2023/1713844377?i=1713844890&uo=4"
+      },
+      {
+        "track_number": 10,
+        "disc_number": 2,
+        "name": "Life's About To Get Good",
+        "duration_ms": 223408,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/08/f7/5a/08f75ab9-baf6-a6fe-3e91-bce64b2292ff/mzaf_6832487125305609080.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/lifes-about-to-get-good/1713844377?i=1713844891&uo=4"
+      },
+      {
+        "track_number": 11,
+        "disc_number": 2,
+        "name": "Giddy Up!",
+        "duration_ms": 162209,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2f/1c/20/2f1c20a3-cce0-5d86-5421-ec99ebe1b19e/mzaf_7438941738270353423.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/giddy-up/1713844377?i=1713844895&uo=4"
+      }
+    ]
+  },
+  "discrepancies": [
+    "Release year differs: your pressing=2023, Apple Music edition=2004. Apple Music typically streams the most recent remaster."
+  ],
+  "local_cover": "images/28957504.jpg"
+}
