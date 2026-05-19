@@ -135,8 +135,39 @@ def _duration_str_to_seconds(s: str | None) -> int | None:
     return None
 
 
-def _detect_discrepancies(discogs: dict[str, Any], apple: dict[str, Any] | None) -> list[str]:
+def _detect_discrepancies(
+    discogs: dict[str, Any],
+    apple: dict[str, Any] | None,
+    main_release_id: int | None = None,
+    main_release_credits_count: int | None = None,
+) -> list[str]:
     notes: list[str] = []
+
+    # AUD-006: master.year > release.year check
+    master_info = discogs.get("master")
+    if master_info:
+        m_year = _year_or_none(master_info.get("year"))
+        r_year = _year_or_none(discogs.get("year"))
+        if m_year and r_year and m_year > r_year:
+            import sys
+            warning_msg = (
+                f"WARNING: Discogs master year ({m_year}) is later than release year ({r_year}) "
+                f"for master ID {master_info.get('id')}. The master year may be incorrect."
+            )
+            print(warning_msg, file=sys.stderr)
+            notes.append(
+                f"Discogs master year ({m_year}) is later than release year ({r_year}) — master data may be incorrect."
+            )
+
+    # AUD-004: sparse credits comparison
+    if main_release_id is not None and main_release_credits_count is not None:
+        current_credits_count = len(discogs.get("extraartists") or [])
+        if current_credits_count < 5 and main_release_credits_count > current_credits_count:
+            notes.append(
+                f"Discogs reissue variant has sparse credits ({current_credits_count} credits); "
+                f"original release (r{main_release_id}) has {main_release_credits_count} — some credits may be missing."
+            )
+
     if not apple:
         notes.append("No Apple Music match found.")
         return notes
@@ -156,13 +187,26 @@ def _detect_discrepancies(discogs: dict[str, Any], apple: dict[str, Any] | None)
             f"(Discogs={d_total}s, Apple Music={a_total}s) — likely a different master/remaster."
         )
 
+    # AUD-002: release year difference check with copyright/remaster suppression
     d_year = discogs.get("year")
     a_date = (apple.get("release_date") or "")[:4]
     if d_year and a_date and str(d_year) != a_date:
-        notes.append(
-            f"Release year differs: your pressing={d_year}, Apple Music edition={a_date}. "
-            f"Apple Music typically streams the most recent remaster."
-        )
+        copyright_str = apple.get("copyright") or ""
+        c_years = re.findall(r"℗\s*(\d{4})", copyright_str)
+        if not c_years:
+            c_years = re.findall(r"\b(\d{4})\b", copyright_str)
+        copyright_year = int(c_years[0]) if c_years else None
+
+        coll_name = apple.get("name") or ""
+        is_remaster = any(kw in coll_name for kw in ["Remaster", "Anniversary", "Deluxe", "Edition"])
+
+        if copyright_year == d_year or is_remaster:
+            pass
+        else:
+            notes.append(
+                f"Release year differs: your pressing={d_year}, Apple Music edition={a_date}. "
+                f"Apple Music typically streams the most recent remaster."
+            )
     return notes
 
 
@@ -182,6 +226,8 @@ def build_album_record(
     apple_tracks: list[dict[str, Any]] | None,
     upgrade_suggestion: str | None = None,
     commentary: str | None = None,
+    main_release_id: int | None = None,
+    main_release_credits_count: int | None = None,
 ) -> dict[str, Any]:
     discogs = _discogs_subset(release, master)
     apple = _apple_subset(apple_album, apple_tracks or []) if apple_album else None
@@ -198,7 +244,9 @@ def build_album_record(
         "commentary": commentary,
         "discogs": discogs,
         "apple_music": apple,
-        "discrepancies": _detect_discrepancies(discogs, apple),
+        "discrepancies": _detect_discrepancies(
+            discogs, apple, main_release_id=main_release_id, main_release_credits_count=main_release_credits_count
+        ),
     }
 
 

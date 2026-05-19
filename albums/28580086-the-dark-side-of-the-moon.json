@@ -1,11 +1,12 @@
 {
-  "captured_at": "2026-05-04T13:55:02+00:00",
+  "captured_at": "2026-05-19T20:24:20+00:00",
   "schema_version": 3,
   "artist": "Pink Floyd",
   "title": "The Dark Side Of The Moon",
   "original_release_year": 1973,
   "pressing_year": 2023,
-  "upgrade_suggestion": "Your 50th Anniversary stereo LP is already the current James Guthrie / Joel Plante mix and mastering, with lacquer cut by Bernie Grundman (the BG stamp in the runout). The meaningful sideways upgrade is the 2023 Dolby Atmos mix on Blu-ray (release 28541818) or the full 50th Anniversary box (26538182) for the Wembley live + 5.1 + quad mixes.",
+  "upgrade_suggestion": "Your 50th Anniversary stereo LP is already the current James Guthrie / Joel Plante mix and mastering, with lacquer cut by Bernie Grundman (the BG stamp in the runout).",
+  "commentary": null,
   "discogs": {
     "release_id": 28580086,
     "master_id": 10362,
@@ -445,11 +446,11 @@
     ],
     "community": {
       "rating": {
-        "count": 1617,
+        "count": 1659,
         "average": 4.81
       },
-      "have": 15318,
-      "want": 1705
+      "have": 15478,
+      "want": 1730
     },
     "master": {
       "id": 10362,
@@ -457,7 +458,7 @@
       "main_release": 1873013,
       "year": 1973,
       "uri": "https://www.discogs.com/master/10362-Pink-Floyd-The-Dark-Side-Of-The-Moon",
-      "num_for_sale": 8830
+      "num_for_sale": 8877
     }
   },
   "apple_music": {
@@ -557,9 +558,7 @@
     ]
   },
   "discrepancies": [
-    "Total runtime differs by 39s (Discogs=2531s, Apple Music=2570s) — likely a different master/remaster.",
-    "Release year differs: your pressing=2023, Apple Music edition=1973. Apple Music typically streams the most recent remaster."
+    "Total runtime differs by 39s (Discogs=2531s, Apple Music=2570s) — likely a different master/remaster."
   ],
-  "local_cover": "images/28580086.jpg",
-  "commentary": "Released in March 1973, *The Dark Side of the Moon* is Pink Floyd's commercial breakthrough and arguably the defining album of the progressive rock era. Recorded at Abbey Road Studios with engineer Alan Parsons, the album explores themes of time, greed, conflict, and mental illness, partly inspired by the departure of founding member Syd Barrett. Its seamless transitions, use of musique concrète, philosophical lyrics, and groundbreaking synthesizer work created a cohesive auditory journey that changed how concept albums were made.\n\nThe album's legendary status is matched by its astonishing chart performance, remaining on the Billboard 200 for over 700 consecutive weeks. Iconic elements—such as the cash register loop in \"Money,\" Clare Torry's wordless vocal improvisation on \"The Great Gig in the Sky,\" and the heartbeat that frames the record—have embedded themselves into modern cultural consciousness. \n\n**About this pressing:**\n*Deadwax TBD — check runouts for mastering engineers or pressing plant symbols. Update this section once details are logged.*\n\n### Gemini Notes\n\nReleased in March 1973, *The Dark Side of the Moon* is Pink Floyd's commercial breakthrough and the defining album of the progressive rock era. Its themes of time, greed, and mental illness resonated globally, making it one of the best-selling records in history.\n\n**About this pressing:**"
+  "local_cover": "images/28580086.jpg"
 }

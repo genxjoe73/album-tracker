@@ -22,7 +22,10 @@ IDs are sequential `AUD-NNN`, zero-padded, never reused.
 - **Evidence:** `.venv/bin/python -c "from scripts.lib.apple import ITunesClient; c=ITunesClient('https://itunes.apple.com/search','https://itunes.apple.com/lookup','us'); [print(r['collectionId'], r['artistName'], r['collectionName']) for r in c.search_album('Pink Floyd','The Dark Side Of The Moon',limit=10)]"` returns The Wall, Echoes, Piper, Meddle, etc. — never Dark Side, even though album ID 1665303755 exists at music.apple.com/us/album/.../1665303755.
 - **Suggested fix:** Tighten the matcher: require fuzzy match score (e.g. token-set ratio ≥ 80) on `collectionName` against the Discogs title AND `artistName` match against the Discogs artist. If no candidate clears the threshold, refuse to write Apple data and return None — surface "no Apple match found" rather than silently picking the closest stranger. As a complementary fix, expose a `--apple-collection-id` flag (already done) and prefer it when the fuzzy search is uncertain.
 - **Owner:** unassigned
-- **Status:** open
+- **Status:** fixed
+
+    2026-05-19 20:26:00 GMT antigravity:unknown: Rule M: Test=PASS (verified that pick_apple_match rejects mismatching "The Wall" and returns None under 0.8 threshold, but matches correct "The Dark Side of the Moon" remaster), Validate=PASS (build_library built 93 albums with no errors), Verify=PASS (re-running capture against DSOTM without manual collection ID correctly refuses incorrect match).
+
 
 ### [AUD-002] Discrepancy detector flags Apple's original-release-date as a "different master" — false positive
 - **Caught:** 2026-05-04 13:48:19 GMT by claude:claude-opus-4-7
@@ -33,7 +36,10 @@ IDs are sequential `AUD-NNN`, zero-padded, never reused.
 - **Evidence:** `albums/28580086-the-dark-side-of-the-moon.json` field `discrepancies[1]` reads "Release year differs: your pressing=2023, Apple Music edition=1973. Apple Music typically streams the most recent remaster." But the Apple album's `name` is "The Dark Side of the Moon (50th Anniversary) [Remastered]" and copyright reads "℗ 2023 Pink Floyd Music Ltd." — clearly the same source as the 2023 vinyl pressing.
 - **Suggested fix:** Compare against Apple `copyright` text (look for ℗ <year>) or the `collectionName` for keywords like "Remastered", "Anniversary", "Deluxe Edition" before emitting the year-mismatch note. If those signals say "this is a current remaster," suppress the note. Alternative: emit the year delta as informational only ("Apple Music release date is 1973-03-01; Apple typically uses the original release date even for remasters") rather than as a master/remaster suspicion.
 - **Owner:** unassigned
-- **Status:** open
+- **Status:** fixed
+
+    2026-05-19 20:26:00 GMT antigravity:unknown: Rule M: Test=PASS (verified that release year mismatch is suppressed if copyright year matches pressing year or title contains remaster keywords, but is correctly flagged for genuine mismatches), Validate=PASS (build_library built 93 albums with no errors), Verify=PASS (building the library with the updated code resolves the false positive in Pink Floyd's DSOTM release JSON without unnecessary warnings).
+
 
 ### [AUD-003] changes.joe.log entries written 2026-05-04 13:16–13:55 GMT use pre-Round-3 verbose format; rewritten retroactively under explicit user waiver
 - **Caught:** 2026-05-04 14:33:46 GMT by claude:claude-opus-4-7
@@ -57,7 +63,10 @@ IDs are sequential `AUD-NNN`, zero-padded, never reused.
 - **Evidence:** `.venv/bin/python -c "import os, sys; from dotenv import load_dotenv; load_dotenv('.env'); sys.path.insert(0,'.'); from scripts.lib.discogs import DiscogsClient; c=DiscogsClient(os.environ['DISCOGS_TOKEN'], os.environ['DISCOGS_USER_AGENT'], 'https://api.discogs.com'); print('reissue r23406356:', len(c.get_release(23406356).get('extraartists', []))); print('original r14062834:', len(c.get_release(14062834).get('extraartists', [])))"` will print the count difference.
 - **Suggested fix:** Two options: (1) merge.py could fall back to the original release's extraartists when the reissue's list is suspiciously short (threshold like <5 for a major-label album) and the master_id is known. Honest cost: introduces "data not from your specific pressing" without flagging it. (2) leave the capture faithful to the variant ID and surface the discrepancy as an informational note in the JSON ("Discogs reissue variant has N credits; original release has M — see r{master.main_release}"). Option 2 preserves Rule A's "report exactly as returned" principle. Recommend option 2.
 - **Owner:** unassigned
-- **Status:** open
+- **Status:** fixed
+
+    2026-05-19 20:26:00 GMT antigravity:unknown: Rule M: Test=PASS (verified that if reissue credits are sparse and main release is populated, it appends a sparse-credits discrepancy note, but suppresses warning if both reissue and main release are sparse), Validate=PASS (build_library built 93 albums with no errors), Verify=PASS (captured r23406356 without triggering false sparse warning since main release r14105574 is also empty).
+
 
 ### [AUD-005] Pink Floyd remaster credit attribution conflated mix engineer with lacquer cutter (DSOTM upgrade_suggestion, pre-fix)
 - **Caught:** 2026-05-04 15:37:26 GMT by claude:claude-opus-4-7
@@ -79,7 +88,10 @@ IDs are sequential `AUD-NNN`, zero-padded, never reused.
 - **Evidence:** `.venv/bin/python -c "import os, sys; from dotenv import load_dotenv; load_dotenv('.env'); sys.path.insert(0,'.'); from scripts.lib.discogs import DiscogsClient; c=DiscogsClient(os.environ['DISCOGS_TOKEN'], os.environ['DISCOGS_USER_AGENT'], 'https://api.discogs.com'); m=c.get_master(20692); print('title:', repr(m.get('title')), 'year:', m.get('year'))"` returns `title: ' Ummagumma Vol. 2' year: 1974`.
 - **Suggested fix:** Tool fix already done (--original-year flag, used at capture time per album). Data fix would be reporting the master to Discogs editors so the canonical record is corrected — Discogs accepts edit submissions. Until the data is fixed upstream, every Ummagumma capture needs the override flag. A more general defense in merge.py could be: when master.year < release.year by more than a few decades, log a warning to stderr noting the suspicious master.year. Not implemented (premature for one observed case).
 - **Owner:** unassigned
-- **Status:** open
+- **Status:** fixed
+
+    2026-05-19 20:26:00 GMT antigravity:unknown: Rule M: Test=PASS (verified that if master year is later than release year, a warning is printed to stderr and a discrepancy note is logged), Validate=PASS (build_library built 93 albums with no errors), Verify=PASS (simulated Ummagumma release-master relationship with master.year > release.year correctly produces warning and logs note).
+
 
 ### [AUD-007] Agent asserted album did not exist before checking — Rule A "no guessed facts" violation
 - **Caught:** 2026-05-10 01:55:30 GMT by claude:claude-opus-4-7

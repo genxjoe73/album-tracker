@@ -9,6 +9,7 @@ from __future__ import annotations
 import argparse
 import json
 import os
+import re
 import sys
 from pathlib import Path
 
@@ -40,15 +41,75 @@ def parse_args() -> argparse.Namespace:
     return p.parse_args()
 
 
+def clean_title(title: str) -> str:
+    title = title.lower()
+    title = re.sub(
+        r"\s*[\(\[][^\]\)]*(?:remaster|anniversary|deluxe|edition|stereo|mono|expanded|bonus|reissue|remixed|version|live)[^\]\)]*[\)\]]",
+        "",
+        title,
+        flags=re.IGNORECASE,
+    )
+    title = re.sub(r"[^a-z0-9\s]", "", title)
+    title = re.sub(r"\s+", " ", title).strip()
+    return title
+
+
+def clean_artist(artist: str) -> str:
+    artist = artist.lower()
+    artist = re.sub(r"\s*\(\d+\)$", "", artist)
+    artist = re.sub(r"[^a-z0-9\s]", "", artist)
+    artist = re.sub(r"\s+", " ", artist).strip()
+    return artist
+
+
 def pick_apple_match(results: list[dict], discogs_release: dict) -> dict | None:
     """Pick the iTunes result whose name best matches the Discogs title."""
     if not results:
         return None
-    target = (discogs_release.get("title") or "").lower()
+
+    import re
+    from difflib import SequenceMatcher
+
+    target_title = discogs_release.get("title") or ""
+    clean_target = clean_title(target_title)
+
+    discogs_artists = [a.get("name", "") for a in discogs_release.get("artists", []) if a.get("name")]
+
+    best_match = None
+    best_score = -1.0
+
     for r in results:
-        if (r.get("collectionName") or "").lower().startswith(target):
-            return r
-    return results[0]
+        cand_title = r.get("collectionName") or ""
+        clean_cand = clean_title(cand_title)
+
+        score = SequenceMatcher(None, clean_target, clean_cand).ratio()
+
+        # Fuzzy / substring artist check
+        apple_artist = r.get("artistName") or ""
+        clean_apple_art = clean_artist(apple_artist)
+
+        artist_match = False
+        if not discogs_artists:
+            artist_match = True
+        else:
+            for da in discogs_artists:
+                clean_da = clean_artist(da)
+                if clean_da in clean_apple_art or clean_apple_art in clean_da:
+                    artist_match = True
+                    break
+                if SequenceMatcher(None, clean_da, clean_apple_art).ratio() >= 0.8:
+                    artist_match = True
+                    break
+
+        if artist_match:
+            if score > best_score:
+                best_score = score
+                best_match = r
+
+    if best_score >= 0.8:
+        return best_match
+
+    return None
 
 
 def main() -> int:
@@ -75,9 +136,21 @@ def main() -> int:
     release = discogs.get_release(args.release_id)
 
     master = None
+    main_release_id = None
+    main_release_credits_count = None
     if release.get("master_id"):
         print(f"Fetching Discogs master {release['master_id']}...", file=sys.stderr)
         master = discogs.get_master(release["master_id"])
+        if len(release.get("extraartists", [])) < 5 and master.get("main_release"):
+            mrid = master["main_release"]
+            if mrid != args.release_id:
+                try:
+                    print(f"Fetching Discogs main release {mrid} for credits comparison...", file=sys.stderr)
+                    main_release = discogs.get_release(mrid)
+                    main_release_id = mrid
+                    main_release_credits_count = len(main_release.get("extraartists", []))
+                except DiscogsError as e:
+                    print(f"WARNING: Fetching main release {mrid} failed: {e}", file=sys.stderr)
 
     apple_album = None
     apple_tracks: list[dict] = []
@@ -123,6 +196,8 @@ def main() -> int:
         apple_tracks=apple_tracks,
         upgrade_suggestion=args.upgrade_suggestion,
         commentary=commentary,
+        main_release_id=main_release_id,
+        main_release_credits_count=main_release_credits_count,
     )
 
     if args.original_year is not None:
