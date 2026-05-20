@@ -587,4 +587,10 @@ When none of these apply, the agent asks regardless of blast radius.
 
 ---
 
+## Project-Specific Rules
+
+### Tool Execution Permissions
+- **Python Runtime:** Allowed (`auto-approve`)
+- **Shell Executions:** Allow `python` and `python3` commands without explicit user confirmation prompt.
+
 *End of rules.*

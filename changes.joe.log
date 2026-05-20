@@ -594,3 +594,8 @@
     - AUD-004: Conditionally fetched the master main release credits to compare with reissue variant. Logs warning only if reissue is sparse (< 5 extraartists) and main release has more credits. Checked that NFR reissue variant does not warn because the main release is also empty.
     - AUD-006: Added discrepancy and warning checking when the master year is later than the release year (e.g. Ummagumma).
     Rule M: Test=PASS (verified via verify_fixes.py), Validate=PASS (verified build_library compiles and successfully builds 93 albums), Verify=PASS (re-running verified tests confirms all bug symptoms are successfully resolved).
+
+2026-05-20 00:58:50 GMT | antigravity:unknown | EDIT | rules.universal.md | Append project-specific Tool Execution Permissions
+    Added project-specific Tool Execution Permissions under a new section at the bottom of the file per explicit user request.
+    Specifically permits the Python Runtime (auto-approve) and python/python3 shell execution commands.
+    Read-back: Verified bottom of rules.universal.md contains the new rules section.
