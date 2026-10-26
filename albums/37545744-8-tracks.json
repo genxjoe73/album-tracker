@@ -1,0 +1,267 @@
+{
+  "captured_at": "2026-06-15T01:31:41+00:00",
+  "schema_version": 3,
+  "artist": "Pink Floyd",
+  "title": "8-Tracks",
+  "original_release_year": 2026,
+  "pressing_year": 2026,
+  "upgrade_suggestion": "As this is a 2026 compilation of classic 1971–1979 tracks, your best fidelity upgrades are the premium standalone pressings of the source albums you already own (such as your Bernie Grundman cuts of \"The Wall,\" \"Animals 2018 Remix,\" and \"Wish You Were Here\"). For historical novelty, the original 1977 US \"Animals\" 8-track cartridge (Columbia JCA 34474) contains the analog source of the \"Pigs on the Wing\" Snowy White solo bridge.",
+  "commentary": "Released on June 5, 2026 by Columbia Records / Sony Music, *8-Tracks* is a curated compilation album celebrating the peak 1970s output of Pink Floyd (from 1971's *Meddle* through 1979's *The Wall*). The release is both a play on words—featuring exactly eight iconic tracks—and a tribute to the classic 8-track cartridge tape format. To create a cohesive and seamless listening experience, Steven Wilson was brought in to edit and crossfade the track sequence, utilizing sound effects and transition elements sourced directly from the original multitrack master tapes. \n\nThe primary highlight for collectors is the inclusion of the \"8-Track Version\" of \"Pigs On The Wing.\" Originally recorded to bridge Part 1 and Part 2 of the track on the 1977 *Animals* 8-track cartridge, this version features a bridging acoustic guitar solo by Snowy White. This marks the first time this rare edit has been officially issued on vinyl, CD, or digital streaming. The sequence flows smoothly across other classic tracks including \"One of These Days,\" \"Wot's... Uh The Deal,\" \"Money,\" and \"Comfortably Numb.\"\n\n**About this 2026 Target Exclusive pressing (LP, Pink Vinyl, Stereo):** Columbia Records / Sony Music catalog `19958439941` (barcode `0198029803310`). This edition was released exclusively in the United States at Target stores, pressed on vibrant pink vinyl.\n\nPlating and manufacturing were handled by Memphis Record Pressing (indicated by the `MRP7907` project code in the runout grooves). Metalwork transfers and vinyl pressing details show the typical GZ Media family identifiers (`314274E1` and `314274E2`) indicating a GZ-plated mother cut sent to MRP for final pressing. Deadwax runouts carry the matrix `MRP7907 / 19958439941 - A 314274E1/B 02515460` (Side A) and `MRP7907 / 19958439941 - B 314274E2/A 02513985` (Side B), with minor variations in trailing digit codes across stamper iterations.\n",
+  "discogs": {
+    "release_id": 37545744,
+    "master_id": 4246764,
+    "uri": "https://www.discogs.com/release/37545744-Pink-Floyd-8-Tracks",
+    "title": "8-Tracks",
+    "artists": [
+      {
+        "name": "Pink Floyd",
+        "id": 45467,
+        "role": null
+      }
+    ],
+    "year": 2026,
+    "released": "2026-06-05",
+    "country": "US",
+    "labels": [
+      {
+        "name": "Columbia",
+        "catno": "19958439941",
+        "id": 1866
+      }
+    ],
+    "formats": [
+      {
+        "name": "Vinyl",
+        "qty": "1",
+        "descriptions": [
+          "LP",
+          "Compilation",
+          "Stereo"
+        ],
+        "text": "Pink"
+      }
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Prog Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "One Of These Days",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "A2",
+        "title": "Wot's… Uh The Deal",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "A3",
+        "title": "Money",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "A4",
+        "title": "Another Brick In The Wall, Part 2",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B1",
+        "title": "Wish You Were Here",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B2",
+        "title": "Time",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B3",
+        "title": "Comfortably Numb",
+        "duration": "",
+        "type": "track"
+      },
+      {
+        "position": "B4",
+        "title": "Pigs On The Wing (8-Track Version)",
+        "duration": "",
+        "type": "track"
+      }
+    ],
+    "extraartists": [],
+    "identifiers": [
+      {
+        "type": "Barcode",
+        "value": "0198029803310",
+        "description": "Scanned"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "MRP7907 / 19958439941 - A 314274E1/B 02515460",
+        "description": "Runout side A, stamped"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "MRP7907 / 19958439941 - B 314274E2/A 02513985",
+        "description": "Runout side B, stamped"
+      }
+    ],
+    "notes": "Only at Target Vinyl release.",
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/hFd2k6Zr9HDctvfFv27MpJ1uDYC9sIutx1iisZDCQ3c/rs:fit/g:sm/q:90/h:574/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NTQ1/NzQ0LTE3ODA2ODc1/NDgtMjcwNC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/x2mtBeJTG9jGnAz8r9kCgMazUSkEbDhWuY9vd_sARsc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NTQ1/NzQ0LTE3ODA2ODc1/NDgtMjcwNC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/jhcGYt7xFXn3Pym5qE8_bUuDCkFXPEctL8rxD4oGV1w/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NTQ1/NzQ0LTE3ODA2ODA1/ODMtNTAxMC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/hOPlg4J8NQt3JwspkcKOXpLTUKXdjIuxR7LhVYk_0vs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NTQ1/NzQ0LTE3ODA2ODA1/ODMtNTAxMC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/Y7HwK9goiUx_Hm5J3xapL4cBkGO5bZaWyQQzpjRXhRs/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NTQ1/NzQ0LTE3ODA2ODc1/NDgtNTc0OS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/a0gfQeGJhPu8yjB6wCpH-TFvLOBDCjzQKI-082Hx6Xg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NTQ1/NzQ0LTE3ODA2ODc1/NDgtNTc0OS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/PQI8ZrwNqE7iaZju4LBEVx-jmn4NAP8UI1e_kXp_oPc/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NTQ1/NzQ0LTE3ODA2ODc1/NDgtNjkwMS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/K94390o8Ws646Jbq1eZwjz0g_9MqeK-B29y5I0VUPH8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NTQ1/NzQ0LTE3ODA2ODc1/NDgtNjkwMS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/8KxJdBHq6usBu8AxW2gubXc3yeOZaH0VlLE1ms-x8m8/rs:fit/g:sm/q:90/h:600/w:574/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NTQ1/NzQ0LTE3ODA2ODc1/NDgtMjM1OS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/_EOXWLv65x4-NQNc1owfOexiOGX0KMJQ03Rm9jpxxVE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NTQ1/NzQ0LTE3ODA2ODc1/NDgtMjM1OS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/0fxPWalKJWsy_0WXGQb5ODc_1DA0PC7WvGEqY62jQsY/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NTQ1/NzQ0LTE3ODA2ODc1/NDgtMjUzNS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/O1GlgbXfmxbeZiaVtlNZCqBSreZcES3LukDX6-nGZb8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NTQ1/NzQ0LTE3ODA2ODc1/NDgtMjUzNS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/I9rrGQmOqQcNmvcuPl9F-qUe3OQ8BZAxxF5-TSlpwiM/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NTQ1/NzQ0LTE3ODA2ODA1/ODQtMzcxNy5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/vKepEJExvNkR3WAlW7FsPesVH84Uhkav06It1AHBWoM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NTQ1/NzQ0LTE3ODA2ODA1/ODQtMzcxNy5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/x5_cxUWgUkGauHSHiOfdEz2BFEpa4mtqhRFfooNmGss/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NTQ1/NzQ0LTE3ODA2ODA1/ODQtMjQ1MS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/W2TSVNNO_PpU_sq0uRT8Sn8nvmFjwHpMsSRWd7LR8w4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NTQ1/NzQ0LTE3ODA2ODA1/ODQtMjQ1MS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/vIRtGB-8c9mKl5bwWR3MdGoBTq6r3xyRT6oeU-_epXc/rs:fit/g:sm/q:90/h:600/w:555/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NTQ1/NzQ0LTE3ODA2ODc1/NDctMzk4MS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/ugE0G62DD0nwobut-hXJCiXHB03_qpj_Gx97HMM1DiU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NTQ1/NzQ0LTE3ODA2ODc1/NDctMzk4MS5qcGVn.jpeg"
+      }
+    ],
+    "community": {
+      "rating": {
+        "count": 65,
+        "average": 4.85
+      },
+      "have": 496,
+      "want": 39
+    },
+    "master": {
+      "id": 4246764,
+      "title": "8-Tracks",
+      "main_release": 37533777,
+      "year": 2026,
+      "uri": "https://www.discogs.com/master/4246764-Pink-Floyd-8-Tracks",
+      "num_for_sale": 215
+    }
+  },
+  "apple_music": {
+    "id": 1890514281,
+    "url": "https://music.apple.com/us/album/8-tracks/1890514281?uo=4",
+    "name": "8-Tracks",
+    "artist": "Pink Floyd",
+    "artist_id": 487143,
+    "artwork_url_100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a5/7f/f1/a57ff1bb-1841-e1c1-833d-6a07458f24bd/196874256909.jpg/100x100bb.jpg",
+    "artwork_url_600": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a5/7f/f1/a57ff1bb-1841-e1c1-833d-6a07458f24bd/196874256909.jpg/600x600bb.jpg",
+    "release_date": "2026-06-05T07:00:00Z",
+    "track_count": 8,
+    "copyright": "℗ This compilation (P) 2026 Pink Floyd Music Limited",
+    "primary_genre": "Rock",
+    "country": "USA",
+    "tracks": [
+      {
+        "track_number": 1,
+        "disc_number": 1,
+        "name": "One of These Days",
+        "duration_ms": 338219,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/78/d8/72/78d87240-3773-d3ce-bc7d-4daaad2abd3e/mzaf_17268270694413087383.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/one-of-these-days/1890514281?i=1890514285&uo=4"
+      },
+      {
+        "track_number": 2,
+        "disc_number": 1,
+        "name": "Wot's...Uh the Deal",
+        "duration_ms": 295719,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/49/64/43/4964434e-e82c-7726-d33d-28e368fe9539/mzaf_5161967562333320084.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/wots-uh-the-deal/1890514281?i=1890514289&uo=4"
+      },
+      {
+        "track_number": 3,
+        "disc_number": 1,
+        "name": "Money",
+        "duration_ms": 394500,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/06/bf/77/06bf77ae-fcdd-89dc-0f4d-388a90079e9f/mzaf_18146101373480941505.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/money/1890514281?i=1890514291&uo=4"
+      },
+      {
+        "track_number": 4,
+        "disc_number": 1,
+        "name": "Another Brick in the Wall, Pt. 2",
+        "duration_ms": 234125,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/23/5f/45/235f452e-c69d-786a-db2a-3383e6737cbc/mzaf_976256919274929176.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/another-brick-in-the-wall-pt-2/1890514281?i=1890514547&uo=4"
+      },
+      {
+        "track_number": 5,
+        "disc_number": 1,
+        "name": "Wish You Were Here",
+        "duration_ms": 326687,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/eb/17/09/eb170958-3b91-34de-58eb-f1c3f66da58d/mzaf_16622691275210518411.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/wish-you-were-here/1890514281?i=1890514567&uo=4"
+      },
+      {
+        "track_number": 6,
+        "disc_number": 1,
+        "name": "Time",
+        "duration_ms": 418487,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/71/9f/6e/719f6e7a-7d8f-e654-cce0-807b3b9318cf/mzaf_6585991249182690600.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/time/1890514281?i=1890514568&uo=4"
+      },
+      {
+        "track_number": 7,
+        "disc_number": 1,
+        "name": "Comfortably Numb",
+        "duration_ms": 377637,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/54/ac/c3/54acc3ae-0b2f-9b89-2141-034411770cf5/mzaf_7187422193803641204.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/comfortably-numb/1890514281?i=1890514571&uo=4"
+      },
+      {
+        "track_number": 8,
+        "disc_number": 1,
+        "name": "Pigs on the Wing (8-Track Version)",
+        "duration_ms": 214945,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/0a/23/91/0a239119-69ef-bb61-dddc-3e7b74d8f67c/mzaf_12936151373030063795.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/pigs-on-the-wing-8-track-version/1890514281?i=1890514572&uo=4"
+      }
+    ]
+  },
+  "discrepancies": [
+    "Discogs reissue variant has sparse credits (0 credits); original release (r37533777) has 29 — some credits may be missing."
+  ],
+  "local_cover": "images/37545744.jpg"
+}

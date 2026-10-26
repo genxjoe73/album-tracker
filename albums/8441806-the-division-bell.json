@@ -1,0 +1,624 @@
+{
+  "captured_at": "2026-07-25T02:05:56+00:00",
+  "schema_version": 3,
+  "artist": "Pink Floyd",
+  "title": "The Division Bell",
+  "original_release_year": 1994,
+  "pressing_year": 2016,
+  "upgrade_suggestion": null,
+  "commentary": "Originally released in March 1994, *The Division Bell* is the fourteenth studio album by Pink Floyd and the last to feature keyboardist Richard Wright, who died in 2008. A largely David Gilmour–led work—co-produced by Gilmour and Bob Ezrin—much of it was recorded aboard Gilmour's houseboat studio, the Astoria, moored on the Thames, with additional sessions at Britannia Row, Metropolis, and The Creek. The album reunited the band with longtime collaborators including engineer Andy Jackson, saxophonist Dick Parry, and the late orchestral arranger Michael Kamen. It topped charts on both sides of the Atlantic and produced the instrumental \"Marooned,\" which won a Grammy, alongside the closing anthem \"High Hopes.\" Storm Thorgerson's iconic cover—two giant metal heads facing each other across a Cambridgeshire field—remains one of the band's most recognizable images.\n\n**About this 2016 European repress (2×LP, 180g gatefold):** Parlophone / Pink Floyd Records catalog `PFRLP14`, barcode `0825646293285`. Discogs release [r8441806], part of the Pink Floyd Records vinyl reissue campaign (the same `PFRLP` series as your Animals copy). Made in the E.U., pressed by **Optimal Media GmbH** in Germany, issued in a gatefold sleeve with printed inner sleeves.\n\nThe remaster provenance is worth stating precisely (per the credits on the release, not by assumption): the album was **remastered from the original analogue tapes by James Guthrie, Joel Plante, and Doug Sax**, with the **vinyl mastering by Doug Sax** and **lacquers cut at The Mastering Lab**. Your deadwax bears this out—every side carries the machine-stamped `TML-M` (The Mastering Lab) alongside the hand-etched matrix `2564629328-[A/B/C/D] RE… BE49494-…`. This is a Mastering Lab cut, *not* one of the Bernie Grundman \"BG\" cuts found on the recent Animals and Dark Side reissues; the distinction matters for how these pressings are compared. The `PFRLP14` etching on the labels and in the runout is what separates this 2016 repress from the visually similar 2014 US (`RP1-543752`) and 2014 European first pressings that share the same barcode.\n",
+  "discogs": {
+    "release_id": 8441806,
+    "master_id": 20683,
+    "uri": "https://www.discogs.com/release/8441806-Pink-Floyd-The-Division-Bell",
+    "title": "The Division Bell",
+    "artists": [
+      {
+        "name": "Pink Floyd",
+        "id": 45467,
+        "role": null
+      }
+    ],
+    "year": 2016,
+    "released": "2016-08-26",
+    "country": "Europe",
+    "labels": [
+      {
+        "name": "Parlophone",
+        "catno": "0825646293285",
+        "id": 2294
+      },
+      {
+        "name": "Pink Floyd Records",
+        "catno": "PFRLP14",
+        "id": 983890
+      }
+    ],
+    "formats": [
+      {
+        "name": "Vinyl",
+        "qty": "2",
+        "descriptions": [
+          "LP",
+          "Album",
+          "Reissue",
+          "Remastered",
+          "Stereo"
+        ],
+        "text": "Gatefold, 180 Gram"
+      }
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Prog Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Cluster One",
+        "duration": "5:58",
+        "type": "track"
+      },
+      {
+        "position": "A2",
+        "title": "What Do You Want From Me",
+        "duration": "4:21",
+        "type": "track"
+      },
+      {
+        "position": "A3",
+        "title": "Poles Apart",
+        "duration": "7:04",
+        "type": "track"
+      },
+      {
+        "position": "B1",
+        "title": "Marooned",
+        "duration": "5:29",
+        "type": "track"
+      },
+      {
+        "position": "B2",
+        "title": "A Great Day For Freedom",
+        "duration": "4:17",
+        "type": "track"
+      },
+      {
+        "position": "B3",
+        "title": "Wearing The Inside Out",
+        "duration": "6:49",
+        "type": "track"
+      },
+      {
+        "position": "C1",
+        "title": "Take It Back",
+        "duration": "6:12",
+        "type": "track"
+      },
+      {
+        "position": "C2",
+        "title": "Coming Back To Life",
+        "duration": "6:19",
+        "type": "track"
+      },
+      {
+        "position": "C3",
+        "title": "Keep Talking",
+        "duration": "6:11",
+        "type": "track"
+      },
+      {
+        "position": "D1",
+        "title": "Lost For Words",
+        "duration": "5:14",
+        "type": "track"
+      },
+      {
+        "position": "D2",
+        "title": "High Hopes",
+        "duration": "8:31",
+        "type": "track"
+      }
+    ],
+    "extraartists": [
+      {
+        "name": "Carol Kenyon",
+        "role": "Backing Vocals",
+        "id": 22765
+      },
+      {
+        "name": "Durga McBroom",
+        "role": "Backing Vocals",
+        "id": 62909
+      },
+      {
+        "name": "Jackie Sheridan",
+        "role": "Backing Vocals",
+        "id": 203140
+      },
+      {
+        "name": "Rebecca Leigh-White",
+        "role": "Backing Vocals",
+        "id": 253108
+      },
+      {
+        "name": "Sam Brown",
+        "role": "Backing Vocals",
+        "id": 165668
+      },
+      {
+        "name": "Guy Pratt",
+        "role": "Bass",
+        "id": 112875
+      },
+      {
+        "name": "Keith Breeden",
+        "role": "Cover [From Drawings By]",
+        "id": 717560
+      },
+      {
+        "name": "Aden Hynes",
+        "role": "Cover [Sculptures]",
+        "id": 2446663
+      },
+      {
+        "name": "John Robertson (5)",
+        "role": "Cover [Sculptures]",
+        "id": 3895287
+      },
+      {
+        "name": "Storm Thorgerson",
+        "role": "Cover, Design",
+        "id": 1571032
+      },
+      {
+        "name": "StormStudios",
+        "role": "Design [Re-Issue]",
+        "id": 1040780
+      },
+      {
+        "name": "Nick Mason",
+        "role": "Drums, Percussion",
+        "id": 246097
+      },
+      {
+        "name": "Keith Grant",
+        "role": "Engineer",
+        "id": 288813
+      },
+      {
+        "name": "Jules Bowen",
+        "role": "Engineer [Assistant]",
+        "id": 377578
+      },
+      {
+        "name": "Ian Wright (4)",
+        "role": "Graphics",
+        "id": 1251050
+      },
+      {
+        "name": "Peter Curzon",
+        "role": "Graphics",
+        "id": 1827655
+      },
+      {
+        "name": "Tim Renwick",
+        "role": "Guitar",
+        "id": 112846
+      },
+      {
+        "name": "John Whitely",
+        "role": "Illustration",
+        "id": 2446665
+      },
+      {
+        "name": "Sally Norris",
+        "role": "Illustration",
+        "id": 2276392
+      },
+      {
+        "name": "Jon Carin",
+        "role": "Keyboards [Additional]",
+        "id": 260826
+      },
+      {
+        "name": "Richard Wright",
+        "role": "Keyboards, Vocals",
+        "id": 110861
+      },
+      {
+        "name": "Doug Sax",
+        "role": "Mastered By [Vinyl Mastered By]",
+        "id": 365860
+      },
+      {
+        "name": "Chris Thomas",
+        "role": "Mixed By",
+        "id": 31213
+      },
+      {
+        "name": "G. William Forgey",
+        "role": "Noises [Earth]",
+        "id": 511208
+      },
+      {
+        "name": "Michael Kamen",
+        "role": "Orchestra, Arranged By",
+        "id": 106802
+      },
+      {
+        "name": "Edward Shearmur",
+        "role": "Orchestrated By",
+        "id": 66452
+      },
+      {
+        "name": "Michael Kamen",
+        "role": "Orchestrated By",
+        "id": 106802
+      },
+      {
+        "name": "Gary Wallis",
+        "role": "Percussion [Played & Programmed]",
+        "id": 261796
+      },
+      {
+        "name": "Rupert Truman",
+        "role": "Photography By",
+        "id": 873821
+      },
+      {
+        "name": "Stephen Piotrowski",
+        "role": "Photography By",
+        "id": 2446664
+      },
+      {
+        "name": "Tony May (4)",
+        "role": "Photography By",
+        "id": 2253224
+      },
+      {
+        "name": "David Gilmour",
+        "role": "Producer, Guitar, Vocals, Bass, Keyboards, Mixed By",
+        "id": 110863
+      },
+      {
+        "name": "Bob Ezrin",
+        "role": "Producer, Keyboards, Percussion",
+        "id": 125350
+      },
+      {
+        "name": "Stephen McLaughlin",
+        "role": "Recorded By [Orchestra]",
+        "id": 253236
+      },
+      {
+        "name": "Andy Jackson",
+        "role": "Recorded By, Engineer",
+        "id": 106573
+      },
+      {
+        "name": "James Guthrie",
+        "role": "Remastered By",
+        "id": 171450
+      },
+      {
+        "name": "Joel Plante",
+        "role": "Remastered By",
+        "id": 409280
+      },
+      {
+        "name": "Clive Brooks",
+        "role": "Technician [Drum]",
+        "id": 340397
+      },
+      {
+        "name": "Phil Taylor (5)",
+        "role": "Technician [General Technical & Musical Instrument Supervision]",
+        "id": 563958
+      },
+      {
+        "name": "Dick Parry",
+        "role": "Tenor Saxophone",
+        "id": 251575
+      }
+    ],
+    "identifiers": [
+      {
+        "type": "Barcode",
+        "value": "0 825646 293285",
+        "description": "Text"
+      },
+      {
+        "type": "Barcode",
+        "value": "0825646293285",
+        "description": "Scanned"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "PFRLP14-A",
+        "description": "Label side A"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "PFRLP14-B",
+        "description": "Label side B"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "PFRLP14-C",
+        "description": "Label side C"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "PFRLP14-D",
+        "description": "Label side D"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "2564629328-A RE3  BE49494-01 A3  TML-M ¯V¯",
+        "description": "Runout side A, variant 1"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "2564629328-B RE2  BE49494-02 B2   TML-M  ¯V¯",
+        "description": "Runout side B, variant 1"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "2564629328-C RE2  BE49494-01 C2   TML-M   ¯V¯",
+        "description": "Runout side C, variant 1"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "2564629328-D RE2  BE49494-02 D2  TML-M   ¯V¯",
+        "description": "Runout side D, variant 1"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "2564629328-A RE3  BE49494-01 A3  T=Ƨ  TML-M",
+        "description": "Runout side A, variant 2"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "2564629328-B RE2  BE49494-01 B2   TML-M  ¯V¯",
+        "description": "Runout side B, variant 2"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "2564629328-C RE2  BE49494-02 C2   TML-M   ¯V¯ --TɅ",
+        "description": "Runout side C, variant 2"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "2564629328-D-RE2  BE49494-02 D2  TML-M   ¯V¯   ɅIƐ",
+        "description": "Runout side D, variant 2"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "2564629328-A RE3 BE49494-01 A3 TML-M ⏊= Ƨ",
+        "description": "Runout side A, variant 3"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "2564629328-B RE2 BE49494-01 B2 TML-M -ᐯ ᐱ ¯V¯",
+        "description": "Runout side B, variant 3"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "2564629328-C-RE2 BE49494-02 C2 TML-M ⏊ᐱ ᐱ ¯V¯",
+        "description": "Runout side C, variant 3"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "2564629328-D-RE2 BE49494-02 D2 TML-M  3I+ ¯V¯",
+        "description": "Runout side D, variant 3"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "2564629328-A RE3 BE49494-01 A3 TML-M  | 6",
+        "description": "Runout side A, variant 4"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "2564629328-B-RE2 BE49494-01 B2 TML-M 1=3 ¯V¯",
+        "description": "Runout side B, variant 4"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "2564629328-C-RE2 BE49494-02 C2 TML-M 3=l ¯V¯",
+        "description": "Runout side C, variant 4"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "2564629328-D-RE2 BE49494-02 D2 TML- M ^ 5 ¯V¯",
+        "description": "Runout side D, variant 4"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "2564629328-A RE3 BE49494-01 A3 TML-M +=მ (probably 6 mirrored)",
+        "description": "Runout side A, variant 5"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "2564629328-B-RE2 BE49494-01 B2 TML-M ¯V¯ =’ ᔨ",
+        "description": "Runout side B, variant 5"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "2564629328-C-RE2 BE49494-02 C2 TML-M ¯V¯ I+Ԑ (probably 3 mirrored or \"3+1\" upside down)",
+        "description": "Runout side C, variant 5"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "2564629328-D-RE2 BE49494-02 D2 TML-M ¯V¯ =\\მ (probably 6 mirrored)",
+        "description": "Runout side D, variant 5"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "2564629328-A RE3 BE49494-01 A3 TML-M I+5 (probably 5 mirrored)",
+        "description": "Runout side A, variant 6"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "2564629328-B-RE2 BE49494-01 B2 TML-M ¯V¯ =T1 (probably 1 mirrored)",
+        "description": "Runout side B, variant 6"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "2564629328-C-RE2 BE49494-02 C2 TML-M ¯V¯ T+1 (T upside down)",
+        "description": "Runout side C, variant 6"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "2564629328-D-RE2 BE49494-02 D2 TML-M ¯V¯ ",
+        "description": "Runout side D, variant 6"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "2564629328-A RE3 BE49494-01 A3 TML-M 6=Ʌ",
+        "description": "Runout side A, variant 7"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "2564629328-B-RE2 BE49494-01 B2 TML-M ¯V¯ 4I+",
+        "description": "Runout side B, variant 7"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "2564629328-C-RE2 BE49494-02 C2 TML-M ¯V¯ 3+V",
+        "description": "Runout side C, variant 7"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "2564629328-D-RE2 BE49494-02 D2 TML-M ¯V¯  6IV",
+        "description": "Runout side D, variant 7"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "2564629328-A RE3 BE49494-01 A3 TML-M ᧙ (probably 9 mirrored) IX",
+        "description": "Runout side A, variant 8"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "2564629328-B RE2 BE49494-01 B2 TML-M ¯V¯",
+        "description": "Runout side B, variant 8"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "2564629328-C RE2 BE49494-02 C2 TML-M ¯V¯ △=Ԑ",
+        "description": "Runout side C, variant 8"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "2564629328-D RE2 BE49494-02 D2 TML-M ¯V¯",
+        "description": "Runout side D, variant 8"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "2564629328-A RE3 BE49494-01 A3 TML-M ¯V¯",
+        "description": "Runout side A, variant 9"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "2564629328-B RE2 BE49494-01 B2 TML-M 6=Ʌ",
+        "description": "Runout side B, variant 9"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "2564629328-C RE2 BE49494-02 C2 TML-M ¯V¯ I+Ԑ",
+        "description": "Runout side C, variant 9"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "2564629328-D RE2 BE49494-02 D2 TML-M ¯V¯",
+        "description": "Runout side D, variant 9"
+      }
+    ],
+    "notes": "The stereo remastered album on Heavyweight 180 Vinyl\nRemastered from the original analogue tapes by JAMES GUTHRIE, JOEL PLANTE and DOUG SAX\nOriginal UK release date: March 1994\nMade in the E.U.\nwww.pinkfloyd.com\n\nIssued in gatefold sleeve with printed inner sleeves.\n\nAll text on runout is hand etched, except for \"TML-M\", which is machine stamped. Single digit numbers in variant 4 (e.g. 6 on side A, 3 on side B) are mirrored, see also description at [l313190].",
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/AFLEcv4KLQdSjO2uk3mvlBkM7JuArs-9nNEI421C3-I/rs:fit/g:sm/q:90/h:600/w:583/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NDE4/MDYtMTQ2MTY4MjU2/Mi0xNzA4LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/0i41clmgDQ-13-xk-8bBERsEv5wuqpAqJNAbeutrAaQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NDE4/MDYtMTQ2MTY4MjU2/Mi0xNzA4LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/ZUPab-yxYES6XaarYLUTx8_ADsZzlIjEIZnDsSzX2Po/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NDE4/MDYtMTU5NDU0MDAx/NC05NjI5LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/y4XfyfUvMKWHqJS95qONq-8S25PJu2WPLJJyF3rtIPI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NDE4/MDYtMTU5NDU0MDAx/NC05NjI5LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/5Px0oF-EjZXCH3u19G8DQCm9xxjzLsbe-tbszGBMDi0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NDE4/MDYtMTU5NDU0MDAx/NC0xNTM1LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/PEoJd67V4NqzDLyjPsMtOyD4ICPFwzUk0EVL1d-DGOI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NDE4/MDYtMTU5NDU0MDAx/NC0xNTM1LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/4dMamix5_lxW2YzWzD13mxQ23uO5Kxf5-AvnywSKJgw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NDE4/MDYtMTQ2MTg2OTgy/Ni04MzMyLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/GayYrWJfqtHDsOdTHx2L_awsMyXxIhV8nyKU0i7tF3o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NDE4/MDYtMTQ2MTg2OTgy/Ni04MzMyLmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/qrmsoVQjG6th311-TMyxIs-9fnXyNMjzvapxlq6OKWU/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NDE4/MDYtMTU2NTYzNTMz/Mi0zOTE3LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/hUzUbCCWW8siwr-RhvwhxOXTJjSV2b07pIWZPj10k4A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NDE4/MDYtMTU2NTYzNTMz/Mi0zOTE3LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/LiXszJRuPTPdSdc4vRX0Xu-R3Pft_EmmYheoDOo_Gic/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NDE4/MDYtMTU2NTYzNTMz/MC0zMjM2LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/oD6LLzABTDGjVla5yPLkztNdt-rzEMyqvPsfmf3KKPg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NDE4/MDYtMTU2NTYzNTMz/MC0zMjM2LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/sS48HNktJIq2VpuDJHEumJ5jv7kALLp23-YrrTz3xKE/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NDE4/MDYtMTU2NTYzNTMy/OS02NTEzLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/HgUMyXjjfUCnphk8M5ytwRSXfpv3ZEztNPM2PaMb1_Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NDE4/MDYtMTU2NTYzNTMy/OS02NTEzLmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/9e9Z0-Dl1jOWKJRK6QfsL0B_A0DvrIhu-AZDfonSxoc/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NDE4/MDYtMTU2NTYzNTMz/MC0xOTYwLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/Td8z1CZuxNdxvyChT8fxhd27OR6Y-norjAWZMoxCKCo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NDE4/MDYtMTU2NTYzNTMz/MC0xOTYwLmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/sjKlQWhPPukQXG-axqcvVs37cmwIwcNQPyG4YHTSEec/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NDE4/MDYtMTQ2MTg2OTgz/NC05MzkyLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/1C8mTmxJHjKnsAQQirkWtwScJFKzFvJpdXSgUEgfDrE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NDE4/MDYtMTQ2MTg2OTgz/NC05MzkyLmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/v8qmWIzl-ZnqevsOluJcKpbr1hsRHNl5IHDBdsmiQnM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NDE4/MDYtMTQ2MTg2OTgz/Mi0zODI5LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/-Ewvv-wtcI9byDUkXk1DeLasC02tzI_8bOLCCJI7Xvo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NDE4/MDYtMTQ2MTg2OTgz/Mi0zODI5LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/kXe0hpC6A0NI2AmMWGLD2laejJdJoEPl5BIZPb6SApA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NDE4/MDYtMTQ2MTg2OTgz/MS01NzM0LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/xV_D0vIK-926cLcVQq1kh4G1tTPOHWPaW8I7St6B-PI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NDE4/MDYtMTQ2MTg2OTgz/MS01NzM0LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/hkqlSxrpbIp-P6v-doBxCH4W-wZ5mQuMf78G9xbV7kI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NDE4/MDYtMTQ2MTg2OTgz/MS0zNTQ4LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/ApOIrLOpBHfxL53MK6TKa6HceHJbbvF2fiNHDeq0HaY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NDE4/MDYtMTQ2MTg2OTgz/MS0zNTQ4LmpwZWc.jpeg"
+      }
+    ],
+    "community": {
+      "rating": {
+        "count": 2079,
+        "average": 4.69
+      },
+      "have": 18102,
+      "want": 2342
+    },
+    "master": {
+      "id": 20683,
+      "title": "The Division Bell",
+      "main_release": 1290103,
+      "year": 1994,
+      "uri": "https://www.discogs.com/master/20683-Pink-Floyd-The-Division-Bell",
+      "num_for_sale": 1723
+    }
+  },
+  "apple_music": null,
+  "discrepancies": [
+    "No Apple Music match found."
+  ],
+  "local_cover": "images/8441806.jpg"
+}

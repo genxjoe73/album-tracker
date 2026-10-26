@@ -1,0 +1,926 @@
+{
+  "captured_at": "2026-06-21T03:17:29+00:00",
+  "schema_version": 3,
+  "artist": "Elton John",
+  "title": "Diamonds",
+  "original_release_year": 2017,
+  "pressing_year": 2019,
+  "upgrade_suggestion": null,
+  "commentary": "Released November 10, 2017, *Diamonds* is a career-spanning greatest hits compilation commemorating 50 years of the songwriting partnership between Elton John and lyricist Bernie Taupin. Their historic collaboration began in 1967 after both responded to a talent advertisement in *New Musical Express*. The working relationship was famously separate: Taupin wrote lyrics in isolation, and Elton John set them to music at the piano, often in a matter of minutes without modifying the lyrics. *Diamonds* serves as the modern successor to earlier classic compilations like *Greatest Hits* (1974) and *To Be Continued...* (1990).\n\nThe 2-LP vinyl edition contains 21 tracks, serving as a streamlined, chronological sequence of their most essential work. It begins with Elton's 1970 breakthrough \"Your Song\" and covers his chart-dominating 1970s run, featuring \"Tiny Dancer,\" \"Rocket Man,\" \"Crocodile Rock,\" \"Daniel,\" \"Saturday Night's Alright (For Fighting),\" \"Goodbye Yellow Brick Road,\" \"Candle in the Wind,\" and \"Bennie and the Jets.\" It continues through his 1980s adult-contemporary triumphs like \"I'm Still Standing,\" \"I Guess That's Why They Call It the Blues,\" \"Nikita,\" and \"Sacrifice,\" and concludes with his 1994 Oscar-winning *The Lion King* ballad \"Can You Feel the Love Tonight\" alongside the 2003 Ashley Beedle remix of \"Are You Ready For Love.\"\n\nThe collection features audio remastered by Bob Ludwig at Gateway Mastering. The lacquers for the vinyl edition were cut at Abbey Road Studios by Sean Magee, a veteran mastering and cutting engineer known for high-profile projects including the Beatles mono and stereo vinyl remastering campaigns.\n\n**About this 2019 Europe pressing (2×LP, Reissue, Remastered, Gatefold, 180g):** Virgin EMI Records/UMC/Rocket Entertainment catalog `00602557681949` (with set catalog number `5768194` on the spine and jacket). This 2019 reissue was pressed by **Optimal Media GmbH** in Germany, which is identified by the `BJ70373` runout matrix prefix (with LP1 carrying `5768196` and LP2 carrying `5768197` in the deadwax). This Optimal pressing is distinct from the 2017 European first pressing ([r11128136](https://www.discogs.com/Elton-John-Diamonds/release/11128136)), which was pressed by GZ Media in the Czech Republic (deadwax containing `161090E`).\n\nHoused in a sturdy gatefold jacket, the album includes printed inner sleeves with full lyrics and credits. This 2019 reissue does not include a download card, which distinguishes it from the 2017 first pressing and is reflected by the omission of the download card reference in the front sticker text.\n",
+  "discogs": {
+    "release_id": 22487183,
+    "master_id": 1269948,
+    "uri": "https://www.discogs.com/release/22487183-Elton-John-Diamonds",
+    "title": "Diamonds",
+    "artists": [
+      {
+        "name": "Elton John",
+        "id": 57103,
+        "role": null
+      }
+    ],
+    "year": 2019,
+    "released": "2019",
+    "country": "Europe",
+    "labels": [
+      {
+        "name": "Rocket Entertainment",
+        "catno": "00602557681949",
+        "id": 1650809
+      },
+      {
+        "name": "Virgin EMI Records",
+        "catno": "00602557681949",
+        "id": 567148
+      },
+      {
+        "name": "UMC",
+        "catno": "00602557681949",
+        "id": 176614
+      }
+    ],
+    "formats": [
+      {
+        "name": "Vinyl",
+        "qty": "2",
+        "descriptions": [
+          "LP",
+          "Compilation",
+          "Reissue",
+          "Remastered",
+          "Stereo"
+        ],
+        "text": "Gatefold, 180g"
+      }
+    ],
+    "genres": [
+      "Rock",
+      "Pop"
+    ],
+    "styles": [
+      "Pop Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Your Song",
+        "duration": "4:01",
+        "type": "track"
+      },
+      {
+        "position": "A2",
+        "title": "Tiny Dancer",
+        "duration": "6:15",
+        "type": "track"
+      },
+      {
+        "position": "A3",
+        "title": "Rocket Man (I Think It's Going To Be A Long, Long Time)",
+        "duration": "4:40",
+        "type": "track"
+      },
+      {
+        "position": "A4",
+        "title": "Crocodile Rock",
+        "duration": "3:54",
+        "type": "track"
+      },
+      {
+        "position": "A5",
+        "title": "Daniel",
+        "duration": "3:53",
+        "type": "track"
+      },
+      {
+        "position": "B1",
+        "title": "Saturday Night's Alright (For Fighting)",
+        "duration": "4:54",
+        "type": "track"
+      },
+      {
+        "position": "B2",
+        "title": "Goodbye Yellow Brick Road",
+        "duration": "3:13",
+        "type": "track"
+      },
+      {
+        "position": "B3",
+        "title": "Candle In The Wind",
+        "duration": "3:47",
+        "type": "track"
+      },
+      {
+        "position": "B4",
+        "title": "Bennie And The Jets",
+        "duration": "5:21",
+        "type": "track"
+      },
+      {
+        "position": "B5",
+        "title": "Someone Saved My Life Tonight",
+        "duration": "6:45",
+        "type": "track"
+      },
+      {
+        "position": "C1",
+        "title": "Don't Go Breaking My Heart ",
+        "duration": "4:25",
+        "type": "track"
+      },
+      {
+        "position": "C2",
+        "title": "Sorry Seems To Be The Hardest Word",
+        "duration": "3:48",
+        "type": "track"
+      },
+      {
+        "position": "C3",
+        "title": "Song For Guy",
+        "duration": "5:01",
+        "type": "track"
+      },
+      {
+        "position": "C4",
+        "title": "Blue Eyes",
+        "duration": "3:27",
+        "type": "track"
+      },
+      {
+        "position": "C5",
+        "title": "I'm Still Standing",
+        "duration": "3:02",
+        "type": "track"
+      },
+      {
+        "position": "C6",
+        "title": "I Guess That's Why They Call It The Blues",
+        "duration": "4:41",
+        "type": "track"
+      },
+      {
+        "position": "D1",
+        "title": "Nikita",
+        "duration": "5:43",
+        "type": "track"
+      },
+      {
+        "position": "D2",
+        "title": "Sacrifice",
+        "duration": "5:05",
+        "type": "track"
+      },
+      {
+        "position": "D3",
+        "title": "Don't Let The Sun Go Down On Me",
+        "duration": "5:47",
+        "type": "track"
+      },
+      {
+        "position": "D4",
+        "title": "Can You Feel The Love Tonight",
+        "duration": "4:00",
+        "type": "track"
+      },
+      {
+        "position": "D5",
+        "title": "Are You Ready For Love",
+        "duration": "3:31",
+        "type": "track"
+      }
+    ],
+    "extraartists": [
+      {
+        "name": "Tony King (13)",
+        "role": "Advisor [Éminence Grise]",
+        "id": 1880462
+      },
+      {
+        "name": "Studio Fury",
+        "role": "Art Direction",
+        "id": 1873637
+      },
+      {
+        "name": "John Harwood (3)",
+        "role": "CGI Artist [3D]",
+        "id": 2261790
+      },
+      {
+        "name": "Carolyn Agger",
+        "role": "Coordinator [Project Co-ordination for UMC/Virgin EMI]",
+        "id": 6235900
+      },
+      {
+        "name": "Lisa Power",
+        "role": "Coordinator [Project Co-ordination for UMC/Virgin EMI]",
+        "id": 2275924
+      },
+      {
+        "name": "Richard Kilroy",
+        "role": "Illustration",
+        "id": 6705933
+      },
+      {
+        "name": "Carl Studna",
+        "role": "Illustration [Based on Photography By]",
+        "id": 2242037
+      },
+      {
+        "name": "Deborah Anderson",
+        "role": "Illustration [Based on Photography By]",
+        "id": 22880
+      },
+      {
+        "name": "Herb Ritts",
+        "role": "Illustration [Based on Photography By]",
+        "id": 1592869
+      },
+      {
+        "name": "Juergen Teller",
+        "role": "Illustration [Based on Photography By]",
+        "id": 2000795
+      },
+      {
+        "name": "Sam Emerson",
+        "role": "Illustration [Based on Photography By]",
+        "id": 2082959
+      },
+      {
+        "name": "Juergen Teller",
+        "role": "Illustration [Centre Gatefold]",
+        "id": 2000795
+      },
+      {
+        "name": "Sean Magee",
+        "role": "Lacquer Cut By",
+        "id": 276851
+      },
+      {
+        "name": "David Furnish",
+        "role": "Management",
+        "id": 4788888
+      },
+      {
+        "name": "Paul Kremen",
+        "role": "Management",
+        "id": 2752310
+      },
+      {
+        "name": "Rachael Paley",
+        "role": "Management",
+        "id": 3084013
+      },
+      {
+        "name": "Colin Smith (40)",
+        "role": "Management [Business Affairs]",
+        "id": 6705934
+      },
+      {
+        "name": "Laura Arowolo",
+        "role": "Management [Business Affairs]",
+        "id": 6705931
+      },
+      {
+        "name": "Graeme Anderson (4)",
+        "role": "Management [Licensing]",
+        "id": 6705932
+      },
+      {
+        "name": "Kevin Phelan (3)",
+        "role": "Management [Licensing]",
+        "id": 5623840
+      },
+      {
+        "name": "Mark Wood (8)",
+        "role": "Management [Marketing Manager]",
+        "id": 1639337
+      },
+      {
+        "name": "Orla Lee-Fisher",
+        "role": "Management [Senior Vice President Global Marketing]",
+        "id": 6705935
+      },
+      {
+        "name": "Lydia Kohl",
+        "role": "Production Manager [Print Production]",
+        "id": 6159125
+      },
+      {
+        "name": "John Higgins (16)",
+        "role": "Proofreader",
+        "id": 7207643
+      },
+      {
+        "name": "Bob Ludwig",
+        "role": "Remastered By",
+        "id": 271098
+      },
+      {
+        "name": "Daryl Easlea",
+        "role": "Sleeve Notes, Curated By",
+        "id": 472637
+      }
+    ],
+    "identifiers": [
+      {
+        "type": "Barcode",
+        "value": "6 02557 68194 9",
+        "description": "Text"
+      },
+      {
+        "type": "Barcode",
+        "value": "602557681949",
+        "description": "Scanned"
+      },
+      {
+        "type": "Label Code",
+        "value": "LC03098",
+        "description": null
+      },
+      {
+        "type": "Rights Society",
+        "value": "BIEM/SDRM",
+        "description": null
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BJ70373-01 A1 5768196",
+        "description": "Side A, Etched"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BJ70373-01 B2 5768196",
+        "description": "Side B, Etched"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BJ70373-02 C1 5768197",
+        "description": "Side C, Etched"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BJ70373-02 D2 5768197",
+        "description": "Side D, Etched"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BJ70373-01 A1 5768196  [4X mirored]",
+        "description": "Side A, Etched, variant 2"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BJ70373-01 B2 5768196  [6V mirored]",
+        "description": "Side B, Etched, variant 2"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BJ70373-02 C1 5768197  [3I+ mirored]",
+        "description": "Side C, Etched, variant 2"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BJ70373-02 D2 5768197  [5= mirored]",
+        "description": "Side D, Etched, variant 2"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BJ70373-02 A2 5768197  e1=",
+        "description": "Side A, Etched, variant 3"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BJ70373-01 B3 5768196   8T",
+        "description": "Side B, Etched, variant 3"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BJ70373-02 C2 5768197    eT",
+        "description": "Side C, Etched, variant 3"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BJ70373-02 D3 5768197  TZ",
+        "description": "Side D, Etched, variant 3"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BJ70373-01 A2 5768196 e1=",
+        "description": "Side A, Etched, variant 4"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BJ70373-01 B3 5768196 8T",
+        "description": "Side B, Etched, variant 4"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BJ70373-02 C2 5768197 [6X mirored]",
+        "description": "Side C, Etched, variant 4"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BJ70373-02 D3 5768197 [7X mirored]",
+        "description": "Side D, Etched, variant 4"
+      }
+    ],
+    "notes": "Reissue pressed by [l313190] with the same lacquer cut from [l217694] as the first pressings.\nThe reissue doesn't include a download card like the first pressings, which also is removed from the front sticker text.\n\nMade In The EU.",
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/5nAjaWrDiu6aBT0kvdA7riejaKfYjDFhrBtfhKqmoHM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDg3/MTgzLTE2NDcxMTg5/ODctMTYyMi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/xI90hM6c2cfbOW4GRaHfE72MQlZf7RpgjO-_pe27saM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDg3/MTgzLTE2NDcxMTg5/ODctMTYyMi5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/BfHHcZvOEqHsyNRVFwWjAT05QA30LqKc7TbrJ79ihhY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDg3/MTgzLTE2NDcxMTg5/OTItOTUzNi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/tw1GXS_4HZME9O4OTJ4S78SsQkZXJzcr30Aiwc1Hm8c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDg3/MTgzLTE2NDcxMTg5/OTItOTUzNi5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/WPD2HQtkrCK7nFiKw4M9xW9QadIsn0xyJBSCUNi5Wwo/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDg3/MTgzLTE2NTI3MjY3/MzktNzkwOC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/dF3KYtp4YaRdiUIVeu_and5oLCfd4rslBH_oTW7V0iw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDg3/MTgzLTE2NTI3MjY3/MzktNzkwOC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/iPZJRv5QlWQCixgGyMvc7BYyISkj8zXEFT9NLyEKpeE/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDg3/MTgzLTE2NTI3MjY3/MzktMTMxNS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/TT1KOTKPnVWnHMzNX9AAaUkFRm8FhXq-rBah_AtfJCY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDg3/MTgzLTE2NTI3MjY3/MzktMTMxNS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/VveVnRWO1Das_Ic2_AQeREfYa4Z-NF9C010NU7T2sHY/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDg3/MTgzLTE2NTI3MjY3/MzktNjY1Ny5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/Mo7148ZZXeydtOo0b0cDFRB5krKoOyfS9XTc4fEEEPc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDg3/MTgzLTE2NTI3MjY3/MzktNjY1Ny5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/GDZsqiANMjrkhhaqJj0lJJXQszoytAqYUNJRyTaIKrg/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDg3/MTgzLTE2NTI3MjY3/MzktMzI5OC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/ZYeelwxOUNuS3r3HSLcFgQr917y8YZSHLeEKQLoC8_s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDg3/MTgzLTE2NTI3MjY3/MzktMzI5OC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/qXOJ-6YuTYCG3fJfudp8Y3woaAc8k7UNqEsz6cxOuEk/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDg3/MTgzLTE2NTI3MjY3/MzktNDkxMS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/i8yEbXLJW8GsEtvDVq0ffc-dxwZxAvDhGt43cOAmsHQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDg3/MTgzLTE2NTI3MjY3/MzktNDkxMS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/TT7VasQvqEF0JLIaTGCwSB49ZRQ5Io6y4MsfMjV3oIg/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDg3/MTgzLTE2NTI3MjY3/MzktNjczOS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/1IbBwnV9C_VKURD6lV7ow6UaIsBqFCpmKXhWFSlYP1Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDg3/MTgzLTE2NTI3MjY3/MzktNjczOS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/4_oFqGlNSb8vOAaTwCaqwWF2pnD725NlOsfpkqy7yiQ/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDg3/MTgzLTE2NTI3MjY3/MzktMTgyMC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/7bMjaJ22Th0A_tOu6nI9EfWxT2tUTV8IxwILJvhZGtQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDg3/MTgzLTE2NTI3MjY3/MzktMTgyMC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/XBkRkLDtzAb5SX0Xb8b2themS9VXQH-Hd_TzWBYnLlM/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDg3/MTgzLTE2NTI3MjY3/MzktNjExMi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/qmm4bl8-djicdQYr6Gwn3yEiRRJIRbsyO5z4qHYBdac/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDg3/MTgzLTE2NTI3MjY3/MzktNjExMi5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/8yft87_dFBfthoQ-qUM2r2ZiEc4Nhp-O8jlFDKmUbHI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDg3/MTgzLTE2NDcxMTg5/OTYtNzU3My5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/cfIqPtv6AlFZTFme31teQM_89FHzzi-DQVOlGe80-6M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDg3/MTgzLTE2NDcxMTg5/OTYtNzU3My5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/FxrXNQUuoJApkO_eMj1-GkACqUhGNUxFxXdqam_i2ag/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDg3/MTgzLTE2NTI1NjY4/NTYtMjkwNC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/ywvFhKmeaTzF6Kg_8hAmAIb9Q0jWC7jsxVJzdkQMycs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDg3/MTgzLTE2NTI1NjY4/NTYtMjkwNC5qcGVn.jpeg"
+      }
+    ],
+    "community": {
+      "rating": {
+        "count": 140,
+        "average": 4.57
+      },
+      "have": 2014,
+      "want": 100
+    },
+    "master": {
+      "id": 1269948,
+      "title": "Diamonds",
+      "main_release": 11129217,
+      "year": 2017,
+      "uri": "https://www.discogs.com/master/1269948-Elton-John-Diamonds",
+      "num_for_sale": 666
+    }
+  },
+  "apple_music": {
+    "id": 1652668529,
+    "url": "https://music.apple.com/us/album/diamonds-deluxe/1652668529?uo=4",
+    "name": "Diamonds (Deluxe)",
+    "artist": "Elton John",
+    "artist_id": 54657,
+    "artwork_url_100": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/58/c4/0e/58c40e30-98f8-1215-42f9-82ea7eec6918/22UM1IM16650.rgb.jpg/100x100bb.jpg",
+    "artwork_url_600": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/58/c4/0e/58c40e30-98f8-1215-42f9-82ea7eec6918/22UM1IM16650.rgb.jpg/600x600bb.jpg",
+    "release_date": "2017-11-10T08:00:00Z",
+    "track_count": 54,
+    "copyright": "A Virgin EMI Records Release; This Compilation ℗ 2022 Universal Music Operations Limited",
+    "primary_genre": "Rock",
+    "country": "USA",
+    "tracks": [
+      {
+        "track_number": 1,
+        "disc_number": 1,
+        "name": "Cold Heart (PNAU Remix)",
+        "duration_ms": 202733,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/83/5c/f9/835cf947-3f9a-a440-cba9-533449ad8e3b/mzaf_17406689772196672099.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/cold-heart-pnau-remix/1652668529?i=1652668531&uo=4"
+      },
+      {
+        "track_number": 2,
+        "disc_number": 1,
+        "name": "Hold Me Closer",
+        "duration_ms": 202240,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/31/ba/05/31ba05c1-e76e-bd84-08c4-b061f91f567f/mzaf_13830148570716808826.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/hold-me-closer/1652668529?i=1652668532&uo=4"
+      },
+      {
+        "track_number": 3,
+        "disc_number": 1,
+        "name": "Your Song (Remastered)",
+        "duration_ms": 243067,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/eb/a3/e7/eba3e71f-e5b9-6fa5-d906-d00c0681e159/mzaf_3305752096425855586.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/your-song-remastered/1652668529?i=1652668534&uo=4"
+      },
+      {
+        "track_number": 4,
+        "disc_number": 1,
+        "name": "Tiny Dancer (Remastered)",
+        "duration_ms": 375867,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/47/5b/54/475b54f4-907b-5e43-4487-c109e9d688f9/mzaf_3149957506598723312.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/tiny-dancer-remastered/1652668529?i=1652668537&uo=4"
+      },
+      {
+        "track_number": 5,
+        "disc_number": 1,
+        "name": "Rocket Man (I Think It's Going To Be A Long Long Time) [Remastered]",
+        "duration_ms": 282000,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d7/53/a0/d753a08a-1206-f45d-8c90-af1b49c2d510/mzaf_4062658383628718276.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/rocket-man-i-think-its-going-to-be-a-long-long-time-remastered/1652668529?i=1652668538&uo=4"
+      },
+      {
+        "track_number": 6,
+        "disc_number": 1,
+        "name": "Honky Cat (Remastered)",
+        "duration_ms": 314053,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e0/da/d8/e0dad82f-3306-0532-0eb9-64a074221309/mzaf_5140026684557328736.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/honky-cat-remastered/1652668529?i=1652668540&uo=4"
+      },
+      {
+        "track_number": 7,
+        "disc_number": 1,
+        "name": "Crocodile Rock (Remastered)",
+        "duration_ms": 236600,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/55/4b/37/554b3769-d64f-0c87-29b4-db86a4ddca1c/mzaf_584490559367403857.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/crocodile-rock-remastered/1652668529?i=1652668542&uo=4"
+      },
+      {
+        "track_number": 8,
+        "disc_number": 1,
+        "name": "Daniel (Remastered)",
+        "duration_ms": 235547,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/bc/bc/dd/bcbcddd0-0906-7a55-b393-086f9fc6b1b4/mzaf_4880806157810532125.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/daniel-remastered/1652668529?i=1652668543&uo=4"
+      },
+      {
+        "track_number": 9,
+        "disc_number": 1,
+        "name": "Saturday Night’s Alright (For Fighting) [Remastered]",
+        "duration_ms": 295680,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/3c/5e/dc/3c5edc1c-df97-7bbe-5259-e1c40508e7b8/mzaf_17553029328881774561.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/saturday-nights-alright-for-fighting-remastered/1652668529?i=1652668544&uo=4"
+      },
+      {
+        "track_number": 10,
+        "disc_number": 1,
+        "name": "Goodbye Yellow Brick Road (Remastered)",
+        "duration_ms": 195933,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a6/2f/19/a62f1955-8ac2-7737-d1c3-48d7dee0fe46/mzaf_4060599051779842433.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/goodbye-yellow-brick-road-remastered/1652668529?i=1652668545&uo=4"
+      },
+      {
+        "track_number": 11,
+        "disc_number": 1,
+        "name": "Candle In The Wind (Remastered)",
+        "duration_ms": 229453,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/35/49/89/354989c1-72df-1f32-9a44-9909ec3545ae/mzaf_10931090400499992588.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/candle-in-the-wind-remastered/1652668529?i=1652668816&uo=4"
+      },
+      {
+        "track_number": 12,
+        "disc_number": 1,
+        "name": "Bennie And The Jets (Remastered)",
+        "duration_ms": 323493,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/6d/e7/3c/6de73c42-a1a7-05c5-ee93-51554503ac45/mzaf_12524629935862862134.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/bennie-and-the-jets-remastered/1652668529?i=1652668818&uo=4"
+      },
+      {
+        "track_number": 13,
+        "disc_number": 1,
+        "name": "The Bitch Is Back (Remastered)",
+        "duration_ms": 224787,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1f/b0/a3/1fb0a3f6-7ffc-7abb-db06-b7c917ba2a0a/mzaf_7873513262990555953.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/the-bitch-is-back-remastered/1652668529?i=1652668821&uo=4"
+      },
+      {
+        "track_number": 14,
+        "disc_number": 1,
+        "name": "Philadelphia Freedom (Remastered)",
+        "duration_ms": 330093,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c6/b8/21/c6b8212f-cdef-3dab-7397-1b68c00d4cb1/mzaf_8259261461297430161.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/philadelphia-freedom-remastered/1652668529?i=1652668825&uo=4"
+      },
+      {
+        "track_number": 15,
+        "disc_number": 1,
+        "name": "Island Girl (Remastered)",
+        "duration_ms": 224680,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ac/63/00/ac630075-ef69-152b-630e-b9ae9e386cfe/mzaf_15881290981973020903.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/island-girl-remastered/1652668529?i=1652668828&uo=4"
+      },
+      {
+        "track_number": 16,
+        "disc_number": 1,
+        "name": "Someone Saved My Life Tonight (Remastered)",
+        "duration_ms": 407040,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/71/f5/e2/71f5e227-716c-6e6b-1e1d-5d63f06a6ee8/mzaf_1967633025198477425.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/someone-saved-my-life-tonight-remastered/1652668529?i=1652668829&uo=4"
+      },
+      {
+        "track_number": 17,
+        "disc_number": 1,
+        "name": "Don't Go Breaking My Heart (Remastered)",
+        "duration_ms": 266147,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/0f/b8/90/0fb8900a-1557-3a34-15fb-b5a843786788/mzaf_12204588102771735682.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/dont-go-breaking-my-heart-remastered/1652668529?i=1652668831&uo=4"
+      },
+      {
+        "track_number": 18,
+        "disc_number": 1,
+        "name": "Sorry Seems To Be The Hardest Word (Remastered)",
+        "duration_ms": 230453,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ba/57/8d/ba578da7-36a0-ca41-bdbb-7ed506384730/mzaf_14676870146988790128.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/sorry-seems-to-be-the-hardest-word-remastered/1652668529?i=1652668832&uo=4"
+      },
+      {
+        "track_number": 19,
+        "disc_number": 1,
+        "name": "Little Jeannie (Remastered)",
+        "duration_ms": 289213,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f6/81/32/f68132c1-931a-ebfe-4520-fe3daba7c034/mzaf_13910332231959774150.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/little-jeannie-remastered/1652668529?i=1652668834&uo=4"
+      },
+      {
+        "track_number": 1,
+        "disc_number": 2,
+        "name": "Song For Guy (Remastered)",
+        "duration_ms": 394667,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/18/ec/4d/18ec4d0a-5db1-7632-1129-23f368fd92a1/mzaf_9182849674653878487.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/song-for-guy-remastered/1652668529?i=1652668835&uo=4"
+      },
+      {
+        "track_number": 2,
+        "disc_number": 2,
+        "name": "Blue Eyes (Remastered)",
+        "duration_ms": 208173,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/61/fd/94/61fd944e-1cd6-7ae9-05c7-99982fc1204e/mzaf_11184798450593118985.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/blue-eyes-remastered/1652668529?i=1652668836&uo=4"
+      },
+      {
+        "track_number": 3,
+        "disc_number": 2,
+        "name": "I'm Still Standing (Remastered)",
+        "duration_ms": 184547,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e9/40/c3/e940c3df-1875-68fd-7986-604578ca76b1/mzaf_13815248788340659203.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/im-still-standing-remastered/1652668529?i=1652668839&uo=4"
+      },
+      {
+        "track_number": 4,
+        "disc_number": 2,
+        "name": "I Guess That's Why They Call It The Blues (Remastered)",
+        "duration_ms": 283013,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c8/f9/4a/c8f94a2b-e66f-28eb-0265-b72d4b98bd12/mzaf_14604932833630893945.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/i-guess-thats-why-they-call-it-the-blues-remastered/1652668529?i=1652668841&uo=4"
+      },
+      {
+        "track_number": 5,
+        "disc_number": 2,
+        "name": "Sad Songs (Say So Much) [Remastered]",
+        "duration_ms": 288133,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7f/bf/fe/7fbffe2b-f779-ad1e-31de-3caa3fc49ba4/mzaf_14099557091998822191.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/sad-songs-say-so-much-remastered/1652668529?i=1652669028&uo=4"
+      },
+      {
+        "track_number": 6,
+        "disc_number": 2,
+        "name": "Nikita (Remastered)",
+        "duration_ms": 344827,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ac/8b/cc/ac8bcc45-090d-8aad-4bb4-deaeabd6b403/mzaf_17166061926928812464.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/nikita-remastered/1652668529?i=1652669032&uo=4"
+      },
+      {
+        "track_number": 7,
+        "disc_number": 2,
+        "name": "I Don't Wanna Go On With You Like That (Remastered)",
+        "duration_ms": 274453,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/4d/e0/bb/4de0bbb4-f691-b3eb-abe0-5b582ded5a49/mzaf_7354216686124813343.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/i-dont-wanna-go-on-with-you-like-that-remastered/1652668529?i=1652669035&uo=4"
+      },
+      {
+        "track_number": 8,
+        "disc_number": 2,
+        "name": "Sacrifice (Remastered)",
+        "duration_ms": 305600,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e6/c3/83/e6c383e6-4c0e-8c1d-5174-b92c7eec1da7/mzaf_1387505144940042900.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/sacrifice-remastered/1652668529?i=1652669037&uo=4"
+      },
+      {
+        "track_number": 9,
+        "disc_number": 2,
+        "name": "Don't Let The Sun Go Down On Me (Live)",
+        "duration_ms": 348133,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d2/d3/57/d2d3574b-974b-d00d-84c4-5f7def7e29d6/mzaf_17773867936947466290.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/dont-let-the-sun-go-down-on-me-live/1652668529?i=1652669041&uo=4"
+      },
+      {
+        "track_number": 10,
+        "disc_number": 2,
+        "name": "Something About The Way You Look Tonight (Single Edit / Remastered)",
+        "duration_ms": 240507,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/0b/3a/e6/0b3ae6ce-da26-26fd-758f-bc9191095b13/mzaf_3365582106673032137.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/something-about-the-way-you-look-tonight-single-edit/1652668529?i=1652669044&uo=4"
+      },
+      {
+        "track_number": 11,
+        "disc_number": 2,
+        "name": "I Want Love (Remastered)",
+        "duration_ms": 277747,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f3/84/1a/f3841a6d-1da6-79ca-a1a4-09e5df7285ee/mzaf_14591002750512033783.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/i-want-love-remastered/1652668529?i=1652669046&uo=4"
+      },
+      {
+        "track_number": 12,
+        "disc_number": 2,
+        "name": "Can You Feel The Love Tonight (Remastered)",
+        "duration_ms": 241893,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/79/31/56/79315644-746e-3a50-5088-5838b2a04fec/mzaf_9521448829833362385.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/can-you-feel-the-love-tonight-remastered/1652668529?i=1652669049&uo=4"
+      },
+      {
+        "track_number": 13,
+        "disc_number": 2,
+        "name": "Are You Ready For Love? (Remastered)",
+        "duration_ms": 212440,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/3f/68/33/3f68336b-0100-be8b-1b24-2987bd0f95b4/mzaf_14860209846121227960.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/are-you-ready-for-love-remastered/1652668529?i=1652669053&uo=4"
+      },
+      {
+        "track_number": 14,
+        "disc_number": 2,
+        "name": "Electricity (Remastered)",
+        "duration_ms": 211547,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c2/b8/86/c2b88619-3bae-3e23-42d7-0c7f45dbf55b/mzaf_13328009521645567232.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/electricity-remastered/1652668529?i=1652669055&uo=4"
+      },
+      {
+        "track_number": 15,
+        "disc_number": 2,
+        "name": "Home Again (Remastered)",
+        "duration_ms": 302600,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c2/c9/4c/c2c94ca6-6250-0199-6b99-0bdd7546070e/mzaf_3032458799803930586.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/home-again-remastered/1652668529?i=1652669238&uo=4"
+      },
+      {
+        "track_number": 16,
+        "disc_number": 2,
+        "name": "Looking Up (Remastered)",
+        "duration_ms": 246413,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f4/48/f1/f448f170-872b-eada-5e6f-2c7ac812d70f/mzaf_1370180699247393887.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/looking-up-remastered/1652668529?i=1652669240&uo=4"
+      },
+      {
+        "track_number": 17,
+        "disc_number": 2,
+        "name": "Circle Of Life (Remastered)",
+        "duration_ms": 293267,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/07/c2/24/07c22433-fa62-138e-f237-67340f952586/mzaf_10280362626563327688.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/circle-of-life-remastered/1652668529?i=1652669243&uo=4"
+      },
+      {
+        "track_number": 1,
+        "disc_number": 3,
+        "name": "Skyline Pigeon (Piano Version / Remastered)",
+        "duration_ms": 234093,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/77/79/c7/7779c771-f12d-bbbc-72b4-13f8eaa83938/mzaf_14766757979947984603.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/skyline-pigeon-piano-version-remastered/1652668529?i=1652669246&uo=4"
+      },
+      {
+        "track_number": 2,
+        "disc_number": 3,
+        "name": "Lucy In The Sky With Diamonds (Remastered)",
+        "duration_ms": 376800,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b5/c5/c9/b5c5c9cd-2b83-6df5-436a-842217e8cc56/mzaf_4600952585085631189.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/lucy-in-the-sky-with-diamonds-remastered/1652668529?i=1652669247&uo=4"
+      },
+      {
+        "track_number": 3,
+        "disc_number": 3,
+        "name": "Pinball Wizard (Remastered / From \"Tommy\" Original Motion Picture Soundtrack)",
+        "duration_ms": 314040,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/88/17/8e/88178eae-2add-52bf-95f3-c13215f60aeb/mzaf_2573163391565204266.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/pinball-wizard-remastered-from-tommy-original-motion/1652668529?i=1652669264&uo=4"
+      },
+      {
+        "track_number": 4,
+        "disc_number": 3,
+        "name": "Mama Can't Buy You Love (Remastered)",
+        "duration_ms": 244653,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/59/e5/e9/59e5e948-4982-c431-24e7-a71e3b60c617/mzaf_11155432171398303591.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/mama-cant-buy-you-love-remastered/1652668529?i=1652669447&uo=4"
+      },
+      {
+        "track_number": 5,
+        "disc_number": 3,
+        "name": "Part-Time Love (Remastered)",
+        "duration_ms": 193773,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a7/3f/f7/a73ff7a8-e9b9-913f-66ef-293fa9ea1ff4/mzaf_1944045346883960566.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/part-time-love-remastered/1652668529?i=1652669450&uo=4"
+      },
+      {
+        "track_number": 6,
+        "disc_number": 3,
+        "name": "Victim Of Love (Remastered)",
+        "duration_ms": 202267,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e4/f9/0d/e4f90dba-0c42-d6ec-e106-5eb1e2fb02ab/mzaf_11710683242453886859.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/victim-of-love-remastered/1652668529?i=1652669452&uo=4"
+      },
+      {
+        "track_number": 7,
+        "disc_number": 3,
+        "name": "Empty Garden (Hey Hey Johnny) [Remastered]",
+        "duration_ms": 310747,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/65/75/91/657591b8-3272-f5bc-45fe-393d67b59077/mzaf_13833142845313412158.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/empty-garden-hey-hey-johnny-remastered/1652668529?i=1652669454&uo=4"
+      },
+      {
+        "track_number": 8,
+        "disc_number": 3,
+        "name": "Kiss The Bride (Remastered)",
+        "duration_ms": 263427,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/0b/31/01/0b31014b-906d-a839-6b1b-9735e1a5b372/mzaf_5565513053825485606.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/kiss-the-bride-remastered/1652668529?i=1652669456&uo=4"
+      },
+      {
+        "track_number": 9,
+        "disc_number": 3,
+        "name": "That's What Friends Are For",
+        "duration_ms": 255760,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/03/de/22/03de22c5-acdf-560d-eb73-72fb0c5810a2/mzaf_8396971016374521884.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/thats-what-friends-are-for/1652668529?i=1652669462&uo=4"
+      },
+      {
+        "track_number": 10,
+        "disc_number": 3,
+        "name": "The One (Remastered)",
+        "duration_ms": 353467,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/03/94/c0/0394c045-a679-26e8-38ca-567e479fdd5a/mzaf_1480091982163617113.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/the-one-remastered/1652668529?i=1652669465&uo=4"
+      },
+      {
+        "track_number": 11,
+        "disc_number": 3,
+        "name": "True Love (Remastered)",
+        "duration_ms": 215240,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/4f/0d/2a/4f0d2ade-1dd3-06a1-2013-edad0fae85b1/mzaf_848333287392638787.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/true-love-remastered/1652668529?i=1652669472&uo=4"
+      },
+      {
+        "track_number": 12,
+        "disc_number": 3,
+        "name": "Believe (Remastered)",
+        "duration_ms": 292080,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/25/1f/91/251f9131-dfc6-6193-6b1f-d3b0e4054d18/mzaf_17570005657059179367.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/believe-remastered/1652668529?i=1652669473&uo=4"
+      },
+      {
+        "track_number": 13,
+        "disc_number": 3,
+        "name": "Live Like Horses (Remastered)",
+        "duration_ms": 307813,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/7e/19/1b/7e191bcd-156b-17c5-9bff-eddcfd598e62/mzaf_11905730276440055479.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/live-like-horses-remastered/1652668529?i=1652669656&uo=4"
+      },
+      {
+        "track_number": 14,
+        "disc_number": 3,
+        "name": "Written In The Stars",
+        "duration_ms": 257840,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f9/b9/2d/f9b92d5c-25dd-79d6-06a6-c19759bdc677/mzaf_107270804248235423.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/written-in-the-stars/1652668529?i=1652669664&uo=4"
+      }
+    ]
+  },
+  "discrepancies": [
+    "Track count differs: Discogs=21, Apple Music=50",
+    "Total runtime differs by 7853s (Discogs=5713s, Apple Music=13566s) — likely a different master/remaster."
+  ],
+  "local_cover": "images/22487183.jpg"
+}

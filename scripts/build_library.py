@@ -284,6 +284,8 @@ def _render_index(records: list[dict]) -> str:
   </table>
 </main>
 <script>{_index_script()}</script>
+<!-- Relay Chat widget -->
+<script src="https://relay-chat-production-6c24.up.railway.app/widget.js" data-source="Album Tracker"></script>
 </body>
 </html>
 """

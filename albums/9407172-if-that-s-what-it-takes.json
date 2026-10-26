@@ -1,0 +1,456 @@
+{
+  "captured_at": "2026-06-15T01:24:17+00:00",
+  "schema_version": 3,
+  "artist": "Michael McDonald",
+  "title": "If That's What It Takes",
+  "original_release_year": 1982,
+  "pressing_year": 1982,
+  "upgrade_suggestion": "Your 1982 Specialty pressing is an excellent original cut. The ultimate audiophile vinyl upgrade is the 1983 Mobile Fidelity Sound Lab (MFSL 1-086) \"Original Master Recording,\" pressed on JVC Super Vinyl in Japan. For high-resolution digital playback on your Sony UBP-X700, look for the 2013 Audio Fidelity hybrid SACD (AFZ 164) mastered by Kevin Gray.",
+  "commentary": "Released on August 3, 1982 by Warner Bros. Records, *If That's What It Takes* is the debut solo studio album by Michael McDonald. Following his highly successful tenure fronting the Doobie Brothers (which ended with the band's temporary dissolution that same year), the album solidified McDonald as a premier voice of the L.A. Pop and \"blue-eyed soul\" sound of the early 1980s. Co-produced by Ted Templeman and Lenny Waronker alongside McDonald, the record boasts an exceptionally polished production that has long made it a favorite among audiophiles. The lead single, \"I Keep Forgettin' (Every Time You're Near)\"—co-written with Ed Sanford—became a massive crossover hit, defined by Greg Phillinganes' clavinet/Rhodes groove, Louis Johnson's bassline, and a distinct drum performance by Jeff Porcaro.\n\nThe album features a legendary roster of L.A. session musicians, including Steve Gadd and Jeff Porcaro sharing drum duties, Willie Weeks and Louis Johnson on bass, Steve Lukather and Dean Parks on guitars, and Tom Scott contributing memorable saxophone work. Horn arrangements were handled by Jerry Hey, and Marty Paich provided the lush string arrangements. The album’s clean, dynamic, and meticulously layered tracks are widely considered a masterclass in early-80s West Coast pop studio craftsmanship.\n\n**About this 1982 Specialty pressing (LP, Stereo):** Warner Bros. Records catalog `9 23703-1` (sleeve/spine) and `1-23703` (labels), barcode `07599237031`. This pressing was manufactured by the Specialty Records Corporation (indicated by the `SP` suffix on the labels and the Specialty stampers). \n\nDeadwax runout details confirm the classic L.A. mastering and pressing chain for this copy. Side A carries the matrix `1-23703-A SR-3 SP 1-1`, indicating it was cut at Westlake with the `SR-3` mastering designation and pressed from the first set of stampers at Specialty. \n\nYour copy's Side B runout contains the matrix `1-23704-B S1 B-16965-S1 SP` alongside the Allied Record Company logo (`[Allied ɑ logo]`), `SLM` (Sheffield Lab Matrix), and the delta symbol `△` (which looks like a pyramid) followed by `2074-X`. This documents the shared manufacturing chain between the Allied plating facility, Sheffield metalwork, and the Specialty pressing plant common for major Warner Bros. releases of the era.\n",
+  "discogs": {
+    "release_id": 9407172,
+    "master_id": 157694,
+    "uri": "https://www.discogs.com/release/9407172-Michael-McDonald-If-Thats-What-It-Takes",
+    "title": "If That's What It Takes",
+    "artists": [
+      {
+        "name": "Michael McDonald",
+        "id": 38258,
+        "role": null
+      }
+    ],
+    "year": 1982,
+    "released": "1982",
+    "country": "US",
+    "labels": [
+      {
+        "name": "Warner Bros. Records",
+        "catno": "9 23703-1",
+        "id": 1000
+      },
+      {
+        "name": "Warner Bros. Records",
+        "catno": "1-23703",
+        "id": 1000
+      }
+    ],
+    "formats": [
+      {
+        "name": "Vinyl",
+        "qty": "1",
+        "descriptions": [
+          "LP",
+          "Album",
+          "Stereo"
+        ],
+        "text": "Specialty Pressing"
+      }
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Soft Rock",
+      "Pop Rock",
+      "Soul"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Playin' By The Rules",
+        "duration": "4:55",
+        "type": "track"
+      },
+      {
+        "position": "A2",
+        "title": "I Keep Forgettin' (Every Time You're Near)",
+        "duration": "3:39",
+        "type": "track"
+      },
+      {
+        "position": "A3",
+        "title": "Love Lies",
+        "duration": "3:21",
+        "type": "track"
+      },
+      {
+        "position": "A4",
+        "title": "I Gotta Try",
+        "duration": "3:53",
+        "type": "track"
+      },
+      {
+        "position": "A5",
+        "title": "I Can Let Go Now",
+        "duration": "2:54",
+        "type": "track"
+      },
+      {
+        "position": "B1",
+        "title": "That's Why",
+        "duration": "4:24",
+        "type": "track"
+      },
+      {
+        "position": "B2",
+        "title": "If That's What It Takes",
+        "duration": "4:17",
+        "type": "track"
+      },
+      {
+        "position": "B3",
+        "title": "No Such Luck",
+        "duration": "3:44",
+        "type": "track"
+      },
+      {
+        "position": "B4",
+        "title": "Losin' End",
+        "duration": "4:11",
+        "type": "track"
+      },
+      {
+        "position": "B5",
+        "title": "Believe In It",
+        "duration": "4:41",
+        "type": "track"
+      }
+    ],
+    "extraartists": [
+      {
+        "name": "Jerry Hey",
+        "role": "Arranged By [Horn Arrangements]",
+        "id": 255142
+      },
+      {
+        "name": "Marty Paich",
+        "role": "Arranged By [String Arrangements]",
+        "id": 193583
+      },
+      {
+        "name": "Jeff Adamoff",
+        "role": "Art Direction, Design",
+        "id": 1829990
+      },
+      {
+        "name": "Joan Parker",
+        "role": "Coordinator [Production]",
+        "id": 1466493
+      },
+      {
+        "name": "Kathy Walker",
+        "role": "Coordinator [Production]",
+        "id": 782799
+      },
+      {
+        "name": "Vicki Fortson",
+        "role": "Coordinator [Production]",
+        "id": 1860872
+      },
+      {
+        "name": "Donn Landee",
+        "role": "Engineer [Basic Track Engineer]",
+        "id": 252044
+      },
+      {
+        "name": "Jim Isaacson",
+        "role": "Engineer [Basic Track Engineer]",
+        "id": 922209
+      },
+      {
+        "name": "Lee Herschberg",
+        "role": "Engineer [Basic Track Engineer]",
+        "id": 30434
+      },
+      {
+        "name": "Bobby Hata",
+        "role": "Engineer [Mastering Engineer]",
+        "id": 384610
+      },
+      {
+        "name": "Lee Herschberg",
+        "role": "Engineer [Mixdown Engineer]",
+        "id": 30434
+      },
+      {
+        "name": "Donn Landee",
+        "role": "Engineer [Overdub Engineer]",
+        "id": 252044
+      },
+      {
+        "name": "Jim Isaacson",
+        "role": "Engineer [Overdub Engineer]",
+        "id": 922209
+      },
+      {
+        "name": "Lee Herschberg",
+        "role": "Engineer [Overdub Engineer]",
+        "id": 30434
+      },
+      {
+        "name": "Mark Linett",
+        "role": "Engineer [Overdub Engineer]",
+        "id": 260056
+      },
+      {
+        "name": "Ken Deane",
+        "role": "Engineer [Second Engineer]",
+        "id": 364609
+      },
+      {
+        "name": "Stephen McManus",
+        "role": "Engineer [Second Engineer]",
+        "id": 577011
+      },
+      {
+        "name": "Irving Azoff",
+        "role": "Management [Direction]",
+        "id": 725502
+      },
+      {
+        "name": "Jim Shea",
+        "role": "Photography By",
+        "id": 1541754
+      },
+      {
+        "name": "Lenny Waronker",
+        "role": "Producer",
+        "id": 249406
+      },
+      {
+        "name": "Ted Templeman",
+        "role": "Producer",
+        "id": 239304
+      },
+      {
+        "name": "Michael Boddicker",
+        "role": "Synthesizer [Additional]",
+        "id": 279662
+      },
+      {
+        "name": "Paul Medeiros",
+        "role": "Technician [Keyboard Technician]",
+        "id": 782808
+      }
+    ],
+    "identifiers": [
+      {
+        "type": "Barcode",
+        "value": "07599237031",
+        "description": "Scanned"
+      },
+      {
+        "type": "Barcode",
+        "value": "0 7599-23703-1",
+        "description": "Text"
+      },
+      {
+        "type": "Pressing Plant ID",
+        "value": "E A S T",
+        "description": "Debossed on labels"
+      },
+      {
+        "type": "Rights Society",
+        "value": "ASCAP",
+        "description": "A1 to B5"
+      },
+      {
+        "type": "Rights Society",
+        "value": "BMI",
+        "description": "A1, A2"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "1-23703-A SR-3 SP 1-1",
+        "description": "Side A variant 1"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "0-1sml.l 1-23704-B S2 [Allied 'ɑ' logo] B-16965-S2 △·2074-X + SLM",
+        "description": "Side B variant 1"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "1-23703-A SR.4 SP 1-1",
+        "description": "Side A variant 2"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "1-23704-B  S1 [Allied 'ɑ' logo] B-16965-S1  SP △ 2074-X 0-1 sml-1  +  SLM",
+        "description": "Side B variant 2"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "△2074 [Allied 'ɑ' logo] B-16964•SH6 1-23703-A SH-6 0-1sml•l + SLM",
+        "description": "Side A variant 3"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "1-23703-B SR-4 SP 1-2",
+        "description": "Side B variant 3"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "1-23703-A SR-3 SP 1-1",
+        "description": " Side A variant 4"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "1-23704-B S1 [Allied 'ɑ' logo] B-16965-S1 SP △·2074-X 0-1sml-1 + SLM",
+        "description": "Side B variant 4"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "1-23703-A SH-6 0-1SML.2 + SLM △2074 [Allied 'ɑ' logo] B-16964.SH6",
+        "description": " Side A variant 5"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "1-23703-B S1 [Allied 'ɑ' logo] B-16965-S1 SP △2074-X 0-1SML-2 + SLM",
+        "description": "Side B variant 5"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "1-23703-A SR-3 SP 1-1 SM1-1",
+        "description": "Side A variant 6"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "1-23703-B S2 [Allied 'ɑ' logo] B-16965-S2 △2074-X + SLM 0-1SM1-2",
+        "description": "Side B variant 6"
+      }
+    ],
+    "notes": "[l=Specialty Records Corporation] pressing denoted by \"SP\" in runouts and \"E A S T\" debossing on labels near spindle hole.\nSide B pressed with metalwork supplied by [l=Allied Record Company], identifiable by \"ɑ\" stamp and \"B-#####\" string in runout.\n\nWorld Song Publishing Inc. shown on release as World Song Pub. Inc.\n\nRecorded at Warner Bros. Recording Studio, N. Hollywood, CA and Sunset Sound, Hollywood\nStrings recorded at Oceanway Recording, Hollywood\nMastered at Warner Bros. Recording Studio\n\nMade in U.S.A.\n\nRunouts are etched except for the stamped [Allied 'ɑ' logo]",
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/XWPtzngMFLCPrWyDRQgpjTqcNG-E0tkP4tT3Bm4an8o/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MDcx/NzItMTU1NzYwOTQ5/MC00OTI5LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/hO5zEy775ptn8EK4K7RZL7wbDUCrgayHLglVyZ0dta0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MDcx/NzItMTU1NzYwOTQ5/MC00OTI5LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/W16b85cwyTCIoreoNe9r17zz3lb-EHvGalcAn8bEwsc/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MDcx/NzItMTUwMjYxOTkw/NS0zNzE0LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/lm7BpfSweKxrO7QqTxKCdy-MrKvq0aXHL1xEjWL1hc4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MDcx/NzItMTUwMjYxOTkw/NS0zNzE0LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/2HKkHM09WfoSisTG5UREaPHPACZz0KP-R52XT8k3WZ8/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MDcx/NzItMTUwMjYxOTg1/MC0xODU5LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/TLo7lIkGOtDl0be-juo0wAItvM4Q_Tt0XPE81zIdqmk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MDcx/NzItMTUwMjYxOTg1/MC0xODU5LmpwZWc.jpeg"
+      }
+    ],
+    "community": {
+      "rating": {
+        "count": 44,
+        "average": 3.8
+      },
+      "have": 833,
+      "want": 244
+    },
+    "master": {
+      "id": 157694,
+      "title": "If That's What It Takes",
+      "main_release": 531795,
+      "year": 1982,
+      "uri": "https://www.discogs.com/master/157694-Michael-McDonald-If-Thats-What-It-Takes",
+      "num_for_sale": 225
+    }
+  },
+  "apple_music": {
+    "id": 358567891,
+    "url": "https://music.apple.com/us/album/if-thats-what-it-takes/358567891?uo=4",
+    "name": "If That's What It Takes",
+    "artist": "Michael McDonald",
+    "artist_id": 62522,
+    "artwork_url_100": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/7d/90/86/7d908696-0f05-c91b-a73e-6eb7b5bf8570/mzi.omtimiqy.jpg/100x100bb.jpg",
+    "artwork_url_600": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/7d/90/86/7d908696-0f05-c91b-a73e-6eb7b5bf8570/mzi.omtimiqy.jpg/600x600bb.jpg",
+    "release_date": "1982-08-03T07:00:00Z",
+    "track_count": 10,
+    "copyright": "℗ 1982 Warner Records Inc.",
+    "primary_genre": "Rock",
+    "country": "USA",
+    "tracks": [
+      {
+        "track_number": 1,
+        "disc_number": 1,
+        "name": "Playin' By the Rules",
+        "duration_ms": 300026,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/db/a0/4f/dba04f87-5b52-e772-48cf-b0857d9a7343/mzaf_1603657139925474782.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/playin-by-the-rules/358567891?i=358568231&uo=4"
+      },
+      {
+        "track_number": 2,
+        "disc_number": 1,
+        "name": "I Keep Forgettin (Every Time You're Near)",
+        "duration_ms": 222280,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/96/a4/c2/96a4c2a6-7e08-be5c-6149-afc872dffb6a/mzaf_3179370094416814043.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/i-keep-forgettin-every-time-youre-near/358567891?i=358568310&uo=4"
+      },
+      {
+        "track_number": 3,
+        "disc_number": 1,
+        "name": "Love Lies",
+        "duration_ms": 205001,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/2a/73/b4/2a73b4ec-8ae0-ddeb-b499-eea94a0405b4/mzaf_15338223397813320538.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/love-lies/358567891?i=358568345&uo=4"
+      },
+      {
+        "track_number": 4,
+        "disc_number": 1,
+        "name": "I Gotta Try",
+        "duration_ms": 235309,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/be/bf/bf/bebfbf91-20bd-26e9-2b4d-d83ac77328c5/mzaf_4694586045625773212.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/i-gotta-try/358567891?i=358568484&uo=4"
+      },
+      {
+        "track_number": 5,
+        "disc_number": 1,
+        "name": "I Can Let Go Now",
+        "duration_ms": 174506,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/11/4e/61/114e61b8-6dc3-ba71-eded-f15febc2e965/mzaf_5817907082610076907.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/i-can-let-go-now/358567891?i=358568512&uo=4"
+      },
+      {
+        "track_number": 6,
+        "disc_number": 1,
+        "name": "That's Why",
+        "duration_ms": 266422,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/a1/12/2a/a1122a3f-7f51-c11e-05b6-6402caa724d0/mzaf_16317124631649607711.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/thats-why/358567891?i=358568627&uo=4"
+      },
+      {
+        "track_number": 7,
+        "disc_number": 1,
+        "name": "If That's What It Takes",
+        "duration_ms": 260057,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/5f/5f/c8/5f5fc8b7-23ca-7082-f869-1d4952cf836f/mzaf_13626294156933425909.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/if-thats-what-it-takes/358567891?i=358568663&uo=4"
+      },
+      {
+        "track_number": 8,
+        "disc_number": 1,
+        "name": "No Such Luck",
+        "duration_ms": 228449,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/d6/69/55/d6695559-c559-ba7a-7a61-96836061e42f/mzaf_10374751663384867937.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/no-such-luck/358567891?i=358568901&uo=4"
+      },
+      {
+        "track_number": 9,
+        "disc_number": 1,
+        "name": "Losin' End",
+        "duration_ms": 255247,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/57/66/75/576675e1-f11b-21d2-7a6d-0666d20dea3b/mzaf_4222591764627339365.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/losin-end/358567891?i=358568972&uo=4"
+      },
+      {
+        "track_number": 10,
+        "disc_number": 1,
+        "name": "Believe In It",
+        "duration_ms": 280959,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/98/b5/84/98b58493-82f2-4e2a-3cf5-7cf98d8dd583/mzaf_17138984690526444185.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/believe-in-it/358567891?i=358569183&uo=4"
+      }
+    ]
+  },
+  "discrepancies": [],
+  "local_cover": "images/9407172.jpg"
+}

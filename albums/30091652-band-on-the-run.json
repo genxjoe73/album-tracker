@@ -1,0 +1,359 @@
+{
+  "captured_at": "2026-07-25T02:01:39+00:00",
+  "schema_version": 3,
+  "artist": "Wings",
+  "title": "Band On The Run",
+  "original_release_year": 1973,
+  "pressing_year": 1973,
+  "upgrade_suggestion": null,
+  "commentary": "Released November 1973 on Apple Records, *Band on the Run* is the third studio album by Paul McCartney and Wings and the record that turned the band's fortunes around. Down to a trio—Paul, Linda McCartney, and Denny Laine—after two members quit on the eve of the sessions, the group decamped to EMI's studio in Lagos, Nigeria to record much of the album under famously difficult conditions. Paul handled drums and much of the instrumentation himself, and the result became one of the most acclaimed and commercially successful records of his post-Beatles career, yielding the hits \"Jet,\" \"Helen Wheels,\" and the title track. Orchestral arrangements were contributed by Tony Visconti.\n\n**About this 1973 US Apple pressing (LP, Stereo):** Apple Records catalog `SO-3415`, released November 26, 1973. Discogs release [r30091652]. An original US pressing, ℗1973 EMI Records, issued with the one-sided color poster and a printed inner sleeve. Note the US/Canada-specific quirk: \"Helen Wheels\" was added to the North American editions, and while it is listed on the outer sleeve back, the printed inner sleeve omits its lyrics. The spine credits only \"Paul McCartney,\" dropping the Wings name that appears on the labels.\n\nThe lacquers were cut at Capitol—every runout carries the stamped **MASTERED BY CAPITOL** (the rest of each matrix is hand-etched). This particular copy is the variant whose **Side A alone** was cut by the engineer signing `Wly`, the initials attributed to Capitol mastering engineer Wally Traugott; Side B carries a different cut. Your Side A runout reads `SW1 3415 F10 Wly #9 MASTERED BY CAPITOL`—the `SW1` cut designation and the `#9` stamper number are what distinguish this pressing from its otherwise-identical siblings (a near-twin, [r471170], carries the same `SW1 3415 F10 Wly` on Side A but `#7`, and has the Wly cut on both sides).\n",
+  "discogs": {
+    "release_id": 30091652,
+    "master_id": 48878,
+    "uri": "https://www.discogs.com/release/30091652-Paul-McCartney-Wings-Band-On-The-Run",
+    "title": "Band On The Run",
+    "artists": [
+      {
+        "name": "Wings (2)",
+        "id": 145074,
+        "role": null
+      }
+    ],
+    "year": 1973,
+    "released": "1973-11-26",
+    "country": "US",
+    "labels": [
+      {
+        "name": "Apple Records",
+        "catno": "SO-3415",
+        "id": 25693
+      }
+    ],
+    "formats": [
+      {
+        "name": "Vinyl",
+        "qty": "1",
+        "descriptions": [
+          "LP",
+          "Album",
+          "Stereo"
+        ],
+        "text": null
+      }
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Pop Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Band On The Run",
+        "duration": "5:09",
+        "type": "track"
+      },
+      {
+        "position": "A2",
+        "title": "Jet",
+        "duration": "4:08",
+        "type": "track"
+      },
+      {
+        "position": "A3",
+        "title": "Bluebird",
+        "duration": "3:22",
+        "type": "track"
+      },
+      {
+        "position": "A4",
+        "title": "Mrs. Vandebilt",
+        "duration": "4:40",
+        "type": "track"
+      },
+      {
+        "position": "A5",
+        "title": "Let Me Roll It",
+        "duration": "4:51",
+        "type": "track"
+      },
+      {
+        "position": "B1",
+        "title": "Mamunia",
+        "duration": "4:51",
+        "type": "track"
+      },
+      {
+        "position": "B2",
+        "title": "No Words",
+        "duration": "2:36",
+        "type": "track"
+      },
+      {
+        "position": "B3",
+        "title": "Helen Wheels",
+        "duration": "3:45",
+        "type": "track"
+      },
+      {
+        "position": "B4",
+        "title": "Picasso's Last Words (Drink To Me)",
+        "duration": "5:48",
+        "type": "track"
+      },
+      {
+        "position": "B5",
+        "title": "Nineteen Hundred And Eighty Five",
+        "duration": "5:30",
+        "type": "track"
+      }
+    ],
+    "extraartists": [
+      {
+        "name": "Geoff Emerick",
+        "role": "Engineer",
+        "id": 264184
+      },
+      {
+        "name": "Wally Traugott",
+        "role": "Lacquer Cut By",
+        "id": 360250
+      },
+      {
+        "name": "Tony Visconti",
+        "role": "Orchestrated By",
+        "id": 55761
+      },
+      {
+        "name": "Ginger Baker",
+        "role": "Percussion",
+        "id": 219243
+      },
+      {
+        "name": "Remi Kabaka",
+        "role": "Percussion",
+        "id": 601757
+      },
+      {
+        "name": "Paul McCartney",
+        "role": "Producer, Vocals, Bass, Drums, Piano, Percussion, Guitar, Written-By",
+        "id": 35301
+      },
+      {
+        "name": "Howie Casey",
+        "role": "Saxophone",
+        "id": 285528
+      },
+      {
+        "name": "Denny Laine",
+        "role": "Vocals, Bass, Guitar",
+        "id": 257417
+      },
+      {
+        "name": "Linda McCartney",
+        "role": "Vocals, Organ, Percussion, Keyboards",
+        "id": 250835
+      }
+    ],
+    "identifiers": [
+      {
+        "type": "Rights Society",
+        "value": "BMI",
+        "description": null
+      },
+      {
+        "type": "Price Code",
+        "value": "(0698)",
+        "description": "Spine"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "SO1-3415",
+        "description": "Label  side A"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "SO2-3415",
+        "description": "Label side B"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "SO 1 3415 F10 Wly #10 MASTERED BY CAPITOL",
+        "description": "Runout side A variant 1"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "SO 2 3415 F26 #2 MASTERED BY CAPITOL",
+        "description": "Runout side B variant 1"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "SW1 3415 F10 wly #9 MASTERED BY CAPITOL",
+        "description": "Runout side A variant 2"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "SO 2 3415 F27 MASTERED BY CAPITOL",
+        "description": "Runout side B variant 2"
+      }
+    ],
+    "notes": "Runouts are etched except for MASTERED BY CAPITOL which is stamped.\n\nThis is identical to [r471170] except that this only has lacquer cut by Wly on Side A rather than both sides.\n\nAn Apple Record\n℗1973 EMI Records. \nSpecial Thanx to EMI Studios (Lagos and London) and ARC Studio Lagos and Clive Arrowsmith, Tony Visconti, Ian and Trevor Gordon House and Storm Thorgerson.  And Paul would like to thank Linda and Linda would love to thank Paul and thanx Denny.\n\nIssued with one-sided color poster.\n\nPrinted inner sleeve omits lyrics for the track \"Helen Wheels\" which was only included on the US and Canadian editions of the LP. \nThe track is listed on the outer sleeve, back.\n\nThe artist title on the spine is \"Paul McCartney\" omitting the \"Wings\" band name unlike the labels.",
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/arKHdv_rQB0Mq14mH0mCtAY8pyWyBOKdGMDhuUKALeE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDkx/NjUyLTE3MTA0NDQw/OTYtOTIwMC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/B2XbIDrtmublK0s2xwG01TtTBnjxMuyjgVpFZgz0BQg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDkx/NjUyLTE3MTA0NDQw/OTYtOTIwMC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/gmmhy3iHTQRXs1JVOF-3vsP_SVuwZ2MNzBnuw4b01_o/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDkx/NjUyLTE3MTA0NDQw/OTYtOTcwNy5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/BBQ2yHgo7Tf-b_GrOfHuCVT15bzIw7IHjGnLK6dRlK0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDkx/NjUyLTE3MTA0NDQw/OTYtOTcwNy5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/Bvr-38useZcLdbPUKnV5njSWBcLXeUfdFyUlpm6jzpg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDkx/NjUyLTE3MTA0NDQw/OTctNzYyMS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/8aIiGjLV2u6hZUyOyT48dzFnzB7VgTIG5t4cCQ-HsKI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDkx/NjUyLTE3MTA0NDQw/OTctNzYyMS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/XvP6IvUf1g1iy6W0ZtBSnPrgR6bCy_TY0ALEwtG-Z_M/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDkx/NjUyLTE3MTA0NDQw/OTctOTA3NC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/3fpNydwhLkTKLSLxu62vs1kzB_pr6U1JtwM80sDTuKo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDkx/NjUyLTE3MTA0NDQw/OTctOTA3NC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/5GgKwShe6SGtUcPbNfjyAQ22eTdPvoPVMsBL0uKbz2M/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDkx/NjUyLTE3MTA0NDQw/OTctNDE3MS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/wj_sbxP6ESavcYkGgIg7ARly5-WEaX72hQnLSokPAZ4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDkx/NjUyLTE3MTA0NDQw/OTctNDE3MS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/q3XkEMAT0GD_6E-ahEp692oUiJVYwibCuw2nejAs1dQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDkx/NjUyLTE3MTA0NDQx/OTYtMTU4OS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/nyiPOW6Ln4pe-Krgj3HI3zdCdaiUN12nFt-7JE1mW34/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDkx/NjUyLTE3MTA0NDQx/OTYtMTU4OS5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/qjVpOYU6K90n8yIBPcBHWS_uJ64Yx8Se8ipwikRahrM/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDkx/NjUyLTE3MTA0NDQw/OTctMTExOC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/pi1bGf0a2dBbS5Fm3iLRRb0HQOe16ZV15fTd5Ea7DRk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDkx/NjUyLTE3MTA0NDQw/OTctMTExOC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/lH506AfVDLeO6hbwhr74ujDmUCDC9PWy9FtdBWVET8o/rs:fit/g:sm/q:90/h:108/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDkx/NjUyLTE3MTA0NDQw/OTQtNTI1MC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/3RpWJWpZ8rlksO0cSiYhaKzB4tbuAJBueXl3JKvsIRI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDkx/NjUyLTE3MTA0NDQw/OTQtNTI1MC5qcGVn.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/IZn_tUAb3CwI0DZW6pzx5t_3vEtuA22UXoGsI1s6CBk/rs:fit/g:sm/q:90/h:108/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDkx/NjUyLTE3MTA0NDQw/OTQtNDY1Ny5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/jdiwgN_w0fcPxYciIutwcBe-RU1kkq_f17mKqdbELn0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDkx/NjUyLTE3MTA0NDQw/OTQtNDY1Ny5qcGVn.jpeg"
+      }
+    ],
+    "community": {
+      "rating": {
+        "count": 14,
+        "average": 4.71
+      },
+      "have": 177,
+      "want": 102
+    },
+    "master": {
+      "id": 48878,
+      "title": "Band On The Run",
+      "main_release": 2151700,
+      "year": 1973,
+      "uri": "https://www.discogs.com/master/48878-Paul-McCartney-Wings-Band-On-The-Run",
+      "num_for_sale": 2942
+    }
+  },
+  "apple_music": {
+    "id": 1443413822,
+    "url": "https://music.apple.com/us/album/band-on-the-run-2010-remaster/1443413822?uo=4",
+    "name": "Band On The Run (2010 Remaster)",
+    "artist": "Paul McCartney & Wings",
+    "artist_id": 254653827,
+    "artwork_url_100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/eb/a2/d0eba251-1ed7-03f1-6544-4a81179917aa/25UMGIM58042.rgb.jpg/100x100bb.jpg",
+    "artwork_url_600": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/eb/a2/d0eba251-1ed7-03f1-6544-4a81179917aa/25UMGIM58042.rgb.jpg/600x600bb.jpg",
+    "release_date": "1973-11-30T08:00:00Z",
+    "track_count": 10,
+    "copyright": "℗ 1973 MPL Communications Inc/Ltd, under exclusive license to Universal Music Enterprises, a Division of UMG Recordings, Inc.",
+    "primary_genre": "Rock",
+    "country": "USA",
+    "tracks": [
+      {
+        "track_number": 1,
+        "disc_number": 1,
+        "name": "Band On The Run",
+        "duration_ms": 313840,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/4e/cc/64/4ecc646a-8a9c-cb9c-3d19-aa4e335563be/mzaf_16725570726106470682.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/band-on-the-run/1443413822?i=1443413828&uo=4"
+      },
+      {
+        "track_number": 2,
+        "disc_number": 1,
+        "name": "Jet",
+        "duration_ms": 249040,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f3/50/dd/f350dd33-f857-a3dd-60e8-d34afcb3e44c/mzaf_16691683885905150129.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/jet/1443413822?i=1443413956&uo=4"
+      },
+      {
+        "track_number": 3,
+        "disc_number": 1,
+        "name": "Bluebird",
+        "duration_ms": 205333,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/79/17/54/7917547b-5773-3ab3-ba8b-7834d4bae1c0/mzaf_353915288447735224.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/bluebird/1443413822?i=1443413959&uo=4"
+      },
+      {
+        "track_number": 4,
+        "disc_number": 1,
+        "name": "Mrs. Vandebilt",
+        "duration_ms": 281787,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6d/48/dc/6d48dc65-2b24-7056-5237-020eff15981d/mzaf_1155193189338859645.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/mrs-vandebilt/1443413822?i=1443413964&uo=4"
+      },
+      {
+        "track_number": 5,
+        "disc_number": 1,
+        "name": "Let Me Roll It",
+        "duration_ms": 290400,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/24/5d/a7/245da70c-60ca-4c29-3f21-dcb8de820cee/mzaf_10376609031665774162.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/let-me-roll-it/1443413822?i=1443413968&uo=4"
+      },
+      {
+        "track_number": 6,
+        "disc_number": 1,
+        "name": "Mamunia",
+        "duration_ms": 290853,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/3c/95/28/3c9528b3-b513-1b27-afd9-177f950099d8/mzaf_6839904278213449654.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/mamunia/1443413822?i=1443413972&uo=4"
+      },
+      {
+        "track_number": 7,
+        "disc_number": 1,
+        "name": "No Words",
+        "duration_ms": 156240,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c9/24/75/c9247570-5edd-69fa-48a2-133af34cd24b/mzaf_4361127707904363778.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/no-words/1443413822?i=1443413977&uo=4"
+      },
+      {
+        "track_number": 8,
+        "disc_number": 1,
+        "name": "Picasso's Last Words (Drink to Me)",
+        "duration_ms": 349413,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/18/c1/3a/18c13afc-45b6-537a-e6e6-e90753688077/mzaf_6278236338183651110.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/picassos-last-words-drink-to-me/1443413822?i=1443414011&uo=4"
+      },
+      {
+        "track_number": 9,
+        "disc_number": 1,
+        "name": "Nineteen Hundred and Eighty Five",
+        "duration_ms": 332160,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/7f/e7/2f/7fe72f52-8603-7d6d-33e9-8861a7b33b3d/mzaf_12948362622490870079.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/nineteen-hundred-and-eighty-five/1443413822?i=1443414017&uo=4"
+      }
+    ]
+  },
+  "discrepancies": [
+    "Track count differs: Discogs=10, Apple Music=9",
+    "Total runtime differs by 215s (Discogs=2680s, Apple Music=2465s) — likely a different master/remaster."
+  ],
+  "local_cover": "images/30091652.jpg"
+}

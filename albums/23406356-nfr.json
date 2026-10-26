@@ -1,12 +1,12 @@
 {
-  "captured_at": "2026-05-19T20:24:28+00:00",
+  "captured_at": "2026-06-15T01:42:52+00:00",
   "schema_version": 3,
   "artist": "Lana Del Rey",
   "title": "NFR!",
   "original_release_year": 2019,
   "pressing_year": 2022,
   "upgrade_suggestion": "The standard Pallas vinyl pressing is excellent, though the target upgrade is the limited edition Lime Green 2LP (r14073099) cut by JN-H.",
-  "commentary": null,
+  "commentary": "Released in August 2019, *Norman Fucking Rockwell!* is widely considered Lana Del Rey's magnum opus and one of the defining albums of the 2010s. Produced largely with Jack Antonoff, the album strips away the heavy orchestration of her earlier work in favor of lush, Laurel Canyon-inspired psych-rock, classic piano ballads, and folk overtones. It captures a distinctly Californian atmosphere, blending tragic romance with a cynical but affectionate view of the collapsing American dream.\n\nThe album's title is a wry reference to the iconic American painter Norman Rockwell, setting the tone for songs that explore the messy reality behind idealized American life. Tracks like \"Venice Bitch,\" a nearly 10-minute psychedelic jam, and the deeply poignant \"The Greatest,\" showcase Del Rey's sharpened songwriting and Antonoff's understated production. It earned widespread critical acclaim, cementing Del Rey's legacy as one of her generation's greatest lyricists.\n\n**About this 2022 USA & Europe pressing (2×LP, Stereo):** Polydor / Interscope Records catalog `0840940` (labels/sleeve) and `B0030880-01` (labels), barcode `602508409402`. This copy was manufactured/pressed at Pallas in Germany (indicated by the `-59595-` and `-59596-` internal pressing codes).\n\nThe lacquers for this pressing were cut by **Joe Nino-Hernes at Sterling Sound** (indicated by the `JN-H STERLING` etchings in the deadwax across all four sides). Nino-Hernes is a senior mastering engineer at Sterling Sound. This standard black double-vinyl edition is highly regarded by collectors for its exceptional dynamic range, spacious soundstage, and quiet noise floor, delivering a premium listening experience for this modern classic.\n",
   "discogs": {
     "release_id": 23406356,
     "master_id": 1597875,
@@ -279,11 +279,11 @@
     ],
     "community": {
       "rating": {
-        "count": 370,
+        "count": 374,
         "average": 4.72
       },
-      "have": 6077,
-      "want": 794
+      "have": 6099,
+      "want": 795
     },
     "master": {
       "id": 1597875,
@@ -291,11 +291,12 @@
       "main_release": 14105574,
       "year": 2019,
       "uri": "https://www.discogs.com/master/1597875-LDR-Norman-Fg-Rockwell",
-      "num_for_sale": 480
+      "num_for_sale": 496
     }
   },
   "apple_music": null,
   "discrepancies": [
     "No Apple Music match found."
-  ]
+  ],
+  "local_cover": "images/23406356.jpg"
 }

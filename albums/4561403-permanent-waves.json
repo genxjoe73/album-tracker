@@ -1,0 +1,641 @@
+{
+  "captured_at": "2026-06-15T01:28:35+00:00",
+  "schema_version": 3,
+  "artist": "Rush",
+  "title": "Permanent Waves",
+  "original_release_year": 1980,
+  "pressing_year": 1980,
+  "upgrade_suggestion": "Your original 1980 Howie Weinberg cut (MASTERDISK HW) is already one of the best-sounding pressings of the album. A highly regarded alternative cut is the original Canadian pressing mastered by Bob Ludwig (RL MASTERDISK in runout), prized for its punchier bass and drums. For high-resolution digital playback on your Sony UBP-X700, look for the 2011 high-res 24-bit/96kHz digital remaster or the 1989 MFSL Gold CD (UDCD 505).",
+  "commentary": "Released on January 1, 1980 by Mercury Records, *Permanent Waves* is the seventh studio album by Canadian rock band Rush. It represents a major stylistic turning point for the band, shifting from the extended fantasy/sci-fi suites of *A Farewell to Kings* and *Hemispheres* toward tighter, more accessible songwriting that incorporated elements of new wave and reggae. Co-produced by the band and Terry Brown, the album was recorded at Le Studio in Morin-Heights, Quebec—a picturesque studio that would become the band's creative home throughout the 1980s. The record yielded some of the band's most enduring radio hits, including \"The Spirit of Radio\" and \"Freewill,\" alongside progressive showpieces like \"Jacob's Ladder\" and the multi-part epic \"Natural Science.\"\n\nThe album's production, engineered by Paul Northfield, is highly celebrated by audiophiles for its punchy dynamics, transparent high-end, and powerful bass response. The mixing was completed at Trident Studios in London. While the custom inner sleeve lyric sheet credits mastering to Ray Staff at Trident, the original US Mercury pressings were actually mastered stateside at Masterdisk in New York.\n\n**About this 1980 PRC Richmond pressing (LP, Stereo):** Mercury Records catalog `SRM-1-4001` (and international catalog number `9110.143` on back cover/labels). This copy was pressed at the PRC Recording Company's plant in Richmond, Indiana, identified by the pressing plant code `72` printed on the labels and the `PRC-R` etching in the deadwax.\n\nThe lacquers for this pressing were cut by mastering legend **Howie Weinberg at Masterdisk** (evident from the `MASTERDISK HW` inscriptions). Weinberg’s cut of *Permanent Waves* is widely considered by collectors to be the definitive sounding version of the album on vinyl, praised for its clarity, soundstage width, and bass definition. \n\nYour copy's Side A runout contains the matrix `SRM-1-4001-A-PRC-R-1-4` (inscribed on some copies as `SRM-14001-A-PRC-R-1-4`) alongside the stamped `MASTERDISK HW` credits, indicating a master metalwork transfer plated for PRC Richmond's pressing lines.\n",
+  "discogs": {
+    "release_id": 4561403,
+    "master_id": 7540,
+    "uri": "https://www.discogs.com/release/4561403-Rush-Permanent-Waves",
+    "title": "Permanent Waves",
+    "artists": [
+      {
+        "name": "Rush",
+        "id": 61800,
+        "role": null
+      }
+    ],
+    "year": 1980,
+    "released": "1980-01-07",
+    "country": "US",
+    "labels": [
+      {
+        "name": "Mercury",
+        "catno": "SRM-1-4001",
+        "id": 39357
+      },
+      {
+        "name": "Mercury",
+        "catno": "9110.143",
+        "id": 39357
+      }
+    ],
+    "formats": [
+      {
+        "name": "Vinyl",
+        "qty": "1",
+        "descriptions": [
+          "LP",
+          "Album",
+          "Stereo"
+        ],
+        "text": "72 - PRC Richmond Pressing"
+      }
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Prog Rock",
+      "Hard Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "The Spirit Of Radio",
+        "duration": "4:54",
+        "type": "track"
+      },
+      {
+        "position": "A2",
+        "title": "Freewill",
+        "duration": "5:23",
+        "type": "track"
+      },
+      {
+        "position": "A3",
+        "title": "Jacob's Ladder",
+        "duration": "7:50",
+        "type": "track"
+      },
+      {
+        "position": "B1",
+        "title": "Entre Nous",
+        "duration": "4:37",
+        "type": "track"
+      },
+      {
+        "position": "B2",
+        "title": "Different Strings",
+        "duration": "3:50",
+        "type": "track"
+      },
+      {
+        "position": "",
+        "title": "Natural Science",
+        "duration": "9:27",
+        "type": "index"
+      }
+    ],
+    "extraartists": [
+      {
+        "name": "Rush",
+        "role": "Arranged By [Arrangements By]",
+        "id": 61800
+      },
+      {
+        "name": "Terry Brown",
+        "role": "Arranged By [Arrangements By]",
+        "id": 276854
+      },
+      {
+        "name": "Hugh Syme",
+        "role": "Art Direction, Graphics",
+        "id": 278961
+      },
+      {
+        "name": "Peter George (3)",
+        "role": "Artwork [Colour Collaboration]",
+        "id": 2363228
+      },
+      {
+        "name": "Geddy Lee",
+        "role": "Bass Guitar, Synthesizer [Oberheim Polyphonic; OB-1; Mini Moog; Taurus Pedal Synthesizers], Vocals",
+        "id": 349487
+      },
+      {
+        "name": "Ou La La",
+        "role": "Costume Designer [Covergirl Couturiere]",
+        "id": 8097049
+      },
+      {
+        "name": "Bill Collins (15)",
+        "role": "Crew [Concert Rigging]",
+        "id": 4538145
+      },
+      {
+        "name": "Sam Charters (2)",
+        "role": "Crew [Personal Shreve]",
+        "id": 6523906
+      },
+      {
+        "name": "Harry Dilman",
+        "role": "Crew [Projectionist]",
+        "id": 4536507
+      },
+      {
+        "name": "Greg Connolly",
+        "role": "Crew [Stage Monitor Mixer]",
+        "id": 1442691
+      },
+      {
+        "name": "Arthur McLear",
+        "role": "Crew [Transported By The Skilled Hands Of]",
+        "id": 5738802
+      },
+      {
+        "name": "Gene Guido",
+        "role": "Crew [Transported By The Skilled Hands Of]",
+        "id": 6523907
+      },
+      {
+        "name": "Pat Lines",
+        "role": "Crew [Transported By The Skilled Hands Of]",
+        "id": 6523905
+      },
+      {
+        "name": "Tim Lewis (20)",
+        "role": "Crew [Transported By The Skilled Hands Of]",
+        "id": 6827596
+      },
+      {
+        "name": "Tom Whittaker (4)",
+        "role": "Crew [Transported By The Skilled Hands Of]",
+        "id": 4527914
+      },
+      {
+        "name": "Hugh Syme",
+        "role": "Design Concept [Cover Concept]",
+        "id": 278961
+      },
+      {
+        "name": "Neil Peart",
+        "role": "Design Concept [Cover Concept]",
+        "id": 398982
+      },
+      {
+        "name": "Neil Peart",
+        "role": "Drums, Timpani [Tympani], Timbales, Bells [Orchestra Bells], Tubular Bells, Wind Chimes, Bell Tree, Triangle, Crotales",
+        "id": 398982
+      },
+      {
+        "name": "Alex Lifeson",
+        "role": "Electric Guitar [Six String Electric Guitar], Twelve-String Guitar [Twelve String Electric Guitar], Acoustic Guitar [Six String Acoustic Guitar], 12-String Acoustic Guitar [Twelve String Acoustic Guitar], Synthesizer [Taurus Pedals]",
+        "id": 368450
+      },
+      {
+        "name": "Ian Grandy",
+        "role": "Engineer [Concert Sound Engineer]",
+        "id": 2151010
+      },
+      {
+        "name": "Adam Moseley",
+        "role": "Engineer [Mixed, Assisted By]",
+        "id": 91250
+      },
+      {
+        "name": "Craig Milliner",
+        "role": "Engineer [Mixed, Assisted By]",
+        "id": 89984
+      },
+      {
+        "name": "Geddy Lee",
+        "role": "Engineer [Mixed, Assisted By]",
+        "id": 349487
+      },
+      {
+        "name": "Steve Short",
+        "role": "Engineer [Mixed, Assisted By]",
+        "id": 441895
+      },
+      {
+        "name": "Terry Brown",
+        "role": "Engineer [Mixed, Engineered By]",
+        "id": 276854
+      },
+      {
+        "name": "Paul Northfield",
+        "role": "Engineer [Recorded, Engineered By]",
+        "id": 252389
+      },
+      {
+        "name": "Robbie Whelan",
+        "role": "Engineer [Recorded, General Assistance]",
+        "id": 420469
+      },
+      {
+        "name": "Tony Geranios",
+        "role": "Equipment [Guitar And Synthesizer Maintenance]",
+        "id": 1442692
+      },
+      {
+        "name": "Moon Records",
+        "role": "Executive-Producer [Executive Production]",
+        "id": 2711421
+      },
+      {
+        "name": "Hugh Syme",
+        "role": "Guest [Special Featured Guest], Featuring [Special Featured Guest], Piano",
+        "id": 278961
+      },
+      {
+        "name": "Howie Weinberg",
+        "role": "Lacquer Cut By",
+        "id": 254262
+      },
+      {
+        "name": "See Factor",
+        "role": "Lighting [Concert Lighting]",
+        "id": 3388064
+      },
+      {
+        "name": "Geddy Lee",
+        "role": "Lyrics By",
+        "id": 349487
+      },
+      {
+        "name": "Neil Peart",
+        "role": "Lyrics By",
+        "id": 398982
+      },
+      {
+        "name": "Ray Danniels",
+        "role": "Management",
+        "id": 1644517
+      },
+      {
+        "name": "SRO Productions",
+        "role": "Management",
+        "id": 2098117
+      },
+      {
+        "name": "Vic Wilson",
+        "role": "Management",
+        "id": 1838617
+      },
+      {
+        "name": "Ray Staff",
+        "role": "Mastered By",
+        "id": 265687
+      },
+      {
+        "name": "Alex Lifeson",
+        "role": "Music By",
+        "id": 368450
+      },
+      {
+        "name": "Geddy Lee",
+        "role": "Music By",
+        "id": 349487
+      },
+      {
+        "name": "Daisy The Dog",
+        "role": "Other [Inspiration], Vocal Coach [Vocal Coaching]",
+        "id": 1930211
+      },
+      {
+        "name": "Mike Deere",
+        "role": "Other [Pilot Of Juliet Foxtrot Kilo]",
+        "id": 0
+      },
+      {
+        "name": "Deborah Samuel",
+        "role": "Photography By",
+        "id": 2170347
+      },
+      {
+        "name": "Fin Costello",
+        "role": "Photography By",
+        "id": 520296
+      },
+      {
+        "name": "Flip Schulke",
+        "role": "Photography By",
+        "id": 2363227
+      },
+      {
+        "name": "Rush",
+        "role": "Producer [Produced By]",
+        "id": 61800
+      },
+      {
+        "name": "Terry Brown",
+        "role": "Producer [Produced By]",
+        "id": 276854
+      },
+      {
+        "name": "Michael Hirsh",
+        "role": "Stage Manager",
+        "id": 2702078
+      },
+      {
+        "name": "Erwig Chuapchuaduah",
+        "role": "Steel Drums",
+        "id": 278960
+      },
+      {
+        "name": "Larry Allen (2)",
+        "role": "Technician [Centre Stage Technician]",
+        "id": 1442688
+      },
+      {
+        "name": "Ted McDonald",
+        "role": "Technician [Electrical Technician]",
+        "id": 3384350
+      },
+      {
+        "name": "Skip Gildersleeve",
+        "role": "Technician [Stage Left Technician]",
+        "id": 1442689
+      },
+      {
+        "name": "Liam Birt",
+        "role": "Technician [Stage Right Technician]",
+        "id": 1441126
+      },
+      {
+        "name": "Howard Ungerleider",
+        "role": "Tour Manager [Road Manager], Lighting Director, Crew [Assistant To Mr. Shreve]",
+        "id": 1441121
+      }
+    ],
+    "identifiers": [
+      {
+        "type": "Rights Society",
+        "value": "ASCAP",
+        "description": null
+      },
+      {
+        "type": "Rights Society",
+        "value": "CAPAC",
+        "description": null
+      },
+      {
+        "type": "Pressing Plant ID",
+        "value": "72",
+        "description": "Labels"
+      },
+      {
+        "type": "Other",
+        "value": "704",
+        "description": "Fabrication code, back cover, inner sleeve"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "SRM-1-4001-A-PRC-R-2-1-1111 MASTERDISK HW",
+        "description": "Side A runout, var. 1"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "SRM-1-4001-B-PRC-R-3-1-11 MASTERDISK HW",
+        "description": "Side B runout, var. 1"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "SRM-1-4001-A-PRC-R-1-1-111 MASTERDISK HW",
+        "description": "Side A runout, var. 2"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "SRM-1-4001-B-PRC-R-2-11-11 MASTERDISK HW",
+        "description": "Side B runout, var. 2"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "SRM-1-4001-A-PRC-R-1-3-1-11 MASTERDISK HW",
+        "description": "Side A runout, var. 3"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "SRM-1-4001-B-PRC-R-2-11-11 MASTERDISK HW",
+        "description": "Side B runout, var. 3"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "SRM-1-4001-A-PRC-R-1-1-1 MASTERDISK HW",
+        "description": "Side A runout, var. 4"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "SRM-1-4001-B-PRC-R-2-11-1 MASTERDISK HW",
+        "description": "Side B runout, var. 4"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "SRM-1-4001-A-PRC-R-2-11-111 MASTERDISK HW",
+        "description": "Side A runout, var. 5"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "SRM-1-4001-B-PRC-R-2-1-111 MASTERDISK HW",
+        "description": "Side B runout, var. 5"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "SRM-1-4001-A-PRC-R-1-4-7 MASTERDISK HW",
+        "description": "Side A runout, var. 6"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "SRM-1-4001-B-PRC-R-3-1-11-02 MASTERDISK HW",
+        "description": "Side B runout, var. 6"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "SRM-1-4001-A-PRC-R-2-1-111 MASTERDISK HW",
+        "description": "Side A runout, var. 7"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "SRM-1-4001-B-PRC-R-3-11-111 2 MASTERDISK HW",
+        "description": "Side B runout, var. 7"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "SRM-1-4001-A-PRC-R-1-1-1 MASTERDISK HW",
+        "description": "Side A runout, var. 8"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "SRM-1-4001-B-PRC-R-3-1-11 MASTERDISK HW",
+        "description": "Side B runout, var. 8"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "SRM-1-4001-A-PRC-R-2-1-1 MASTERDISK HW",
+        "description": "Side A runout, var. 9"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "SRM-1-4001-B-PRC-R-1-1-1 MASTERDISK HW",
+        "description": "Side B runout, var. 9"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "SRM-1-4001-A-PRC-R-1-4-11 MASTERDISK HW",
+        "description": "Side A runout, var. 10"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "SRM-1-4001-B-PRC-R-2-11-1111-4 MASTERDISK HW",
+        "description": "Side B runout, var. 10"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "SRM-1-4001-A-PRC-R-2-1-11 MASTERDISK HW",
+        "description": "Side A runout, var. 11"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "SRM-1-4001-B-PRC-R-1-1-11 MASTERDISK HW",
+        "description": "Side B runout, var. 11"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "PRCW SRM4001 ACH8-1-11 CCT",
+        "description": "Side A runout, var. 12"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "SRM-1-4001-B-PRC-R-3-1-11 MASTERDISK HW",
+        "description": "Side B runout, var. 12"
+      }
+    ],
+    "notes": "[l=PRC Recording Company, Richmond, IN], pressing denoted by plant # (72) in label rimtext and \"PRC\" etched in runouts. Remainder of runouts etched, mastering stamped.\n\nJacket printing variant to [r=31103120], with fabrication code \"704\" on back cover bottom left and inner sleeve bottom right, denoting [l=Album Graphics Inc.] fabrication.\n\nCustom inner sleeve contains lyrics and credits.\n\nTrack B3 appears without subtracks on label or back cover.\n\nCatalog number SRM-1-4001 on front and back cover, spine, labels; catalog number 9110.143 on back cover, labels. \n\nRecorded at Le Studio, Morin-Heights, Quebec, during September and October 1979. \nMixed at Trident Studios, Soho, London, in November 1979.\nMastered at Trident.\n\n℗ © 1980 Phonogram, Inc., a Polygram Company\n\nAll lyrics © 1980, CORE Music Publishing (ASCAP) CAPAC Canada. All Music published CORE Music Publishing (ASCAP) CAPAC Canada. ",
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/uuixfFjcjemXrkkhTPIgjDYbiZX_uW3oyF2NrtLt0t0/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NjE0/MDMtMTcxOTc2OTQx/My02OTU2LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/hkosyjMY0Kz0YrrpVAhL703bqQKipoVcXEqBYR_c6C8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NjE0/MDMtMTcxOTc2OTQx/My02OTU2LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/aeRqc1cyYW-x4GsuvcGykWzLHltfFkOA5tAlquJw-KU/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NjE0/MDMtMTcxOTc2OTQx/NS04MDczLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/1nIU_rVTioh6kdC1_7y8aBkQF1lOpGPYSFG7HvvgCQA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NjE0/MDMtMTcxOTc2OTQx/NS04MDczLmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/st22X34tEMyG6dYnbA5oFEQZNo8ouxZP5ioLy147zpE/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NjE0/MDMtMTcxOTc2OTQx/Ny0yNjYzLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/9IqNne8pXznK3EBrZywhrMoEBWfi5-lAic3GgF85rz0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NjE0/MDMtMTcxOTc2OTQx/Ny0yNjYzLmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/m7qVJD4WrhziFdOWPICcc9I1QaovTKJ6oWNEzB3gldg/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NjE0/MDMtMTcxOTc2OTQx/OS0zMTc5LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/AchM3iaMYbAxE_S1ch1K7UbswSF66miXFs0keYlvLbE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NjE0/MDMtMTcxOTc2OTQx/OS0zMTc5LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/3EgKYYi64Us7CpD3yjzKlwgctAFQPIYK3cuOPnGzb4Y/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NjE0/MDMtMTcxOTc2OTQz/OC0xMTc1LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/lIMRcMHHeN9rttUvgSn_sAHbA7slcUYfGIMgMhonNZ0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NjE0/MDMtMTcxOTc2OTQz/OC0xMTc1LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/YJogefOLesp-BTL18dBy-URhW9_egEYIuZxAI-LPfiw/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NjE0/MDMtMTcxOTc2OTQz/OC01Mzk4LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/jt0b6dSaRV57FXeIwVdul5uYLNK32BZLLTDxj6XZTs0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NjE0/MDMtMTcxOTc2OTQz/OC01Mzk4LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/kxslW3uJWFJRzScv2gLixE_kDj6GYQ7Q_p4IS7_qwSw/rs:fit/g:sm/q:90/h:446/w:299/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NjE0/MDMtMTM2ODQxMDI4/Ny0xOTU3LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/Segezt9k63wBUWyDS0QF7WR1vobwxkzX3PuhffBMCSc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NjE0/MDMtMTM2ODQxMDI4/Ny0xOTU3LmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/dR1qCCFF6JLQ3wOzA2R9P3Rhzo9ZL_pHDIl20XLH4Jw/rs:fit/g:sm/q:90/h:389/w:483/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NjE0/MDMtMTM2ODQxMDI1/Ni0zMjEyLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/vs0IcyAoZXtF1_CWa0P-OlK8DIH9wEl6_6u_pLsckg4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NjE0/MDMtMTM2ODQxMDI1/Ni0zMjEyLmpwZWc.jpeg"
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/vzLNr-DfT7QDIc0Y_1tGH1RJ_wbruBNT94mcZqk7rsw/rs:fit/g:sm/q:90/h:380/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NjE0/MDMtMTcxOTc2OTQ0/NC05NTYzLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/fYzDtU7rBlbg-oTA8y62hYVQ0z8K6_0BVMNsgXSrnrQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NjE0/MDMtMTcxOTc2OTQ0/NC05NTYzLmpwZWc.jpeg"
+      }
+    ],
+    "community": {
+      "rating": {
+        "count": 236,
+        "average": 4.45
+      },
+      "have": 3416,
+      "want": 563
+    },
+    "master": {
+      "id": 7540,
+      "title": "Permanent Waves",
+      "main_release": 2595656,
+      "year": 1980,
+      "uri": "https://www.discogs.com/master/7540-Rush-Permanent-Waves",
+      "num_for_sale": 948
+    }
+  },
+  "apple_music": {
+    "id": 1440782947,
+    "url": "https://music.apple.com/us/album/permanent-waves-remastered/1440782947?uo=4",
+    "name": "Permanent Waves (Remastered)",
+    "artist": "Rush",
+    "artist_id": 50526,
+    "artwork_url_100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/72/bd/cc/72bdcc25-6dd3-78ea-e86c-4430a091119e/12UMGIM19118.rgb.jpg/100x100bb.jpg",
+    "artwork_url_600": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/72/bd/cc/72bdcc25-6dd3-78ea-e86c-4430a091119e/12UMGIM19118.rgb.jpg/600x600bb.jpg",
+    "release_date": "1980-01-14T08:00:00Z",
+    "track_count": 6,
+    "copyright": "℗ 2013 The Island Def Jam Music Group",
+    "primary_genre": "Hard Rock",
+    "country": "USA",
+    "tracks": [
+      {
+        "track_number": 1,
+        "disc_number": 1,
+        "name": "The Spirit of Radio",
+        "duration_ms": 298678,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/3c/f7/ea/3cf7ea27-9c36-51b3-4b5a-41d868c8fd48/mzaf_11383575317030000429.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/the-spirit-of-radio/1440782947?i=1440783222&uo=4"
+      },
+      {
+        "track_number": 2,
+        "disc_number": 1,
+        "name": "Freewill",
+        "duration_ms": 323591,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/5f/9a/1a/5f9a1a73-7238-df54-d656-e4517f8f816c/mzaf_17813447298948045819.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/freewill/1440782947?i=1440783229&uo=4"
+      },
+      {
+        "track_number": 3,
+        "disc_number": 1,
+        "name": "Jacob's Ladder",
+        "duration_ms": 449296,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a2/24/c6/a224c60d-f98f-1a1f-7a97-e7900cd09e5e/mzaf_7891136447299092224.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/jacobs-ladder/1440782947?i=1440783236&uo=4"
+      },
+      {
+        "track_number": 4,
+        "disc_number": 1,
+        "name": "Entre Nous",
+        "duration_ms": 277309,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f6/17/d7/f617d705-6ba6-ef6c-e866-3bb346f7f17f/mzaf_3086551567565645752.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/entre-nous/1440782947?i=1440783238&uo=4"
+      },
+      {
+        "track_number": 5,
+        "disc_number": 1,
+        "name": "Different Strings",
+        "duration_ms": 229928,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/0b/34/aa/0b34aa3f-a4ce-daef-d813-fd84db6b23b1/mzaf_11483809739648208152.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/different-strings/1440782947?i=1440783240&uo=4"
+      },
+      {
+        "track_number": 6,
+        "disc_number": 1,
+        "name": "Natural Science",
+        "duration_ms": 556499,
+        "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0b/41/78/0b4178bf-1597-c527-9a6c-7f0e7ed89655/mzaf_13337940065898131933.plus.aac.p.m4a",
+        "track_view_url": "https://music.apple.com/us/album/natural-science/1440782947?i=1440783243&uo=4"
+      }
+    ]
+  },
+  "discrepancies": [
+    "Track count differs: Discogs=5, Apple Music=6"
+  ],
+  "local_cover": "images/4561403.jpg"
+}
