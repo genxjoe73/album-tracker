@@ -53,12 +53,37 @@ Follow `rules.universal.md` for change approval, verification, and logging. Revi
 
 The latest verified application deployment is `dep-dbglp4vlk1mc738t9o6g`, using commit `4cdc48c81054184b151f26644aded22f5265fa07`. All 202 publication files were verified; the live index matches the widget-free committed file. Cloudflare may optimize JPEG responses, so image bytes can differ while the originals remain unchanged in Git.
 
-## Railway fallback
+## Railway retired; service retained
 
-The former Railway URL remains available as a fallback:
+Album Tracker’s Railway deployment was retired reversibly on 2026-10-28 after the Render replacement was verified.
+
+| Retained Railway resource | ID |
+| --- | --- |
+| Project | `ef2a08b0-83b6-453e-ae16-21276dc961ea` |
+| Production environment | `e8b241f8-d861-46c1-b438-7ead12a083ff` |
+| Service | `c4dff77a-8434-42b3-bead-71d12b15cbbf` |
+| Removed deployment | `5a82ee46-4c5a-4537-98ec-a2772d542024` |
+
+Verification confirmed the deployment status is `REMOVED`, the active-deployment list is empty, and the service still exists. The project, service configuration, and Railway domain were retained; no service or project was permanently deleted.
+
+The former URL is retained but currently serves HTTP 404 / “Application not found”:
 
 https://album-tracker-production-4efd.up.railway.app/
 
-Railway has not been retired or changed as part of this pilot. Its retained deployment is the earlier 100-album version, before the widget removal. The existing `Procfile` and `.railway/` configuration are retained for that fallback; use the Render workflow above for updates to the current live site.
+It is not an active fallback or a redirect. Use the Render URL above. No custom-domain or DNS cutover was performed. Relay, Pawledger, and all other Railway services were untouched.
 
-No custom domain or DNS cutover was performed. The user has authorized reversible retirement of only Album Tracker on Railway after Render verification. Retirement is pending confirmation; the coordinating task will perform and verify it separately. Do not treat this README as evidence that Railway has already been stopped, and do not permanently delete the service. Relay and Pawledger are separate applications and were not changed by this migration.
+### Recover the Railway copy if needed
+
+The existing `Procfile` and `.railway/` configuration are retained. Restoring runtime usage requires an explicitly approved new deployment to the retained service. Review the intended local source and generated library first, then run from this project directory:
+
+```sh
+railway up --project ef2a08b0-83b6-453e-ae16-21276dc961ea --environment e8b241f8-d861-46c1-b438-7ead12a083ff --service c4dff77a-8434-42b3-bead-71d12b15cbbf --detach -m "Restore Album Tracker Railway copy"
+```
+
+This starts a new deployment and resumes Railway runtime usage; it does not change the Render site. The detached command returning does not establish success. Inspect the scoped deployment until it reaches `SUCCESS`:
+
+```sh
+railway deployment list --project ef2a08b0-83b6-453e-ae16-21276dc961ea --environment e8b241f8-d861-46c1-b438-7ead12a083ff --service c4dff77a-8434-42b3-bead-71d12b15cbbf --limit 5 --json
+```
+
+Then verify the old URL’s expected collection count, detail pages, and artwork. Recovery has not been run as part of retirement.
