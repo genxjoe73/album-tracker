@@ -17,14 +17,15 @@ Album Tracker is hosted on **Railway** using the `Procfile` static server (`pyth
 | Latest verified deployment | `cf310666-54eb-48c5-a699-288114f721cf` (`SUCCESS`, commit `242c73c`) |
 | Updates | Manual deploy via Railway CLI (`railway up`) |
 
-Keep `.env` local and untracked (`DISCOGS_TOKEN`, `DISCOGS_USER_AGENT`). Hosting only serves the static `library/` directory and requires no secrets or database.
+Keep `.env` local and untracked (`DISCOGS_TOKEN`, `DISCOGS_USER_AGENT`, and `GEMINI_API_KEY` for optional note drafts). Hosting only serves the static `library/` directory and requires no secrets or database.
 
 ## Collection and scripts
 
 - `albums/*.json`: one JSON record per owned edition (100 albums).
 - `notes/`: production-notes markdown sources.
-- `scripts/capture.py`: captures a Discogs release (plus optional Apple Music match or Discogs primary cover fallback) into `albums/` and `library/images/`, then rebuilds `library/`.
+- `scripts/capture.py`: captures a Discogs release (optional Apple Music match, otherwise the Discogs primary cover) into `albums/` and `library/images/`, then rebuilds `library/`. Recapturing an existing album keeps its commentary, upgrade suggestion, and original release year unless those flags are passed.
 - `scripts/build_library.py`: generates `library/index.html`, per-album detail pages (`library/<release_id>.html`), and `library/style.css`.
+- `scripts/auto_note.py`: optional Gemini draft. Needs `GEMINI_API_KEY`. Writes `notes/<title>-<year>-gemini.md`, appends it to that album's commentary, and rebuilds `library/`.
 - `library/`: committed publication output (101 HTML files, 100 cover images, 1 stylesheet).
 
 ## Update and deploy
@@ -36,7 +37,7 @@ Keep `.env` local and untracked (`DISCOGS_TOKEN`, `DISCOGS_USER_AGENT`). Hosting
    .venv/bin/python scripts/build_library.py
    ```
 
-   Inspect the generated JSON and rendered HTML (index row, cover reference, format, years, production notes, and upgrade note).
+   Inspect the generated JSON and rendered HTML (index row, cover reference, format, years, production notes, and upgrade note). With no album changes, the only diff is the “built” timestamp in `library/index.html`.
 3. Review `git diff`, stage only intended files, commit, and push `main` to `origin` (with explicit approval).
 4. Deploy to Railway using the Railway CLI:
 
@@ -51,5 +52,3 @@ Keep `.env` local and untracked (`DISCOGS_TOKEN`, `DISCOGS_USER_AGENT`). Hosting
    ```
 
    Then verify https://album-tracker-production-4efd.up.railway.app/ serves the updated `index.html`, detail pages, and artwork.
-
-*(Former Render static hosting at `https://album-tracker-69c5.onrender.com/` / `srv-dbglkpnb9u1s738lqr6g` has been superseded by Railway and scheduled for removal.)*

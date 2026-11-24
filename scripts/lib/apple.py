@@ -2,6 +2,7 @@
 
 Docs: https://performance-partners.apple.com/search-api
 """
+
 from __future__ import annotations
 
 from typing import Any
@@ -14,14 +15,18 @@ class AppleError(RuntimeError):
 
 
 class ITunesClient:
-    def __init__(self, search_url: str, lookup_url: str, country: str = "us", timeout: int = 30):
+    def __init__(
+        self, search_url: str, lookup_url: str, country: str = "us", timeout: int = 30
+    ):
         self.search_url = search_url
         self.lookup_url = lookup_url
         self.country = country
         self.timeout = timeout
         self.session = requests.Session()
 
-    def search_album(self, artist: str, title: str, limit: int = 5) -> list[dict[str, Any]]:
+    def search_album(
+        self, artist: str, title: str, limit: int = 5
+    ) -> list[dict[str, Any]]:
         """Search for albums matching artist+title. Returns list of album dicts."""
         params = {
             "term": f"{artist} {title}",
@@ -32,7 +37,9 @@ class ITunesClient:
         }
         resp = self.session.get(self.search_url, params=params, timeout=self.timeout)
         if resp.status_code != 200:
-            raise AppleError(f"iTunes search returned {resp.status_code}: {resp.text[:300]}")
+            raise AppleError(
+                f"iTunes search returned {resp.status_code}: {resp.text[:300]}"
+            )
         return resp.json().get("results", [])
 
     def lookup_album_with_tracks(self, collection_id: int) -> dict[str, Any]:
@@ -47,7 +54,9 @@ class ITunesClient:
         }
         resp = self.session.get(self.lookup_url, params=params, timeout=self.timeout)
         if resp.status_code != 200:
-            raise AppleError(f"iTunes lookup returned {resp.status_code}: {resp.text[:300]}")
+            raise AppleError(
+                f"iTunes lookup returned {resp.status_code}: {resp.text[:300]}"
+            )
         results = resp.json().get("results", [])
         album = next((r for r in results if r.get("wrapperType") == "collection"), None)
         tracks = [r for r in results if r.get("wrapperType") == "track"]
