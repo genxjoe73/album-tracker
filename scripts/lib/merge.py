@@ -1,8 +1,10 @@
 """Combine a Discogs release + iTunes album into the canonical album JSON shape."""
+
 from __future__ import annotations
 
 import re
-from datetime import datetime, timezone
+import sys
+from datetime import UTC, datetime
 from typing import Any
 
 
@@ -12,7 +14,9 @@ def _slugify(s: str) -> str:
     return s.strip("-")[:80]
 
 
-def _discogs_subset(release: dict[str, Any], master: dict[str, Any] | None) -> dict[str, Any]:
+def _discogs_subset(
+    release: dict[str, Any], master: dict[str, Any] | None
+) -> dict[str, Any]:
     """Pull only the fields we care about from a Discogs release + master."""
     artists = [
         {"name": a.get("name"), "id": a.get("id"), "role": a.get("role") or None}
@@ -45,7 +49,11 @@ def _discogs_subset(release: dict[str, Any], master: dict[str, Any] | None) -> d
         for e in release.get("extraartists", [])
     ]
     identifiers = [
-        {"type": i.get("type"), "value": i.get("value"), "description": i.get("description")}
+        {
+            "type": i.get("type"),
+            "value": i.get("value"),
+            "description": i.get("description"),
+        }
         for i in release.get("identifiers", [])
     ]
     images = [
@@ -91,7 +99,9 @@ def _discogs_subset(release: dict[str, Any], master: dict[str, Any] | None) -> d
     }
 
 
-def _apple_subset(album: dict[str, Any], tracks: list[dict[str, Any]]) -> dict[str, Any]:
+def _apple_subset(
+    album: dict[str, Any], tracks: list[dict[str, Any]]
+) -> dict[str, Any]:
     return {
         "id": album.get("collectionId"),
         "url": album.get("collectionViewUrl"),
@@ -99,7 +109,10 @@ def _apple_subset(album: dict[str, Any], tracks: list[dict[str, Any]]) -> dict[s
         "artist": album.get("artistName"),
         "artist_id": album.get("artistId"),
         "artwork_url_100": album.get("artworkUrl100"),
-        "artwork_url_600": (album.get("artworkUrl100") or "").replace("100x100bb", "600x600bb") or None,
+        "artwork_url_600": (album.get("artworkUrl100") or "").replace(
+            "100x100bb", "600x600bb"
+        )
+        or None,
         "release_date": album.get("releaseDate"),
         "track_count": album.get("trackCount"),
         "copyright": album.get("copyright"),
@@ -149,7 +162,6 @@ def _detect_discrepancies(
         m_year = _year_or_none(master_info.get("year"))
         r_year = _year_or_none(discogs.get("year"))
         if m_year and r_year and m_year > r_year:
-            import sys
             warning_msg = (
                 f"WARNING: Discogs master year ({m_year}) is later than release year ({r_year}) "
                 f"for master ID {master_info.get('id')}. The master year may be incorrect."
@@ -162,7 +174,10 @@ def _detect_discrepancies(
     # AUD-004: sparse credits comparison
     if main_release_id is not None and main_release_credits_count is not None:
         current_credits_count = len(discogs.get("extraartists") or [])
-        if current_credits_count < 5 and main_release_credits_count > current_credits_count:
+        if (
+            current_credits_count < 5
+            and main_release_credits_count > current_credits_count
+        ):
             notes.append(
                 f"Discogs reissue variant has sparse credits ({current_credits_count} credits); "
                 f"original release (r{main_release_id}) has {main_release_credits_count} — some credits may be missing."
@@ -198,7 +213,9 @@ def _detect_discrepancies(
         copyright_year = int(c_years[0]) if c_years else None
 
         coll_name = apple.get("name") or ""
-        is_remaster = any(kw in coll_name for kw in ["Remaster", "Anniversary", "Deluxe", "Edition"])
+        is_remaster = any(
+            kw in coll_name for kw in ["Remaster", "Anniversary", "Deluxe", "Edition"]
+        )
 
         if copyright_year == d_year or is_remaster:
             pass
@@ -228,13 +245,18 @@ def build_album_record(
     commentary: str | None = None,
     main_release_id: int | None = None,
     main_release_credits_count: int | None = None,
+    wikipedia_url: str | None = None,
 ) -> dict[str, Any]:
     discogs = _discogs_subset(release, master)
     apple = _apple_subset(apple_album, apple_tracks or []) if apple_album else None
-    artist_names = [re.sub(r"\s*\(\d+\)$", "", a["name"]) for a in discogs["artists"] if a.get("name")]
+    artist_names = [
+        re.sub(r"\s*\(\d+\)$", "", a["name"])
+        for a in discogs["artists"]
+        if a.get("name")
+    ]
     artist_str = " / ".join(artist_names) if artist_names else None
-    return {
-        "captured_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
+    record: dict[str, Any] = {
+        "captured_at": datetime.now(UTC).isoformat(timespec="seconds"),
         "schema_version": 3,
         "artist": artist_str,
         "title": discogs.get("title"),
@@ -245,9 +267,15 @@ def build_album_record(
         "discogs": discogs,
         "apple_music": apple,
         "discrepancies": _detect_discrepancies(
-            discogs, apple, main_release_id=main_release_id, main_release_credits_count=main_release_credits_count
+            discogs,
+            apple,
+            main_release_id=main_release_id,
+            main_release_credits_count=main_release_credits_count,
         ),
     }
+    if wikipedia_url:
+        record["wikipedia_url"] = wikipedia_url
+    return record
 
 
 def filename_for(release: dict[str, Any]) -> str:

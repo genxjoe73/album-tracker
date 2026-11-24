@@ -4,6 +4,7 @@ Usage:
     python scripts/capture.py <discogs_release_id>
     python scripts/capture.py <discogs_release_id> --no-apple
 """
+
 from __future__ import annotations
 
 import argparse
@@ -30,15 +31,47 @@ def load_settings() -> dict:
 
 
 def parse_args() -> argparse.Namespace:
-    p = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
+    p = argparse.ArgumentParser(
+        description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter
+    )
     p.add_argument("release_id", type=int, help="Discogs release ID")
     p.add_argument("--no-apple", action="store_true", help="Skip the iTunes lookup")
-    p.add_argument("--apple-collection-id", type=int, help="Use this iTunes collectionId instead of searching")
-    p.add_argument("--upgrade-suggestion", type=str, help="One-line upgrade suggestion to embed in the record")
-    p.add_argument("--commentary", type=str, help="Production-notes prose (markdown) to embed in the record")
-    p.add_argument("--commentary-file", type=str, help="Path to a markdown file whose contents become the commentary")
-    p.add_argument("--original-year", type=int, help="Override original_release_year when Discogs's master.year is wrong")
-    return p.parse_args()
+    p.add_argument(
+        "--apple-collection-id",
+        type=int,
+        help="Use this iTunes collectionId instead of searching",
+    )
+    p.add_argument(
+        "--upgrade-suggestion",
+        type=str,
+        help="One-line upgrade suggestion to embed in the record",
+    )
+    p.add_argument(
+        "--commentary",
+        type=str,
+        help="Production-notes prose (markdown) to embed in the record",
+    )
+    p.add_argument(
+        "--commentary-file",
+        type=str,
+        help="Path to a markdown file whose contents become the commentary",
+    )
+    p.add_argument(
+        "--original-year",
+        type=int,
+        help="Override original_release_year when Discogs's master.year is wrong",
+    )
+    p.add_argument(
+        "--wikipedia-url",
+        type=str,
+        help="Explicit Wikipedia URL override for ambiguous titles",
+    )
+    args = p.parse_args()
+    if args.wikipedia_url and not args.wikipedia_url.startswith(
+        ("https://", "http://")
+    ):
+        p.error("--wikipedia-url must start with http:// or https://")
+    return args
 
 
 def clean_title(title: str) -> str:
@@ -67,13 +100,14 @@ def pick_apple_match(results: list[dict], discogs_release: dict) -> dict | None:
     if not results:
         return None
 
-    import re
     from difflib import SequenceMatcher
 
     target_title = discogs_release.get("title") or ""
     clean_target = clean_title(target_title)
 
-    discogs_artists = [a.get("name", "") for a in discogs_release.get("artists", []) if a.get("name")]
+    discogs_artists = [
+        a.get("name", "") for a in discogs_release.get("artists", []) if a.get("name")
+    ]
 
     best_match = None
     best_score = -1.0
@@ -101,10 +135,9 @@ def pick_apple_match(results: list[dict], discogs_release: dict) -> dict | None:
                     artist_match = True
                     break
 
-        if artist_match:
-            if score > best_score:
-                best_score = score
-                best_match = r
+        if artist_match and score > best_score:
+            best_score = score
+            best_match = r
 
     if best_score >= 0.8:
         return best_match
@@ -145,12 +178,20 @@ def main() -> int:
             mrid = master["main_release"]
             if mrid != args.release_id:
                 try:
-                    print(f"Fetching Discogs main release {mrid} for credits comparison...", file=sys.stderr)
+                    print(
+                        f"Fetching Discogs main release {mrid} for credits comparison...",
+                        file=sys.stderr,
+                    )
                     main_release = discogs.get_release(mrid)
                     main_release_id = mrid
-                    main_release_credits_count = len(main_release.get("extraartists", []))
+                    main_release_credits_count = len(
+                        main_release.get("extraartists", [])
+                    )
                 except DiscogsError as e:
-                    print(f"WARNING: Fetching main release {mrid} failed: {e}", file=sys.stderr)
+                    print(
+                        f"WARNING: Fetching main release {mrid} failed: {e}",
+                        file=sys.stderr,
+                    )
 
     apple_album = None
     apple_tracks: list[dict] = []
@@ -163,7 +204,10 @@ def main() -> int:
         )
         try:
             if args.apple_collection_id:
-                print(f"Looking up iTunes album {args.apple_collection_id}...", file=sys.stderr)
+                print(
+                    f"Looking up iTunes album {args.apple_collection_id}...",
+                    file=sys.stderr,
+                )
                 pkg = itunes.lookup_album_with_tracks(args.apple_collection_id)
                 apple_album, apple_tracks = pkg["album"], pkg["tracks"]
             else:
@@ -174,7 +218,10 @@ def main() -> int:
                 match = pick_apple_match(results, release)
                 if match:
                     cid = match["collectionId"]
-                    print(f"  Picked collectionId={cid} ({match.get('collectionName')})", file=sys.stderr)
+                    print(
+                        f"  Picked collectionId={cid} ({match.get('collectionName')})",
+                        file=sys.stderr,
+                    )
                     pkg = itunes.lookup_album_with_tracks(cid)
                     apple_album, apple_tracks = pkg["album"], pkg["tracks"]
                 else:
@@ -189,6 +236,26 @@ def main() -> int:
             commentary_path = ROOT / commentary_path
         commentary = commentary_path.read_text()
 
+    out_dir = ROOT / settings["output_dir"]
+    out_dir.mkdir(exist_ok=True)
+    out_path = out_dir / filename_for(release)
+    existing_record: dict[str, object] = {}
+    if out_path.exists():
+        try:
+            with out_path.open() as f:
+                existing_record = json.load(f)
+        except (OSError, json.JSONDecodeError) as e:
+            print(
+                f"WARNING: Could not read existing {out_path.name}: {e}",
+                file=sys.stderr,
+            )
+
+    wikipedia_url = args.wikipedia_url or (
+        existing_record.get("wikipedia_url")
+        if isinstance(existing_record.get("wikipedia_url"), str)
+        else None
+    )
+
     record = build_album_record(
         release=release,
         master=master,
@@ -198,31 +265,71 @@ def main() -> int:
         commentary=commentary,
         main_release_id=main_release_id,
         main_release_credits_count=main_release_credits_count,
+        wikipedia_url=wikipedia_url,
     )
 
     if args.original_year is not None:
         record["original_release_year"] = args.original_year
-        print(f"Overrode original_release_year to {args.original_year}", file=sys.stderr)
+        print(
+            f"Overrode original_release_year to {args.original_year}", file=sys.stderr
+        )
 
-    cover_url = (apple_album or {}).get("artworkUrl100") or ""
+    cover_url = ((apple_album or {}).get("artworkUrl100") or "").replace(
+        "100x100bb", "600x600bb"
+    )
+    local: Path | None = None
     if cover_url:
-        cover_url = cover_url.replace("100x100bb", "600x600bb")
-        local = download_cover(cover_url, ROOT / "library" / "images", str(args.release_id))
-        if local:
-            rel = local.relative_to(ROOT / "library").as_posix()
-            record["local_cover"] = rel
-            print(f"Saved cover to library/{rel}", file=sys.stderr)
+        local = download_cover(
+            cover_url, ROOT / "library" / "images", str(args.release_id)
+        )
 
-    out_dir = ROOT / settings["output_dir"]
-    out_dir.mkdir(exist_ok=True)
-    out_path = out_dir / filename_for(release)
+    if not local:
+        discogs_images = (record.get("discogs") or {}).get("images") or []
+        primary = next(
+            (
+                img
+                for img in discogs_images
+                if img.get("type") == "primary" and img.get("uri")
+            ),
+            next((img for img in discogs_images if img.get("uri")), None),
+        )
+        if primary:
+            local = download_cover(
+                primary["uri"],
+                ROOT / "library" / "images",
+                str(args.release_id),
+                headers={"User-Agent": user_agent},
+            )
+
+    if local:
+        rel = local.relative_to(ROOT / "library").as_posix()
+        record["local_cover"] = rel
+        print(f"Saved cover to library/{rel}", file=sys.stderr)
+    elif (
+        existing_record.get("local_cover")
+        and (ROOT / "library" / existing_record["local_cover"]).exists()
+    ):
+        record["local_cover"] = existing_record["local_cover"]
+    else:
+        print(
+            f"WARNING: No cover art saved for release {args.release_id}.",
+            file=sys.stderr,
+        )
+
     with out_path.open("w") as f:
         json.dump(record, f, indent=2, ensure_ascii=False)
+        f.write("\n")
 
     print(f"Wrote {out_path}", file=sys.stderr)
-    print(f"  Discogs: {release.get('title')} ({release.get('year')}, {release.get('country')})", file=sys.stderr)
+    print(
+        f"  Discogs: {release.get('title')} ({release.get('year')}, {release.get('country')})",
+        file=sys.stderr,
+    )
     if apple_album:
-        print(f"  Apple:   {apple_album.get('collectionName')} ({(apple_album.get('releaseDate') or '')[:10]})", file=sys.stderr)
+        print(
+            f"  Apple:   {apple_album.get('collectionName')} ({(apple_album.get('releaseDate') or '')[:10]})",
+            file=sys.stderr,
+        )
     if record["discrepancies"]:
         print("  Notes:", file=sys.stderr)
         for n in record["discrepancies"]:
@@ -230,6 +337,7 @@ def main() -> int:
 
     print("Rebuilding library/...", file=sys.stderr)
     from scripts.build_library import build as build_library
+
     build_library()
     return 0
 

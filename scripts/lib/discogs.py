@@ -1,4 +1,5 @@
 """Minimal Discogs API v2 client. Reads only — no writes."""
+
 from __future__ import annotations
 
 import time
@@ -20,13 +21,15 @@ class DiscogsClient:
         self.base_url = base_url.rstrip("/")
         self.timeout = timeout
         self.session = requests.Session()
-        self.session.headers.update({
-            "User-Agent": user_agent,
-            "Authorization": f"Discogs token={token}",
-            "Accept": "application/vnd.discogs.v2.discogs+json",
-        })
+        self.session.headers.update(
+            {
+                "User-Agent": user_agent,
+                "Authorization": f"Discogs token={token}",
+                "Accept": "application/vnd.discogs.v2.discogs+json",
+            }
+        )
 
-    def _get(self, path: str, params: dict | None = None) -> dict[str, Any]:
+    def _get(self, path: str, params: dict[str, Any] | None = None) -> dict[str, Any]:
         url = f"{self.base_url}{path}"
         resp = self.session.get(url, params=params, timeout=self.timeout)
         remaining = resp.headers.get("X-Discogs-Ratelimit-Remaining")
@@ -35,7 +38,9 @@ class DiscogsClient:
         if resp.status_code == 429:
             raise DiscogsError(f"Rate limited by Discogs at {url}")
         if resp.status_code != 200:
-            raise DiscogsError(f"GET {url} returned {resp.status_code}: {resp.text[:300]}")
+            raise DiscogsError(
+                f"GET {url} returned {resp.status_code}: {resp.text[:300]}"
+            )
         return resp.json()
 
     def get_release(self, release_id: int, currency: str = "USD") -> dict[str, Any]:
@@ -44,5 +49,16 @@ class DiscogsClient:
     def get_master(self, master_id: int) -> dict[str, Any]:
         return self._get(f"/masters/{master_id}")
 
-    def get_master_versions(self, master_id: int, per_page: int = 100) -> dict[str, Any]:
-        return self._get(f"/masters/{master_id}/versions", params={"per_page": per_page})
+    def get_master_versions(
+        self, master_id: int, per_page: int = 100
+    ) -> dict[str, Any]:
+        return self._get(
+            f"/masters/{master_id}/versions", params={"per_page": per_page}
+        )
+
+    def search(self, query: str = "", **params: Any) -> dict[str, Any]:
+        """Search the Discogs database (/database/search)."""
+        search_params = {k: v for k, v in params.items() if v is not None}
+        if query:
+            search_params["q"] = query
+        return self._get("/database/search", params=search_params)

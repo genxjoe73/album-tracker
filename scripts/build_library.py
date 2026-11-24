@@ -8,12 +8,13 @@ Outputs:
 Usage:
   python scripts/build_library.py
 """
+
 from __future__ import annotations
 
 import html
 import json
 import re
-from datetime import datetime, timezone
+from datetime import UTC, datetime
 from pathlib import Path
 
 import markdown as _markdown
@@ -189,9 +190,12 @@ headers.forEach(h => {
     const stripThe = s => s.replace(/^the[\\s]+/i, '');
     const sorted = rows.slice().sort((a, b) => {
       let va = getCell(a, key), vb = getCell(b, key);
-      const na = parseFloat(va), nb = parseFloat(vb);
-      if (!isNaN(na) && !isNaN(nb)) { va = na; vb = nb; }
-      else {
+      const isNumericCol = (key === 'original_release_year' || key === 'pressing_year');
+      if (isNumericCol) {
+        const na = va === '' ? (dir === 'asc' ? Infinity : -Infinity) : parseFloat(va);
+        const nb = vb === '' ? (dir === 'asc' ? Infinity : -Infinity) : parseFloat(vb);
+        if (!isNaN(na) && !isNaN(nb)) { va = na; vb = nb; }
+      } else {
         va = (key === 'artist' ? stripThe(va) : va).toLowerCase();
         vb = (key === 'artist' ? stripThe(vb) : vb).toLowerCase();
       }
@@ -236,21 +240,22 @@ def _render_index(records: list[dict]) -> str:
             else '<div class="placeholder">no art</div>'
         )
         search_blob = " ".join(
-            str(x or "").lower() for x in (artist, title, oyear, pyear, fmt, country, labels)
+            str(x or "").lower()
+            for x in (artist, title, oyear, pyear, fmt, country, labels)
         )
         rows_html.append(
             f"""<tr data-search="{_esc(search_blob)}">
   <td class="cover">{cover_cell}</td>
   <td data-artist="{_esc(artist)}"><a href="{rid}.html">{_esc(artist)}</a></td>
   <td data-title="{_esc(title)}"><a href="{rid}.html">{_esc(title)}</a></td>
-  <td class="year" data-original_release_year="{_esc(oyear if oyear is not None else '')}">{_esc(oyear if oyear is not None else '')}</td>
-  <td class="year" data-pressing_year="{_esc(pyear if pyear is not None else '')}">{_esc(pyear if pyear is not None else '')}</td>
+  <td class="year" data-original_release_year="{_esc(oyear if oyear is not None else "")}">{_esc(oyear if oyear is not None else "")}</td>
+  <td class="year" data-pressing_year="{_esc(pyear if pyear is not None else "")}">{_esc(pyear if pyear is not None else "")}</td>
   <td data-format="{_esc(fmt)}">{_esc(fmt)}</td>
   <td data-country="{_esc(country)}">{_esc(country)}</td>
   <td data-labels="{_esc(labels)}">{_esc(labels)}</td>
 </tr>"""
         )
-    built = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M GMT")
+    built = datetime.now(UTC).strftime("%Y-%m-%d %H:%M GMT")
     return f"""<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -261,7 +266,7 @@ def _render_index(records: list[dict]) -> str:
 <body>
 <header>
   <h1>Album Tracker</h1>
-  <span class="meta">{len(records)} album{'s' if len(records) != 1 else ''} · built {_esc(built)}</span>
+  <span class="meta">{len(records)} album{"s" if len(records) != 1 else ""} · built {_esc(built)}</span>
 </header>
 <main>
   <input class="filter" type="search" placeholder="Filter by artist, title, year, format, country, label…" autofocus>
@@ -310,10 +315,28 @@ def _render_detail(record: dict) -> str:
         ("Label / Cat#", _label_summary(d.get("labels") or [])),
         ("Genres", ", ".join(d.get("genres") or [])),
         ("Styles", ", ".join(d.get("styles") or [])),
-        ("Discogs release", f'<a href="https://www.discogs.com/release/{rid}" target="_blank" rel="noopener">{rid}</a>' if rid else ""),
-        ("Discogs master", f'<a href="https://www.discogs.com/master/{d["master"]["id"]}" target="_blank" rel="noopener">{d["master"]["id"]}</a>' if d.get("master") else ""),
-        ("Apple Music", f'<a href="{_esc(a.get("url"))}" target="_blank" rel="noopener">{_esc(a.get("name"))}</a>' if a.get("url") else ""),
-        ("Wikipedia", f'<a href="{_esc(record.get("wikipedia_url") or "https://en.wikipedia.org/wiki/" + _wiki_slug(title))}" target="_blank" rel="noopener">{_esc(title)}</a>'),
+        (
+            "Discogs release",
+            f'<a href="https://www.discogs.com/release/{rid}" target="_blank" rel="noopener">{rid}</a>'
+            if rid
+            else "",
+        ),
+        (
+            "Discogs master",
+            f'<a href="https://www.discogs.com/master/{d["master"]["id"]}" target="_blank" rel="noopener">{d["master"]["id"]}</a>'
+            if d.get("master")
+            else "",
+        ),
+        (
+            "Apple Music",
+            f'<a href="{_esc(a.get("url"))}" target="_blank" rel="noopener">{_esc(a.get("name"))}</a>'
+            if a.get("url")
+            else "",
+        ),
+        (
+            "Wikipedia",
+            f'<a href="{_esc(record.get("wikipedia_url") or "https://en.wikipedia.org/wiki/" + _wiki_slug(title))}" target="_blank" rel="noopener">{_esc(title)}</a>',
+        ),
     ]
     kv_html = "\n".join(
         f"  <dt>{_esc(k)}</dt><dd>{v if v and ('<' in str(v)) else _esc(v)}</dd>"
@@ -394,10 +417,10 @@ def _render_detail(record: dict) -> str:
         id_items = []
         for i in identifiers:
             desc = i.get("description")
-            desc_html = f' <em>({_esc(desc)})</em>' if desc else ""
+            desc_html = f" <em>({_esc(desc)})</em>" if desc else ""
             id_items.append(
                 f'      <li><span class="type">{_esc(i.get("type"))}:</span> '
-                f'{_esc(i.get("value"))}{desc_html}</li>'
+                f"{_esc(i.get('value'))}{desc_html}</li>"
             )
         items = "\n".join(id_items)
         ids_html = f"""<div class="section">
@@ -408,7 +431,11 @@ def _render_detail(record: dict) -> str:
 </div>"""
 
     notes = d.get("notes") or ""
-    notes_html = f'<div class="section"><h2>Notes</h2><div class="notes">{_esc(notes)}</div></div>' if notes.strip() else ""
+    notes_html = (
+        f'<div class="section"><h2>Notes</h2><div class="notes">{_esc(notes)}</div></div>'
+        if notes.strip()
+        else ""
+    )
 
     captured = record.get("captured_at") or ""
     return f"""<!DOCTYPE html>
@@ -459,15 +486,26 @@ def build() -> int:
     def _sort_artist(r):
         a = (r.get("artist") or "").lower()
         return re.sub(r"^the\s+", "", a)
+
     records.sort(key=lambda r: (_sort_artist(r), r.get("original_release_year") or 0))
 
     (LIBRARY_DIR / "style.css").write_text(_stylesheet())
     (LIBRARY_DIR / "index.html").write_text(_render_index(records))
+    active_rids: set[str] = set()
     for rec in records:
         rid = (rec.get("discogs") or {}).get("release_id")
         if rid is None:
             continue
+        active_rids.add(str(rid))
         (LIBRARY_DIR / f"{rid}.html").write_text(_render_detail(rec))
+
+    for stale in LIBRARY_DIR.glob("*.html"):
+        if (
+            stale.stem != "index"
+            and stale.stem.isdigit()
+            and stale.stem not in active_rids
+        ):
+            stale.unlink()
 
     print(f"Built library/ from {len(records)} album JSON files.")
     return 0
