@@ -74,6 +74,49 @@ def parse_args() -> argparse.Namespace:
     return args
 
 
+def retain_manual_fields(
+    record: dict,
+    existing: dict,
+    *,
+    commentary: str | None,
+    upgrade_suggestion: str | None,
+    original_year: int | None,
+) -> list[str]:
+    """Keep handwritten recapture fields unless this run replaces them.
+
+    Returns short status lines for stderr. Discogs-derived fields stay on `record`.
+    """
+    notes: list[str] = []
+    if commentary is not None:
+        record["commentary"] = commentary
+    elif isinstance(existing.get("commentary"), str):
+        record["commentary"] = existing["commentary"]
+        if existing["commentary"]:
+            notes.append("Kept existing commentary.")
+
+    if upgrade_suggestion is not None:
+        record["upgrade_suggestion"] = upgrade_suggestion
+    elif isinstance(existing.get("upgrade_suggestion"), str):
+        record["upgrade_suggestion"] = existing["upgrade_suggestion"]
+        if existing["upgrade_suggestion"]:
+            notes.append("Kept existing upgrade suggestion.")
+
+    if original_year is not None:
+        record["original_release_year"] = original_year
+        notes.append(f"Overrode original_release_year to {original_year}")
+    elif isinstance(existing.get("original_release_year"), int):
+        kept_year = existing["original_release_year"]
+        computed_year = record.get("original_release_year")
+        if kept_year != computed_year:
+            record["original_release_year"] = kept_year
+            notes.append(
+                f"Kept existing original_release_year {kept_year} "
+                f"(Discogs master year resolves to {computed_year}). "
+                "Pass --original-year to replace it."
+            )
+    return notes
+
+
 def clean_title(title: str) -> str:
     title = title.lower()
     title = re.sub(
@@ -267,12 +310,14 @@ def main() -> int:
         main_release_credits_count=main_release_credits_count,
         wikipedia_url=wikipedia_url,
     )
-
-    if args.original_year is not None:
-        record["original_release_year"] = args.original_year
-        print(
-            f"Overrode original_release_year to {args.original_year}", file=sys.stderr
-        )
+    for line in retain_manual_fields(
+        record,
+        existing_record,
+        commentary=commentary,
+        upgrade_suggestion=args.upgrade_suggestion,
+        original_year=args.original_year,
+    ):
+        print(line, file=sys.stderr)
 
     cover_url = ((apple_album or {}).get("artworkUrl100") or "").replace(
         "100x100bb", "600x600bb"
